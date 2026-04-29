@@ -1,0 +1,2078 @@
+index,season,player,team,innings,balls,overs,runs_conceeded,wickets,economy,average,strike_rate
+0,2017,TS Mills,Royal Challengers Bangalore,5,107,17.5,153,5.0,8.58,30.6,21.4
+7,2017,A Choudhary,Royal Challengers Bangalore,5,101,16.5,144,5.0,8.55,28.8,20.2
+20,2017,YS Chahal,Royal Challengers Bangalore,13,261,43.3,333,14.0,7.66,23.79,18.64
+26,2017,S Aravind,Royal Challengers Bangalore,10,183,30.3,275,5.0,9.02,55.0,36.6
+32,2017,SR Watson,Royal Challengers Bangalore,8,161,26.5,245,5.0,9.13,49.0,32.2
+44,2017,TM Head,Royal Challengers Bangalore,5,48,8.0,81,2.0,10.12,40.5,24.0
+62,2017,STR Binny,Royal Challengers Bangalore,4,36,6.0,50,4.0,8.33,12.5,9.0
+125,2017,A Nehra,Sunrisers Hyderabad,6,127,21.1,197,8.0,9.31,24.62,15.88
+131,2017,B Kumar,Sunrisers Hyderabad,14,314,52.2,369,26.0,7.05,14.19,12.08
+150,2017,BCJ Cutting,Sunrisers Hyderabad,4,76,12.4,123,1.0,9.71,123.0,76.0
+157,2017,Rashid Khan,Sunrisers Hyderabad,14,324,54.0,358,17.0,6.63,21.06,19.06
+163,2017,DJ Hooda,Sunrisers Hyderabad,3,24,4.0,42,2.0,10.5,21.0,12.0
+182,2017,MC Henriques,Sunrisers Hyderabad,12,144,24.0,248,1.0,10.33,248.0,144.0
+208,2017,Bipul Sharma,Sunrisers Hyderabad,7,98,16.2,129,3.0,7.9,43.0,32.67
+248,2017,AB Dinda,Rising Pune Supergiant,3,60,10.0,119,1.0,11.9,119.0,60.0
+255,2017,DL Chahar,Rising Pune Supergiant,3,42,7.0,74,1.0,10.57,74.0,42.0
+267,2017,BA Stokes,Rising Pune Supergiant,12,264,44.0,316,12.0,7.18,26.33,22.0
+273,2017,Imran Tahir,Rising Pune Supergiant,12,282,47.0,369,18.0,7.85,20.5,15.67
+297,2017,A Zampa,Rising Pune Supergiant,6,119,19.5,163,7.0,8.22,23.29,17.0
+303,2017,R Bhatia,Rising Pune Supergiant,3,42,7.0,55,2.0,7.86,27.5,21.0
+373,2017,TG Southee,Mumbai Indians,3,60,10.0,96,3.0,9.6,32.0,20.0
+380,2017,HH Pandya,Mumbai Indians,13,156,26.0,213,6.0,8.19,35.5,26.0
+392,2017,MJ McClenaghan,Mumbai Indians,14,324,54.0,507,19.0,9.39,26.68,17.05
+398,2017,JJ Bumrah,Mumbai Indians,16,362,60.2,444,20.0,7.36,22.2,18.1
+416,2017,KH Pandya,Mumbai Indians,13,240,40.0,273,10.0,6.82,27.3,24.0
+452,2017,KA Pollard,Mumbai Indians,1,11,1.5,30,,16.36,,
+495,2017,TA Boult,Kolkata Knight Riders,6,143,23.5,216,5.0,9.06,43.2,28.6
+501,2017,PP Chawla,Kolkata Knight Riders,6,120,20.0,179,6.0,8.95,29.83,20.0
+508,2017,SP Narine,Kolkata Knight Riders,15,354,59.0,412,10.0,6.98,41.2,35.4
+526,2017,CR Woakes,Kolkata Knight Riders,13,264,44.0,386,17.0,8.77,22.71,15.53
+532,2017,Kuldeep Yadav,Kolkata Knight Riders,11,246,41.0,340,12.0,8.29,28.33,20.5
+550,2017,YK Pathan,Kolkata Knight Riders,4,24,4.0,41,1.0,10.25,41.0,24.0
+617,2017,P Kumar,Gujarat Lions,6,99,16.3,151,6.0,9.15,25.17,16.5
+623,2017,DS Kulkarni,Gujarat Lions,6,113,18.5,173,3.0,9.19,57.67,37.67
+629,2017,MS Gony,Gujarat Lions,1,12,2.0,32,,16.0,,
+637,2017,S Kaushik,Gujarat Lions,3,66,11.0,105,,9.55,,
+655,2017,DR Smith,Gujarat Lions,9,78,13.0,148,2.0,11.38,74.0,39.0
+661,2017,SB Jakati,Gujarat Lions,2,30,5.0,52,,10.4,,
+713,2017,Sandeep Sharma,Kings XI Punjab,13,288,48.0,398,17.0,8.29,23.41,16.94
+719,2017,MM Sharma,Kings XI Punjab,14,274,45.4,410,13.0,8.98,31.54,21.08
+743,2017,AR Patel,Kings XI Punjab,14,288,48.0,362,15.0,7.54,24.13,19.2
+749,2017,T Natarajan,Kings XI Punjab,6,76,12.4,115,2.0,9.08,57.5,38.0
+761,2017,MP Stoinis,Kings XI Punjab,5,63,10.3,110,2.0,10.48,55.0,31.5
+769,2017,Swapnil Singh,Kings XI Punjab,4,42,7.0,61,1.0,8.71,61.0,42.0
+844,2017,DT Christian,Rising Pune Supergiant,13,240,40.0,298,11.0,7.45,27.09,21.82
+888,2017,RD Chahar,Rising Pune Supergiant,2,42,7.0,58,2.0,8.29,29.0,21.0
+960,2017,Z Khan,Delhi Daredevils,11,241,40.1,313,10.0,7.79,31.3,24.1
+966,2017,CH Morris,Delhi Daredevils,9,186,31.0,240,12.0,7.74,20.0,15.5
+972,2017,PJ Cummins,Delhi Daredevils,12,277,46.1,373,15.0,8.08,24.87,18.47
+985,2017,S Nadeem,Delhi Daredevils,7,107,17.5,119,6.0,6.67,19.83,17.83
+1004,2017,A Mishra,Delhi Daredevils,14,233,38.5,343,10.0,8.83,34.3,23.3
+1040,2017,CR Brathwaite,Delhi Daredevils,2,36,6.0,67,1.0,11.17,67.0,36.0
+1084,2017,B Stanlake,Royal Challengers Bangalore,2,48,8.0,70,2.0,8.75,35.0,24.0
+1103,2017,Iqbal Abdulla,Royal Challengers Bangalore,2,30,5.0,55,2.0,11.0,27.5,15.0
+1202,2017,P Negi,Royal Challengers Bangalore,12,193,32.1,197,17.0,6.12,11.59,11.35
+1328,2017,SK Raina,Gujarat Lions,6,72,12.0,102,1.0,8.5,102.0,72.0
+1352,2017,Tejas Baroka,Gujarat Lions,1,21,3.3,33,,9.43,,
+1383,2017,Basil Thampi,Gujarat Lions,12,268,44.4,424,11.0,9.49,38.55,24.36
+1424,2017,SL Malinga,Mumbai Indians,12,269,44.5,382,11.0,8.52,34.73,24.45
+1478,2017,Harbhajan Singh,Mumbai Indians,11,246,41.0,266,8.0,6.49,33.25,30.75
+1606,2017,AS Rajpoot,Kolkata Knight Riders,5,84,14.0,107,4.0,7.64,26.75,21.0
+1702,2017,VR Aaron,Kings XI Punjab,6,120,20.0,163,7.0,8.15,23.29,17.14
+2072,2017,CJ Anderson,Delhi Daredevils,8,113,18.5,186,3.0,9.88,62.0,37.67
+2272,2017,Mustafizur Rahman,Sunrisers Hyderabad,1,16,2.4,34,,12.75,,
+2361,2017,UT Yadav,Kolkata Knight Riders,14,291,48.3,410,17.0,8.45,24.12,17.12
+2427,2017,C de Grandhomme,Kolkata Knight Riders,9,96,16.0,135,4.0,8.44,33.75,24.0
+2492,2017,I Sharma,Kings XI Punjab,6,108,18.0,179,,9.94,,
+2512,2017,GJ Maxwell,Kings XI Punjab,8,114,19.0,125,7.0,6.58,17.86,16.29
+2713,2017,S Badree,Royal Challengers Bangalore,7,150,25.0,188,9.0,7.52,20.89,16.67
+2864,2017,AJ Tye,Gujarat Lions,6,126,21.0,141,12.0,6.71,11.75,10.5
+2870,2017,RA Jadeja,Gujarat Lions,12,228,38.0,349,5.0,9.18,69.8,45.6
+2956,2017,Ankit Sharma,Rising Pune Supergiant,1,6,1.0,16,,16.0,,
+2962,2017,LH Ferguson,Rising Pune Supergiant,4,78,13.0,93,3.0,7.15,31.0,26.0
+2968,2017,SN Thakur,Rising Pune Supergiant,12,229,38.1,315,11.0,8.25,28.64,20.82
+3354,2017,KC Cariappa,Kings XI Punjab,4,90,15.0,127,4.0,8.47,31.75,22.5
+3716,2017,MM Patel,Gujarat Lions,2,42,7.0,57,1.0,8.14,57.0,42.0
+3817,2017,AF Milne,Royal Challengers Bangalore,4,84,14.0,134,3.0,9.57,44.67,28.0
+3943,2017,JD Unadkat,Rising Pune Supergiant,12,275,45.5,322,24.0,7.03,13.42,11.46
+4067,2017,NM Coulter-Nile,Kolkata Knight Riders,8,170,28.2,228,15.0,8.05,15.2,11.33
+4231,2017,Mohammed Shami,Delhi Daredevils,8,156,26.0,243,5.0,9.35,48.6,31.2
+4251,2017,AD Mathews,Delhi Daredevils,2,30,5.0,56,,11.2,,
+4443,2017,BB Sran,Sunrisers Hyderabad,1,12,2.0,29,,14.5,,
+4455,2017,S Kaul,Sunrisers Hyderabad,10,214,35.4,300,16.0,8.41,18.75,13.38
+4462,2017,Mohammad Nabi,Sunrisers Hyderabad,3,66,11.0,58,2.0,5.27,29.0,33.0
+4810,2017,J Yadav,Delhi Daredevils,2,36,6.0,42,,7.0,,
+4939,2017,Mohammed Siraj,Sunrisers Hyderabad,6,138,23.0,212,10.0,9.22,21.2,13.8
+4988,2017,Yuvraj Singh,Sunrisers Hyderabad,2,12,2.0,22,1.0,11.0,22.0,12.0
+5286,2017,JP Faulkner,Gujarat Lions,8,163,27.1,269,8.0,9.9,33.62,20.38
+5401,2017,Shakib Al Hasan,Kolkata Knight Riders,1,18,3.0,31,,10.33,,
+5512,2017,K Rabada,Delhi Daredevils,6,129,21.3,188,6.0,8.74,31.33,21.5
+5639,2017,MG Johnson,Mumbai Indians,5,120,20.0,141,7.0,7.05,20.14,17.14
+5770,2017,Washington Sundar,Rising Pune Supergiant,10,180,30.0,185,8.0,6.17,23.12,22.5
+6009,2017,SS Agarwal,Gujarat Lions,1,24,4.0,42,1.0,10.5,42.0,24.0
+6015,2017,NB Singh,Gujarat Lions,2,24,4.0,15,1.0,3.75,15.0,24.0
+6456,2017,KV Sharma,Mumbai Indians,9,184,30.4,214,13.0,6.98,16.46,14.15
+6875,2017,RA Tripathi,Rising Pune Supergiant,1,6,1.0,12,,12.0,,
+6965,2017,Ankit Soni,Gujarat Lions,6,109,18.1,144,2.0,7.93,72.0,54.5
+7360,2017,Anureet Singh,Kings XI Punjab,1,12,2.0,26,,13.0,,
+7983,2017,IK Pathan,Gujarat Lions,1,12,2.0,26,,13.0,,
+8875,2017,PJ Sangwan,Gujarat Lions,5,108,18.0,181,5.0,10.06,36.2,21.6
+9524,2017,MN Samuels,Delhi Daredevils,2,18,3.0,34,,11.33,,
+11237,2017,MJ Henry,Kings XI Punjab,2,30,5.0,71,1.0,14.2,71.0,30.0
+11273,2017,R Tewatia,Kings XI Punjab,3,54,9.0,49,3.0,5.44,16.33,18.0
+12491,2017,R Vinay Kumar,Mumbai Indians,1,18,3.0,31,2.0,10.33,15.5,9.0
+12876,2017,Avesh Khan,Royal Challengers Bangalore,1,24,4.0,23,1.0,5.75,23.0,24.0
+12900,2017,HV Patel,Royal Challengers Bangalore,1,24,4.0,43,3.0,10.75,14.33,8.0
+13378,2017,CJ Jordan,Sunrisers Hyderabad,1,6,1.0,9,1.0,9.0,9.0,6.0
+13862,2018,DL Chahar,Chennai Super Kings,12,229,38.1,278,10.0,7.28,27.8,22.9
+13868,2018,SR Watson,Chennai Super Kings,11,168,28.0,251,6.0,8.96,41.83,28.0
+13899,2018,Harbhajan Singh,Chennai Super Kings,12,191,31.5,270,7.0,8.48,38.57,27.29
+13905,2018,RA Jadeja,Chennai Super Kings,14,246,41.0,303,11.0,7.39,27.55,22.36
+13917,2018,MA Wood,Chennai Super Kings,1,24,4.0,49,,12.25,,
+13923,2018,Imran Tahir,Chennai Super Kings,6,124,20.4,188,6.0,9.1,31.33,20.67
+13929,2018,DJ Bravo,Chennai Super Kings,16,321,53.3,533,14.0,9.96,38.07,22.93
+13984,2018,MJ McClenaghan,Mumbai Indians,11,240,40.0,332,14.0,8.3,23.71,17.14
+13990,2018,Mustafizur Rahman,Mumbai Indians,7,165,27.3,230,7.0,8.36,32.86,23.57
+13996,2018,JJ Bumrah,Mumbai Indians,14,324,54.0,372,17.0,6.89,21.88,19.06
+14002,2018,HH Pandya,Mumbai Indians,13,256,42.4,381,18.0,8.93,21.17,14.22
+14020,2018,M Markande,Mumbai Indians,14,264,44.0,368,15.0,8.36,24.53,17.6
+14108,2018,R Ashwin,Kings XI Punjab,14,304,50.4,410,10.0,8.09,41.0,30.4
+14114,2018,MM Sharma,Kings XI Punjab,9,178,29.4,322,7.0,10.85,46.0,25.43
+14120,2018,Mujeeb Ur Rahman,Kings XI Punjab,11,248,41.2,289,14.0,6.99,20.64,17.71
+14126,2018,AR Patel,Kings XI Punjab,8,156,26.0,218,3.0,8.38,72.67,52.0
+14139,2018,AJ Tye,Kings XI Punjab,14,336,56.0,448,24.0,8.0,18.67,14.0
+14165,2018,MP Stoinis,Kings XI Punjab,6,66,11.0,120,3.0,10.91,40.0,22.0
+14232,2018,TA Boult,Delhi Daredevils,14,316,52.4,466,18.0,8.85,25.89,17.56
+14238,2018,Mohammed Shami,Delhi Daredevils,4,83,13.5,144,3.0,10.41,48.0,27.67
+14244,2018,A Mishra,Delhi Daredevils,10,222,37.0,264,12.0,7.14,22.0,18.5
+14250,2018,CH Morris,Delhi Daredevils,4,84,14.0,143,3.0,10.21,47.67,28.0
+14274,2018,DT Christian,Delhi Daredevils,4,71,11.5,101,4.0,8.54,25.25,17.75
+14286,2018,R Tewatia,Delhi Daredevils,8,132,22.0,173,6.0,7.86,28.83,22.0
+14346,2018,R Vinay Kumar,Kolkata Knight Riders,2,23,3.5,65,2.0,16.96,32.5,11.5
+14352,2018,PP Chawla,Kolkata Knight Riders,15,294,49.0,412,14.0,8.41,29.43,21.0
+14358,2018,Kuldeep Yadav,Kolkata Knight Riders,16,308,51.2,418,17.0,8.14,24.59,18.12
+14383,2018,SP Narine,Kolkata Knight Riders,16,366,61.0,467,17.0,7.66,27.47,21.53
+14389,2018,MG Johnson,Kolkata Knight Riders,6,126,21.0,216,2.0,10.29,108.0,63.0
+14425,2018,AD Russell,Kolkata Knight Riders,15,227,37.5,355,13.0,9.38,27.31,17.46
+14431,2018,N Rana,Kolkata Knight Riders,5,37,6.1,44,4.0,7.14,11.0,9.25
+14467,2018,YS Chahal,Royal Challengers Bangalore,14,300,50.0,363,12.0,7.26,30.25,25.0
+14473,2018,CR Woakes,Royal Challengers Bangalore,5,110,18.2,190,8.0,10.36,23.75,13.75
+14479,2018,Washington Sundar,Royal Challengers Bangalore,7,120,20.0,192,4.0,9.6,48.0,30.0
+14498,2018,UT Yadav,Royal Challengers Bangalore,14,319,53.1,418,20.0,7.86,20.9,15.95
+14505,2018,K Khejroliya,Royal Challengers Bangalore,3,65,10.5,107,2.0,9.88,53.5,32.5
+14590,2018,B Kumar,Sunrisers Hyderabad,12,277,46.1,354,9.0,7.67,39.33,30.78
+14597,2018,B Stanlake,Sunrisers Hyderabad,4,96,16.0,130,5.0,8.12,26.0,19.2
+14609,2018,Shakib Al Hasan,Sunrisers Hyderabad,17,342,57.0,456,14.0,8.0,32.57,24.43
+14628,2018,S Kaul,Sunrisers Hyderabad,17,396,66.0,547,21.0,8.29,26.05,18.86
+14635,2018,Rashid Khan,Sunrisers Hyderabad,17,408,68.0,458,21.0,6.74,21.81,19.43
+14715,2018,DS Kulkarni,Rajasthan Royals,8,119,19.5,188,4.0,9.48,47.0,29.75
+14721,2018,JD Unadkat,Rajasthan Royals,15,302,50.2,486,11.0,9.66,44.18,27.45
+14741,2018,K Gowtham,Rajasthan Royals,15,240,40.0,312,11.0,7.8,28.36,21.82
+14747,2018,B Laughlin,Rajasthan Royals,7,126,21.0,211,9.0,10.05,23.44,14.0
+14754,2018,S Gopal,Rajasthan Royals,10,186,31.0,236,11.0,7.61,21.45,16.91
+14760,2018,BA Stokes,Rajasthan Royals,12,222,37.0,303,8.0,8.19,37.88,27.75
+14792,2018,DJM Short,Rajasthan Royals,2,18,3.0,19,1.0,6.33,19.0,18.0
+14858,2018,SN Thakur,Chennai Super Kings,13,280,46.4,431,16.0,9.24,26.94,17.5
+14968,2018,TK Curran,Kolkata Knight Riders,5,61,10.1,118,6.0,11.61,19.67,10.17
+15067,2018,S Nadeem,Delhi Daredevils,6,90,15.0,161,3.0,10.73,53.67,30.0
+15207,2018,Sandeep Sharma,Sunrisers Hyderabad,12,264,44.0,333,12.0,7.57,27.75,22.0
+15331,2018,PJ Sangwan,Mumbai Indians,1,12,2.0,19,,9.5,,
+15349,2018,BCJ Cutting,Mumbai Indians,7,102,17.0,168,2.0,9.88,84.0,51.0
+15355,2018,KH Pandya,Mumbai Indians,13,241,40.1,284,12.0,7.07,23.67,20.08
+15733,2018,GJ Maxwell,Delhi Daredevils,10,96,16.0,132,5.0,8.25,26.4,19.2
+15820,2018,A Dananjaya,Mumbai Indians,1,24,4.0,47,,11.75,,
+16146,2018,Shivam Mavi,Kolkata Knight Riders,9,168,28.0,270,5.0,9.64,54.0,33.6
+16259,2018,P Negi,Royal Challengers Bangalore,2,24,4.0,49,1.0,12.25,49.0,24.0
+16549,2018,BB Sran,Kings XI Punjab,6,132,22.0,229,5.0,10.41,45.8,26.4
+16593,2018,Yuvraj Singh,Kings XI Punjab,2,12,2.0,23,,11.5,,
+16745,2018,V Shankar,Delhi Daredevils,4,30,5.0,58,1.0,11.6,58.0,30.0
+16916,2018,Mohammed Siraj,Royal Challengers Bangalore,11,246,41.0,367,12.0,8.95,30.58,20.5
+16947,2018,CJ Anderson,Royal Challengers Bangalore,3,52,8.4,115,3.0,13.27,38.33,17.33
+17387,2018,CJ Jordan,Sunrisers Hyderabad,1,24,4.0,31,,7.75,,
+17417,2018,DJ Hooda,Sunrisers Hyderabad,2,18,3.0,24,,8.0,,
+17634,2018,STR Binny,Rajasthan Royals,1,12,2.0,33,,16.5,,
+17864,2018,KV Sharma,Chennai Super Kings,5,57,9.3,89,4.0,9.37,22.25,14.25
+17879,2018,AS Rajpoot,Kings XI Punjab,8,157,26.1,223,11.0,8.52,20.27,14.27
+18248,2018,HV Patel,Delhi Daredevils,5,105,17.3,167,7.0,9.54,23.86,15.0
+18574,2018,JC Archer,Rajasthan Royals,10,233,38.5,325,15.0,8.37,21.67,15.53
+18810,2018,Avesh Khan,Delhi Daredevils,6,114,19.0,204,4.0,10.74,51.0,28.5
+18828,2018,LE Plunkett,Delhi Daredevils,7,150,25.0,225,4.0,9.0,56.25,37.5
+19178,2018,Mohammad Nabi,Sunrisers Hyderabad,2,30,5.0,47,1.0,9.4,47.0,30.0
+19256,2018,Basil Thampi,Sunrisers Hyderabad,4,61,10.1,114,5.0,11.21,22.8,12.2
+19579,2018,MK Tiwary,Kings XI Punjab,1,6,1.0,10,,10.0,,
+20304,2018,IS Sodhi,Rajasthan Royals,6,138,23.0,135,5.0,5.87,27.0,27.6
+20328,2018,MK Lomror,Rajasthan Royals,2,18,3.0,27,,9.0,,
+20448,2018,YK Pathan,Sunrisers Hyderabad,1,12,2.0,14,1.0,7.0,14.0,12.0
+20632,2018,TG Southee,Royal Challengers Bangalore,8,174,29.0,261,5.0,9.0,52.2,34.8
+20677,2018,M Ashwin,Royal Challengers Bangalore,2,42,7.0,53,3.0,7.57,17.67,14.0
+20878,2018,L Ngidi,Chennai Super Kings,7,156,26.0,156,11.0,6.0,14.18,14.18
+20884,2018,KM Asif,Chennai Super Kings,2,36,6.0,75,3.0,12.5,25.0,12.0
+21004,2018,JP Duminy,Mumbai Indians,2,18,3.0,36,,12.0,,
+21200,2018,C de Grandhomme,Royal Challengers Bangalore,7,90,15.0,129,2.0,8.6,64.5,45.0
+21918,2018,DJ Willey,Chennai Super Kings,3,60,10.0,95,2.0,9.5,47.5,30.0
+22403,2018,M Prasidh Krishna,Kolkata Knight Riders,7,168,28.0,260,10.0,9.29,26.0,16.8
+22814,2018,Anureet Singh,Rajasthan Royals,3,24,4.0,42,1.0,10.5,42.0,24.0
+22879,2018,MM Ali,Royal Challengers Bangalore,5,79,13.1,97,3.0,7.37,32.33,26.33
+23847,2018,Ankit Sharma,Rajasthan Royals,1,6,1.0,11,,11.0,,
+24230,2018,JPR Scantlebury-Searles,Kolkata Knight Riders,3,42,7.0,89,2.0,12.71,44.5,21.0
+24470,2018,S Lamichhane,Delhi Daredevils,3,72,12.0,82,5.0,6.83,16.4,14.4
+24488,2018,CJ Dala,Delhi Daredevils,1,18,3.0,34,,11.33,,
+26596,2018,CR Brathwaite,Sunrisers Hyderabad,4,61,10.1,94,5.0,9.25,18.8,12.2
+27792,2018,KK Ahmed,Sunrisers Hyderabad,1,18,3.0,38,,12.67,,
+28148,2019,DL Chahar,Chennai Super Kings,17,387,64.3,482,22.0,7.47,21.91,17.59
+28154,2019,Harbhajan Singh,Chennai Super Kings,11,264,44.0,312,16.0,7.09,19.5,16.5
+28197,2019,SK Raina,Chennai Super Kings,1,6,1.0,6,,6.0,,
+28203,2019,Imran Tahir,Chennai Super Kings,17,386,64.2,431,26.0,6.7,16.58,14.85
+28209,2019,RA Jadeja,Chennai Super Kings,16,324,54.0,343,15.0,6.35,22.87,21.6
+28251,2019,DJ Bravo,Chennai Super Kings,12,247,41.1,330,11.0,8.02,30.0,22.45
+28252,2019,YS Chahal,Royal Challengers Bangalore,14,296,49.2,386,18.0,7.82,21.44,16.44
+28258,2019,Navdeep Saini,Royal Challengers Bangalore,13,288,48.0,397,11.0,8.27,36.09,26.18
+28270,2019,MM Ali,Royal Challengers Bangalore,9,150,25.0,169,6.0,6.76,28.17,25.0
+28301,2019,UT Yadav,Royal Challengers Bangalore,11,227,37.5,371,8.0,9.81,46.38,28.38
+28338,2019,Mohammed Siraj,Royal Challengers Bangalore,9,170,28.2,269,7.0,9.49,38.43,24.29
+28357,2019,S Dube,Royal Challengers Bangalore,2,10,1.4,8,,4.8,,
+28362,2019,M Prasidh Krishna,Kolkata Knight Riders,11,242,40.2,387,5.0,9.6,77.4,48.4
+28371,2019,PP Chawla,Kolkata Knight Riders,13,267,44.3,399,10.0,8.97,39.9,26.7
+28389,2019,LH Ferguson,Kolkata Knight Riders,5,102,17.0,183,2.0,10.76,91.5,51.0
+28395,2019,SP Narine,Kolkata Knight Riders,12,267,44.3,347,10.0,7.8,34.7,26.7
+28401,2019,Kuldeep Yadav,Kolkata Knight Riders,9,198,33.0,286,4.0,8.67,71.5,49.5
+28413,2019,AD Russell,Kolkata Knight Riders,12,181,30.1,287,11.0,9.51,26.09,16.45
+28425,2019,N Rana,Kolkata Knight Riders,6,48,8.0,72,3.0,9.0,24.0,16.0
+28485,2019,B Kumar,Sunrisers Hyderabad,15,354,59.0,461,13.0,7.81,35.46,27.23
+28491,2019,Shakib Al Hasan,Sunrisers Hyderabad,3,65,10.5,95,2.0,8.77,47.5,32.5
+28503,2019,Sandeep Sharma,Sunrisers Hyderabad,11,256,42.4,352,12.0,8.25,29.33,21.33
+28509,2019,S Kaul,Sunrisers Hyderabad,7,162,27.0,242,6.0,8.96,40.33,27.0
+28527,2019,Rashid Khan,Sunrisers Hyderabad,15,363,60.3,386,17.0,6.38,22.71,21.35
+28606,2019,Rasikh Salam,Mumbai Indians,1,24,4.0,42,,10.5,,
+28613,2019,MJ McClenaghan,Mumbai Indians,5,108,18.0,142,3.0,7.89,47.33,36.0
+28632,2019,JJ Bumrah,Mumbai Indians,16,374,62.2,417,20.0,6.69,20.85,18.7
+28638,2019,HH Pandya,Mumbai Indians,16,255,42.3,390,14.0,9.18,27.86,18.21
+28656,2019,KH Pandya,Mumbai Indians,16,276,46.0,335,12.0,7.28,27.92,23.0
+28680,2019,BCJ Cutting,Mumbai Indians,1,12,2.0,27,1.0,13.5,27.0,12.0
+28730,2019,TA Boult,Delhi Capitals,5,114,19.0,163,5.0,8.58,32.6,22.8
+28736,2019,I Sharma,Delhi Capitals,13,276,46.0,349,13.0,7.59,26.85,21.23
+28754,2019,K Rabada,Delhi Capitals,12,282,47.0,375,26.0,7.98,14.42,10.85
+28772,2019,R Tewatia,Delhi Capitals,3,38,6.2,42,2.0,6.63,21.0,19.0
+28778,2019,KMA Paul,Delhi Capitals,8,163,27.1,237,9.0,8.72,26.33,18.11
+28785,2019,AR Patel,Delhi Capitals,14,306,51.0,364,10.0,7.14,36.4,30.6
+28852,2019,DS Kulkarni,Rajasthan Royals,10,210,35.0,335,6.0,9.57,55.83,35.0
+28859,2019,K Gowtham,Rajasthan Royals,7,120,20.0,166,1.0,8.3,166.0,120.0
+28872,2019,JC Archer,Rajasthan Royals,11,258,43.0,291,11.0,6.77,26.45,23.45
+28878,2019,BA Stokes,Rajasthan Royals,6,102,17.0,189,6.0,11.12,31.5,17.0
+28897,2019,JD Unadkat,Rajasthan Royals,11,224,37.2,398,10.0,10.66,39.8,22.4
+28954,2019,S Gopal,Rajasthan Royals,14,288,48.0,347,20.0,7.23,17.35,14.4
+28980,2019,SM Curran,Kings XI Punjab,9,198,33.0,323,10.0,9.79,32.3,19.8
+28986,2019,Mujeeb Ur Rahman,Kings XI Punjab,5,114,19.0,191,3.0,10.05,63.67,38.0
+28992,2019,Mohammed Shami,Kings XI Punjab,14,324,54.0,469,19.0,8.69,24.68,17.05
+29016,2019,R Ashwin,Kings XI Punjab,14,330,55.0,400,15.0,7.27,26.67,22.0
+29022,2019,AS Rajpoot,Kings XI Punjab,4,96,16.0,152,3.0,9.5,50.67,32.0
+29111,2019,SN Thakur,Chennai Super Kings,9,180,30.0,281,8.0,9.37,35.12,22.5
+29265,2019,A Mishra,Delhi Capitals,11,240,40.0,270,11.0,6.75,24.55,21.82
+29356,2019,CV Varun,Kings XI Punjab,1,18,3.0,35,1.0,11.67,35.0,18.0
+29368,2019,GC Viljoen,Kings XI Punjab,6,138,23.0,222,7.0,9.65,31.71,19.71
+29375,2019,AJ Tye,Kings XI Punjab,6,132,22.0,233,3.0,10.59,77.67,44.0
+29424,2019,Mandeep Singh,Kings XI Punjab,2,12,2.0,26,,13.0,,
+29641,2019,C de Grandhomme,Royal Challengers Bangalore,3,30,5.0,55,,11.0,,
+29730,2019,SL Malinga,Mumbai Indians,12,269,44.5,438,16.0,9.77,27.38,16.81
+29760,2019,M Markande,Mumbai Indians,3,36,6.0,59,1.0,9.83,59.0,36.0
+29884,2019,S Nadeem,Sunrisers Hyderabad,3,54,9.0,90,2.0,10.0,45.0,27.0
+29916,2019,V Shankar,Sunrisers Hyderabad,5,48,8.0,70,1.0,8.75,70.0,48.0
+30126,2019,M Ashwin,Kings XI Punjab,10,204,34.0,255,5.0,7.5,51.0,40.8
+30340,2019,S Lamichhane,Delhi Capitals,6,138,23.0,210,8.0,9.13,26.25,17.25
+30346,2019,CH Morris,Delhi Capitals,9,198,33.0,306,13.0,9.27,23.54,15.23
+30364,2019,HV Patel,Delhi Capitals,2,48,8.0,77,2.0,9.62,38.5,24.0
+30628,2019,P Ray Barman,Royal Challengers Bangalore,1,24,4.0,56,,14.0,,
+30719,2019,Mohammad Nabi,Sunrisers Hyderabad,8,175,29.1,194,8.0,6.65,24.25,21.88
+30994,2019,MJ Santner,Chennai Super Kings,4,84,14.0,94,4.0,6.71,23.5,21.0
+31099,2019,Avesh Khan,Delhi Capitals,1,18,3.0,30,,10.0,,
+31149,2019,GH Vihari,Delhi Capitals,1,6,1.0,9,,9.0,,
+31375,2019,VR Aaron,Rajasthan Royals,5,72,12.0,116,4.0,9.67,29.0,18.0
+31399,2019,STR Binny,Rajasthan Royals,5,42,7.0,44,1.0,6.29,44.0,42.0
+31503,2019,MP Stoinis,Royal Challengers Bangalore,6,100,16.4,145,2.0,8.7,72.5,50.0
+31609,2019,MM Sharma,Chennai Super Kings,1,18,3.0,27,1.0,9.0,27.0,18.0
+31703,2019,JP Behrendorff,Mumbai Indians,5,114,19.0,165,5.0,8.68,33.0,22.8
+31748,2019,RD Chahar,Mumbai Indians,13,282,47.0,308,13.0,6.55,23.69,21.69
+32190,2019,TG Southee,Royal Challengers Bangalore,3,54,9.0,118,1.0,13.11,118.0,54.0
+32247,2019,P Negi,Royal Challengers Bangalore,4,67,11.1,102,3.0,9.13,34.0,22.33
+32468,2019,SC Kuggeleijn,Chennai Super Kings,2,48,8.0,71,2.0,8.88,35.5,24.0
+32597,2019,YK Pathan,Sunrisers Hyderabad,1,6,1.0,8,,8.0,,
+32710,2019,AS Joseph,Mumbai Indians,3,52,8.4,87,6.0,10.04,14.5,8.67
+33092,2019,HF Gurney,Kolkata Knight Riders,8,162,27.0,238,7.0,8.81,34.0,23.14
+33206,2019,S Midhun,Rajasthan Royals,1,12,2.0,27,,13.5,,
+34132,2019,R Parag,Rajasthan Royals,7,84,14.0,121,2.0,8.64,60.5,42.0
+34398,2019,CR Brathwaite,Kolkata Knight Riders,2,18,3.0,29,,9.67,,
+34501,2019,LS Livingstone,Rajasthan Royals,1,6,1.0,13,,13.0,,
+34941,2019,SN Khan,Kings XI Punjab,1,2,0.2,6,,18.0,,
+35194,2019,KK Ahmed,Sunrisers Hyderabad,9,209,34.5,287,20.0,8.24,14.35,10.45
+35225,2019,DJ Hooda,Sunrisers Hyderabad,2,12,2.0,21,1.0,10.5,21.0,12.0
+35231,2019,Abhishek Sharma,Sunrisers Hyderabad,2,12,2.0,21,1.0,10.5,21.0,12.0
+35706,2019,IS Sodhi,Rajasthan Royals,2,43,7.1,67,4.0,9.35,16.75,10.75
+35792,2019,Arshdeep Singh,Kings XI Punjab,3,60,10.0,109,3.0,10.9,36.33,20.0
+36102,2019,KV Sharma,Chennai Super Kings,1,17,2.5,33,1.0,11.65,33.0,17.0
+36287,2019,J Yadav,Mumbai Indians,2,42,7.0,50,1.0,7.14,50.0,42.0
+36517,2019,DW Steyn,Royal Challengers Bangalore,2,48,8.0,69,4.0,8.62,17.25,12.0
+36944,2019,SE Rutherford,Delhi Capitals,6,41,6.5,59,1.0,8.63,59.0,41.0
+37030,2019,Harpreet Brar,Kings XI Punjab,2,30,5.0,48,,9.6,,
+37263,2019,Y Prithvi Raj,Kolkata Knight Riders,2,30,5.0,57,1.0,11.4,57.0,30.0
+37288,2019,KC Cariappa,Kolkata Knight Riders,1,12,2.0,34,,17.0,,
+38274,2019,Washington Sundar,Royal Challengers Bangalore,3,54,9.0,74,4.0,8.22,18.5,13.5
+38335,2019,O Thomas,Rajasthan Royals,4,60,10.0,79,5.0,7.9,15.8,12.0
+38750,2019,AS Roy,Mumbai Indians,1,12,2.0,11,1.0,5.5,11.0,12.0
+39291,2019,BB Sran,Mumbai Indians,2,24,4.0,51,,12.75,,
+39417,2019,S Sandeep Warrier,Kolkata Knight Riders,3,72,12.0,85,2.0,7.08,42.5,36.0
+39837,2019,K Khejroliya,Royal Challengers Bangalore,2,30,5.0,46,1.0,9.2,46.0,30.0
+39851,2019,J Suchith,Delhi Capitals,1,24,4.0,28,2.0,7.0,14.0,12.0
+40111,2019,Basil Thampi,Sunrisers Hyderabad,3,72,12.0,110,,9.17,,
+42460,2020/21,DL Chahar,Chennai Super Kings,14,312,52.0,396,12.0,7.62,33.0,26.0
+42466,2020/21,SM Curran,Chennai Super Kings,13,252,42.0,344,13.0,8.19,26.46,19.38
+42478,2020/21,L Ngidi,Chennai Super Kings,4,96,16.0,167,9.0,10.44,18.56,10.67
+42486,2020/21,PP Chawla,Chennai Super Kings,7,126,21.0,191,6.0,9.1,31.83,21.0
+42498,2020/21,RA Jadeja,Chennai Super Kings,13,218,36.2,318,6.0,8.75,53.0,36.33
+42584,2020/21,TA Boult,Mumbai Indians,15,344,57.2,472,25.0,8.23,18.88,13.76
+42590,2020/21,JL Pattinson,Mumbai Indians,10,213,35.3,320,11.0,9.01,29.09,19.36
+42615,2020/21,JJ Bumrah,Mumbai Indians,15,372,62.0,420,29.0,6.77,14.48,12.83
+42622,2020/21,KH Pandya,Mumbai Indians,16,301,50.1,380,6.0,7.57,63.33,50.17
+42628,2020/21,RD Chahar,Mumbai Indians,15,318,53.0,433,15.0,8.17,28.87,21.2
+42704,2020/21,SS Cottrell,Kings XI Punjab,6,120,20.0,176,6.0,8.8,29.33,20.0
+42710,2020/21,Mohammed Shami,Kings XI Punjab,14,330,55.0,468,20.0,8.51,23.4,16.5
+42728,2020/21,CJ Jordan,Kings XI Punjab,9,196,32.4,315,9.0,9.64,35.0,21.78
+42741,2020/21,K Gowtham,Kings XI Punjab,2,48,8.0,84,1.0,10.5,84.0,48.0
+42760,2020/21,Ravi Bishnoi,Kings XI Punjab,14,306,51.0,376,12.0,7.37,31.33,25.5
+42832,2020/21,A Nortje,Delhi Capitals,16,366,61.0,512,22.0,8.39,23.27,16.64
+42838,2020/21,MM Sharma,Delhi Capitals,1,24,4.0,45,1.0,11.25,45.0,24.0
+42845,2020/21,K Rabada,Delhi Capitals,17,397,66.1,551,32.0,8.33,17.22,12.41
+42864,2020/21,R Ashwin,Delhi Capitals,15,306,51.0,391,13.0,7.67,30.08,23.54
+42876,2020/21,AR Patel,Delhi Capitals,15,306,51.0,327,9.0,6.41,36.33,34.0
+42882,2020/21,MP Stoinis,Delhi Capitals,13,178,29.4,283,13.0,9.54,21.77,13.69
+42960,2020/21,CH Morris,Royal Challengers Bangalore,9,190,31.4,210,11.0,6.63,19.09,17.27
+42967,2020/21,Mohammed Siraj,Royal Challengers Bangalore,9,163,27.1,236,11.0,8.69,21.45,14.82
+42973,2020/21,Navdeep Saini,Royal Challengers Bangalore,13,280,46.4,385,7.0,8.25,55.0,40.0
+42997,2020/21,I Udana,Royal Challengers Bangalore,10,174,29.0,282,8.0,9.72,35.25,21.75
+43009,2020/21,YS Chahal,Royal Challengers Bangalore,15,343,57.1,405,21.0,7.08,19.29,16.33
+43015,2020/21,Washington Sundar,Royal Challengers Bangalore,15,300,50.0,298,8.0,5.96,37.25,37.5
+43081,2020/21,PJ Cummins,Kolkata Knight Riders,14,312,52.0,409,12.0,7.87,34.08,26.0
+43087,2020/21,M Prasidh Krishna,Kolkata Knight Riders,6,105,17.3,165,4.0,9.43,41.25,26.25
+43113,2020/21,CV Varun,Kolkata Knight Riders,13,312,52.0,356,17.0,6.85,20.94,18.35
+43119,2020/21,LH Ferguson,Kolkata Knight Riders,5,122,20.2,150,8.0,7.38,18.75,15.25
+43165,2020/21,Sandeep Sharma,Sunrisers Hyderabad,13,312,52.0,374,14.0,7.19,26.71,22.29
+43171,2020/21,JO Holder,Sunrisers Hyderabad,7,168,28.0,233,14.0,8.32,16.64,12.0
+43195,2020/21,S Nadeem,Sunrisers Hyderabad,7,132,22.0,178,5.0,8.09,35.6,26.4
+43201,2020/21,T Natarajan,Sunrisers Hyderabad,16,377,62.5,504,16.0,8.02,31.5,23.56
+43207,2020/21,Rashid Khan,Sunrisers Hyderabad,16,388,64.4,345,20.0,5.34,17.25,19.4
+43285,2020/21,DS Kulkarni,Mumbai Indians,1,18,3.0,22,,7.33,,
+43292,2020/21,NM Coulter-Nile,Mumbai Indians,7,156,26.0,206,5.0,7.92,41.2,31.2
+43520,2020/21,JD Unadkat,Rajasthan Royals,7,138,23.0,228,4.0,9.91,57.0,34.5
+43526,2020/21,JC Archer,Rajasthan Royals,14,334,55.4,365,20.0,6.56,18.25,16.7
+43545,2020/21,S Gopal,Rajasthan Royals,14,300,50.0,427,10.0,8.54,42.7,30.0
+43551,2020/21,TK Curran,Rajasthan Royals,5,109,18.1,208,3.0,11.45,69.33,36.33
+43557,2020/21,R Tewatia,Rajasthan Royals,14,276,46.0,326,10.0,7.09,32.6,27.6
+43644,2020/21,TU Deshpande,Delhi Capitals,5,102,17.0,192,3.0,11.29,64.0,34.0
+43787,2020/21,KL Nagarkoti,Kolkata Knight Riders,9,156,26.0,231,5.0,8.88,46.2,31.2
+43814,2020/21,SP Narine,Kolkata Knight Riders,10,228,38.0,302,5.0,7.95,60.4,45.6
+43900,2020/21,KK Ahmed,Sunrisers Hyderabad,7,154,25.4,242,8.0,9.43,30.25,19.25
+44026,2020/21,Arshdeep Singh,Kings XI Punjab,8,149,24.5,218,9.0,8.78,24.22,16.56
+44039,2020/21,M Ashwin,Kings XI Punjab,9,189,31.3,235,10.0,7.46,23.5,18.9
+44233,2020/21,KA Pollard,Mumbai Indians,11,126,21.0,190,4.0,9.05,47.5,31.5
+44271,2020/21,DW Steyn,Royal Challengers Bangalore,3,70,11.4,133,1.0,11.4,133.0,70.0
+44386,2020/21,VR Aaron,Rajasthan Royals,3,48,8.0,94,,11.75,,
+44405,2020/21,Kartik Tyagi,Rajasthan Royals,10,229,38.1,367,9.0,9.62,40.78,25.44
+44418,2020/21,AJ Tye,Rajasthan Royals,1,24,4.0,50,1.0,12.5,50.0,24.0
+44545,2020/21,HV Patel,Delhi Capitals,5,90,15.0,134,3.0,8.93,44.67,30.0
+44664,2020/21,SN Thakur,Chennai Super Kings,9,194,32.2,275,10.0,8.51,27.5,19.4
+44678,2020/21,KV Sharma,Chennai Super Kings,5,114,19.0,165,5.0,8.68,33.0,22.8
+44684,2020/21,DJ Bravo,Chennai Super Kings,6,126,21.0,180,6.0,8.57,30.0,21.0
+44771,2020/21,Shivam Mavi,Kolkata Knight Riders,8,156,26.0,212,9.0,8.15,23.56,17.33
+44869,2020/21,AD Russell,Kolkata Knight Riders,7,108,18.0,175,6.0,9.72,29.17,18.0
+45139,2020/21,JDS Neesham,Kings XI Punjab,5,90,15.0,148,2.0,9.87,74.0,45.0
+45357,2020/21,AS Rajpoot,Rajasthan Royals,6,102,17.0,199,2.0,11.71,99.5,51.0
+45395,2020/21,R Parag,Rajasthan Royals,2,12,2.0,27,,13.5,,
+45570,2020/21,Kuldeep Yadav,Kolkata Knight Riders,4,72,12.0,92,1.0,7.67,92.0,72.0
+45600,2020/21,DR Sams,Delhi Capitals,3,72,12.0,114,,9.5,,
+45783,2020/21,Shahbaz Ahmed,Royal Challengers Bangalore,2,36,6.0,44,2.0,7.33,22.0,18.0
+45882,2020/21,Imran Tahir,Chennai Super Kings,3,66,11.0,76,1.0,6.91,76.0,66.0
+46072,2020/21,CH Gayle,Kings XI Punjab,1,5,0.5,5,,6.0,,
+46126,2020/21,BA Stokes,Rajasthan Royals,6,90,15.0,154,2.0,10.27,77.0,45.0
+46236,2020/21,Abhishek Sharma,Sunrisers Hyderabad,6,60,10.0,91,2.0,9.1,45.5,30.0
+46248,2020/21,V Shankar,Sunrisers Hyderabad,5,79,13.1,82,4.0,6.23,20.5,19.75
+46321,2020/21,S Sandeep Warrier,Kolkata Knight Riders,1,18,3.0,34,,11.33,,
+46821,2020/21,UT Yadav,Royal Challengers Bangalore,2,42,7.0,83,,11.86,,
+46903,2020/21,S Dube,Royal Challengers Bangalore,5,54,9.0,73,4.0,8.11,18.25,13.5
+47023,2020/21,GJ Maxwell,Kings XI Punjab,7,126,21.0,169,3.0,8.05,56.33,42.0
+47297,2020/21,Basil Thampi,Sunrisers Hyderabad,1,24,4.0,46,1.0,11.5,46.0,24.0
+47684,2020/21,Harpreet Brar,Kings XI Punjab,1,24,4.0,41,,10.25,,
+47814,2020/21,A Zampa,Royal Challengers Bangalore,3,66,11.0,92,2.0,8.36,46.0,33.0
+48175,2020/21,A Mishra,Delhi Capitals,3,60,10.0,72,3.0,7.2,24.0,20.0
+48393,2020/21,B Kumar,Sunrisers Hyderabad,4,85,14.1,99,3.0,6.99,33.0,28.33
+48443,2020/21,Abdul Samad,Sunrisers Hyderabad,3,42,7.0,96,1.0,13.71,96.0,42.0
+48578,2020/21,DJ Hooda,Kings XI Punjab,1,6,1.0,9,,9.0,,
+49089,2020/21,MM Ali,Royal Challengers Bangalore,3,30,5.0,42,1.0,8.4,42.0,30.0
+49643,2020/21,JR Hazlewood,Chennai Super Kings,3,60,10.0,64,1.0,6.4,64.0,60.0
+50006,2020/21,Mujeeb Ur Rahman,Kings XI Punjab,2,48,8.0,83,,10.38,,
+50172,2020/21,N Rana,Kolkata Knight Riders,2,12,2.0,23,,11.5,,
+50412,2020/21,DA Warner,Sunrisers Hyderabad,1,1,0.1,2,,12.0,,
+50838,2020/21,CJ Green,Kolkata Knight Riders,1,17,2.5,24,,8.47,,
+52180,2020/21,I Sharma,Delhi Capitals,1,18,3.0,26,,8.67,,
+52680,2020/21,MR Marsh,Sunrisers Hyderabad,1,4,0.4,6,,9.0,,
+52920,2020/21,J Yadav,Mumbai Indians,2,42,7.0,43,1.0,6.14,43.0,42.0
+53065,2020/21,P Dubey,Delhi Capitals,3,48,8.0,72,,9.0,,
+53140,2020/21,MJ Santner,Chennai Super Kings,2,42,7.0,53,2.0,7.57,26.5,21.0
+53605,2020/21,S Kaul,Sunrisers Hyderabad,1,24,4.0,64,2.0,16.0,32.0,12.0
+53648,2020/21,KS Williamson,Sunrisers Hyderabad,1,12,2.0,24,,12.0,,
+53986,2020/21,Avesh Khan,Delhi Capitals,1,24,4.0,42,,10.5,,
+55068,2020/21,Monu Kumar,Chennai Super Kings,1,12,2.0,20,,10.0,,
+55468,2020/21,Mohammad Nabi,Sunrisers Hyderabad,1,24,4.0,23,,5.75,,
+57019,2021,Mohammed Siraj,Royal Challengers Bangalore,15,312,52.0,353,11.0,6.79,32.09,28.36
+57025,2021,KA Jamieson,Royal Challengers Bangalore,9,168,28.0,269,9.0,9.61,29.89,18.67
+57037,2021,YS Chahal,Royal Challengers Bangalore,15,318,53.0,374,18.0,7.06,20.78,17.67
+57055,2021,Shahbaz Ahmed,Royal Challengers Bangalore,6,84,14.0,92,7.0,6.57,13.14,12.0
+57061,2021,HV Patel,Royal Challengers Bangalore,15,338,56.2,459,32.0,8.15,14.34,10.56
+57068,2021,DT Christian,Royal Challengers Bangalore,9,100,16.4,155,4.0,9.3,38.75,25.0
+57093,2021,Washington Sundar,Royal Challengers Bangalore,6,96,16.0,118,3.0,7.38,39.33,32.0
+57143,2021,TA Boult,Mumbai Indians,14,308,51.2,406,13.0,7.91,31.23,23.69
+57150,2021,JJ Bumrah,Mumbai Indians,14,330,55.0,410,21.0,7.45,19.52,15.71
+57162,2021,M Jansen,Mumbai Indians,2,36,6.0,45,2.0,7.5,22.5,18.0
+57169,2021,KH Pandya,Mumbai Indians,12,199,33.1,265,5.0,7.99,53.0,39.8
+57188,2021,RD Chahar,Mumbai Indians,11,258,43.0,318,13.0,7.4,24.46,19.85
+57269,2021,CR Woakes,Delhi Capitals,3,66,11.0,82,5.0,7.45,16.4,13.2
+57275,2021,Avesh Khan,Delhi Capitals,16,366,61.0,450,24.0,7.38,18.75,15.25
+57294,2021,R Ashwin,Delhi Capitals,13,268,44.4,331,7.0,7.41,47.29,38.29
+57300,2021,TK Curran,Delhi Capitals,3,68,11.2,104,4.0,9.18,26.0,17.0
+57312,2021,A Mishra,Delhi Capitals,4,84,14.0,109,6.0,7.79,18.17,14.0
+57342,2021,MP Stoinis,Delhi Capitals,8,67,11.1,117,2.0,10.48,58.5,33.5
+57392,2021,DL Chahar,Chennai Super Kings,15,324,54.0,451,14.0,8.35,32.21,23.14
+57398,2021,SM Curran,Chennai Super Kings,9,198,33.0,328,9.0,9.94,36.44,22.0
+57416,2021,SN Thakur,Chennai Super Kings,16,359,59.5,527,21.0,8.81,25.1,17.1
+57428,2021,RA Jadeja,Chennai Super Kings,16,294,49.0,346,13.0,7.06,26.62,22.62
+57434,2021,MM Ali,Chennai Super Kings,10,152,25.2,161,6.0,6.36,26.83,25.33
+57458,2021,DJ Bravo,Chennai Super Kings,11,202,33.4,263,14.0,7.81,18.79,14.43
+57508,2021,B Kumar,Sunrisers Hyderabad,11,252,42.0,335,6.0,7.98,55.83,42.0
+57514,2021,Sandeep Sharma,Sunrisers Hyderabad,7,141,23.3,203,3.0,8.64,67.67,47.0
+57532,2021,T Natarajan,Sunrisers Hyderabad,2,48,8.0,69,2.0,8.62,34.5,24.0
+57538,2021,Mohammad Nabi,Sunrisers Hyderabad,3,48,8.0,86,2.0,10.75,43.0,24.0
+57544,2021,Rashid Khan,Sunrisers Hyderabad,14,342,57.0,380,18.0,6.67,21.11,19.0
+57562,2021,V Shankar,Sunrisers Hyderabad,5,66,11.0,100,3.0,9.09,33.33,22.0
+57631,2021,Harbhajan Singh,Kolkata Knight Riders,3,42,7.0,63,,9.0,,
+57637,2021,M Prasidh Krishna,Kolkata Knight Riders,10,231,38.3,351,12.0,9.12,29.25,19.25
+57643,2021,Shakib Al Hasan,Kolkata Knight Riders,8,156,26.0,187,4.0,7.19,46.75,39.0
+57661,2021,PJ Cummins,Kolkata Knight Riders,7,161,26.5,237,9.0,8.83,26.33,17.89
+57673,2021,AD Russell,Kolkata Knight Riders,8,114,19.0,188,11.0,9.89,17.09,10.36
+57685,2021,CV Varun,Kolkata Knight Riders,17,408,68.0,448,18.0,6.59,24.89,22.67
+57756,2021,C Sakariya,Rajasthan Royals,14,312,52.0,426,14.0,8.19,30.43,22.29
+57762,2021,Mustafizur Rahman,Rajasthan Royals,14,312,52.0,436,14.0,8.38,31.14,22.29
+57775,2021,CH Morris,Rajasthan Royals,11,246,41.0,376,15.0,9.17,25.07,16.4
+57795,2021,S Gopal,Rajasthan Royals,3,42,7.0,84,,12.0,,
+57801,2021,BA Stokes,Rajasthan Royals,1,6,1.0,12,,12.0,,
+57807,2021,R Tewatia,Rajasthan Royals,13,222,37.0,340,8.0,9.19,42.5,27.75
+57813,2021,R Parag,Rajasthan Royals,6,37,6.1,73,1.0,11.84,73.0,37.0
+57831,2021,S Dube,Rajasthan Royals,4,30,5.0,49,,9.8,,
+57882,2021,Mohammed Shami,Punjab Kings,14,316,52.4,395,19.0,7.5,20.79,16.63
+57888,2021,JA Richardson,Punjab Kings,3,66,11.0,117,3.0,10.64,39.0,22.0
+57901,2021,Arshdeep Singh,Punjab Kings,12,249,41.3,342,18.0,8.24,19.0,13.83
+57907,2021,RP Meredith,Punjab Kings,5,103,17.1,169,4.0,9.84,42.25,25.75
+57919,2021,M Ashwin,Punjab Kings,3,66,11.0,97,1.0,8.82,97.0,66.0
+58175,2021,KA Pollard,Mumbai Indians,9,80,13.2,95,5.0,7.12,19.0,16.0
+58211,2021,RG Sharma,Mumbai Indians,2,7,1.1,13,,11.14,,
+58260,2021,JO Holder,Sunrisers Hyderabad,8,191,31.5,247,16.0,7.76,15.44,11.94
+58280,2021,S Nadeem,Sunrisers Hyderabad,1,24,4.0,36,1.0,9.0,36.0,24.0
+58513,2021,JD Unadkat,Rajasthan Royals,6,132,22.0,168,4.0,7.64,42.0,33.0
+58649,2021,K Rabada,Delhi Capitals,15,336,56.0,456,15.0,8.14,30.4,22.4
+58976,2021,KK Ahmed,Sunrisers Hyderabad,7,162,27.0,219,5.0,8.11,43.8,32.4
+58983,2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,1,24,4.0,29,2.0,7.25,14.5,12.0
+59002,2021,Abhishek Sharma,Sunrisers Hyderabad,6,60,10.0,64,4.0,6.4,16.0,15.0
+59113,2021,AF Milne,Mumbai Indians,4,84,14.0,131,4.0,9.36,32.75,21.0
+59405,2021,GJ Maxwell,Royal Challengers Bangalore,6,96,16.0,135,3.0,8.44,45.0,32.0
+59472,2021,LI Meriwala,Delhi Capitals,1,18,3.0,32,1.0,10.67,32.0,18.0
+59509,2021,Lalit Yadav,Delhi Capitals,5,84,14.0,101,4.0,7.21,25.25,21.0
+59600,2021,Jalaj S Saxena,Punjab Kings,1,18,3.0,27,,9.0,,
+59624,2021,DJ Hooda,Punjab Kings,7,96,16.0,136,2.0,8.5,68.0,48.0
+60087,2021,J Yadav,Mumbai Indians,5,102,17.0,130,2.0,7.65,65.0,51.0
+60226,2021,S Kaul,Sunrisers Hyderabad,8,180,30.0,247,7.0,8.23,35.29,25.71
+60328,2021,FA Allen,Punjab Kings,3,66,11.0,90,1.0,8.18,90.0,66.0
+60347,2021,MC Henriques,Punjab Kings,5,60,10.0,45,4.0,4.5,11.25,15.0
+60450,2021,SP Narine,Kolkata Knight Riders,14,336,56.0,361,16.0,6.45,22.56,21.0
+60499,2021,KL Nagarkoti,Kolkata Knight Riders,1,12,2.0,25,,12.5,,
+60586,2021,L Ngidi,Chennai Super Kings,3,72,12.0,125,5.0,10.42,25.0,14.4
+60720,2021,KW Richardson,Royal Challengers Bangalore,1,18,3.0,29,1.0,9.67,29.0,18.0
+60955,2021,Ravi Bishnoi,Punjab Kings,9,216,36.0,230,12.0,6.39,19.17,18.0
+61277,2021,Shivam Mavi,Kolkata Knight Riders,9,193,32.1,233,11.0,7.24,21.18,17.55
+61428,2021,Navdeep Saini,Royal Challengers Bangalore,2,24,4.0,52,,13.0,,
+61567,2021,Imran Tahir,Chennai Super Kings,1,24,4.0,16,2.0,4.0,8.0,12.0
+61678,2021,J Suchith,Sunrisers Hyderabad,2,42,7.0,66,,9.43,,
+61795,2021,AR Patel,Delhi Capitals,12,282,47.0,312,15.0,6.64,20.8,18.8
+62074,2021,CJ Jordan,Punjab Kings,4,72,12.0,96,4.0,8.0,24.0,18.0
+62132,2021,I Sharma,Delhi Capitals,3,72,12.0,97,1.0,8.08,97.0,72.0
+62254,2021,DR Sams,Royal Challengers Bangalore,2,36,6.0,39,1.0,6.5,39.0,36.0
+62646,2021,NM Coulter-Nile,Mumbai Indians,5,120,20.0,127,7.0,6.35,18.14,17.14
+63238,2021,Harpreet Brar,Punjab Kings,7,138,23.0,139,5.0,6.04,27.8,27.6
+63330,2021,DS Kulkarni,Mumbai Indians,1,24,4.0,48,,12.0,,
+63366,2021,JDS Neesham,Mumbai Indians,3,54,9.0,66,5.0,7.33,13.2,10.8
+63708,2021,Kartik Tyagi,Rajasthan Royals,4,84,14.0,124,4.0,8.86,31.0,21.0
+64079,2021,LH Ferguson,Kolkata Knight Riders,8,180,30.0,224,13.0,7.47,17.23,13.85
+64205,2021,PWH de Silva,Royal Challengers Bangalore,2,36,6.0,60,,10.0,,
+64274,2021,Umran Malik,Sunrisers Hyderabad,3,72,12.0,96,2.0,8.0,48.0,36.0
+64386,2021,PP Chawla,Mumbai Indians,1,24,4.0,38,1.0,9.5,38.0,24.0
+64498,2021,Akash Singh,Rajasthan Royals,1,24,4.0,39,,9.75,,
+64540,2021,M Markande,Rajasthan Royals,1,18,3.0,26,,8.67,,
+64577,2021,GD Phillips,Rajasthan Royals,2,12,2.0,20,1.0,10.0,20.0,12.0
+64629,2021,JR Hazlewood,Chennai Super Kings,9,210,35.0,293,11.0,8.37,26.64,19.09
+64659,2021,KM Asif,Chennai Super Kings,1,13,2.1,18,1.0,8.31,18.0,13.0
+64734,2021,AK Markram,Punjab Kings,2,24,4.0,23,,5.75,,
+64865,2021,GHS Garton,Royal Challengers Bangalore,5,90,15.0,135,3.0,9.0,45.0,30.0
+65231,2021,S Sandeep Warrier,Kolkata Knight Riders,1,12,2.0,15,,7.5,,
+65237,2021,TG Southee,Kolkata Knight Riders,3,72,12.0,95,3.0,7.92,31.67,24.0
+65298,2021,VR Iyer,Kolkata Knight Riders,4,51,8.3,69,3.0,8.12,23.0,17.0
+65355,2021,A Nortje,Delhi Capitals,8,182,30.2,187,12.0,6.16,15.58,15.17
+65615,2021,K Yadav,Rajasthan Royals,1,12,2.0,16,,8.0,,
+66100,2021,N Rana,Kolkata Knight Riders,2,12,2.0,12,,6.0,,
+66327,2021,MK Lomror,Rajasthan Royals,4,42,7.0,47,1.0,6.71,47.0,42.0
+66359,2021,T Shamsi,Rajasthan Royals,1,24,4.0,34,,8.5,,
+66975,2021,NT Ellis,Punjab Kings,3,66,11.0,90,1.0,8.18,90.0,66.0
+67478,2021,RV Patel,Delhi Capitals,1,18,3.0,22,,7.33,,
+68823,2021,Abdul Samad,Sunrisers Hyderabad,1,6,1.0,9,1.0,9.0,9.0,6.0
+69722,2021,IC Porel,Punjab Kings,1,24,4.0,39,1.0,9.75,39.0,24.0
+69753,2021,AU Rashid,Punjab Kings,1,18,3.0,35,,11.67,,
+71444,2022,UT Yadav,Kolkata Knight Riders,12,288,48.0,339,16.0,7.06,21.19,18.0
+71453,2022,Shivam Mavi,Kolkata Knight Riders,6,132,22.0,227,5.0,10.32,45.4,26.4
+71477,2022,CV Varun,Kolkata Knight Riders,11,234,39.0,332,6.0,8.51,55.33,39.0
+71483,2022,SP Narine,Kolkata Knight Riders,14,336,56.0,312,9.0,5.57,34.67,37.33
+71508,2022,AD Russell,Kolkata Knight Riders,13,169,28.1,278,17.0,9.87,16.35,9.94
+71570,2022,TU Deshpande,Chennai Super Kings,2,42,7.0,63,1.0,9.0,63.0,42.0
+71576,2022,AF Milne,Chennai Super Kings,1,15,2.3,19,,7.6,,
+71600,2022,MJ Santner,Chennai Super Kings,6,114,19.0,130,4.0,6.84,32.5,28.5
+71606,2022,DJ Bravo,Chennai Super Kings,10,206,34.2,299,16.0,8.71,18.69,12.88
+71612,2022,S Dube,Chennai Super Kings,2,12,2.0,36,,18.0,,
+71630,2022,RA Jadeja,Chennai Super Kings,10,198,33.0,248,5.0,7.52,49.6,39.6
+71681,2022,SN Thakur,Delhi Capitals,14,290,48.2,473,15.0,9.79,31.53,19.33
+71687,2022,KK Ahmed,Delhi Capitals,10,235,39.1,315,16.0,8.04,19.69,14.69
+71699,2022,AR Patel,Delhi Capitals,13,258,43.0,321,6.0,7.47,53.5,43.0
+71705,2022,KL Nagarkoti,Delhi Capitals,1,12,2.0,29,,14.5,,
+71718,2022,Kuldeep Yadav,Delhi Capitals,14,298,49.4,419,21.0,8.44,19.95,14.19
+71748,2022,Lalit Yadav,Delhi Capitals,8,108,18.0,150,4.0,8.33,37.5,27.0
+71803,2022,DR Sams,Mumbai Indians,11,252,42.0,370,13.0,8.81,28.46,19.38
+71811,2022,JJ Bumrah,Mumbai Indians,14,320,53.2,383,15.0,7.18,25.53,21.33
+71817,2022,Basil Thampi,Mumbai Indians,5,96,16.0,152,5.0,9.5,30.4,19.2
+71823,2022,M Ashwin,Mumbai Indians,8,174,29.0,228,9.0,7.86,25.33,19.33
+71829,2022,TS Mills,Mumbai Indians,5,102,17.0,190,6.0,11.18,31.67,17.0
+71920,2022,Sandeep Sharma,Punjab Kings,5,120,20.0,153,2.0,7.65,76.5,60.0
+71926,2022,Arshdeep Singh,Punjab Kings,14,300,50.0,385,10.0,7.7,38.5,30.0
+71940,2022,OF Smith,Punjab Kings,6,90,15.0,178,6.0,11.87,29.67,15.0
+71959,2022,RD Chahar,Punjab Kings,13,280,46.4,360,14.0,7.71,25.71,20.0
+71965,2022,Harpreet Brar,Punjab Kings,5,96,16.0,146,4.0,9.12,36.5,24.0
+71990,2022,LS Livingstone,Punjab Kings,12,138,23.0,202,6.0,8.78,33.67,23.0
+72047,2022,DJ Willey,Royal Challengers Bangalore,4,66,11.0,72,1.0,6.55,72.0,66.0
+72053,2022,Mohammed Siraj,Royal Challengers Bangalore,15,306,51.0,514,9.0,10.08,57.11,34.0
+72079,2022,Shahbaz Ahmed,Royal Challengers Bangalore,14,210,35.0,336,4.0,9.6,84.0,52.5
+72085,2022,Akash Deep,Royal Challengers Bangalore,5,113,18.5,205,5.0,10.88,41.0,22.6
+72091,2022,PWH de Silva,Royal Challengers Bangalore,16,342,57.0,430,26.0,7.54,16.54,13.15
+72097,2022,HV Patel,Royal Challengers Bangalore,15,321,53.3,410,19.0,7.66,21.58,16.89
+72173,2022,Mohammed Shami,Gujarat Titans,16,366,61.0,488,20.0,8.0,24.4,18.3
+72179,2022,VR Aaron,Gujarat Titans,2,30,5.0,52,2.0,10.4,26.0,15.0
+72205,2022,LH Ferguson,Gujarat Titans,13,286,47.4,427,12.0,8.96,35.58,23.83
+72212,2022,HH Pandya,Gujarat Titans,10,183,30.3,222,8.0,7.28,27.75,22.88
+72230,2022,Rashid Khan,Gujarat Titans,16,383,63.5,421,19.0,6.6,22.16,20.16
+72297,2022,PVD Chameera,Lucknow Super Giants,12,264,44.0,384,9.0,8.73,42.67,29.33
+72304,2022,Avesh Khan,Lucknow Super Giants,13,286,47.4,416,19.0,8.73,21.89,15.05
+72316,2022,Mohsin Khan,Lucknow Super Giants,9,198,33.0,197,14.0,5.97,14.07,14.14
+72328,2022,Ravi Bishnoi,Lucknow Super Giants,14,324,54.0,456,13.0,8.44,35.08,24.92
+72335,2022,KH Pandya,Lucknow Super Giants,12,228,38.0,265,10.0,6.97,26.5,22.8
+72365,2022,DJ Hooda,Lucknow Super Giants,2,24,4.0,43,1.0,10.75,43.0,24.0
+72418,2022,B Kumar,Sunrisers Hyderabad,14,313,52.1,383,12.0,7.34,31.92,26.08
+72425,2022,R Shepherd,Sunrisers Hyderabad,3,54,9.0,98,3.0,10.89,32.67,18.0
+72438,2022,Umran Malik,Sunrisers Hyderabad,14,295,49.1,444,22.0,9.03,20.18,13.41
+72445,2022,Washington Sundar,Sunrisers Hyderabad,8,168,28.0,239,6.0,8.54,39.83,28.0
+72452,2022,T Natarajan,Sunrisers Hyderabad,11,258,43.0,406,18.0,9.44,22.56,14.33
+72465,2022,Abhishek Sharma,Sunrisers Hyderabad,3,24,4.0,38,,9.5,,
+72548,2022,TA Boult,Rajasthan Royals,16,372,62.0,492,16.0,7.94,30.75,23.25
+72554,2022,M Prasidh Krishna,Rajasthan Royals,17,399,66.3,551,19.0,8.29,29.0,21.0
+72585,2022,NM Coulter-Nile,Rajasthan Royals,1,19,3.1,48,,15.16,,
+72592,2022,R Ashwin,Rajasthan Royals,17,402,67.0,503,12.0,7.51,41.92,33.5
+72598,2022,YS Chahal,Rajasthan Royals,17,408,68.0,527,27.0,7.75,19.52,15.11
+72667,2022,R Parag,Rajasthan Royals,4,24,4.0,59,1.0,14.75,59.0,24.0
+72794,2022,TG Southee,Kolkata Knight Riders,9,210,35.0,275,14.0,7.86,19.64,15.0
+72901,2022,VR Iyer,Kolkata Knight Riders,4,24,4.0,46,,11.5,,
+72922,2022,AJ Tye,Lucknow Super Giants,3,66,11.0,107,2.0,9.73,53.5,33.0
+73032,2022,Mukesh Choudhary,Chennai Super Kings,13,273,45.3,424,16.0,9.32,26.5,17.06
+73075,2022,MM Ali,Chennai Super Kings,10,143,23.5,158,8.0,6.63,19.75,17.88
+73095,2022,D Pretorius,Chennai Super Kings,6,126,21.0,210,6.0,10.0,35.0,21.0
+73285,2022,K Rabada,Punjab Kings,13,288,48.0,406,23.0,8.46,17.65,12.52
+73407,2022,KA Pollard,Mumbai Indians,6,84,14.0,125,4.0,8.93,31.25,21.0
+73516,2022,Navdeep Saini,Rajasthan Royals,2,36,6.0,72,3.0,12.0,24.0,12.0
+73627,2022,Mustafizur Rahman,Delhi Capitals,8,192,32.0,244,8.0,7.62,30.5,24.0
+73818,2022,V Shankar,Gujarat Titans,2,9,1.3,15,,10.0,,
+73831,2022,R Tewatia,Gujarat Titans,5,36,6.0,76,1.0,12.67,76.0,36.0
+73881,2022,CJ Jordan,Chennai Super Kings,4,77,12.5,135,2.0,10.52,67.5,38.5
+74007,2022,VG Arora,Punjab Kings,5,107,17.5,164,3.0,9.2,54.67,35.67
+74161,2022,Abdul Samad,Sunrisers Hyderabad,1,6,1.0,8,,8.0,,
+74240,2022,JO Holder,Lucknow Super Giants,12,249,41.3,391,14.0,9.42,27.93,17.79
+74612,2022,YBK Jaiswal,Rajasthan Royals,1,1,0.1,6,,36.0,,
+74619,2022,Rasikh Salam,Kolkata Knight Riders,2,24,4.0,28,,7.0,,
+74643,2022,PJ Cummins,Kolkata Knight Riders,5,119,19.5,212,7.0,10.69,30.29,17.0
+74770,2022,Tilak Varma,Mumbai Indians,2,12,2.0,13,,6.5,,
+74837,2022,K Gowtham,Lucknow Super Giants,4,72,12.0,99,5.0,8.25,19.8,14.4
+74980,2022,A Nortje,Delhi Capitals,6,135,22.3,217,9.0,9.64,24.11,15.0
+75119,2022,DG Nalkande,Gujarat Titans,2,31,5.1,59,2.0,11.42,29.5,15.5
+75330,2022,M Jansen,Sunrisers Hyderabad,8,192,32.0,274,7.0,8.56,39.14,27.43
+75408,2022,AK Markram,Sunrisers Hyderabad,4,36,6.0,64,1.0,10.67,64.0,36.0
+75455,2022,M Theekshana,Chennai Super Kings,9,210,35.0,261,12.0,7.46,21.75,17.5
+75687,2022,JD Unadkat,Mumbai Indians,5,120,20.0,190,6.0,9.5,31.67,20.0
+75792,2022,D Brevis,Mumbai Indians,1,3,0.3,8,1.0,16.0,8.0,3.0
+75974,2022,R Powell,Delhi Capitals,1,6,1.0,17,,17.0,,
+76204,2022,KR Sen,Rajasthan Royals,7,151,25.1,237,8.0,9.42,29.62,18.88
+76543,2022,JR Hazlewood,Royal Challengers Bangalore,12,279,46.3,377,20.0,8.11,18.85,13.95
+76573,2022,GJ Maxwell,Royal Challengers Bangalore,10,144,24.0,165,6.0,6.88,27.5,24.0
+77045,2022,JDS Neesham,Rajasthan Royals,1,18,3.0,29,,9.67,,
+77175,2022,Yash Dayal,Gujarat Titans,9,192,32.0,296,11.0,9.25,26.91,17.45
+77334,2022,Shashank Singh,Sunrisers Hyderabad,2,12,2.0,20,,10.0,,
+77341,2022,J Suchith,Sunrisers Hyderabad,5,108,18.0,140,7.0,7.78,20.0,15.43
+77453,2022,Aman Hakim Khan,Kolkata Knight Riders,1,6,1.0,13,,13.0,,
+77555,2022,FA Allen,Mumbai Indians,1,24,4.0,46,1.0,11.5,46.0,24.0
+77688,2022,MP Stoinis,Lucknow Super Giants,5,42,7.0,79,4.0,11.29,19.75,10.5
+78299,2022,AS Joseph,Gujarat Titans,9,180,30.0,264,7.0,8.8,37.71,25.71
+78657,2022,OC McCoy,Rajasthan Royals,7,155,25.5,237,11.0,9.17,21.55,14.09
+79179,2022,NT Ellis,Punjab Kings,2,36,6.0,55,3.0,9.17,18.33,12.0
+79363,2022,RP Meredith,Mumbai Indians,8,168,28.0,236,8.0,8.43,29.5,21.0
+79381,2022,HR Shokeen,Mumbai Indians,5,90,15.0,127,2.0,8.47,63.5,45.0
+80316,2022,A Badoni,Lucknow Super Giants,2,12,2.0,11,2.0,5.5,5.5,6.0
+80534,2022,R Dhawan,Punjab Kings,6,114,19.0,156,6.0,8.21,26.0,19.0
+80801,2022,DJ Mitchell,Rajasthan Royals,2,12,2.0,27,,13.5,,
+81139,2022,C Sakariya,Delhi Capitals,3,66,11.0,84,3.0,7.64,28.0,22.0
+81262,2022,Harshit Rana,Kolkata Knight Riders,2,30,5.0,51,1.0,10.2,51.0,30.0
+81306,2022,N Rana,Kolkata Knight Riders,2,12,2.0,23,,11.5,,
+81367,2022,SS Iyer,Kolkata Knight Riders,1,6,1.0,7,,7.0,,
+81633,2022,PJ Sangwan,Gujarat Titans,3,54,9.0,65,3.0,7.22,21.67,18.0
+81914,2022,K Kartikeya,Mumbai Indians,4,78,13.0,102,5.0,7.85,20.4,15.6
+82501,2022,Simarjeet Singh,Chennai Super Kings,6,108,18.0,138,4.0,7.67,34.5,27.0
+82624,2022,AS Roy,Kolkata Knight Riders,2,42,7.0,55,1.0,7.86,55.0,42.0
+83351,2022,SA Abbott,Sunrisers Hyderabad,1,24,4.0,47,1.0,11.75,47.0,24.0
+83377,2022,Kartik Tyagi,Sunrisers Hyderabad,2,48,8.0,79,1.0,9.88,79.0,48.0
+83384,2022,S Gopal,Sunrisers Hyderabad,1,18,3.0,34,1.0,11.33,34.0,18.0
+83509,2022,MR Marsh,Delhi Capitals,4,72,12.0,102,4.0,8.5,25.5,18.0
+84336,2022,Fazalhaq Farooqi,Sunrisers Hyderabad,3,72,12.0,110,2.0,9.17,55.0,36.0
+84472,2022,MK Lomror,Royal Challengers Bangalore,2,12,2.0,18,,9.0,,
+85216,2022,R Sai Kishore,Gujarat Titans,5,96,16.0,121,6.0,7.56,20.17,16.0
+85564,2022,Ramandeep Singh,Mumbai Indians,3,36,6.0,54,6.0,9.0,9.0,6.0
+86342,2022,PH Solanki,Chennai Super Kings,2,36,6.0,38,2.0,6.33,19.0,18.0
+86348,2022,M Pathirana,Chennai Super Kings,2,42,7.0,52,2.0,7.43,26.0,21.0
+86942,2022,R Sanjay Yadav,Mumbai Indians,1,12,2.0,23,,11.5,,
+86960,2022,M Markande,Mumbai Indians,2,42,7.0,57,1.0,8.14,57.0,42.0
+87428,2022,S Kaul,Royal Challengers Bangalore,1,24,4.0,43,,10.75,,
+89356,2023,Mohammed Shami,Gujarat Titans,17,390,65.0,522,28.0,8.03,18.64,13.93
+89362,2023,HH Pandya,Gujarat Titans,11,150,25.0,228,3.0,9.12,76.0,50.0
+89374,2023,J Little,Gujarat Titans,10,204,34.0,294,7.0,8.65,42.0,29.14
+89387,2023,Rashid Khan,Gujarat Titans,17,402,67.0,552,27.0,8.24,20.44,14.89
+89405,2023,AS Joseph,Gujarat Titans,7,144,24.0,225,7.0,9.38,32.14,20.57
+89423,2023,Yash Dayal,Gujarat Titans,5,84,14.0,165,2.0,11.79,82.5,42.0
+89477,2023,DL Chahar,Chennai Super Kings,10,204,34.0,297,13.0,8.74,22.85,15.69
+89483,2023,TU Deshpande,Chennai Super Kings,16,341,56.5,565,21.0,9.94,26.9,16.24
+89495,2023,RS Hangargekar,Chennai Super Kings,2,36,6.0,60,3.0,10.0,20.0,12.0
+89510,2023,MJ Santner,Chennai Super Kings,3,72,12.0,81,3.0,6.75,27.0,24.0
+89516,2023,RA Jadeja,Chennai Super Kings,16,342,57.0,431,20.0,7.56,21.55,17.1
+89599,2023,UT Yadav,Kolkata Knight Riders,8,114,19.0,189,1.0,9.95,189.0,114.0
+89605,2023,TG Southee,Kolkata Knight Riders,2,36,6.0,79,2.0,13.17,39.5,18.0
+89623,2023,SP Narine,Kolkata Knight Riders,14,288,48.0,383,11.0,7.98,34.82,26.18
+89629,2023,CV Varun,Kolkata Knight Riders,14,316,52.4,429,20.0,8.15,21.45,15.8
+89635,2023,SN Thakur,Kolkata Knight Riders,9,126,21.0,220,7.0,10.48,31.43,18.0
+89722,2023,SM Curran,Punjab Kings,14,287,47.5,489,10.0,10.22,48.9,28.7
+89728,2023,Arshdeep Singh,Punjab Kings,14,305,50.5,493,17.0,9.7,29.0,17.94
+89746,2023,NT Ellis,Punjab Kings,10,228,38.0,339,13.0,8.92,26.08,17.54
+89752,2023,Sikandar Raza,Punjab Kings,6,72,12.0,123,3.0,10.25,41.0,24.0
+89771,2023,R Dhawan,Punjab Kings,4,42,7.0,60,1.0,8.57,60.0,42.0
+89783,2023,RD Chahar,Punjab Kings,14,298,49.4,385,8.0,7.75,48.12,37.25
+89789,2023,Harpreet Brar,Punjab Kings,11,163,27.1,218,9.0,8.02,24.22,18.11
+89821,2023,KK Ahmed,Delhi Capitals,9,198,33.0,301,9.0,9.12,33.44,22.0
+89827,2023,Mukesh Kumar,Delhi Capitals,10,186,31.0,326,8.0,10.52,40.75,23.25
+89839,2023,C Sakariya,Delhi Capitals,2,48,8.0,89,3.0,11.12,29.67,16.0
+89863,2023,AR Patel,Delhi Capitals,13,282,47.0,338,11.0,7.19,30.73,25.64
+89869,2023,Kuldeep Yadav,Delhi Capitals,14,294,49.0,361,10.0,7.37,36.1,29.4
+89946,2023,KR Mayers,Lucknow Super Giants,6,42,7.0,59,,8.43,,
+89953,2023,JD Unadkat,Lucknow Super Giants,3,48,8.0,92,,11.5,,
+89960,2023,K Gowtham,Lucknow Super Giants,6,96,16.0,118,3.0,7.38,39.33,32.0
+89966,2023,Avesh Khan,Lucknow Super Giants,9,174,29.0,283,8.0,9.76,35.38,21.75
+89972,2023,MA Wood,Lucknow Super Giants,4,96,16.0,130,11.0,8.12,11.82,8.73
+89992,2023,Ravi Bishnoi,Lucknow Super Giants,14,303,50.3,391,16.0,7.74,24.44,18.94
+90072,2023,B Kumar,Sunrisers Hyderabad,14,306,51.0,425,16.0,8.33,26.56,19.12
+90079,2023,Fazalhaq Farooqi,Sunrisers Hyderabad,4,80,13.2,117,4.0,8.77,29.25,20.0
+90091,2023,Washington Sundar,Sunrisers Hyderabad,7,106,17.4,146,3.0,8.26,48.67,35.33
+90097,2023,T Natarajan,Sunrisers Hyderabad,12,270,45.0,410,10.0,9.11,41.0,27.0
+90109,2023,AU Rashid,Sunrisers Hyderabad,2,42,7.0,56,2.0,8.0,28.0,21.0
+90115,2023,Umran Malik,Sunrisers Hyderabad,8,120,20.0,217,5.0,10.85,43.4,24.0
+90194,2023,TA Boult,Rajasthan Royals,10,228,38.0,312,13.0,8.21,24.0,17.54
+90200,2023,KM Asif,Rajasthan Royals,4,84,14.0,138,3.0,9.86,46.0,28.0
+90212,2023,JO Holder,Rajasthan Royals,8,171,28.3,284,4.0,9.96,71.0,42.75
+90224,2023,R Ashwin,Rajasthan Royals,13,294,49.0,368,15.0,7.51,24.53,19.6
+90230,2023,YS Chahal,Rajasthan Royals,14,317,52.5,432,21.0,8.18,20.57,15.1
+90269,2023,NA Saini,Rajasthan Royals,1,12,2.0,34,,17.0,,
+90320,2023,Mohammed Siraj,Royal Challengers Bangalore,14,300,50.0,375,19.0,7.5,19.74,15.79
+90326,2023,RJW Topley,Royal Challengers Bangalore,1,12,2.0,14,1.0,7.0,14.0,12.0
+90351,2023,Akash Deep,Royal Challengers Bangalore,2,30,5.0,59,1.0,11.8,59.0,30.0
+90357,2023,HV Patel,Royal Challengers Bangalore,13,283,47.1,458,14.0,9.71,32.71,20.21
+90363,2023,KV Sharma,Royal Challengers Bangalore,7,129,21.3,223,10.0,10.37,22.3,12.9
+90369,2023,MG Bracewell,Royal Challengers Bangalore,5,66,11.0,95,6.0,8.64,15.83,11.0
+90387,2023,GJ Maxwell,Royal Challengers Bangalore,7,62,10.2,94,3.0,9.1,31.33,20.67
+90450,2023,JP Behrendorff,Mumbai Indians,12,252,42.0,387,14.0,9.21,27.64,18.0
+90456,2023,Arshad Khan,Mumbai Indians,6,85,14.1,190,5.0,13.41,38.0,17.0
+90471,2023,JC Archer,Mumbai Indians,5,120,20.0,190,2.0,9.5,95.0,60.0
+90477,2023,PP Chawla,Mumbai Indians,16,366,61.0,495,22.0,8.11,22.5,16.64
+90495,2023,C Green,Mumbai Indians,16,228,38.0,361,7.0,9.5,51.57,32.57
+90507,2023,HR Shokeen,Mumbai Indians,8,114,19.0,187,3.0,9.84,62.33,38.0
+90572,2023,KH Pandya,Lucknow Super Giants,12,252,42.0,313,9.0,7.45,34.78,28.0
+90590,2023,Yash Thakur,Lucknow Super Giants,9,191,31.5,289,13.0,9.08,22.23,14.69
+90682,2023,BA Stokes,Chennai Super Kings,1,6,1.0,18,,18.0,,
+90713,2023,MM Ali,Chennai Super Kings,11,156,26.0,195,9.0,7.5,21.67,17.33
+90949,2023,A Nortje,Delhi Capitals,10,240,40.0,364,10.0,9.1,36.4,24.0
+90975,2023,MR Marsh,Delhi Capitals,8,121,20.1,170,12.0,8.43,14.17,10.08
+91311,2023,DJ Willey,Royal Challengers Bangalore,4,90,15.0,105,3.0,7.0,35.0,30.0
+91350,2023,Shahbaz Ahmed,Royal Challengers Bangalore,5,42,7.0,95,1.0,13.57,95.0,42.0
+91493,2023,Suyash Sharma,Kolkata Knight Riders,11,234,39.0,321,10.0,8.23,32.1,23.4
+91595,2023,DJ Hooda,Lucknow Super Giants,1,6,1.0,8,,8.0,,
+91613,2023,A Mishra,Lucknow Super Giants,7,114,19.0,149,7.0,7.84,21.29,16.29
+91681,2023,AK Markram,Sunrisers Hyderabad,6,49,8.1,70,1.0,8.57,70.0,49.0
+91843,2023,R Powell,Delhi Capitals,1,12,2.0,18,1.0,9.0,18.0,12.0
+91893,2023,Sandeep Sharma,Rajasthan Royals,12,276,46.0,396,10.0,8.61,39.6,27.6
+91990,2023,M Ashwin,Rajasthan Royals,2,24,4.0,53,,13.25,,
+92028,2023,SSB Magala,Chennai Super Kings,2,36,6.0,51,1.0,8.5,51.0,36.0
+92082,2023,D Pretorius,Chennai Super Kings,1,24,4.0,28,,7.0,,
+92179,2023,K Kartikeya,Mumbai Indians,8,156,26.0,227,5.0,8.73,45.4,31.2
+92274,2023,LH Ferguson,Kolkata Knight Riders,3,46,7.4,96,1.0,12.52,96.0,46.0
+92512,2023,M Jansen,Sunrisers Hyderabad,8,162,27.0,268,10.0,9.93,26.8,16.2
+92555,2023,M Markande,Sunrisers Hyderabad,10,228,38.0,300,12.0,7.89,25.0,19.0
+92701,2023,Mohit Rathee,Punjab Kings,1,12,2.0,29,,14.5,,
+92875,2023,WD Parnell,Royal Challengers Bangalore,7,151,25.1,236,9.0,9.38,26.22,16.78
+93010,2023,RP Meredith,Mumbai Indians,5,118,19.4,207,7.0,10.53,29.57,16.86
+93066,2023,Tilak Varma,Mumbai Indians,1,6,1.0,7,,7.0,,
+93115,2023,Mustafizur Rahman,Delhi Capitals,2,42,7.0,79,1.0,11.29,79.0,42.0
+93127,2023,Lalit Yadav,Delhi Capitals,4,78,13.0,118,2.0,9.08,59.0,39.0
+93231,2023,Akash Singh,Chennai Super Kings,6,114,19.0,188,5.0,9.89,37.6,22.8
+93243,2023,M Theekshana,Chennai Super Kings,13,294,49.0,392,11.0,8.0,35.64,26.73
+93363,2023,KR Sen,Rajasthan Royals,2,18,3.0,28,,9.33,,
+93381,2023,A Zampa,Rajasthan Royals,6,132,22.0,188,8.0,8.55,23.5,16.5
+93550,2023,MM Sharma,Gujarat Titans,14,265,44.1,361,27.0,8.17,13.37,9.81
+93619,2023,K Rabada,Punjab Kings,6,138,23.0,233,7.0,10.13,33.29,19.71
+93673,2023,MW Short,Punjab Kings,3,24,4.0,25,,6.25,,
+93757,2023,AD Russell,Kolkata Knight Riders,9,91,15.1,172,7.0,11.34,24.57,13.0
+94142,2023,Vijaykumar Vyshak,Royal Challengers Bangalore,7,144,24.0,253,9.0,10.54,28.11,16.0
+94154,2023,PWH de Silva,Royal Challengers Bangalore,8,174,29.0,258,9.0,8.9,28.67,19.33
+94362,2023,Yudhvir Singh,Lucknow Super Giants,3,48,8.0,70,3.0,8.75,23.33,16.0
+94484,2023,Arjun Tendulkar,Mumbai Indians,4,59,9.5,92,3.0,9.36,30.67,19.67
+94511,2023,D Jansen,Mumbai Indians,1,24,4.0,53,1.0,13.25,53.0,24.0
+94930,2023,Noor Ahmad,Gujarat Titans,13,283,47.1,369,16.0,7.82,23.06,17.69
+95131,2023,M Pathirana,Chennai Super Kings,12,278,46.2,371,19.0,8.01,19.53,14.63
+95586,2023,Naveen-ul-Haq,Lucknow Super Giants,7,168,28.0,219,11.0,7.82,19.91,15.27
+95623,2023,MP Stoinis,Lucknow Super Giants,5,65,10.5,100,5.0,9.23,20.0,13.0
+95763,2023,LS Livingstone,Punjab Kings,5,42,7.0,94,2.0,13.43,47.0,21.0
+95945,2023,I Sharma,Delhi Capitals,8,150,25.0,206,10.0,8.24,20.6,15.0
+96081,2023,K Khejroliya,Kolkata Knight Riders,2,26,4.2,64,2.0,14.77,32.0,13.0
+96113,2023,AS Roy,Kolkata Knight Riders,3,48,8.0,65,3.0,8.12,21.67,16.0
+96119,2023,N Rana,Kolkata Knight Riders,6,54,9.0,75,3.0,8.33,25.0,18.0
+96384,2023,Mayank Dagar,Sunrisers Hyderabad,3,66,11.0,83,1.0,7.55,83.0,66.0
+96556,2023,J Yadav,Gujarat Titans,1,24,4.0,26,,6.5,,
+96622,2023,R Tewatia,Gujarat Titans,2,13,2.1,15,,6.92,,
+97180,2023,D Wiese,Kolkata Knight Riders,1,18,3.0,38,,12.67,,
+98039,2023,VG Arora,Kolkata Knight Riders,5,96,16.0,146,5.0,9.12,29.2,19.2
+98291,2023,K Yadav,Rajasthan Royals,2,42,7.0,68,2.0,9.71,34.0,21.0
+98406,2023,Gurnoor Brar,Punjab Kings,1,18,3.0,42,,14.0,,
+98556,2023,A Badoni,Lucknow Super Giants,1,1,0.1,0,,0.0,,
+98786,2023,Harshit Rana,Kolkata Knight Riders,6,102,17.0,147,5.0,8.65,29.4,20.4
+99031,2023,AJ Hosein,Sunrisers Hyderabad,1,24,4.0,40,1.0,10.0,40.0,24.0
+99073,2023,Abhishek Sharma,Sunrisers Hyderabad,5,72,12.0,124,2.0,10.33,62.0,36.0
+99787,2023,JR Hazlewood,Royal Challengers Bangalore,3,54,9.0,76,3.0,8.44,25.33,18.0
+99866,2023,MK Lomror,Royal Challengers Bangalore,2,12,2.0,17,,8.5,,
+100333,2023,Akash Madhwal,Mumbai Indians,8,153,25.3,219,15.0,8.59,14.6,10.2
+100539,2023,Kartik Tyagi,Sunrisers Hyderabad,3,38,6.2,92,1.0,14.53,92.0,38.0
+101133,2023,R Goyal,Mumbai Indians,1,24,4.0,33,,8.25,,
+101163,2023,T Stubbs,Mumbai Indians,1,12,2.0,14,1.0,7.0,14.0,12.0
+101425,2023,Mohsin Khan,Lucknow Super Giants,4,60,10.0,107,3.0,10.7,35.67,20.0
+101489,2023,Swapnil Singh,Lucknow Super Giants,2,12,2.0,18,,9.0,,
+101737,2023,Vivrant Sharma,Sunrisers Hyderabad,2,18,3.0,37,,12.33,,
+101899,2023,OC McCoy,Rajasthan Royals,1,6,1.0,13,,13.0,,
+102210,2023,CJ Jordan,Mumbai Indians,6,132,22.0,237,3.0,10.77,79.0,44.0
+102694,2023,JE Root,Rajasthan Royals,1,12,2.0,14,,7.0,,
+103246,2023,GD Phillips,Sunrisers Hyderabad,2,18,3.0,20,1.0,6.67,20.0,18.0
+103387,2023,P Dubey,Delhi Capitals,1,18,3.0,19,1.0,6.33,19.0,18.0
+104948,2023,Nithish Kumar Reddy,Sunrisers Hyderabad,2,30,5.0,54,,10.8,,
+105051,2023,Navdeep Saini,Rajasthan Royals,1,24,4.0,40,3.0,10.0,13.33,8.0
+106193,2023,H Sharma,Royal Challengers Bangalore,1,18,3.0,28,,9.33,,
+106285,2023,DG Nalkande,Gujarat Titans,1,24,4.0,44,1.0,11.0,44.0,24.0
+107219,2024,DL Chahar,Chennai Super Kings,8,141,23.3,202,5.0,8.6,40.4,28.2
+107226,2024,TU Deshpande,Chennai Super Kings,13,288,48.0,424,17.0,8.83,24.94,16.94
+107239,2024,M Theekshana,Chennai Super Kings,5,120,20.0,144,2.0,7.2,72.0,60.0
+107245,2024,Mustafizur Rahman,Chennai Super Kings,9,206,34.2,319,14.0,9.29,22.79,14.71
+107257,2024,RA Jadeja,Chennai Super Kings,14,282,47.0,369,8.0,7.85,46.12,35.25
+107348,2024,Mohammed Siraj,Royal Challengers Bengaluru,14,324,54.0,496,15.0,9.19,33.07,21.6
+107354,2024,Yash Dayal,Royal Challengers Bengaluru,14,301,50.1,459,15.0,9.15,30.6,20.07
+107373,2024,AS Joseph,Royal Challengers Bengaluru,3,58,9.4,115,1.0,11.9,115.0,58.0
+107386,2024,KV Sharma,Royal Challengers Bengaluru,9,144,24.0,254,7.0,10.58,36.29,20.57
+107392,2024,Mayank Dagar,Royal Challengers Bengaluru,5,71,11.5,120,1.0,10.14,120.0,71.0
+107410,2024,C Green,Royal Challengers Bengaluru,13,211,35.1,303,10.0,8.62,30.3,21.1
+107430,2024,GJ Maxwell,Royal Challengers Bengaluru,6,96,16.0,129,6.0,8.06,21.5,16.0
+107468,2024,SM Curran,Punjab Kings,13,246,41.0,416,16.0,10.15,26.0,15.38
+107475,2024,Arshdeep Singh,Punjab Kings,14,302,50.2,505,19.0,10.03,26.58,15.89
+107482,2024,K Rabada,Punjab Kings,11,252,42.0,372,11.0,8.86,33.82,22.91
+107501,2024,Harpreet Brar,Punjab Kings,13,228,38.0,303,7.0,7.97,43.29,32.57
+107507,2024,RD Chahar,Punjab Kings,9,186,31.0,279,10.0,9.0,27.9,18.6
+107513,2024,HV Patel,Punjab Kings,14,294,49.0,477,24.0,9.73,19.88,12.25
+107592,2024,KK Ahmed,Delhi Capitals,14,300,50.0,479,17.0,9.58,28.18,17.65
+107598,2024,I Sharma,Delhi Capitals,9,162,27.0,265,10.0,9.81,26.5,16.2
+107607,2024,MR Marsh,Delhi Capitals,3,48,8.0,103,1.0,12.88,103.0,48.0
+107631,2024,AR Patel,Delhi Capitals,14,264,44.0,337,11.0,7.66,30.64,24.0
+107637,2024,Kuldeep Yadav,Delhi Capitals,11,258,43.0,372,16.0,8.65,23.25,16.12
+107655,2024,Sumit Kumar,Delhi Capitals,2,20,3.2,38,,11.4,,
+107714,2024,B Kumar,Sunrisers Hyderabad,16,342,57.0,533,11.0,9.35,48.45,31.09
+107721,2024,M Jansen,Sunrisers Hyderabad,3,60,10.0,129,1.0,12.9,129.0,60.0
+107734,2024,T Natarajan,Sunrisers Hyderabad,14,308,51.2,465,19.0,9.06,24.47,16.21
+107740,2024,PJ Cummins,Sunrisers Hyderabad,16,366,61.0,566,18.0,9.28,31.44,20.33
+107759,2024,M Markande,Sunrisers Hyderabad,7,132,22.0,259,8.0,11.77,32.38,16.5
+107783,2024,Shahbaz Ahmed,Sunrisers Hyderabad,15,165,27.3,270,7.0,9.82,38.57,23.57
+107842,2024,MA Starc,Kolkata Knight Riders,13,251,41.5,444,17.0,10.61,26.12,14.76
+107849,2024,Harshit Rana,Kolkata Knight Riders,11,253,42.1,383,19.0,9.08,20.16,13.32
+107867,2024,CV Varun,Kolkata Knight Riders,14,300,50.0,402,21.0,8.04,19.14,14.29
+107879,2024,SP Narine,Kolkata Knight Riders,14,330,55.0,368,17.0,6.69,21.65,19.41
+107885,2024,AD Russell,Kolkata Knight Riders,14,176,29.2,295,19.0,10.06,15.53,9.26
+107897,2024,Suyash Sharma,Kolkata Knight Riders,2,24,4.0,51,,12.75,,
+107964,2024,Mohsin Khan,Lucknow Super Giants,10,228,38.0,385,10.0,10.13,38.5,22.8
+107971,2024,Naveen-ul-Haq,Lucknow Super Giants,10,219,36.3,372,14.0,10.19,26.57,15.64
+107995,2024,KH Pandya,Lucknow Super Giants,12,198,33.0,255,6.0,7.73,42.5,33.0
+108001,2024,Ravi Bishnoi,Lucknow Super Giants,14,262,43.4,383,10.0,8.77,38.3,26.2
+108013,2024,Yash Thakur,Lucknow Super Giants,10,213,35.3,402,11.0,11.32,36.55,19.36
+108058,2024,A Badoni,Lucknow Super Giants,2,12,2.0,25,,12.5,,
+108091,2024,TA Boult,Rajasthan Royals,15,320,53.2,443,16.0,8.31,27.69,20.0
+108097,2024,N Burger,Rajasthan Royals,5,102,17.0,145,7.0,8.53,20.71,14.57
+108121,2024,R Ashwin,Rajasthan Royals,14,330,55.0,467,9.0,8.49,51.89,36.67
+108128,2024,Avesh Khan,Rajasthan Royals,15,329,54.5,526,20.0,9.59,26.3,16.45
+108134,2024,YS Chahal,Rajasthan Royals,15,348,58.0,546,18.0,9.41,30.33,19.33
+108177,2024,Sandeep Sharma,Rajasthan Royals,10,228,38.0,311,13.0,8.18,23.92,17.54
+108215,2024,HH Pandya,Mumbai Indians,12,216,36.0,387,11.0,10.75,35.18,19.64
+108221,2024,L Wood,Mumbai Indians,2,36,6.0,93,1.0,15.5,93.0,36.0
+108233,2024,JJ Bumrah,Mumbai Indians,13,311,51.5,336,20.0,6.48,16.8,15.55
+108239,2024,SZ Mulani,Mumbai Indians,2,30,5.0,57,,11.4,,
+108245,2024,PP Chawla,Mumbai Indians,11,210,35.0,312,13.0,8.91,24.0,16.15
+108271,2024,Naman Dhir,Mumbai Indians,3,28,4.4,55,,11.79,,
+108283,2024,G Coetzee,Mumbai Indians,10,201,33.3,341,13.0,10.18,26.23,15.46
+108339,2024,Azmatullah Omarzai,Gujarat Titans,7,126,21.0,186,4.0,8.86,46.5,31.5
+108346,2024,UT Yadav,Gujarat Titans,7,126,21.0,210,8.0,10.0,26.25,15.75
+108371,2024,Rashid Khan,Gujarat Titans,12,262,43.4,367,10.0,8.4,36.7,26.2
+108377,2024,R Sai Kishore,Gujarat Titans,5,90,15.0,137,7.0,9.13,19.57,12.86
+108395,2024,SH Johnson,Gujarat Titans,5,96,16.0,151,4.0,9.44,37.75,24.0
+108407,2024,MM Sharma,Gujarat Titans,11,234,39.0,425,13.0,10.9,32.69,18.0
+108879,2024,DJ Mitchell,Chennai Super Kings,2,36,6.0,70,1.0,11.67,70.0,36.0
+108885,2024,M Pathirana,Chennai Super Kings,6,132,22.0,169,13.0,7.68,13.0,10.15
+108963,2024,KT Maphaka,Mumbai Indians,2,36,6.0,89,1.0,14.83,89.0,36.0
+109099,2024,JD Unadkat,Sunrisers Hyderabad,11,187,31.1,319,8.0,10.24,39.88,23.38
+109129,2024,Umran Malik,Sunrisers Hyderabad,1,6,1.0,15,,15.0,,
+109225,2024,Mukesh Kumar,Delhi Capitals,10,213,35.3,368,17.0,10.37,21.65,12.53
+109244,2024,A Nortje,Delhi Capitals,6,132,22.0,294,7.0,13.36,42.0,18.86
+109493,2024,AS Roy,Kolkata Knight Riders,3,34,5.4,60,,10.59,,
+109634,2024,Vijaykumar Vyshak,Royal Challengers Bengaluru,4,87,14.3,142,4.0,9.79,35.5,21.75
+109821,2024,M Siddharth,Lucknow Super Giants,3,54,9.0,72,1.0,8.0,72.0,54.0
+109875,2024,MP Yadav,Lucknow Super Giants,4,73,12.1,85,7.0,6.99,12.14,10.43
+109980,2024,Noor Ahmad,Gujarat Titans,10,209,34.5,290,8.0,8.33,36.25,26.12
+110034,2024,DG Nalkande,Gujarat Titans,3,29,4.5,45,3.0,9.31,15.0,9.67
+110101,2024,Washington Sundar,Sunrisers Hyderabad,2,30,5.0,73,1.0,14.6,73.0,30.0
+110355,2024,Rasikh Salam,Delhi Capitals,8,147,24.3,269,9.0,10.98,29.89,16.33
+110592,2024,Akash Madhwal,Mumbai Indians,5,109,18.1,205,5.0,11.28,41.0,21.8
+110663,2024,RJW Topley,Royal Challengers Bengaluru,4,90,15.0,168,4.0,11.2,42.0,22.5
+110862,2024,MP Stoinis,Lucknow Super Giants,7,84,14.0,126,4.0,9.0,31.5,21.0
+111051,2024,VG Arora,Kolkata Knight Riders,10,180,30.0,276,11.0,9.2,25.09,16.36
+111114,2024,VR Iyer,Kolkata Knight Riders,1,6,1.0,28,,28.0,,
+111210,2024,Sikandar Raza,Punjab Kings,1,12,2.0,22,,11.0,,
+111402,2024,Abhishek Sharma,Sunrisers Hyderabad,4,42,7.0,51,2.0,7.29,25.5,21.0
+111529,2024,Mukesh Choudhary,Chennai Super Kings,1,6,1.0,27,,27.0,,
+111590,2024,MM Ali,Chennai Super Kings,4,48,8.0,71,2.0,8.88,35.5,24.0
+111609,2024,R Ravindra,Chennai Super Kings,2,12,2.0,7,,3.5,,
+111697,2024,R Parag,Rajasthan Royals,2,18,3.0,27,,9.0,,
+111802,2024,H Sharma,Royal Challengers Bengaluru,1,12,2.0,29,,14.5,,
+111897,2024,JA Richardson,Delhi Capitals,1,24,4.0,40,,10.0,,
+111909,2024,Lalit Yadav,Delhi Capitals,2,18,3.0,56,,18.67,,
+112024,2024,R Shepherd,Mumbai Indians,5,72,12.0,159,1.0,13.25,159.0,72.0
+112043,2024,Mohammad Nabi,Mumbai Indians,6,74,12.2,109,2.0,8.84,54.5,37.0
+112390,2024,SN Thakur,Chennai Super Kings,9,190,31.4,309,5.0,9.76,61.8,38.0
+112769,2024,Nithish Kumar Reddy,Sunrisers Hyderabad,7,79,13.1,153,3.0,11.62,51.0,26.33
+113004,2024,KA Maharaj,Rajasthan Royals,2,36,6.0,39,2.0,6.5,19.5,18.0
+113034,2024,KR Sen,Rajasthan Royals,3,72,12.0,122,6.0,10.17,20.33,12.0
+113150,2024,S Gopal,Mumbai Indians,3,42,7.0,67,3.0,9.57,22.33,14.0
+113261,2024,Akash Deep,Royal Challengers Bengaluru,1,21,3.3,55,1.0,15.71,55.0,21.0
+113286,2024,WG Jacks,Royal Challengers Bengaluru,5,54,9.0,100,2.0,11.11,50.0,27.0
+113465,2024,Arshad Khan,Lucknow Super Giants,3,49,8.1,90,1.0,11.02,90.0,49.0
+113740,2024,LS Livingstone,Punjab Kings,4,72,12.0,84,3.0,7.0,28.0,24.0
+113951,2024,S Joseph,Lucknow Super Giants,1,24,4.0,47,,11.75,,
+113997,2024,Arshad Khan (2),Lucknow Super Giants,1,12,2.0,24,,12.0,,
+114330,2024,LH Ferguson,Royal Challengers Bengaluru,7,144,24.0,255,9.0,10.62,28.33,16.0
+114389,2024,MK Lomror,Royal Challengers Bengaluru,1,6,1.0,18,,18.0,,
+114882,2024,T Stubbs,Delhi Capitals,2,12,2.0,15,3.0,7.5,5.0,4.0
+114941,2024,S Sandeep Warrier,Gujarat Titans,5,66,11.0,119,6.0,10.82,19.83,11.0
+115248,2024,MJ Henry,Lucknow Super Giants,4,72,12.0,110,1.0,9.17,110.0,72.0
+116091,2024,M Shahrukh Khan,Gujarat Titans,2,12,2.0,15,,7.5,,
+116372,2024,N Thushara,Mumbai Indians,7,156,26.0,257,8.0,9.88,32.12,19.5
+116473,2024,Tilak Varma,Mumbai Indians,1,4,0.4,8,,12.0,,
+117120,2024,Swapnil Singh,Royal Challengers Bengaluru,7,90,15.0,133,6.0,8.87,22.17,15.0
+117354,2024,PVD Chameera,Kolkata Knight Riders,1,18,3.0,48,,16.0,,
+117466,2024,Ramandeep Singh,Kolkata Knight Riders,1,4,0.4,9,,13.5,,
+117597,2024,LB Williams,Delhi Capitals,2,36,6.0,73,1.0,12.17,73.0,36.0
+117901,2024,A Mishra,Lucknow Super Giants,1,12,2.0,20,1.0,10.0,20.0,12.0
+118733,2024,DJ Hooda,Lucknow Super Giants,2,18,3.0,22,,7.33,,
+119051,2024,RJ Gleeson,Chennai Super Kings,2,47,7.5,71,1.0,9.06,71.0,47.0
+119100,2024,S Dube,Chennai Super Kings,1,6,1.0,14,1.0,14.0,14.0,6.0
+119791,2024,J Little,Gujarat Titans,1,24,4.0,45,4.0,11.25,11.25,6.0
+119797,2024,MJ Suthar,Gujarat Titans,1,12,2.0,26,,13.0,,
+119993,2024,MJ Santner,Chennai Super Kings,3,54,9.0,64,2.0,7.11,32.0,27.0
+120049,2024,Simarjeet Singh,Chennai Super Kings,4,72,12.0,121,5.0,10.08,24.2,14.4
+120213,2024,Yudhvir Singh,Lucknow Super Giants,2,24,4.0,52,1.0,13.0,52.0,24.0
+120356,2024,A Kamboj,Mumbai Indians,3,60,10.0,114,2.0,11.4,57.0,30.0
+120876,2024,V Viyaskanth,Sunrisers Hyderabad,3,60,10.0,86,1.0,8.6,86.0,60.0
+120963,2024,K Gowtham,Lucknow Super Giants,1,12,2.0,29,,14.5,,
+121023,2024,V Kaverappa,Punjab Kings,1,24,4.0,36,2.0,9.0,18.0,12.0
+121410,2024,Kartik Tyagi,Gujarat Titans,1,24,4.0,51,,12.75,,
+122369,2024,Gulbadin Naib,Delhi Capitals,1,6,1.0,12,,12.0,,
+122468,2024,NT Ellis,Punjab Kings,1,24,4.0,24,1.0,6.0,24.0,24.0
+122687,2024,Arjun Tendulkar,Mumbai Indians,1,14,2.2,22,,9.43,,
+122718,2024,N Wadhera,Mumbai Indians,1,12,2.0,13,,6.5,,
+123322,2024,R Dhawan,Punjab Kings,1,18,3.0,35,,11.67,,
+123380,2024,Shashank Singh,Punjab Kings,1,6,1.0,5,1.0,5.0,5.0,6.0
+123437,2024,Atharva Taide,Punjab Kings,1,1,0.1,4,,24.0,,
+123630,2024,TM Head,Sunrisers Hyderabad,1,10,1.4,32,,19.2,,
+124088,2024,AK Markram,Sunrisers Hyderabad,2,12,2.0,15,,7.5,,
+124322,2025,JR Hazlewood,Royal Challengers Bengaluru,12,264,44.0,386,22.0,8.77,17.55,12.0
+124328,2025,Yash Dayal,Royal Challengers Bengaluru,15,294,49.0,470,13.0,9.59,36.15,22.62
+124340,2025,Rasikh Salam,Royal Challengers Bengaluru,2,36,6.0,70,1.0,11.67,70.0,36.0
+124346,2025,KH Pandya,Royal Challengers Bengaluru,15,276,46.0,379,17.0,8.24,22.29,16.24
+124358,2025,Suyash Sharma,Royal Challengers Bengaluru,14,300,50.0,442,8.0,8.84,55.25,37.5
+124404,2025,LS Livingstone,Royal Challengers Bengaluru,5,54,9.0,76,2.0,8.44,38.0,27.0
+124446,2025,VG Arora,Kolkata Knight Riders,12,255,42.3,430,17.0,10.12,25.29,15.0
+124453,2025,SH Johnson,Kolkata Knight Riders,4,68,11.2,133,1.0,11.74,133.0,68.0
+124465,2025,CV Varun,Kolkata Knight Riders,13,300,50.0,383,17.0,7.66,22.53,17.65
+124477,2025,Harshit Rana,Kolkata Knight Riders,13,264,44.0,448,15.0,10.18,29.87,17.6
+124489,2025,SP Narine,Kolkata Knight Riders,12,270,45.0,351,12.0,7.8,29.25,22.5
+124545,2025,Fazalhaq Farooqi,Rajasthan Royals,5,102,17.0,210,,12.35,,
+124551,2025,M Theekshana,Rajasthan Royals,11,252,42.0,410,11.0,9.76,37.27,22.91
+124571,2025,JC Archer,Rajasthan Royals,12,273,45.3,431,11.0,9.47,39.18,24.82
+124585,2025,Sandeep Sharma,Rajasthan Royals,10,223,37.1,374,9.0,10.06,41.56,24.78
+124591,2025,N Rana,Rajasthan Royals,2,12,2.0,18,,9.0,,
+124603,2025,TU Deshpande,Rajasthan Royals,10,192,32.0,340,9.0,10.62,37.78,21.33
+124678,2025,Mohammed Shami,Sunrisers Hyderabad,9,180,30.0,337,6.0,11.23,56.17,30.0
+124685,2025,Simarjeet Singh,Sunrisers Hyderabad,4,60,10.0,141,2.0,14.1,70.5,30.0
+124710,2025,PJ Cummins,Sunrisers Hyderabad,14,298,49.4,450,16.0,9.06,28.12,18.62
+124716,2025,Abhishek Sharma,Sunrisers Hyderabad,6,66,11.0,112,,10.18,,
+124722,2025,A Zampa,Sunrisers Hyderabad,2,48,8.0,94,2.0,11.75,47.0,24.0
+124734,2025,HV Patel,Sunrisers Hyderabad,13,263,43.5,430,16.0,9.81,26.88,16.44
+124807,2025,KK Ahmed,Chennai Super Kings,14,280,46.4,447,15.0,9.58,29.8,18.67
+124813,2025,SM Curran,Chennai Super Kings,5,72,12.0,133,1.0,11.08,133.0,72.0
+124825,2025,NT Ellis,Chennai Super Kings,1,24,4.0,38,1.0,9.5,38.0,24.0
+124831,2025,R Ashwin,Chennai Super Kings,9,186,31.0,283,7.0,9.13,40.43,26.57
+124844,2025,RA Jadeja,Chennai Super Kings,14,227,37.5,324,10.0,8.56,32.4,22.7
+124850,2025,Noor Ahmad,Chennai Super Kings,14,300,50.0,408,24.0,8.16,17.0,12.5
+124932,2025,TA Boult,Mumbai Indians,16,346,57.4,517,22.0,8.97,23.5,15.73
+124939,2025,DL Chahar,Mumbai Indians,14,246,41.0,376,11.0,9.17,34.18,22.36
+124957,2025,PVSN Raju,Mumbai Indians,2,24,4.0,53,1.0,13.25,53.0,24.0
+124964,2025,MJ Santner,Mumbai Indians,13,237,39.3,313,10.0,7.92,31.3,23.7
+124970,2025,WG Jacks,Mumbai Indians,8,84,14.0,120,6.0,8.57,20.0,14.0
+124976,2025,V Puthur,Mumbai Indians,5,72,12.0,109,6.0,9.08,18.17,12.0
+125013,2025,Naman Dhir,Mumbai Indians,2,24,4.0,21,,5.25,,
+125050,2025,MA Starc,Delhi Capitals,11,228,38.0,400,14.0,10.53,28.57,16.29
+125056,2025,AR Patel,Delhi Capitals,12,216,36.0,313,5.0,8.69,62.6,43.2
+125074,2025,V Nigam,Delhi Capitals,13,234,39.0,356,12.0,9.13,29.67,19.5
+125080,2025,Mukesh Kumar,Delhi Capitals,12,237,39.3,408,12.0,10.33,34.0,19.75
+125093,2025,Kuldeep Yadav,Delhi Capitals,14,318,53.0,390,15.0,7.36,26.0,21.2
+125099,2025,MM Sharma,Delhi Capitals,8,150,25.0,257,2.0,10.28,128.5,75.0
+125125,2025,T Stubbs,Delhi Capitals,2,12,2.0,40,,20.0,,
+125175,2025,SN Thakur,Lucknow Super Giants,10,204,34.0,375,15.0,11.03,25.0,13.6
+125181,2025,M Siddharth,Lucknow Super Giants,2,42,7.0,67,2.0,9.57,33.5,21.0
+125187,2025,DS Rathi,Lucknow Super Giants,13,312,52.0,429,14.0,8.25,30.64,22.29
+125213,2025,Ravi Bishnoi,Lucknow Super Giants,11,222,37.0,401,9.0,10.84,44.56,24.67
+125231,2025,Prince Yadav,Lucknow Super Giants,6,137,22.5,225,3.0,9.85,75.0,45.67
+125262,2025,Shahbaz Ahmed,Lucknow Super Giants,3,51,8.3,102,1.0,12.0,102.0,51.0
+125296,2025,Mohammed Siraj,Gujarat Titans,15,342,57.0,527,16.0,9.25,32.94,21.38
+125302,2025,K Rabada,Gujarat Titans,4,84,14.0,162,2.0,11.57,81.0,42.0
+125320,2025,Arshad Khan,Gujarat Titans,9,126,21.0,217,6.0,10.33,36.17,21.0
+125333,2025,Rashid Khan,Gujarat Titans,15,330,55.0,514,9.0,9.35,57.11,36.67
+125339,2025,M Prasidh Krishna,Gujarat Titans,15,354,59.0,488,25.0,8.27,19.52,14.16
+125345,2025,R Sai Kishore,Gujarat Titans,15,255,42.3,393,19.0,9.25,20.68,13.42
+125422,2025,Arshdeep Singh,Punjab Kings,16,350,58.2,518,21.0,8.88,24.67,16.67
+125428,2025,Azmatullah Omarzai,Punjab Kings,8,162,27.0,279,8.0,10.33,34.88,20.25
+125446,2025,M Jansen,Punjab Kings,14,283,47.1,435,16.0,9.22,27.19,17.69
+125452,2025,GJ Maxwell,Punjab Kings,6,78,13.0,110,4.0,8.46,27.5,19.5
+125459,2025,MP Stoinis,Punjab Kings,9,85,14.1,175,1.0,12.35,175.0,85.0
+125465,2025,YS Chahal,Punjab Kings,13,270,45.0,430,16.0,9.56,26.88,16.88
+125509,2025,Vijaykumar Vyshak,Punjab Kings,5,102,17.0,181,4.0,10.65,45.25,25.5
+125587,2025,MM Ali,Kolkata Knight Riders,5,96,16.0,136,6.0,8.5,22.67,16.0
+125700,2025,R Parag,Rajasthan Royals,9,120,20.0,170,3.0,8.5,56.67,40.0
+125718,2025,PWH de Silva,Rajasthan Royals,11,246,41.0,371,11.0,9.05,33.73,22.36
+125790,2025,Avesh Khan,Lucknow Super Giants,13,284,47.2,487,13.0,10.29,37.46,21.85
+126016,2025,Ishan Kishan,Sunrisers Hyderabad,1,1,0.1,4,,24.0,,
+126068,2025,M Pathirana,Chennai Super Kings,12,251,41.5,424,13.0,10.14,32.62,19.31
+126145,2025,B Kumar,Royal Challengers Bengaluru,14,312,52.0,483,17.0,9.29,28.41,18.35
+126292,2025,Mujeeb Ur Rahman,Mumbai Indians,1,12,2.0,28,1.0,14.0,28.0,12.0
+126305,2025,HH Pandya,Mumbai Indians,14,210,35.0,342,14.0,9.77,24.43,15.0
+126415,2025,I Sharma,Gujarat Titans,7,110,18.2,205,4.0,11.18,51.25,27.5
+126686,2025,Zeeshan Ansari,Sunrisers Hyderabad,10,203,33.5,333,6.0,9.84,55.5,33.83
+126735,2025,PWA Mulder,Sunrisers Hyderabad,1,6,1.0,16,,16.0,,
+126747,2025,J Overton,Chennai Super Kings,3,36,6.0,83,,13.83,,
+126928,2025,K Kartikeya,Rajasthan Royals,4,48,8.0,78,2.0,9.75,39.0,24.0
+127010,2025,Ashwani Kumar,Mumbai Indians,7,123,20.3,232,11.0,11.32,21.09,11.18
+127125,2025,AD Russell,Kolkata Knight Riders,9,109,18.1,217,8.0,11.94,27.12,13.62
+127179,2025,LH Ferguson,Punjab Kings,4,68,11.2,104,6.0,9.18,17.33,11.33
+127396,2025,Abdul Samad,Lucknow Super Giants,1,2,0.2,6,,18.0,,
+127702,2025,PHKD Mendis,Sunrisers Hyderabad,4,42,7.0,60,2.0,8.57,30.0,21.0
+127991,2025,Akash Deep,Lucknow Super Giants,6,114,19.0,229,3.0,12.05,76.33,38.0
+128115,2025,Mukesh Choudhary,Chennai Super Kings,2,36,6.0,71,1.0,11.83,71.0,36.0
+128492,2025,Yudhvir Singh,Rajasthan Royals,4,66,11.0,132,4.0,12.0,33.0,16.5
+129036,2025,JD Unadkat,Sunrisers Hyderabad,7,143,23.5,175,11.0,7.34,15.91,13.0
+129120,2025,JJ Bumrah,Mumbai Indians,12,284,47.2,316,18.0,6.68,17.56,15.78
+129485,2025,Yash Thakur,Punjab Kings,2,39,6.3,79,1.0,12.15,79.0,39.0
+129783,2025,K Khejroliya,Gujarat Titans,1,18,3.0,29,1.0,9.67,29.0,18.0
+130234,2025,A Kamboj,Chennai Super Kings,8,129,21.3,172,8.0,8.0,21.5,16.12
+130337,2025,AK Markram,Lucknow Super Giants,5,66,11.0,102,4.0,9.27,25.5,16.5
+130472,2025,Washington Sundar,Gujarat Titans,5,65,10.5,111,2.0,10.25,55.5,32.5
+130581,2025,E Malinga,Sunrisers Hyderabad,7,160,26.4,238,13.0,8.93,18.31,12.31
+130743,2025,Shashank Singh,Punjab Kings,1,12,2.0,27,,13.5,,
+131197,2025,KV Sharma,Mumbai Indians,5,90,15.0,128,7.0,8.53,18.29,12.86
+131526,2025,A Nortje,Kolkata Knight Riders,2,42,7.0,83,1.0,11.86,83.0,42.0
+131622,2025,XC Bartlett,Punjab Kings,4,60,10.0,96,2.0,9.6,48.0,30.0
+132155,2025,RD Chahar,Sunrisers Hyderabad,1,6,1.0,9,,9.0,,
+132278,2025,Harpreet Brar,Punjab Kings,7,132,22.0,190,10.0,8.64,19.0,13.2
+132911,2025,R Shepherd,Royal Challengers Bengaluru,7,84,14.0,151,6.0,10.79,25.17,14.0
+133100,2025,N Wadhera,Punjab Kings,1,5,0.5,9,,10.8,,
+133612,2025,PVD Chameera,Delhi Capitals,6,102,17.0,198,4.0,11.65,49.5,25.5
+134534,2025,C Sakariya,Kolkata Knight Riders,1,18,3.0,39,,13.0,,
+134658,2025,MP Yadav,Lucknow Super Giants,2,48,8.0,100,2.0,12.5,50.0,24.0
+134846,2025,C Bosch,Mumbai Indians,2,42,7.0,55,1.0,7.86,55.0,42.0
+135333,2025,Karim Janat,Gujarat Titans,1,6,1.0,30,,30.0,,
+135506,2025,AS Roy,Kolkata Knight Riders,1,24,4.0,27,1.0,6.75,27.0,24.0
+135695,2025,Suryansh Shedge,Punjab Kings,1,18,3.0,40,,13.33,,
+135923,2025,Akash Madhwal,Rajasthan Royals,4,90,15.0,166,4.0,11.07,41.5,22.5
+136275,2025,G Coetzee,Gujarat Titans,4,72,12.0,131,2.0,10.92,65.5,36.0
+136511,2025,L Ngidi,Royal Challengers Bengaluru,2,48,8.0,81,4.0,10.12,20.25,12.0
+136854,2025,Akash Singh,Lucknow Super Giants,3,67,11.1,99,4.0,8.87,24.75,16.75
+137749,2025,T Natarajan,Delhi Capitals,2,25,4.1,53,1.0,12.72,53.0,25.0
+137768,2025,M Tiwari,Delhi Capitals,1,6,1.0,14,,14.0,,
+137793,2025,KT Maphaka,Rajasthan Royals,2,30,5.0,54,1.0,10.8,54.0,30.0
+138171,2025,Mustafizur Rahman,Delhi Capitals,3,66,11.0,87,4.0,7.91,21.75,16.5
+138276,2025,Harsh Dubey,Sunrisers Hyderabad,3,60,10.0,98,5.0,9.8,19.6,12.0
+138345,2025,Nithish Kumar Reddy,Sunrisers Hyderabad,3,30,5.0,47,2.0,9.4,23.5,15.0
+138409,2025,W O'Rourke,Lucknow Super Giants,3,62,10.2,132,6.0,12.77,22.0,10.33
+139236,2025,A Badoni,Lucknow Super Giants,2,10,1.4,13,2.0,7.8,6.5,5.0
+139565,2025,M Shahrukh Khan,Gujarat Titans,1,6,1.0,13,1.0,13.0,13.0,6.0
+139657,2025,S Dube,Chennai Super Kings,1,12,2.0,33,,16.5,,
+139701,2025,DJ Hooda,Chennai Super Kings,1,6,1.0,15,,15.0,,
+139984,2025,KA Jamieson,Punjab Kings,4,90,15.0,147,5.0,9.8,29.4,18.0
+140223,2025,N Thushara,Royal Challengers Bengaluru,1,24,4.0,26,1.0,6.5,26.0,24.0
+140596,2025,Musheer Khan,Punjab Kings,1,12,2.0,27,1.0,13.5,27.0,12.0
+140757,2025,RJ Gleeson,Mumbai Indians,1,21,3.3,39,1.0,11.14,39.0,21.0
+140994,2025,RJW Topley,Mumbai Indians,1,18,3.0,40,,13.33,,
+141534,2025,P Dubey,Punjab Kings,1,12,2.0,20,1.0,10.0,20.0,12.0
+141607,2007/08,P Kumar,Royal Challengers Bangalore,13,268,44.4,366,11.0,8.19,33.27,24.36
+141614,2007/08,Z Khan,Royal Challengers Bangalore,11,252,42.0,357,14.0,8.5,25.5,18.0
+141626,2007/08,AA Noffke,Royal Challengers Bangalore,1,24,4.0,40,1.0,10.0,40.0,24.0
+141657,2007/08,JH Kallis,Royal Challengers Bangalore,11,206,34.2,311,4.0,9.06,77.75,51.5
+141663,2007/08,SB Joshi,Royal Challengers Bangalore,4,55,9.1,82,1.0,8.95,82.0,55.0
+141694,2007/08,CL White,Royal Challengers Bangalore,1,6,1.0,24,,24.0,,
+141731,2007/08,AB Dinda,Kolkata Knight Riders,12,234,39.0,260,9.0,6.67,28.89,26.0
+141738,2007/08,I Sharma,Kolkata Knight Riders,13,253,42.1,329,7.0,7.8,47.0,36.14
+141757,2007/08,AB Agarkar,Kolkata Knight Riders,9,156,26.0,207,8.0,7.96,25.88,19.5
+141777,2007/08,SC Ganguly,Kolkata Knight Riders,7,120,20.0,128,6.0,6.4,21.33,20.0
+141810,2007/08,LR Shukla,Kolkata Knight Riders,9,72,12.0,124,6.0,10.33,20.67,12.0
+141832,2007/08,B Lee,Kings XI Punjab,4,96,16.0,112,4.0,7.0,28.0,24.0
+141838,2007/08,S Sreesanth,Kings XI Punjab,15,307,51.1,442,19.0,8.64,23.26,16.16
+141864,2007/08,JR Hopes,Kings XI Punjab,11,168,28.0,276,7.0,9.86,39.43,24.0
+141870,2007/08,IK Pathan,Kings XI Punjab,14,318,53.0,350,15.0,6.6,23.33,21.2
+141888,2007/08,K Goel,Kings XI Punjab,1,12,2.0,25,,12.5,,
+141894,2007/08,PP Chawla,Kings XI Punjab,15,281,46.5,389,17.0,8.31,22.88,16.53
+141906,2007/08,WA Mota,Kings XI Punjab,2,18,3.0,36,1.0,12.0,36.0,18.0
+141956,2007/08,JDP Oram,Chennai Super Kings,4,96,16.0,149,3.0,9.31,49.67,32.0
+141962,2007/08,MS Gony,Chennai Super Kings,16,360,60.0,443,17.0,7.38,26.06,21.18
+141994,2007/08,M Muralitharan,Chennai Super Kings,15,348,58.0,404,11.0,6.97,36.73,31.64
+142000,2007/08,P Amarnath,Chennai Super Kings,6,132,22.0,236,7.0,10.73,33.71,18.86
+142006,2007/08,Joginder Sharma,Chennai Super Kings,7,148,24.4,239,8.0,9.69,29.88,18.5
+142080,2007/08,GD McGrath,Delhi Daredevils,14,324,54.0,357,12.0,6.61,29.75,27.0
+142087,2007/08,B Geeves,Delhi Daredevils,2,48,8.0,91,1.0,11.38,91.0,48.0
+142111,2007/08,MF Maharoof,Delhi Daredevils,10,216,36.0,249,15.0,6.92,16.6,14.4
+142117,2007/08,R Bhatia,Delhi Daredevils,9,132,22.0,183,6.0,8.32,30.5,22.0
+142147,2007/08,DL Vettori,Delhi Daredevils,2,48,8.0,54,2.0,6.75,27.0,24.0
+142202,2007/08,MM Patel,Rajasthan Royals,15,330,55.0,420,14.0,7.64,30.0,23.57
+142208,2007/08,SR Watson,Rajasthan Royals,15,325,54.1,383,17.0,7.07,22.53,19.12
+142233,2007/08,SK Trivedi,Rajasthan Royals,15,288,48.0,399,13.0,8.31,30.69,22.15
+142253,2007/08,SK Warne,Rajasthan Royals,15,312,52.0,404,19.0,7.77,21.26,16.42
+142259,2007/08,YK Pathan,Rajasthan Royals,13,169,28.1,230,8.0,8.17,28.75,21.12
+142278,2007/08,D Salunkhe,Rajasthan Royals,5,47,7.5,78,1.0,9.96,78.0,47.0
+142337,2007/08,R Vinay Kumar,Royal Challengers Bangalore,8,138,23.0,182,5.0,7.91,36.4,27.6
+142343,2007/08,B Akhil,Royal Challengers Bangalore,6,104,17.2,134,2.0,7.73,67.0,52.0
+142422,2007/08,A Nehra,Mumbai Indians,14,269,44.5,348,12.0,7.76,29.0,22.42
+142428,2007/08,SM Pollock,Mumbai Indians,13,276,46.0,301,11.0,6.54,27.36,25.09
+142446,2007/08,DS Kulkarni,Mumbai Indians,10,177,29.3,236,11.0,8.0,21.45,16.09
+142465,2007/08,ST Jayasuriya,Mumbai Indians,8,126,21.0,159,4.0,7.57,39.75,31.5
+142471,2007/08,Harbhajan Singh,Mumbai Indians,3,60,10.0,82,5.0,8.2,16.4,12.0
+142496,2007/08,AM Nayar,Mumbai Indians,5,42,7.0,68,1.0,9.71,68.0,42.0
+142584,2007/08,M Kartik,Kolkata Knight Riders,5,88,14.4,127,3.0,8.66,42.33,29.33
+142590,2007/08,Mohammad Hafeez,Kolkata Knight Riders,4,60,10.0,68,2.0,6.8,34.0,30.0
+142621,2007/08,DJ Hussey,Kolkata Knight Riders,5,78,13.0,130,2.0,10.0,65.0,39.0
+142663,2007/08,WPUJC Vaas,Deccan Chargers,5,103,17.1,145,5.0,8.45,29.0,20.6
+142669,2007/08,RP Singh,Deccan Chargers,14,308,51.2,442,15.0,8.61,29.47,20.53
+142693,2007/08,SB Styris,Deccan Chargers,8,162,27.0,199,3.0,7.37,66.33,54.0
+142699,2007/08,SB Bangar,Deccan Chargers,9,150,25.0,219,4.0,8.76,54.75,37.5
+142732,2007/08,A Symonds,Deccan Chargers,3,41,6.5,101,,14.78,,
+142741,2007/08,PP Ojha,Deccan Chargers,12,222,37.0,284,11.0,7.68,25.82,20.18
+142852,2007/08,Pankaj Singh,Rajasthan Royals,5,72,12.0,129,,10.75,,
+143032,2007/08,Mohammad Asif,Delhi Daredevils,8,192,32.0,296,8.0,9.25,37.0,24.0
+143074,2007/08,VY Mahesh,Delhi Daredevils,11,253,42.1,370,16.0,8.77,23.12,15.81
+143191,2007/08,Shahid Afridi,Deccan Chargers,10,180,30.0,225,9.0,7.5,25.0,20.0
+143283,2007/08,DJ Bravo,Mumbai Indians,9,171,28.3,232,11.0,8.14,21.09,15.55
+143301,2007/08,VS Yeligati,Mumbai Indians,2,30,5.0,59,,11.8,,
+143320,2007/08,MA Khote,Mumbai Indians,2,30,5.0,51,2.0,10.2,25.5,15.0
+143649,2007/08,D Kalyankrishna,Deccan Chargers,3,48,8.0,87,2.0,10.88,43.5,24.0
+143884,2007/08,VRV Singh,Kings XI Punjab,13,288,48.0,420,11.0,8.75,38.18,26.18
+143990,2007/08,Sohail Tanvir,Rajasthan Royals,11,248,41.2,266,22.0,6.44,12.09,11.27
+144151,2007/08,A Kumble,Royal Challengers Bangalore,10,231,38.3,304,7.0,7.9,43.43,33.0
+144453,2007/08,DNT Zoysa,Deccan Chargers,3,66,11.0,99,2.0,9.0,49.5,33.0
+144601,2007/08,SD Chitnis,Mumbai Indians,2,36,6.0,60,2.0,10.0,30.0,18.0
+144717,2007/08,Yuvraj Singh,Kings XI Punjab,6,54,9.0,83,3.0,9.22,27.67,18.0
+144815,2007/08,Shoaib Malik,Delhi Daredevils,5,51,8.3,85,2.0,10.0,42.5,25.5
+144896,2007/08,DW Steyn,Royal Challengers Bangalore,10,228,38.0,252,10.0,6.63,25.2,22.8
+145057,2007/08,JA Morkel,Chennai Super Kings,13,288,48.0,399,17.0,8.31,23.47,16.94
+145161,2007/08,CRD Fernando,Mumbai Indians,5,120,20.0,160,10.0,8.0,16.0,12.0
+145453,2007/08,V Kohli,Royal Challengers Bangalore,4,46,7.4,61,2.0,7.96,30.5,23.0
+145587,2007/08,V Sehwag,Delhi Daredevils,7,66,11.0,133,3.0,12.09,44.33,22.0
+145697,2007/08,Gagandeep Singh,Kings XI Punjab,4,84,14.0,141,3.0,10.07,47.0,28.0
+145794,2007/08,Y Venugopal Rao,Deccan Chargers,7,84,14.0,137,2.0,9.79,68.5,42.0
+145899,2007/08,Umar Gul,Kolkata Knight Riders,6,135,22.3,184,12.0,8.18,15.33,11.25
+146144,2007/08,PJ Sangwan,Delhi Daredevils,7,144,24.0,215,5.0,8.96,43.0,28.8
+146243,2007/08,M Ntini,Chennai Super Kings,9,210,35.0,242,7.0,6.91,34.57,30.0
+146517,2007/08,DP Vijaykumar,Deccan Chargers,9,152,25.2,199,4.0,7.86,49.75,38.0
+146553,2007/08,DB Ravi Teja,Deccan Chargers,1,12,2.0,19,1.0,9.5,19.0,12.0
+146595,2007/08,LPC Silva,Deccan Chargers,1,6,1.0,21,,21.0,,
+147033,2007/08,DJ Thornely,Mumbai Indians,4,42,7.0,40,3.0,5.71,13.33,14.0
+147051,2007/08,RR Raje,Mumbai Indians,6,98,16.2,137,5.0,8.39,27.4,19.6
+147255,2007/08,SK Raina,Chennai Super Kings,2,20,3.2,30,1.0,9.0,30.0,20.0
+147267,2007/08,S Vidyut,Chennai Super Kings,1,12,2.0,22,1.0,11.0,22.0,12.0
+148028,2007/08,L Balaji,Chennai Super Kings,9,198,33.0,286,11.0,8.67,26.0,18.0
+148073,2007/08,CK Kapugedera,Chennai Super Kings,3,17,2.5,49,,17.29,,
+148697,2007/08,DR Smith,Mumbai Indians,4,66,11.0,83,5.0,7.55,16.6,13.2
+149364,2007/08,AD Mascarenhas,Rajasthan Royals,1,24,4.0,29,2.0,7.25,14.5,12.0
+149551,2007/08,A Mishra,Delhi Daredevils,6,119,19.5,138,11.0,6.96,12.55,10.82
+149958,2007/08,Shoaib Akhtar,Kolkata Knight Riders,3,42,7.0,54,5.0,7.71,10.8,8.4
+150014,2007/08,Iqbal Abdulla,Kolkata Knight Riders,1,18,3.0,22,,7.33,,
+150450,2007/08,RR Powar,Kings XI Punjab,5,72,12.0,91,3.0,7.58,30.33,24.0
+150565,2007/08,PM Sarvesh Kumar,Deccan Chargers,2,30,5.0,42,1.0,8.4,42.0,30.0
+151086,2007/08,Abdur Razzak,Royal Challengers Bangalore,1,12,2.0,29,,14.5,,
+151274,2007/08,RA Jadeja,Rajasthan Royals,2,13,2.1,21,,9.69,,
+151783,2007/08,TM Dilshan,Delhi Daredevils,1,6,1.0,3,1.0,3.0,3.0,6.0
+152838,2007/08,RG Sharma,Deccan Chargers,1,24,4.0,25,1.0,6.25,25.0,24.0
+153069,2007/08,A Nel,Mumbai Indians,1,18,3.0,31,1.0,10.33,31.0,18.0
+153671,2007/08,BAW Mendis,Kolkata Knight Riders,1,24,4.0,24,1.0,6.0,24.0,24.0
+155096,2009,MS Gony,Chennai Super Kings,7,102,17.0,172,5.0,10.12,34.4,20.4
+155102,2009,T Thushara,Chennai Super Kings,2,48,8.0,60,3.0,7.5,20.0,16.0
+155120,2009,A Flintoff,Chennai Super Kings,3,66,11.0,105,2.0,9.55,52.5,33.0
+155132,2009,JDP Oram,Chennai Super Kings,7,93,15.3,133,5.0,8.58,26.6,18.6
+155138,2009,Joginder Sharma,Chennai Super Kings,4,42,7.0,57,2.0,8.14,28.5,21.0
+155217,2009,SL Malinga,Mumbai Indians,13,297,49.3,312,18.0,6.3,17.33,16.5
+155223,2009,Z Khan,Mumbai Indians,6,126,21.0,142,6.0,6.76,23.67,21.0
+155229,2009,DJ Bravo,Mumbai Indians,11,199,33.1,259,11.0,7.81,23.55,18.09
+155255,2009,RR Raje,Mumbai Indians,4,41,6.5,72,1.0,10.54,72.0,41.0
+155261,2009,Harbhajan Singh,Mumbai Indians,13,264,44.0,256,12.0,5.82,21.33,22.0
+155267,2009,ST Jayasuriya,Mumbai Indians,9,114,19.0,163,7.0,8.58,23.29,16.29
+155340,2009,AD Mascarenhas,Rajasthan Royals,5,116,19.2,132,6.0,6.83,22.0,19.33
+155346,2009,Kamran Khan,Rajasthan Royals,5,113,18.5,139,7.0,7.38,19.86,16.14
+155358,2009,MM Patel,Rajasthan Royals,11,209,34.5,241,16.0,6.92,15.06,13.06
+155388,2009,T Henderson,Rajasthan Royals,2,36,6.0,40,1.0,6.67,40.0,36.0
+155406,2009,SK Warne,Rajasthan Royals,13,300,50.0,365,14.0,7.3,26.07,21.43
+155412,2009,YK Pathan,Rajasthan Royals,11,210,35.0,243,7.0,6.94,34.71,30.0
+155462,2009,P Kumar,Royal Challengers Bangalore,13,298,49.4,394,13.0,7.93,30.31,22.92
+155469,2009,DW Steyn,Royal Challengers Bangalore,3,54,9.0,62,2.0,6.89,31.0,27.0
+155498,2009,R Vinay Kumar,Royal Challengers Bangalore,11,194,32.2,271,9.0,8.38,30.11,21.56
+155504,2009,JD Ryder,Royal Challengers Bangalore,5,102,17.0,115,3.0,6.76,38.33,34.0
+155523,2009,A Kumble,Royal Challengers Bangalore,16,355,59.1,347,21.0,5.86,16.52,16.9
+155561,2009,DP Nannes,Delhi Daredevils,13,297,49.3,372,15.0,7.52,24.8,19.8
+155569,2009,AM Salvi,Delhi Daredevils,5,102,17.0,134,4.0,7.88,33.5,25.5
+155575,2009,PJ Sangwan,Delhi Daredevils,13,280,46.4,360,15.0,7.71,24.0,18.67
+155581,2009,VY Mahesh,Delhi Daredevils,1,12,2.0,25,1.0,12.5,25.0,12.0
+155600,2009,DL Vettori,Delhi Daredevils,7,139,23.1,181,7.0,7.81,25.86,19.86
+155637,2009,IK Pathan,Kings XI Punjab,14,302,50.2,390,17.0,7.75,22.94,17.76
+155644,2009,YA Abdulla,Kings XI Punjab,9,168,28.0,241,14.0,8.61,17.21,12.0
+155651,2009,VS Malik,Kings XI Punjab,5,72,12.0,98,2.0,8.17,49.0,36.0
+155657,2009,VRV Singh,Kings XI Punjab,4,54,9.0,82,1.0,9.11,82.0,54.0
+155663,2009,PP Chawla,Kings XI Punjab,14,269,44.5,308,12.0,6.87,25.67,22.42
+155669,2009,FH Edwards,Deccan Chargers,6,140,23.2,154,5.0,6.6,30.8,28.0
+155675,2009,RP Singh,Deccan Chargers,16,359,59.5,417,23.0,6.97,18.13,15.61
+155699,2009,Harmeet Singh,Deccan Chargers,7,137,22.5,192,3.0,8.41,64.0,45.67
+155706,2009,PP Ojha,Deccan Chargers,15,321,53.3,348,18.0,6.5,19.33,17.83
+155724,2009,SB Styris,Deccan Chargers,2,48,8.0,64,5.0,8.0,12.8,9.6
+155788,2009,AB Dinda,Kolkata Knight Riders,8,144,24.0,193,4.0,8.04,48.25,36.0
+155794,2009,I Sharma,Kolkata Knight Riders,11,258,43.0,297,11.0,6.91,27.0,23.45
+155824,2009,M Kartik,Kolkata Knight Riders,10,204,34.0,201,4.0,5.91,50.25,51.0
+155830,2009,SC Ganguly,Kolkata Knight Riders,6,72,12.0,97,2.0,8.08,48.5,36.0
+155842,2009,AB Agarkar,Kolkata Knight Riders,11,186,31.0,284,6.0,9.16,47.33,31.0
+155855,2009,CH Gayle,Kolkata Knight Riders,7,113,18.5,144,1.0,7.65,144.0,113.0
+155867,2009,MC Henriques,Kolkata Knight Riders,4,73,12.1,107,2.0,8.79,53.5,36.5
+155893,2009,JH Kallis,Royal Challengers Bangalore,14,276,46.0,353,6.0,7.67,58.83,46.0
+155905,2009,V Kohli,Royal Challengers Bangalore,3,36,6.0,46,,7.67,,
+155930,2009,KP Pietersen,Royal Challengers Bangalore,4,78,13.0,85,4.0,6.54,21.25,19.5
+155948,2009,LRPL Taylor,Royal Challengers Bangalore,1,6,1.0,13,,13.0,,
+155998,2009,L Balaji,Chennai Super Kings,13,224,37.2,316,13.0,8.46,24.31,17.23
+156011,2009,JA Morkel,Chennai Super Kings,12,240,40.0,328,13.0,8.2,25.23,18.46
+156037,2009,M Muralitharan,Chennai Super Kings,13,300,50.0,261,14.0,5.22,18.64,21.43
+156142,2009,LR Shukla,Kolkata Knight Riders,5,84,14.0,100,3.0,7.14,33.33,28.0
+156273,2009,RS Bopara,Kings XI Punjab,2,8,1.2,5,,3.75,,
+156649,2009,A Nehra,Delhi Daredevils,13,306,51.0,346,19.0,6.78,18.21,16.11
+156713,2009,MK Tiwary,Delhi Daredevils,1,6,1.0,11,,11.0,,
+156774,2009,Anureet Singh,Kolkata Knight Riders,2,30,5.0,47,2.0,9.4,23.5,15.0
+156805,2009,BAW Mendis,Kolkata Knight Riders,4,100,16.4,135,3.0,8.1,45.0,33.33
+157004,2009,RA Jadeja,Rajasthan Royals,10,140,23.2,151,6.0,6.47,25.17,23.33
+157035,2009,RR Bose,Kings XI Punjab,1,12,2.0,24,,12.0,,
+157078,2009,Yuvraj Singh,Kings XI Punjab,9,120,20.0,142,6.0,7.1,23.67,20.0
+157165,2009,Pankaj Singh,Royal Challengers Bangalore,3,42,7.0,65,2.0,9.29,32.5,21.0
+157346,2009,DS Kulkarni,Mumbai Indians,8,156,26.0,206,5.0,7.92,41.2,31.2
+157443,2009,DR Smith,Deccan Chargers,8,84,14.0,124,1.0,8.86,124.0,84.0
+157462,2009,RG Sharma,Deccan Chargers,12,138,23.0,161,11.0,7.0,14.64,12.55
+157474,2009,Y Venugopal Rao,Deccan Chargers,6,90,15.0,122,4.0,8.13,30.5,22.5
+157567,2009,A Mishra,Delhi Daredevils,11,253,42.1,294,14.0,6.97,21.0,18.07
+157698,2009,KP Appanna,Royal Challengers Bangalore,5,72,12.0,87,2.0,7.25,43.5,36.0
+157748,2009,B Akhil,Royal Challengers Bangalore,5,66,11.0,80,4.0,7.27,20.0,16.5
+157903,2009,RR Powar,Kings XI Punjab,8,126,21.0,132,5.0,6.29,26.4,25.2
+158099,2009,Shoaib Ahmed,Deccan Chargers,7,102,17.0,152,5.0,8.94,30.4,20.4
+158187,2009,SK Raina,Chennai Super Kings,10,166,27.4,164,7.0,5.93,23.43,23.71
+158334,2009,BJ Hodge,Kolkata Knight Riders,9,120,20.0,161,7.0,8.05,23.0,17.14
+158451,2009,AM Nayar,Mumbai Indians,4,72,12.0,84,4.0,7.0,21.0,18.0
+158457,2009,SR Tendulkar,Mumbai Indians,4,36,6.0,58,,9.67,,
+158676,2009,TM Dilshan,Delhi Daredevils,8,96,16.0,98,,6.12,,
+158742,2009,RE van der Merwe,Royal Challengers Bangalore,10,204,34.0,248,9.0,7.29,27.56,22.67
+159020,2009,JP Duminy,Mumbai Indians,6,105,17.3,93,4.0,5.31,23.25,26.25
+159173,2009,K Goel,Kings XI Punjab,4,48,8.0,61,,7.62,,
+159180,2009,WA Mota,Kings XI Punjab,5,54,9.0,61,3.0,6.78,20.33,18.0
+159528,2009,SK Trivedi,Rajasthan Royals,7,120,20.0,152,6.0,7.6,25.33,20.0
+159603,2009,S Tyagi,Chennai Super Kings,8,114,19.0,136,5.0,7.16,27.2,22.8
+159855,2009,GR Napier,Mumbai Indians,1,24,4.0,27,1.0,6.75,27.0,24.0
+160253,2009,SM Harwood,Rajasthan Royals,3,60,10.0,73,3.0,7.3,24.33,20.0
+160317,2009,AS Raut,Rajasthan Royals,4,24,4.0,36,,9.0,,
+160544,2009,R Bhatia,Delhi Daredevils,7,130,21.4,146,10.0,6.74,14.6,13.0
+160631,2009,SB Jakati,Chennai Super Kings,8,174,29.0,217,13.0,7.48,16.69,13.38
+160983,2009,D du Preez,Royal Challengers Bangalore,2,42,7.0,56,4.0,8.0,14.0,10.5
+161202,2009,RJ Harris,Deccan Chargers,8,186,31.0,230,6.0,7.42,38.33,31.0
+161264,2009,TL Suman,Deccan Chargers,5,90,15.0,108,5.0,7.2,21.6,18.0
+161429,2009,S Sreesanth,Kings XI Punjab,7,138,23.0,192,6.0,8.35,32.0,23.0
+161541,2009,A Singh,Rajasthan Royals,5,105,17.3,95,9.0,5.43,10.56,11.67
+162161,2009,M Morkel,Rajasthan Royals,2,42,7.0,40,,5.71,,
+162186,2009,LA Carseldine,Rajasthan Royals,1,6,1.0,6,1.0,6.0,6.0,6.0
+162839,2009,B Lee,Kings XI Punjab,5,120,20.0,111,5.0,5.55,22.2,24.0
+163013,2009,A Symonds,Deccan Chargers,8,144,24.0,160,7.0,6.67,22.86,20.57
+163352,2009,A Mithun,Royal Challengers Bangalore,1,24,4.0,42,,10.5,,
+163489,2009,C Nanda,Mumbai Indians,3,48,8.0,57,2.0,7.12,28.5,24.0
+163731,2009,SS Sarkar,Kolkata Knight Riders,2,25,4.1,34,1.0,8.16,34.0,25.0
+163940,2009,WPUJC Vaas,Deccan Chargers,2,48,8.0,71,4.0,8.88,17.75,12.0
+164205,2009,AD Mathews,Kolkata Knight Riders,1,14,2.2,31,,13.29,,
+164212,2009,DJ Hussey,Kolkata Knight Riders,3,24,4.0,34,,8.5,,
+164392,2009,AM Rahane,Mumbai Indians,1,6,1.0,5,1.0,5.0,5.0,6.0
+165198,2009,J Botha,Rajasthan Royals,3,72,12.0,74,3.0,6.17,24.67,24.0
+165421,2009,MF Maharoof,Delhi Daredevils,3,60,10.0,65,4.0,6.5,16.25,15.0
+165897,2009,Mashrafe Mortaza,Kolkata Knight Riders,1,24,4.0,58,,14.5,,
+166931,2009,AB McDonald,Delhi Daredevils,1,18,3.0,22,,7.33,,
+166961,2009,Y Nagar,Delhi Daredevils,1,12,2.0,20,2.0,10.0,10.0,6.0
+167011,2009,CK Langeveldt,Kolkata Knight Riders,1,24,4.0,15,3.0,3.75,5.0,8.0
+167400,2009,R Ashwin,Chennai Super Kings,1,24,4.0,13,2.0,3.25,6.5,12.0
+167635,2009,RA Shaikh,Mumbai Indians,1,6,1.0,11,,11.0,,
+167769,2009,Jaskaran Singh,Deccan Chargers,1,18,3.0,32,,10.67,,
+168139,2009,V Sehwag,Delhi Daredevils,1,6,1.0,25,,25.0,,
+168702,2009/10,WPUJC Vaas,Deccan Chargers,6,132,22.0,139,9.0,6.32,15.44,14.67
+168708,2009/10,RP Singh,Deccan Chargers,12,252,42.0,370,13.0,8.81,28.46,19.38
+168720,2009/10,Jaskaran Singh,Deccan Chargers,6,85,14.1,139,6.0,9.81,23.17,14.17
+168747,2009/10,PP Ojha,Deccan Chargers,16,353,58.5,429,21.0,7.29,20.43,16.81
+168753,2009/10,A Symonds,Deccan Chargers,16,318,53.0,372,12.0,7.02,31.0,26.5
+168809,2009/10,TL Suman,Deccan Chargers,2,12,2.0,24,,12.0,,
+168829,2009/10,CK Langeveldt,Kolkata Knight Riders,3,66,11.0,88,5.0,8.0,17.6,13.2
+168837,2009/10,I Sharma,Kolkata Knight Riders,7,150,25.0,236,7.0,9.44,33.71,21.43
+168856,2009/10,LR Shukla,Kolkata Knight Riders,4,72,12.0,106,3.0,8.83,35.33,24.0
+168862,2009/10,M Kartik,Kolkata Knight Riders,10,234,39.0,253,9.0,6.49,28.11,26.0
+168868,2009/10,AD Mathews,Kolkata Knight Riders,12,225,37.3,314,8.0,8.37,39.25,28.12
+168888,2009/10,BJ Hodge,Kolkata Knight Riders,4,30,5.0,41,2.0,8.2,20.5,15.0
+168956,2009/10,AD Mascarenhas,Rajasthan Royals,2,48,8.0,65,4.0,8.12,16.25,12.0
+168962,2009/10,SW Tait,Rajasthan Royals,8,187,31.1,264,11.0,8.47,24.0,17.0
+168970,2009/10,Kamran Khan,Rajasthan Royals,3,36,6.0,53,3.0,8.83,17.67,12.0
+168976,2009/10,A Uniyal,Rajasthan Royals,2,36,6.0,66,2.0,11.0,33.0,18.0
+169004,2009/10,SK Warne,Rajasthan Royals,14,300,50.0,381,11.0,7.62,34.64,27.27
+169035,2009/10,AA Jhunjhunwala,Rajasthan Royals,5,37,6.1,69,,11.19,,
+169041,2009/10,YK Pathan,Rajasthan Royals,11,204,34.0,246,5.0,7.24,49.2,40.8
+169085,2009/10,Z Khan,Mumbai Indians,14,290,48.2,376,15.0,7.78,25.07,19.33
+169091,2009/10,R McLaren,Mumbai Indians,10,204,34.0,270,4.0,7.94,67.5,51.0
+169109,2009/10,SL Malinga,Mumbai Indians,13,294,49.0,344,15.0,7.02,22.93,19.6
+169115,2009/10,AG Murtaza,Mumbai Indians,3,72,12.0,91,3.0,7.58,30.33,24.0
+169121,2009/10,R Sathish,Mumbai Indians,4,48,8.0,81,2.0,10.12,40.5,24.0
+169184,2009/10,ST Jayasuriya,Mumbai Indians,4,54,9.0,68,2.0,7.56,34.0,27.0
+169210,2009/10,DP Nannes,Delhi Daredevils,9,206,34.2,224,7.0,6.52,32.0,29.43
+169217,2009/10,MF Maharoof,Delhi Daredevils,7,144,24.0,206,8.0,8.58,25.75,18.0
+169236,2009/10,PJ Sangwan,Delhi Daredevils,8,186,31.0,258,9.0,8.32,28.67,20.67
+169255,2009/10,A Mishra,Delhi Daredevils,14,318,53.0,363,17.0,6.85,21.35,18.71
+169261,2009/10,VY Mahesh,Delhi Daredevils,1,18,3.0,23,1.0,7.67,23.0,18.0
+169292,2009/10,TM Dilshan,Delhi Daredevils,4,49,8.1,70,3.0,8.57,23.33,16.33
+169335,2009/10,IK Pathan,Kings XI Punjab,14,278,46.2,426,15.0,9.19,28.4,18.53
+169341,2009/10,S Sreesanth,Kings XI Punjab,6,114,19.0,191,4.0,10.05,47.75,28.5
+169373,2009/10,YA Abdulla,Kings XI Punjab,2,41,6.5,66,1.0,9.66,66.0,41.0
+169379,2009/10,PP Chawla,Kings XI Punjab,14,294,49.0,367,12.0,7.49,30.58,24.5
+169397,2009/10,Yuvraj Singh,Kings XI Punjab,10,138,23.0,152,5.0,6.61,30.4,27.6
+169415,2009/10,RR Powar,Kings XI Punjab,7,138,23.0,160,3.0,6.96,53.33,46.0
+169506,2009/10,SC Ganguly,Kolkata Knight Riders,3,24,4.0,43,,10.75,,
+169548,2009/10,RS Gavaskar,Kolkata Knight Riders,1,6,1.0,8,,8.0,,
+169578,2009/10,P Kumar,Royal Challengers Bangalore,12,270,45.0,380,10.0,8.44,38.0,27.0
+169584,2009/10,JH Kallis,Royal Challengers Bangalore,16,342,57.0,476,13.0,8.35,36.62,26.31
+169602,2009/10,DW Steyn,Royal Challengers Bangalore,15,354,59.0,406,15.0,6.88,27.07,23.6
+169608,2009/10,A Kumble,Royal Challengers Bangalore,16,380,63.2,407,17.0,6.43,23.94,22.35
+169614,2009/10,RE van der Merwe,Royal Challengers Bangalore,1,24,4.0,27,2.0,6.75,13.5,12.0
+169697,2009/10,V Kohli,Royal Challengers Bangalore,4,32,5.2,50,,9.38,,
+169699,2009/10,JA Morkel,Chennai Super Kings,14,286,47.4,405,11.0,8.5,36.82,26.0
+169706,2009/10,S Tyagi,Chennai Super Kings,6,96,16.0,159,1.0,9.94,159.0,96.0
+169718,2009/10,M Muralitharan,Chennai Super Kings,12,292,48.4,339,16.0,6.97,21.19,18.25
+169724,2009/10,R Ashwin,Chennai Super Kings,12,288,48.0,293,13.0,6.1,22.54,22.15
+169739,2009/10,L Balaji,Chennai Super Kings,7,140,23.2,207,7.0,8.87,29.57,20.0
+169745,2009/10,JM Kemp,Chennai Super Kings,5,45,7.3,54,3.0,7.2,18.0,15.0
+169836,2009/10,RG Sharma,Deccan Chargers,9,114,19.0,153,2.0,8.05,76.5,57.0
+169996,2009/10,S Ladda,Delhi Daredevils,5,90,15.0,143,4.0,9.53,35.75,22.5
+170091,2009/10,MM Patel,Rajasthan Royals,4,78,13.0,118,3.0,9.08,39.33,26.0
+170232,2009/10,R Vinay Kumar,Royal Challengers Bangalore,14,278,46.2,396,16.0,8.55,24.75,17.38
+170397,2009/10,Bipul Sharma,Kings XI Punjab,4,60,10.0,94,3.0,9.4,31.33,20.0
+170403,2009/10,RS Bopara,Kings XI Punjab,5,78,13.0,127,5.0,9.77,25.4,15.6
+170433,2009/10,SE Bond,Kolkata Knight Riders,8,186,31.0,224,9.0,7.23,24.89,20.67
+170560,2009/10,MS Gony,Chennai Super Kings,3,48,8.0,92,1.0,11.5,92.0,48.0
+170665,2009/10,SK Raina,Chennai Super Kings,12,143,23.5,178,6.0,7.47,29.67,23.83
+170825,2009/10,DJ Bravo,Mumbai Indians,10,157,26.1,228,4.0,8.71,57.0,39.25
+170831,2009/10,KA Pollard,Mumbai Indians,12,222,37.0,274,15.0,7.41,18.27,14.8
+170849,2009/10,Harbhajan Singh,Mumbai Indians,14,321,53.3,377,17.0,7.05,22.18,18.88
+171033,2009/10,M Morkel,Rajasthan Royals,2,42,7.0,66,,9.43,,
+171067,2009/10,S Narwal,Rajasthan Royals,5,94,15.4,185,5.0,11.81,37.0,18.8
+171110,2009/10,Joginder Sharma,Chennai Super Kings,3,48,8.0,89,2.0,11.12,44.5,24.0
+171230,2009/10,UT Yadav,Delhi Daredevils,7,144,24.0,184,6.0,7.67,30.67,24.0
+171248,2009/10,R Bhatia,Delhi Daredevils,5,96,16.0,132,3.0,8.25,44.0,32.0
+171359,2009/10,SJ Srivastava,Kings XI Punjab,8,162,27.0,255,6.0,9.44,42.5,27.0
+171589,2009/10,AB Dinda,Kolkata Knight Riders,7,139,23.1,152,9.0,6.56,16.89,15.44
+171742,2009/10,SK Trivedi,Rajasthan Royals,10,213,35.3,260,11.0,7.32,23.64,19.36
+171748,2009/10,AC Voges,Rajasthan Royals,7,54,9.0,76,,8.44,,
+172091,2009/10,Y Nagar,Delhi Daredevils,1,18,3.0,28,1.0,9.33,28.0,18.0
+172133,2009/10,MC Henriques,Delhi Daredevils,1,24,4.0,35,1.0,8.75,35.0,24.0
+172229,2009/10,R Sharma,Deccan Chargers,6,124,20.4,167,5.0,8.08,33.4,24.8
+172469,2009/10,J Theron,Kings XI Punjab,7,149,24.5,196,8.0,7.89,24.5,18.62
+172711,2009/10,CH Gayle,Kolkata Knight Riders,6,96,16.0,152,4.0,9.5,38.0,24.0
+173481,2009/10,SB Jakati,Chennai Super Kings,11,228,38.0,291,13.0,7.66,22.38,17.54
+173536,2009/10,NLTC Perera,Chennai Super Kings,1,6,1.0,19,,19.0,,
+173784,2009/10,B Lee,Kings XI Punjab,4,88,14.4,149,,10.16,,
+173817,2009/10,VS Malik,Kings XI Punjab,3,43,7.1,62,1.0,8.65,62.0,43.0
+173947,2009/10,AB Agarkar,Kolkata Knight Riders,7,132,22.0,203,4.0,9.23,50.75,33.0
+173966,2009/10,Iqbal Abdulla,Kolkata Knight Riders,3,51,8.3,61,1.0,7.18,61.0,51.0
+173990,2009/10,DJ Hussey,Kolkata Knight Riders,5,60,10.0,80,,8.0,,
+174217,2009/10,AB McDonald,Delhi Daredevils,4,84,14.0,138,5.0,9.86,27.6,16.8
+174297,2009/10,T Thushara,Chennai Super Kings,4,88,14.4,101,5.0,6.89,20.2,17.6
+174536,2009/10,KAJ Roach,Deccan Chargers,2,48,8.0,80,,10.0,,
+175014,2009/10,PD Collingwood,Delhi Daredevils,6,89,14.5,101,5.0,6.81,20.2,17.8
+175215,2009/10,K Goel,Kings XI Punjab,1,6,1.0,7,,7.0,,
+175333,2009/10,C Ganapathy,Chennai Super Kings,1,6,1.0,13,,13.0,,
+175448,2009/10,KP Pietersen,Royal Challengers Bangalore,6,60,10.0,77,3.0,7.7,25.67,20.0
+175746,2009/10,V Sehwag,Delhi Daredevils,3,34,5.4,23,3.0,4.06,7.67,11.33
+175774,2009/10,Harmeet Singh,Deccan Chargers,8,144,24.0,174,8.0,7.25,21.75,18.0
+175837,2009/10,Y Venugopal Rao,Deccan Chargers,1,6,1.0,10,,10.0,,
+175876,2009/10,MB Parmar,Kolkata Knight Riders,1,18,3.0,33,,11.0,,
+176267,2009/10,SR Watson,Rajasthan Royals,6,132,22.0,184,6.0,8.36,30.67,22.0
+176273,2009/10,SB Wagh,Rajasthan Royals,1,6,1.0,16,1.0,16.0,16.0,6.0
+176371,2009/10,DE Bollinger,Chennai Super Kings,8,186,31.0,207,12.0,6.68,17.25,15.5
+176498,2009/10,RJ Harris,Deccan Chargers,8,184,30.4,233,14.0,7.6,16.64,13.14
+176861,2009/10,JD Unadkat,Kolkata Knight Riders,3,62,10.2,85,4.0,8.23,21.25,15.5
+176991,2009/10,A Mithun,Royal Challengers Bangalore,1,18,3.0,39,1.0,13.0,39.0,18.0
+177016,2009/10,KP Appanna,Royal Challengers Bangalore,2,42,7.0,51,1.0,7.29,51.0,42.0
+177034,2009/10,CL White,Royal Challengers Bangalore,1,6,1.0,19,,19.0,,
+177115,2009/10,DL Vettori,Delhi Daredevils,3,70,11.4,97,2.0,8.31,48.5,35.0
+177217,2009/10,DR Smith,Deccan Chargers,2,23,3.5,36,1.0,9.39,36.0,23.0
+177350,2009/10,AP Dole,Rajasthan Royals,3,66,11.0,112,5.0,10.18,22.4,13.2
+177498,2009/10,AN Ahmed,Mumbai Indians,1,12,2.0,26,,13.0,,
+177812,2009/10,FY Fazal,Rajasthan Royals,2,12,2.0,20,,10.0,,
+178097,2009/10,BAW Mendis,Kolkata Knight Riders,2,48,8.0,66,2.0,8.25,33.0,24.0
+178219,2009/10,MR Marsh,Deccan Chargers,3,60,10.0,88,2.0,8.8,44.0,30.0
+178465,2009/10,L Ablish,Kings XI Punjab,2,24,4.0,36,3.0,9.0,12.0,8.0
+178623,2009/10,JP Duminy,Mumbai Indians,2,33,5.3,37,1.0,6.73,37.0,33.0
+178977,2009/10,S Sriram,Royal Challengers Bangalore,1,12,2.0,24,,12.0,,
+179283,2009/10,A Nehra,Delhi Daredevils,4,84,14.0,96,6.0,6.86,16.0,14.0
+179530,2009/10,DS Kulkarni,Mumbai Indians,1,24,4.0,40,1.0,10.0,40.0,24.0
+180027,2009/10,CRD Fernando,Mumbai Indians,5,114,19.0,138,7.0,7.26,19.71,16.29
+180374,2009/10,Pankaj Singh,Royal Challengers Bangalore,2,48,8.0,81,2.0,10.12,40.5,24.0
+181496,2009/10,AJ Finch,Rajasthan Royals,1,7,1.1,5,,4.29,,
+181688,2009/10,VRV Singh,Kings XI Punjab,1,18,3.0,40,,13.33,,
+182127,2009/10,MK Tiwary,Kolkata Knight Riders,1,6,1.0,11,1.0,11.0,11.0,6.0
+182184,2009/10,STR Binny,Mumbai Indians,1,6,1.0,9,,9.0,,
+182809,2009/10,ND Doshi,Royal Challengers Bangalore,1,24,4.0,17,1.0,4.25,17.0,24.0
+182840,2009/10,B Akhil,Royal Challengers Bangalore,1,6,1.0,6,,6.0,,
+183200,2011,Iqbal Abdulla,Kolkata Knight Riders,15,300,50.0,305,16.0,6.1,19.06,18.75
+183206,2011,YK Pathan,Kolkata Knight Riders,14,234,39.0,238,13.0,6.1,18.31,18.0
+183225,2011,L Balaji,Kolkata Knight Riders,14,266,44.2,371,10.0,8.37,37.1,26.6
+183231,2011,JH Kallis,Kolkata Knight Riders,9,144,24.0,170,7.0,7.08,24.29,20.57
+183237,2011,S Ladda,Kolkata Knight Riders,2,24,4.0,42,,10.5,,
+183243,2011,R Bhatia,Kolkata Knight Riders,12,192,32.0,210,8.0,6.56,26.25,24.0
+183321,2011,JA Morkel,Chennai Super Kings,14,270,45.0,382,15.0,8.49,25.47,18.0
+183327,2011,TG Southee,Chennai Super Kings,5,114,19.0,166,4.0,8.74,41.5,28.5
+183333,2011,R Ashwin,Chennai Super Kings,16,378,63.0,388,20.0,6.16,19.4,18.9
+183352,2011,S Randiv,Chennai Super Kings,8,174,29.0,223,6.0,7.69,37.17,29.0
+183359,2011,SB Jakati,Chennai Super Kings,14,265,44.1,336,10.0,7.61,33.6,26.5
+183420,2011,SK Raina,Chennai Super Kings,12,165,27.3,201,4.0,7.31,50.25,41.25
+183444,2011,JDP Oram,Rajasthan Royals,2,24,4.0,45,1.0,11.25,45.0,24.0
+183450,2011,A Singh,Rajasthan Royals,9,171,28.3,215,9.0,7.54,23.89,19.0
+183456,2011,J Botha,Rajasthan Royals,10,216,36.0,239,7.0,6.64,34.14,30.86
+183474,2011,SK Trivedi,Rajasthan Royals,12,214,35.4,303,10.0,8.5,30.3,21.4
+183480,2011,SK Warne,Rajasthan Royals,12,282,47.0,297,13.0,6.32,22.85,21.69
+183529,2011,AL Menaria,Rajasthan Royals,9,90,15.0,121,2.0,8.07,60.5,45.0
+183553,2011,STR Binny,Rajasthan Royals,3,24,4.0,44,,11.0,,
+183565,2011,PP Ojha,Deccan Chargers,10,221,36.5,267,10.0,7.25,26.7,22.1
+183571,2011,DW Steyn,Deccan Chargers,12,273,45.3,299,14.0,6.57,21.36,19.5
+183577,2011,I Sharma,Deccan Chargers,12,264,44.0,314,11.0,7.14,28.55,24.0
+183584,2011,DT Christian,Deccan Chargers,14,274,45.4,350,11.0,7.66,31.82,24.91
+183621,2011,A Mishra,Deccan Chargers,14,320,53.2,358,19.0,6.71,18.84,16.84
+183681,2011,Z Khan,Royal Challengers Bangalore,15,354,59.0,455,14.0,7.71,32.5,25.29
+183687,2011,DP Nannes,Royal Challengers Bangalore,2,24,4.0,31,2.0,7.75,15.5,12.0
+183699,2011,DL Vettori,Royal Challengers Bangalore,13,310,51.4,311,12.0,6.02,25.92,25.83
+183705,2011,TM Dilshan,Royal Challengers Bangalore,6,72,12.0,108,1.0,9.0,108.0,72.0
+183711,2011,A Mithun,Royal Challengers Bangalore,12,204,34.0,321,5.0,9.44,64.2,40.8
+183749,2011,V Kohli,Royal Challengers Bangalore,10,102,17.0,139,2.0,8.18,69.5,51.0
+183755,2011,AUK Pathan,Royal Challengers Bangalore,2,33,5.3,49,,8.91,,
+183805,2011,RP Singh,Kochi Tuskers Kerala,14,300,50.0,345,13.0,6.9,26.54,23.08
+183812,2011,S Sreesanth,Kochi Tuskers Kerala,9,191,31.5,206,7.0,6.47,29.43,27.29
+183833,2011,RA Jadeja,Kochi Tuskers Kerala,14,252,42.0,305,8.0,7.26,38.12,31.5
+183839,2011,R Vinay Kumar,Kochi Tuskers Kerala,13,268,44.4,335,12.0,7.5,27.92,22.33
+183845,2011,M Muralitharan,Kochi Tuskers Kerala,5,114,19.0,141,2.0,7.42,70.5,57.0
+183915,2011,RV Gomez,Kochi Tuskers Kerala,8,90,15.0,124,5.0,8.27,24.8,18.0
+183926,2011,Harbhajan Singh,Mumbai Indians,15,318,53.0,370,14.0,6.98,26.43,22.71
+183932,2011,SL Malinga,Mumbai Indians,16,379,63.1,375,28.0,5.94,13.39,13.54
+183939,2011,AG Murtaza,Mumbai Indians,5,120,20.0,117,3.0,5.85,39.0,40.0
+183957,2011,MM Patel,Mumbai Indians,15,326,54.2,358,22.0,6.59,16.27,14.82
+183975,2011,KA Pollard,Mumbai Indians,16,255,42.3,361,10.0,8.49,36.1,25.5
+183994,2011,JEC Franklin,Mumbai Indians,6,61,10.1,99,3.0,9.74,33.0,20.33
+184036,2011,AB Dinda,Delhi Daredevils,5,102,17.0,152,5.0,8.94,30.4,20.4
+184042,2011,M Morkel,Delhi Daredevils,11,258,43.0,325,13.0,7.56,25.0,19.85
+184062,2011,IK Pathan,Delhi Daredevils,13,275,45.5,344,11.0,7.51,31.27,25.0
+184069,2011,UT Yadav,Delhi Daredevils,6,108,18.0,169,2.0,9.39,84.5,54.0
+184087,2011,RE van der Merwe,Delhi Daredevils,4,89,14.5,92,5.0,6.2,18.4,17.8
+184118,2011,AJ Finch,Delhi Daredevils,1,12,2.0,13,,6.5,,
+184144,2011,AC Thomas,Pune Warriors,11,231,38.3,297,11.0,7.71,27.0,21.0
+184150,2011,SB Wagh,Pune Warriors,7,96,16.0,121,4.0,7.56,30.25,24.0
+184169,2011,WD Parnell,Pune Warriors,8,176,29.2,213,9.0,7.26,23.67,19.56
+184175,2011,M Kartik,Pune Warriors,6,125,20.5,166,1.0,7.97,166.0,125.0
+184181,2011,JD Ryder,Pune Warriors,7,92,15.2,118,4.0,7.7,29.5,23.0
+184212,2011,M Manhas,Pune Warriors,3,42,7.0,42,,6.0,,
+184218,2011,R Sharma,Pune Warriors,14,300,50.0,273,16.0,5.46,17.06,18.75
+184269,2011,P Kumar,Kings XI Punjab,13,276,46.0,345,10.0,7.5,34.5,27.6
+184276,2011,NJ Rimmington,Kings XI Punjab,1,18,3.0,19,,6.33,,
+184294,2011,R McLaren,Kings XI Punjab,6,108,18.0,178,5.0,9.89,35.6,21.6
+184300,2011,PP Chawla,Kings XI Punjab,12,248,41.2,336,16.0,8.13,21.0,15.5
+184312,2011,AM Nayar,Kings XI Punjab,6,61,10.1,95,2.0,9.34,47.5,30.5
+184411,2011,DB Ravi Teja,Deccan Chargers,1,6,1.0,9,,9.0,,
+184423,2011,JP Duminy,Deccan Chargers,8,108,18.0,143,4.0,7.94,35.75,27.0
+184505,2011,JD Unadkat,Kolkata Knight Riders,6,108,18.0,150,6.0,8.33,25.0,18.0
+184535,2011,RN ten Doeschate,Kolkata Knight Riders,1,6,1.0,7,,7.0,,
+184598,2011,SW Tait,Rajasthan Royals,4,89,14.5,127,6.0,8.56,21.17,14.83
+184761,2011,S Nadeem,Delhi Daredevils,5,114,19.0,142,4.0,7.47,35.5,28.5
+185079,2011,RJ Harris,Kings XI Punjab,13,282,47.0,382,16.0,8.13,23.88,17.62
+185133,2011,BA Bhatt,Kings XI Punjab,8,167,27.5,229,9.0,8.23,25.44,18.56
+185250,2011,SB Styris,Chennai Super Kings,1,6,1.0,13,,13.0,,
+185365,2011,Yuvraj Singh,Pune Warriors,13,174,29.0,192,9.0,6.62,21.33,19.33
+185493,2011,BJ Hodge,Kochi Tuskers Kerala,4,66,11.0,77,7.0,7.0,11.0,9.43
+185564,2011,JJ van der Wath,Royal Challengers Bangalore,3,72,12.0,129,3.0,10.75,43.0,24.0
+185585,2011,S Aravind,Royal Challengers Bangalore,13,276,46.0,368,21.0,8.0,17.52,13.14
+185610,2011,R Ninan,Royal Challengers Bangalore,2,36,6.0,65,3.0,10.83,21.67,12.0
+185707,2011,MS Gony,Deccan Chargers,3,54,9.0,85,4.0,9.44,21.25,13.5
+185807,2011,B Lee,Kolkata Knight Riders,12,272,45.2,338,5.0,7.46,67.6,54.4
+185835,2011,Shakib Al Hasan,Kolkata Knight Riders,7,153,25.3,175,11.0,6.86,15.91,13.91
+185955,2011,SR Watson,Rajasthan Royals,10,216,36.0,241,6.0,6.69,40.17,36.0
+185961,2011,ND Doshi,Rajasthan Royals,3,32,5.2,62,1.0,11.62,62.0,32.0
+186080,2011,NLTC Perera,Kochi Tuskers Kerala,4,84,14.0,111,2.0,7.93,55.5,42.0
+186136,2011,RR Powar,Kochi Tuskers Kerala,5,72,12.0,112,2.0,9.33,56.0,36.0
+186238,2011,R Sathish,Mumbai Indians,4,31,5.1,41,,7.94,,
+186578,2011,VS Malik,Kings XI Punjab,1,12,2.0,13,,6.5,,
+186608,2011,PC Valthaty,Kings XI Punjab,9,145,24.1,189,7.0,7.82,27.0,20.71
+186777,2011,Y Venugopal Rao,Delhi Daredevils,2,12,2.0,26,,13.0,,
+186815,2011,JR Hopes,Delhi Daredevils,9,192,32.0,272,7.0,8.5,38.86,27.43
+186965,2011,AA Jhunjhunwala,Pune Warriors,2,12,2.0,22,,11.0,,
+187319,2011,DE Bollinger,Chennai Super Kings,13,282,47.0,329,17.0,7.0,19.35,16.59
+187461,2011,Y Nagar,Delhi Daredevils,5,30,5.0,67,1.0,13.4,67.0,30.0
+187545,2011,Harmeet Singh,Deccan Chargers,2,42,7.0,53,3.0,7.57,17.67,14.0
+187612,2011,S Dhawan,Deccan Chargers,2,12,2.0,11,1.0,5.5,11.0,12.0
+187668,2011,AN Ahmed,Mumbai Indians,6,120,20.0,169,5.0,8.45,33.8,24.0
+188202,2011,AS Raut,Rajasthan Royals,1,6,1.0,8,,8.0,,
+188404,2011,Joginder Sharma,Chennai Super Kings,1,18,3.0,34,,11.33,,
+188552,2011,RG Sharma,Mumbai Indians,3,24,4.0,53,,13.25,,
+188645,2011,J Syed Mohammad,Royal Challengers Bangalore,5,90,15.0,127,5.0,8.47,25.4,18.0
+188682,2011,CH Gayle,Royal Challengers Bangalore,12,216,36.0,244,8.0,6.78,30.5,27.0
+188820,2011,MK Tiwary,Kolkata Knight Riders,2,12,2.0,23,,11.5,,
+188905,2011,SJ Srivastava,Kings XI Punjab,6,120,20.0,186,8.0,9.3,23.25,15.0
+188942,2011,DJ Hussey,Kings XI Punjab,2,18,3.0,38,1.0,12.67,38.0,18.0
+189036,2011,VR Aaron,Delhi Daredevils,3,72,12.0,82,2.0,6.83,41.0,36.0
+189048,2011,AB Agarkar,Delhi Daredevils,7,162,27.0,231,8.0,8.56,28.88,20.25
+189575,2011,NL McCullum,Pune Warriors,2,30,5.0,34,,6.8,,
+189581,2011,JE Taylor,Pune Warriors,5,117,19.3,157,6.0,8.05,26.17,19.5
+190072,2011,KMDN Kulasekara,Chennai Super Kings,1,18,3.0,26,1.0,8.67,26.0,18.0
+190229,2011,MR Marsh,Pune Warriors,5,85,14.1,99,7.0,6.99,14.14,12.14
+191043,2011,Kamran Khan,Pune Warriors,1,18,3.0,47,,15.67,,
+191359,2011,B Akhil,Kochi Tuskers Kerala,1,12,2.0,22,,11.0,,
+191708,2011,Bipul Sharma,Kings XI Punjab,4,72,12.0,78,4.0,6.5,19.5,18.0
+192406,2011,TL Suman,Mumbai Indians,3,36,6.0,50,,8.33,,
+192419,2011,A Symonds,Mumbai Indians,3,24,4.0,41,1.0,10.25,41.0,24.0
+192491,2011,P Parameswaran,Kochi Tuskers Kerala,5,94,15.4,137,4.0,8.74,34.25,23.5
+193340,2011,DS Kulkarni,Mumbai Indians,6,120,20.0,149,5.0,7.45,29.8,24.0
+193699,2011,AM Salvi,Delhi Daredevils,2,48,8.0,66,3.0,8.25,22.0,16.0
+193861,2011,I Malhotra,Deccan Chargers,1,6,1.0,23,,23.0,,
+193903,2011,B Chipli,Deccan Chargers,1,6,1.0,20,,20.0,,
+193983,2011,L Ablish,Kings XI Punjab,1,18,3.0,39,,13.0,,
+194827,2011,B Kumar,Pune Warriors,4,66,11.0,67,3.0,6.09,22.33,22.0
+195206,2011,DJ Bravo,Chennai Super Kings,6,120,20.0,157,6.0,7.85,26.17,20.0
+195759,2011,CK Langeveldt,Royal Challengers Bangalore,3,66,11.0,84,5.0,7.64,16.8,13.2
+195808,2011,AA Kazi,Royal Challengers Bangalore,1,12,2.0,21,,10.5,,
+195878,2011,Pankaj Singh,Rajasthan Royals,1,12,2.0,23,,11.5,,
+195939,2011,LRPL Taylor,Rajasthan Royals,1,6,1.0,11,,11.0,,
+195975,2011,AB McDonald,Delhi Daredevils,1,12,2.0,23,,11.5,,
+196785,2011,Anand Rajan,Deccan Chargers,2,30,5.0,50,3.0,10.0,16.67,10.0
+196946,2011,S Sriram,Delhi Daredevils,1,6,1.0,25,,25.0,,
+197164,2011,P Prasanth,Kochi Tuskers Kerala,1,6,1.0,18,,18.0,,
+197182,2011,Y Gnaneswara Rao,Kochi Tuskers Kerala,1,6,1.0,7,,7.0,,
+197267,2011,AA Chavan,Rajasthan Royals,2,30,5.0,27,,5.4,,
+198229,2011,S Rana,Pune Warriors,1,4,0.4,2,,3.0,,
+198681,2011,JP Faulkner,Pune Warriors,1,12,2.0,9,1.0,4.5,9.0,12.0
+198705,2011,SS Mundhe,Pune Warriors,1,6,1.0,6,1.0,6.0,6.0,6.0
+199005,2011,RW Price,Mumbai Indians,1,18,3.0,33,,11.0,,
+200213,2012,SL Malinga,Mumbai Indians,14,333,55.3,350,22.0,6.31,15.91,15.14
+200220,2012,AN Ahmed,Mumbai Indians,1,12,2.0,17,,8.5,,
+200240,2012,Harbhajan Singh,Mumbai Indians,16,324,54.0,384,6.0,7.11,64.0,54.0
+200246,2012,JEC Franklin,Mumbai Indians,9,90,15.0,121,6.0,8.07,20.17,15.0
+200272,2012,PP Ojha,Mumbai Indians,9,180,30.0,220,9.0,7.33,24.44,20.0
+200278,2012,KA Pollard,Mumbai Indians,14,263,43.5,350,16.0,7.98,21.88,16.44
+200339,2012,JA Morkel,Chennai Super Kings,15,297,49.3,385,13.0,7.78,29.62,22.85
+200345,2012,DE Bollinger,Chennai Super Kings,6,108,18.0,157,9.0,8.72,17.44,12.0
+200365,2012,R Ashwin,Chennai Super Kings,18,395,65.5,431,14.0,6.55,30.79,28.21
+200371,2012,RA Jadeja,Chennai Super Kings,14,210,35.0,273,12.0,7.8,22.75,17.5
+200383,2012,DJ Bravo,Chennai Super Kings,18,346,57.4,462,15.0,8.01,30.8,23.07
+200401,2012,SB Jakati,Chennai Super Kings,15,246,41.0,336,9.0,8.2,37.33,27.33
+200443,2012,IK Pathan,Delhi Daredevils,17,360,60.0,465,8.0,7.75,58.12,45.0
+200449,2012,RE van der Merwe,Delhi Daredevils,3,60,10.0,60,2.0,6.0,30.0,30.0
+200456,2012,M Morkel,Delhi Daredevils,16,378,63.0,453,25.0,7.19,18.12,15.12
+200462,2012,UT Yadav,Delhi Daredevils,17,366,61.0,453,19.0,7.43,23.84,19.26
+200474,2012,GJ Maxwell,Delhi Daredevils,2,18,3.0,22,1.0,7.33,22.0,18.0
+200487,2012,S Nadeem,Delhi Daredevils,12,270,45.0,318,8.0,7.07,39.75,33.75
+200517,2012,B Lee,Kolkata Knight Riders,10,228,38.0,299,7.0,7.87,42.71,32.57
+200523,2012,M de Lange,Kolkata Knight Riders,3,60,10.0,107,3.0,10.7,35.67,20.0
+200536,2012,Iqbal Abdulla,Kolkata Knight Riders,8,132,22.0,144,4.0,6.55,36.0,33.0
+200542,2012,JH Kallis,Kolkata Knight Riders,16,324,54.0,403,15.0,7.46,26.87,21.6
+200560,2012,R Bhatia,Kolkata Knight Riders,16,319,53.1,389,13.0,7.32,29.92,24.54
+200578,2012,YK Pathan,Kolkata Knight Riders,12,132,22.0,182,3.0,8.27,60.67,44.0
+200610,2012,MM Patel,Mumbai Indians,12,280,46.4,367,15.0,7.86,24.47,18.67
+200708,2012,M Kartik,Pune Warriors,11,216,36.0,266,4.0,7.39,66.5,54.0
+200714,2012,AB Dinda,Pune Warriors,7,144,24.0,169,9.0,7.04,18.78,16.0
+200722,2012,MN Samuels,Pune Warriors,8,172,28.4,216,8.0,7.53,27.0,21.5
+200741,2012,WD Parnell,Pune Warriors,6,126,21.0,128,5.0,6.1,25.6,25.2
+200747,2012,R Sharma,Pune Warriors,11,222,37.0,300,9.0,8.11,33.33,24.67
+200766,2012,B Kumar,Pune Warriors,11,234,39.0,281,8.0,7.21,35.12,29.25
+200832,2012,P Kumar,Kings XI Punjab,16,378,63.0,434,9.0,6.89,48.22,42.0
+200839,2012,JP Faulkner,Kings XI Punjab,2,48,8.0,72,3.0,9.0,24.0,16.0
+200858,2012,PP Chawla,Kings XI Punjab,16,342,57.0,419,16.0,7.35,26.19,21.38
+200870,2012,Bipul Sharma,Kings XI Punjab,3,46,7.4,79,,10.3,,
+200876,2012,Harmeet Singh,Kings XI Punjab,7,135,22.3,191,7.0,8.49,27.29,19.29
+200915,2012,PC Valthaty,Kings XI Punjab,1,6,1.0,16,,16.0,,
+200959,2012,SK Trivedi,Rajasthan Royals,14,312,52.0,380,13.0,7.31,29.23,24.0
+200966,2012,J Botha,Rajasthan Royals,11,246,41.0,297,9.0,7.24,33.0,27.33
+200972,2012,A Singh,Rajasthan Royals,9,197,32.5,310,10.0,9.44,31.0,19.7
+200991,2012,KK Cooper,Rajasthan Royals,6,144,24.0,174,10.0,7.25,17.4,14.4
+200997,2012,BJ Hodge,Rajasthan Royals,2,12,2.0,21,1.0,10.5,21.0,12.0
+201009,2012,AA Chavan,Rajasthan Royals,8,164,27.2,236,7.0,8.63,33.71,23.43
+201087,2012,DAJ Bracewell,Delhi Daredevils,1,24,4.0,32,3.0,8.0,10.67,8.0
+201203,2012,Z Khan,Royal Challengers Bangalore,15,360,60.0,453,17.0,7.55,26.65,21.18
+201209,2012,R Vinay Kumar,Royal Challengers Bangalore,14,335,55.5,480,19.0,8.6,25.26,17.63
+201234,2012,AB McDonald,Royal Challengers Bangalore,3,60,10.0,61,5.0,6.1,12.2,12.0
+201240,2012,DL Vettori,Royal Challengers Bangalore,9,210,35.0,236,5.0,6.74,47.2,42.0
+201246,2012,M Muralitharan,Royal Challengers Bangalore,10,240,40.0,260,15.0,6.5,17.33,16.0
+201276,2012,HV Patel,Royal Challengers Bangalore,11,246,41.0,340,9.0,8.29,37.78,27.33
+201325,2012,Ankit Sharma,Deccan Chargers,9,145,24.1,165,4.0,6.83,41.25,36.25
+201331,2012,DW Steyn,Deccan Chargers,12,280,46.4,285,18.0,6.11,15.83,15.56
+201338,2012,MS Gony,Deccan Chargers,6,144,24.0,207,3.0,8.62,69.0,48.0
+201356,2012,DT Christian,Deccan Chargers,7,162,27.0,233,8.0,8.63,29.12,20.25
+201362,2012,DJ Harris,Deccan Chargers,2,18,3.0,26,,8.67,,
+201374,2012,TP Sudhindra,Deccan Chargers,3,70,11.4,136,1.0,11.66,136.0,70.0
+201491,2012,SK Raina,Chennai Super Kings,7,84,14.0,105,2.0,7.5,52.5,42.0
+201545,2012,F du Plessis,Chennai Super Kings,1,6,1.0,16,,16.0,,
+201583,2012,SP Narine,Kolkata Knight Riders,15,355,59.1,324,24.0,5.48,13.5,14.79
+201824,2012,AD Mascarenhas,Kings XI Punjab,4,96,16.0,105,7.0,6.56,15.0,13.71
+201954,2012,A Nehra,Pune Warriors,13,288,48.0,402,11.0,8.38,36.55,26.18
+201972,2012,JD Ryder,Pune Warriors,4,42,7.0,70,1.0,10.0,70.0,42.0
+202213,2012,Anand Rajan,Deccan Chargers,4,71,11.5,109,3.0,9.21,36.33,23.67
+202219,2012,A Mishra,Deccan Chargers,14,282,47.0,377,13.0,8.02,29.0,21.69
+202231,2012,CL White,Deccan Chargers,2,18,3.0,27,,9.0,,
+202339,2012,V Kohli,Royal Challengers Bangalore,2,18,3.0,49,,16.33,,
+202449,2012,L Balaji,Kolkata Knight Riders,8,180,30.0,162,11.0,5.4,14.73,16.36
+202492,2012,RN ten Doeschate,Kolkata Knight Riders,1,18,3.0,24,1.0,8.0,24.0,18.0
+202512,2012,Shakib Al Hasan,Kolkata Knight Riders,8,180,30.0,195,12.0,6.5,16.25,15.0
+202586,2012,KP Pietersen,Delhi Daredevils,3,36,6.0,53,,8.83,,
+202786,2012,GB Hogg,Rajasthan Royals,9,216,36.0,253,10.0,7.03,25.3,21.6
+203151,2012,RR Bhatkal,Royal Challengers Bangalore,1,12,2.0,35,,17.5,,
+203251,2012,P Awana,Kings XI Punjab,12,282,47.0,372,17.0,7.91,21.88,16.59
+203394,2012,AD Mathews,Pune Warriors,9,156,26.0,192,7.0,7.38,27.43,22.29
+203683,2012,AL Menaria,Rajasthan Royals,3,20,3.2,23,1.0,6.9,23.0,20.0
+203746,2012,AB Agarkar,Delhi Daredevils,4,86,14.2,134,3.0,9.35,44.67,28.67
+203842,2012,V Pratap Singh,Deccan Chargers,9,204,34.0,296,10.0,8.71,29.6,20.4
+203879,2012,JP Duminy,Deccan Chargers,6,73,12.1,104,1.0,8.55,104.0,73.0
+204085,2012,KMDN Kulasekara,Chennai Super Kings,4,84,14.0,94,4.0,6.71,23.5,21.0
+204147,2012,VY Mahesh,Chennai Super Kings,4,56,9.2,81,3.0,8.68,27.0,18.67
+204247,2012,JD Unadkat,Kolkata Knight Riders,1,18,3.0,32,,10.67,,
+204331,2012,BA Bhatt,Kings XI Punjab,5,99,16.3,136,2.0,8.24,68.0,49.5
+204453,2012,S Aravind,Royal Challengers Bangalore,1,18,3.0,48,,16.0,,
+204537,2012,CH Gayle,Royal Challengers Bangalore,3,28,4.4,66,,14.14,,
+204574,2012,Pankaj Singh,Rajasthan Royals,6,126,21.0,170,7.0,8.1,24.29,18.0
+204814,2012,RP Singh,Mumbai Indians,11,246,41.0,318,10.0,7.76,31.8,24.6
+204835,2012,CJ McKay,Mumbai Indians,2,42,7.0,60,1.0,8.57,60.0,42.0
+205159,2012,TM Dilshan,Royal Challengers Bangalore,5,42,7.0,77,,11.0,,
+205196,2012,KP Appanna,Royal Challengers Bangalore,6,102,17.0,148,6.0,8.71,24.67,17.0
+205621,2012,AD Russell,Delhi Daredevils,4,96,16.0,161,1.0,10.06,161.0,96.0
+205639,2012,VR Aaron,Delhi Daredevils,8,186,31.0,271,8.0,8.74,33.88,23.25
+205742,2012,S Dhawan,Deccan Chargers,4,36,6.0,55,3.0,9.17,18.33,12.0
+205773,2012,A Ashish Reddy,Deccan Chargers,9,163,27.1,237,11.0,8.72,21.55,14.82
+206276,2012,Azhar Mahmood,Kings XI Punjab,11,256,42.4,329,14.0,7.71,23.5,18.29
+206468,2012,STR Binny,Rajasthan Royals,6,60,10.0,78,3.0,7.8,26.0,20.0
+206627,2012,V Sehwag,Delhi Daredevils,3,24,4.0,45,,11.25,,
+206662,2012,Y Nagar,Delhi Daredevils,1,6,1.0,10,,10.0,,
+206713,2012,AC Thomas,Pune Warriors,4,84,14.0,109,3.0,7.79,36.33,28.0
+206767,2012,SC Ganguly,Pune Warriors,4,60,10.0,95,2.0,9.5,47.5,30.0
+206908,2012,DJ Hussey,Kings XI Punjab,6,54,9.0,63,3.0,7.0,21.0,18.0
+207032,2012,NLTC Perera,Mumbai Indians,2,15,2.3,27,,10.8,,
+207323,2012,A Chandila,Rajasthan Royals,4,84,14.0,86,5.0,6.14,17.2,16.8
+207608,2012,P Negi,Delhi Daredevils,6,132,22.0,152,7.0,6.91,21.71,18.86
+207717,2012,LJ Wright,Pune Warriors,1,12,2.0,24,,12.0,,
+207790,2012,RJ Peterson,Mumbai Indians,4,48,8.0,70,3.0,8.75,23.33,16.0
+208193,2012,J Theron,Deccan Chargers,2,48,8.0,66,2.0,8.25,33.0,24.0
+208311,2012,R Shukla,Mumbai Indians,1,18,3.0,31,,10.33,,
+209025,2012,LR Shukla,Kolkata Knight Riders,2,12,2.0,12,1.0,6.0,12.0,12.0
+210147,2012,SR Watson,Rajasthan Royals,7,139,23.1,161,6.0,6.95,26.83,23.17
+210228,2012,RJ Harris,Kings XI Punjab,5,108,18.0,130,8.0,7.22,16.25,13.5
+210302,2012,AM Nayar,Kings XI Punjab,1,6,1.0,16,,16.0,,
+210437,2012,AUK Pathan,Royal Challengers Bangalore,1,6,1.0,14,,14.0,,
+210515,2012,MJ Clarke,Pune Warriors,5,66,11.0,67,2.0,6.09,33.5,33.0
+210752,2012,AA Jhunjhunwala,Deccan Chargers,3,36,6.0,38,1.0,6.33,38.0,36.0
+210838,2012,BW Hilfenhaus,Chennai Super Kings,9,204,34.0,233,14.0,6.85,16.64,14.57
+211351,2012,SW Tait,Rajasthan Royals,6,138,23.0,151,6.0,6.57,25.17,23.0
+211530,2012,DR Smith,Mumbai Indians,6,78,13.0,95,2.0,7.31,47.5,39.0
+211721,2012,A Mithun,Royal Challengers Bangalore,1,18,3.0,33,,11.0,,
+211746,2012,P Parameswaran,Royal Challengers Bangalore,3,60,10.0,87,5.0,8.7,17.4,12.0
+211770,2012,J Syed Mohammad,Royal Challengers Bangalore,2,42,7.0,65,,9.29,,
+211960,2012,PJ Sangwan,Kolkata Knight Riders,1,24,4.0,42,1.0,10.5,42.0,24.0
+212415,2012,SPD Smith,Pune Warriors,1,2,0.2,5,,15.0,,
+212540,2012,RR Powar,Kings XI Punjab,1,18,3.0,32,,10.67,,
+212890,2012,RG Sharma,Mumbai Indians,1,6,1.0,16,,16.0,,
+213139,2012,K Upadhyay,Pune Warriors,1,24,4.0,33,,8.25,,
+214841,2012,Y Venugopal Rao,Delhi Daredevils,2,12,2.0,26,,13.0,,
+216271,2012,AG Murtaza,Pune Warriors,1,12,2.0,11,,5.5,,
+216765,2012,DS Kulkarni,Mumbai Indians,2,48,8.0,64,6.0,8.0,10.67,8.0
+217503,2012,Sunny Gupta,Delhi Daredevils,1,18,3.0,47,,15.67,,
+217980,2013,B Lee,Kolkata Knight Riders,3,72,12.0,86,4.0,7.17,21.5,18.0
+217986,2013,JH Kallis,Kolkata Knight Riders,15,318,53.0,394,16.0,7.43,24.62,19.88
+218006,2013,L Balaji,Kolkata Knight Riders,13,300,50.0,387,12.0,7.74,32.25,25.0
+218012,2013,SP Narine,Kolkata Knight Riders,16,384,64.0,350,22.0,5.47,15.91,17.45
+218024,2013,R Bhatia,Kolkata Knight Riders,15,263,43.5,332,11.0,7.57,30.18,23.91
+218054,2013,LR Shukla,Kolkata Knight Riders,2,18,3.0,22,1.0,7.33,22.0,18.0
+218104,2013,IK Pathan,Delhi Daredevils,15,308,51.2,382,10.0,7.44,38.2,30.8
+218110,2013,A Nehra,Delhi Daredevils,10,216,36.0,316,11.0,8.78,28.73,19.64
+218128,2013,UT Yadav,Delhi Daredevils,16,353,58.5,523,16.0,8.89,32.69,22.06
+218147,2013,S Nadeem,Delhi Daredevils,12,264,44.0,259,9.0,5.89,28.78,29.33
+218153,2013,J Botha,Delhi Daredevils,6,100,16.4,109,5.0,6.54,21.8,20.0
+218177,2013,AD Russell,Delhi Daredevils,3,42,7.0,68,,9.71,,
+218219,2013,MG Johnson,Mumbai Indians,17,384,64.0,459,24.0,7.17,19.12,16.0
+218225,2013,MM Patel,Mumbai Indians,4,90,15.0,137,3.0,9.13,45.67,30.0
+218244,2013,JJ Bumrah,Mumbai Indians,2,42,7.0,70,3.0,10.0,23.33,14.0
+218250,2013,JDP Oram,Mumbai Indians,1,24,4.0,22,,5.5,,
+218276,2013,Harbhajan Singh,Mumbai Indians,19,420,70.0,456,24.0,6.51,19.0,17.5
+218282,2013,KA Pollard,Mumbai Indians,14,186,31.0,292,10.0,9.42,29.2,18.6
+218344,2013,JD Unadkat,Royal Challengers Bangalore,13,294,49.0,370,13.0,7.55,28.46,22.62
+218350,2013,DT Christian,Royal Challengers Bangalore,2,36,6.0,55,,9.17,,
+218368,2013,R Vinay Kumar,Royal Challengers Bangalore,16,367,61.1,513,23.0,8.39,22.3,15.96
+218374,2013,M Muralitharan,Royal Challengers Bangalore,6,138,23.0,177,3.0,7.7,59.0,46.0
+218386,2013,M Kartik,Royal Challengers Bangalore,11,234,39.0,284,9.0,7.28,31.56,26.0
+218466,2013,MN Samuels,Pune Warriors,1,24,4.0,34,1.0,8.5,34.0,24.0
+218473,2013,B Kumar,Pune Warriors,16,342,57.0,371,13.0,6.51,28.54,26.31
+218479,2013,AB Dinda,Pune Warriors,13,294,49.0,465,16.0,9.49,29.06,18.38
+218504,2013,AD Mathews,Pune Warriors,10,186,31.0,240,5.0,7.74,48.0,37.2
+218510,2013,R Sharma,Pune Warriors,11,246,41.0,281,9.0,6.85,31.22,27.33
+218528,2013,Yuvraj Singh,Pune Warriors,10,132,22.0,152,6.0,6.91,25.33,22.0
+218588,2013,DW Steyn,Sunrisers Hyderabad,17,407,67.5,399,19.0,5.88,21.0,21.42
+218594,2013,I Sharma,Sunrisers Hyderabad,16,358,59.4,466,15.0,7.81,31.07,23.87
+218612,2013,NLTC Perera,Sunrisers Hyderabad,16,358,59.4,478,19.0,8.01,25.16,18.84
+218632,2013,A Mishra,Sunrisers Hyderabad,17,372,62.0,394,21.0,6.35,18.76,17.71
+218650,2013,CL White,Sunrisers Hyderabad,2,12,2.0,16,1.0,8.0,16.0,12.0
+218662,2013,A Ashish Reddy,Sunrisers Hyderabad,5,40,6.4,70,3.0,10.5,23.33,13.33
+218825,2013,S Badree,Rajasthan Royals,1,24,4.0,34,,8.5,,
+218832,2013,S Sreesanth,Rajasthan Royals,7,130,21.4,163,5.0,7.52,32.6,26.0
+218862,2013,SK Trivedi,Rajasthan Royals,17,359,59.5,410,12.0,6.85,34.17,29.92
+218874,2013,KK Cooper,Rajasthan Royals,14,324,54.0,449,19.0,8.31,23.63,17.05
+218886,2013,R Shukla,Rajasthan Royals,3,48,8.0,79,3.0,9.88,26.33,16.0
+218920,2013,STR Binny,Rajasthan Royals,14,144,24.0,162,6.0,6.75,27.0,24.0
+218951,2013,DP Nannes,Chennai Super Kings,5,119,19.5,158,4.0,7.97,39.5,29.75
+218957,2013,AS Rajpoot,Chennai Super Kings,2,24,4.0,35,1.0,8.75,35.0,24.0
+218988,2013,DJ Bravo,Chennai Super Kings,18,375,62.3,497,32.0,7.95,15.53,11.72
+218995,2013,B Laughlin,Chennai Super Kings,2,42,7.0,71,1.0,10.14,71.0,42.0
+219007,2013,RA Jadeja,Chennai Super Kings,15,259,43.1,323,13.0,7.48,24.85,19.92
+219020,2013,R Ashwin,Chennai Super Kings,18,348,58.0,390,15.0,6.72,26.0,23.2
+219114,2013,PP Ojha,Mumbai Indians,15,314,52.2,381,16.0,7.28,23.81,19.62
+219203,2013,P Kumar,Kings XI Punjab,15,338,56.2,373,12.0,6.62,31.08,28.17
+219209,2013,RJ Harris,Kings XI Punjab,3,72,12.0,72,1.0,6.0,72.0,72.0
+219227,2013,Azhar Mahmood,Kings XI Punjab,11,263,43.5,330,15.0,7.53,22.0,17.53
+219233,2013,P Awana,Kings XI Punjab,14,324,54.0,412,15.0,7.63,27.47,21.6
+219251,2013,PP Chawla,Kings XI Punjab,16,350,58.2,418,11.0,7.17,38.0,31.82
+219361,2013,MR Marsh,Pune Warriors,7,117,19.3,182,7.0,9.33,26.0,16.71
+219408,2013,GH Vihari,Sunrisers Hyderabad,5,36,6.0,38,1.0,6.33,38.0,36.0
+219427,2013,Ankit Sharma,Sunrisers Hyderabad,1,12,2.0,17,,8.5,,
+219530,2013,MC Henriques,Royal Challengers Bangalore,8,127,21.1,185,7.0,8.74,26.43,18.14
+219594,2013,TM Dilshan,Royal Challengers Bangalore,1,6,1.0,10,,10.0,,
+219669,2013,Mohammed Shami,Kolkata Knight Riders,3,54,9.0,78,1.0,8.67,78.0,54.0
+219791,2013,SW Tait,Rajasthan Royals,3,60,10.0,98,1.0,9.8,98.0,60.0
+219916,2013,M Morkel,Delhi Daredevils,10,240,40.0,335,7.0,8.38,47.86,34.29
+219967,2013,BMAJ Mendis,Delhi Daredevils,2,30,5.0,36,1.0,7.2,36.0,30.0
+220034,2013,SL Malinga,Mumbai Indians,17,392,65.2,468,20.0,7.16,23.4,19.6
+220170,2013,CH Morris,Chennai Super Kings,16,300,50.0,401,15.0,8.02,26.73,20.0
+220365,2013,R Sathish,Kings XI Punjab,3,24,4.0,51,,12.75,,
+220386,2013,RP Singh,Royal Challengers Bangalore,11,240,40.0,335,13.0,8.38,25.77,18.46
+220502,2013,R McLaren,Kolkata Knight Riders,2,42,7.0,94,3.0,13.43,31.33,14.0
+220552,2013,PJ Sangwan,Kolkata Knight Riders,2,24,4.0,51,,12.75,,
+220739,2013,Harmeet Singh,Rajasthan Royals,4,93,15.3,121,6.0,7.81,20.17,15.5
+220765,2013,JP Faulkner,Rajasthan Royals,16,379,63.1,427,28.0,6.76,15.25,13.54
+220885,2013,Anand Rajan,Sunrisers Hyderabad,2,48,8.0,42,2.0,5.25,21.0,24.0
+220987,2013,S Kaul,Delhi Daredevils,6,131,21.5,170,4.0,7.79,42.5,32.75
+221098,2013,AJ Finch,Pune Warriors,3,24,4.0,49,1.0,12.25,49.0,24.0
+221259,2013,R Dhawan,Mumbai Indians,5,90,15.0,109,2.0,7.27,54.5,45.0
+221364,2013,MM Sharma,Chennai Super Kings,15,304,50.4,326,20.0,6.43,16.3,15.2
+221472,2013,R Rampaul,Royal Challengers Bangalore,10,226,37.4,272,15.0,7.22,18.13,15.07
+221522,2013,J Syed Mohammad,Royal Challengers Bangalore,4,60,10.0,91,3.0,9.1,30.33,20.0
+221640,2013,KV Sharma,Sunrisers Hyderabad,13,209,34.5,230,12.0,6.6,19.17,17.42
+221728,2013,SMSM Senanayake,Kolkata Knight Riders,8,192,32.0,209,9.0,6.53,23.22,21.33
+221845,2013,A Chandila,Rajasthan Royals,8,150,25.0,156,6.0,6.24,26.0,25.0
+222239,2013,AM Nayar,Pune Warriors,3,48,8.0,59,2.0,7.38,29.5,24.0
+222477,2013,MS Gony,Kings XI Punjab,8,168,28.0,256,7.0,9.14,36.57,24.0
+222483,2013,DJ Hussey,Kings XI Punjab,4,66,11.0,91,,8.27,,
+222610,2013,AB McDonald,Royal Challengers Bangalore,1,12,2.0,17,1.0,8.5,17.0,12.0
+223203,2013,AA Chavan,Rajasthan Royals,3,54,9.0,63,1.0,7.0,63.0,54.0
+223347,2013,V Sehwag,Delhi Daredevils,1,6,1.0,9,,9.0,,
+223353,2013,AB Agarkar,Delhi Daredevils,4,60,10.0,92,,9.2,,
+223435,2013,JA Morkel,Chennai Super Kings,7,144,24.0,159,7.0,6.62,22.71,20.57
+223672,2013,AD Mascarenhas,Kings XI Punjab,1,24,4.0,25,,6.25,,
+223950,2013,YK Pathan,Kolkata Knight Riders,5,54,9.0,73,1.0,8.11,73.0,54.0
+224174,2013,SR Watson,Rajasthan Royals,13,250,41.4,298,13.0,7.15,22.92,19.23
+224267,2013,RE van der Merwe,Delhi Daredevils,3,66,11.0,71,3.0,6.45,23.67,22.0
+224414,2013,DR Smith,Mumbai Indians,3,30,5.0,59,2.0,11.8,29.5,15.0
+224607,2013,BAW Mendis,Pune Warriors,3,72,12.0,78,2.0,6.5,39.0,36.0
+224661,2013,LJ Wright,Pune Warriors,5,59,9.5,100,2.0,10.17,50.0,29.5
+224727,2013,JO Holder,Chennai Super Kings,6,120,20.0,168,2.0,8.4,84.0,60.0
+224975,2013,IC Pandey,Pune Warriors,2,24,4.0,50,1.0,12.5,50.0,24.0
+225007,2013,AG Murtaza,Pune Warriors,3,60,10.0,94,3.0,9.4,31.33,20.0
+225214,2013,CH Gayle,Royal Challengers Bangalore,4,24,4.0,40,3.0,10.0,13.33,8.0
+225361,2013,Sandeep Sharma,Kings XI Punjab,4,96,16.0,119,8.0,7.44,14.88,12.0
+225514,2013,YS Chahal,Mumbai Indians,1,24,4.0,34,,8.5,,
+225592,2013,Iqbal Abdulla,Kolkata Knight Riders,5,113,18.5,142,7.0,7.54,20.29,16.14
+225828,2013,DJG Sammy,Sunrisers Hyderabad,9,134,22.2,168,8.0,7.52,21.0,16.75
+225993,2013,S Ladda,Kolkata Knight Riders,1,12,2.0,18,1.0,9.0,18.0,12.0
+226101,2013,BA Bhatt,Kings XI Punjab,2,30,5.0,32,1.0,6.4,32.0,30.0
+226132,2013,Harmeet Singh,Kings XI Punjab,4,93,15.3,121,6.0,7.81,20.17,15.5
+226574,2013,DS Kulkarni,Mumbai Indians,6,112,18.4,151,8.0,8.09,18.88,14.0
+226923,2013,KW Richardson,Pune Warriors,3,71,11.5,101,2.0,8.54,50.5,35.5
+228089,2013,RG Sharma,Mumbai Indians,2,8,1.2,6,,4.5,,
+228567,2013,SK Raina,Chennai Super Kings,2,12,2.0,23,1.0,11.5,23.0,12.0
+228634,2013,TL Suman,Pune Warriors,1,12,2.0,15,1.0,7.5,15.0,12.0
+228868,2013,S Narwal,Kolkata Knight Riders,1,12,2.0,17,,8.5,,
+229032,2013,GB Hogg,Rajasthan Royals,1,20,3.2,31,,9.3,,
+229431,2013,Z Khan,Royal Challengers Bangalore,2,36,6.0,47,5.0,7.83,9.4,7.2
+229674,2013,P Suyal,Mumbai Indians,1,18,3.0,21,1.0,7.0,21.0,18.0
+229898,2013,K Upadhyay,Pune Warriors,2,30,5.0,48,,9.6,,
+229917,2013,WD Parnell,Pune Warriors,4,89,14.5,137,7.0,9.24,19.57,12.71
+230287,2013,PV Tambe,Rajasthan Royals,3,66,11.0,88,1.0,8.0,88.0,66.0
+230411,2013,P Negi,Delhi Daredevils,1,24,4.0,28,,7.0,,
+230443,2013,BJ Rohrer,Delhi Daredevils,1,6,1.0,12,,12.0,,
+230617,2013,AN Ahmed,Mumbai Indians,2,42,7.0,45,3.0,6.43,15.0,14.0
+231102,2013,Bipul Sharma,Kings XI Punjab,1,24,4.0,21,1.0,5.25,21.0,24.0
+231239,2013,Parvez Rasool,Pune Warriors,2,30,5.0,28,1.0,5.6,28.0,30.0
+231388,2013,RN ten Doeschate,Kolkata Knight Riders,3,18,3.0,24,,8.0,,
+231797,2013,GJ Maxwell,Mumbai Indians,2,12,2.0,23,,11.5,,
+232313,2013,A Mithun,Royal Challengers Bangalore,1,24,4.0,37,1.0,9.25,37.0,24.0
+232427,2013,VS Malik,Rajasthan Royals,3,60,10.0,59,2.0,5.9,29.5,30.0
+233342,2013,RV Gomez,Pune Warriors,1,6,1.0,5,,5.0,,
+233892,2013,MG Neser,Kings XI Punjab,1,24,4.0,62,,15.5,,
+234106,2013,BJ Hodge,Rajasthan Royals,1,6,1.0,3,,3.0,,
+234351,2013,NM Coulter-Nile,Mumbai Indians,1,24,4.0,29,1.0,7.25,29.0,24.0
+234592,2013,AC Gilchrist,Kings XI Punjab,1,1,0.1,0,1.0,0.0,0.0,1.0
+236157,2014,Z Khan,Mumbai Indians,6,134,22.2,146,5.0,6.54,29.2,26.8
+236164,2014,SL Malinga,Mumbai Indians,10,235,39.1,258,16.0,6.59,16.12,14.69
+236176,2014,CJ Anderson,Mumbai Indians,9,108,18.0,184,4.0,10.22,46.0,27.0
+236190,2014,PP Ojha,Mumbai Indians,12,276,46.0,380,4.0,8.26,95.0,69.0
+236196,2014,Harbhajan Singh,Mumbai Indians,14,330,55.0,356,14.0,6.47,25.43,23.57
+236238,2014,KA Pollard,Mumbai Indians,12,150,25.0,262,2.0,10.48,131.0,75.0
+236281,2014,R Vinay Kumar,Kolkata Knight Riders,9,192,32.0,281,7.0,8.78,40.14,27.43
+236287,2014,M Morkel,Kolkata Knight Riders,12,288,48.0,367,12.0,7.65,30.58,24.0
+236305,2014,SP Narine,Kolkata Knight Riders,16,390,65.0,418,21.0,6.43,19.9,18.57
+236311,2014,Shakib Al Hasan,Kolkata Knight Riders,13,300,50.0,334,11.0,6.68,30.36,27.27
+236317,2014,JH Kallis,Kolkata Knight Riders,8,132,22.0,186,4.0,8.45,46.5,33.0
+236347,2014,PP Chawla,Kolkata Knight Riders,11,237,39.3,303,14.0,7.67,21.64,16.93
+236402,2014,MA Starc,Royal Challengers Bangalore,14,322,53.4,402,14.0,7.49,28.71,23.0
+236409,2014,JA Morkel,Royal Challengers Bangalore,6,96,16.0,126,4.0,7.88,31.5,24.0
+236427,2014,VR Aaron,Royal Challengers Bangalore,10,220,36.4,299,16.0,8.15,18.69,13.75
+236447,2014,YS Chahal,Royal Challengers Bangalore,14,330,55.0,386,12.0,7.02,32.17,27.5
+236466,2014,AB Dinda,Royal Challengers Bangalore,9,186,31.0,270,5.0,8.71,54.0,37.2
+236485,2014,Yuvraj Singh,Royal Challengers Bangalore,10,136,22.4,187,5.0,8.25,37.4,27.2
+236528,2014,JP Duminy,Delhi Daredevils,11,198,33.0,240,3.0,7.27,80.0,66.0
+236534,2014,Mohammed Shami,Delhi Daredevils,12,264,44.0,369,7.0,8.39,52.71,37.71
+236540,2014,WD Parnell,Delhi Daredevils,8,182,30.2,223,6.0,7.35,37.17,30.33
+236559,2014,S Nadeem,Delhi Daredevils,11,228,38.0,311,8.0,8.18,38.88,28.5
+236578,2014,R Sharma,Delhi Daredevils,2,36,6.0,65,1.0,10.83,65.0,36.0
+236597,2014,JDS Neesham,Delhi Daredevils,4,54,9.0,91,1.0,10.11,91.0,54.0
+236632,2014,AR Patel,Kings XI Punjab,17,396,66.0,405,17.0,6.14,23.82,23.29
+236639,2014,P Awana,Kings XI Punjab,7,141,23.3,245,7.0,10.43,35.0,20.14
+236646,2014,MG Johnson,Kings XI Punjab,14,321,53.3,444,17.0,8.3,26.12,18.88
+236652,2014,L Balaji,Kings XI Punjab,9,204,34.0,299,12.0,8.79,24.92,17.0
+236680,2014,R Dhawan,Kings XI Punjab,13,284,47.2,365,13.0,7.71,28.08,21.85
+236698,2014,GJ Maxwell,Kings XI Punjab,7,66,11.0,132,1.0,12.0,132.0,66.0
+236760,2014,A Nehra,Chennai Super Kings,4,90,15.0,142,8.0,9.47,17.75,11.25
+236766,2014,MM Sharma,Chennai Super Kings,16,323,53.5,452,23.0,8.4,19.65,14.04
+236778,2014,R Ashwin,Chennai Super Kings,16,359,59.5,437,16.0,7.3,27.31,22.44
+236799,2014,P Negi,Chennai Super Kings,2,42,7.0,75,,10.71,,
+236805,2014,RA Jadeja,Chennai Super Kings,16,326,54.2,443,19.0,8.15,23.32,17.16
+236842,2014,DR Smith,Chennai Super Kings,5,60,10.0,95,4.0,9.5,23.75,15.0
+236878,2014,DS Kulkarni,Rajasthan Royals,8,162,27.0,221,6.0,8.19,36.83,27.0
+236884,2014,KW Richardson,Rajasthan Royals,7,162,27.0,206,9.0,7.63,22.89,18.0
+236891,2014,JP Faulkner,Rajasthan Royals,13,264,44.0,429,11.0,9.75,39.0,24.0
+236917,2014,PV Tambe,Rajasthan Royals,13,294,49.0,356,15.0,7.27,23.73,19.6
+236923,2014,R Bhatia,Rajasthan Royals,12,228,38.0,283,12.0,7.45,23.58,19.0
+236935,2014,STR Binny,Rajasthan Royals,8,54,9.0,64,3.0,7.11,21.33,18.0
+237003,2014,DW Steyn,Sunrisers Hyderabad,14,336,56.0,431,11.0,7.7,39.18,30.55
+237009,2014,B Kumar,Sunrisers Hyderabad,14,320,53.2,354,20.0,6.64,17.7,16.0
+237027,2014,I Sharma,Sunrisers Hyderabad,3,66,11.0,101,3.0,9.18,33.67,22.0
+237046,2014,DJG Sammy,Sunrisers Hyderabad,8,84,14.0,157,3.0,11.21,52.33,28.0
+237053,2014,A Mishra,Sunrisers Hyderabad,10,225,37.3,340,7.0,9.07,48.57,32.14
+237077,2014,KV Sharma,Sunrisers Hyderabad,14,304,50.4,376,15.0,7.42,25.07,20.27
+237282,2014,JJ Bumrah,Mumbai Indians,11,238,39.4,301,5.0,7.59,60.2,47.6
+237361,2014,NM Coulter-Nile,Delhi Daredevils,1,24,4.0,27,2.0,6.75,13.5,12.0
+237387,2014,JD Unadkat,Delhi Daredevils,9,187,31.1,270,10.0,8.66,27.0,18.7
+237639,2014,M Kartik,Kings XI Punjab,2,48,8.0,91,1.0,11.38,91.0,48.0
+237908,2014,M Vijay,Delhi Daredevils,1,6,1.0,13,,13.0,,
+237963,2014,IC Pandey,Chennai Super Kings,12,252,42.0,318,6.0,7.57,53.0,42.0
+237969,2014,BW Hilfenhaus,Chennai Super Kings,8,168,28.0,246,8.0,8.79,30.75,21.0
+238071,2014,IK Pathan,Sunrisers Hyderabad,10,142,23.4,205,4.0,8.66,51.25,35.5
+238183,2014,Sandeep Sharma,Kings XI Punjab,11,241,40.1,354,18.0,8.81,19.67,13.39
+238310,2014,TG Southee,Rajasthan Royals,3,60,10.0,76,,7.6,,
+238396,2014,SR Watson,Rajasthan Royals,9,126,21.0,165,7.0,7.86,23.57,18.0
+238474,2014,SK Raina,Chennai Super Kings,8,108,18.0,134,1.0,7.44,134.0,108.0
+238589,2014,M Muralitharan,Royal Challengers Bangalore,5,96,16.0,124,3.0,7.75,41.33,32.0
+238676,2014,UT Yadav,Kolkata Knight Riders,12,270,45.0,367,11.0,8.16,33.36,24.55
+238873,2014,LR Shukla,Delhi Daredevils,5,56,9.2,83,1.0,8.89,83.0,56.0
+238940,2014,Y Venugopal Rao,Sunrisers Hyderabad,2,12,2.0,16,,8.0,,
+239379,2014,R Rampaul,Royal Challengers Bangalore,2,36,6.0,37,1.0,6.17,37.0,36.0
+239886,2014,RG Sharma,Mumbai Indians,2,18,3.0,26,1.0,8.67,26.0,18.0
+240555,2014,Iqbal Abdulla,Rajasthan Royals,1,12,2.0,17,,8.5,,
+241004,2014,AD Russell,Kolkata Knight Riders,2,30,5.0,52,1.0,10.4,52.0,30.0
+241636,2014,HV Patel,Royal Challengers Bangalore,3,66,11.0,113,4.0,10.27,28.25,16.5
+241915,2014,RN ten Doeschate,Kolkata Knight Riders,4,30,5.0,35,1.0,7.0,35.0,30.0
+242020,2014,R Tewatia,Rajasthan Royals,3,54,9.0,59,2.0,6.56,29.5,27.0
+242475,2014,P Suyal,Mumbai Indians,1,18,3.0,35,1.0,11.67,35.0,18.0
+242599,2014,SA Yadav,Kolkata Knight Riders,1,6,1.0,8,,8.0,,
+242752,2014,S Kaul,Delhi Daredevils,5,78,13.0,126,2.0,9.69,63.0,39.0
+243240,2014,MC Henriques,Sunrisers Hyderabad,4,60,10.0,96,4.0,9.6,24.0,15.0
+243499,2014,Shivam Sharma,Kings XI Punjab,4,96,16.0,121,3.0,7.56,40.33,32.0
+243717,2014,Imran Tahir,Delhi Daredevils,6,125,20.5,171,9.0,8.21,19.0,13.89
+243724,2014,R Shukla,Delhi Daredevils,3,54,9.0,98,2.0,10.89,49.0,27.0
+243732,2014,S Badree,Chennai Super Kings,4,84,14.0,97,2.0,6.93,48.5,42.0
+243856,2014,P Kumar,Mumbai Indians,3,72,12.0,78,3.0,6.5,26.0,24.0
+244750,2014,V Shankar,Chennai Super Kings,1,6,1.0,19,,19.0,,
+244816,2014,Ankit Sharma,Rajasthan Royals,2,48,8.0,43,4.0,5.38,10.75,12.0
+244848,2014,KK Cooper,Rajasthan Royals,5,108,18.0,134,4.0,7.44,33.5,27.0
+245089,2014,AN Ahmed,Royal Challengers Bangalore,4,86,14.2,113,3.0,7.88,37.67,28.67
+245482,2014,YK Pathan,Kolkata Knight Riders,1,6,1.0,10,,10.0,,
+245618,2014,LMP Simmons,Mumbai Indians,1,18,3.0,34,1.0,11.33,34.0,18.0
+245739,2014,MK Tiwary,Delhi Daredevils,1,12,2.0,28,,14.0,,
+245802,2014,BCJ Cutting,Rajasthan Royals,1,24,4.0,31,1.0,7.75,31.0,24.0
+246002,2014,S Rana,Royal Challengers Bangalore,2,12,2.0,16,,8.0,,
+246137,2014,DJ Hussey,Chennai Super Kings,1,17,2.5,38,2.0,13.41,19.0,8.5
+246541,2014,K Santokie,Mumbai Indians,2,48,8.0,90,3.0,11.25,30.0,16.0
+246586,2014,S Gopal,Mumbai Indians,4,84,14.0,113,6.0,8.07,18.83,14.0
+246667,2014,BE Hendricks,Kings XI Punjab,3,72,12.0,126,4.0,10.5,31.5,18.0
+246938,2014,Parvez Rasool,Sunrisers Hyderabad,3,54,9.0,83,1.0,9.22,83.0,54.0
+247164,2014,PJ Cummins,Kolkata Knight Riders,1,24,4.0,29,1.0,7.25,29.0,24.0
+248019,2014,JW Hastings,Chennai Super Kings,1,18,3.0,29,1.0,9.67,29.0,18.0
+248248,2014,M de Lange,Mumbai Indians,1,24,4.0,32,2.0,8.0,16.0,12.0
+248365,2014,VS Malik,Rajasthan Royals,1,18,3.0,29,1.0,9.67,29.0,18.0
+248532,2014,Karanveer Singh,Kings XI Punjab,5,120,20.0,164,11.0,8.2,14.91,10.91
+248736,2014,SB Jakati,Royal Challengers Bangalore,1,22,3.4,41,,11.18,,
+248991,2014,JO Holder,Sunrisers Hyderabad,1,18,3.0,35,1.0,11.67,35.0,18.0
+250457,2015,UT Yadav,Kolkata Knight Riders,12,252,42.0,382,10.0,9.1,38.2,25.2
+250463,2015,M Morkel,Kolkata Knight Riders,7,168,28.0,206,10.0,7.36,20.6,16.8
+250481,2015,Shakib Al Hasan,Kolkata Knight Riders,4,84,14.0,123,4.0,8.79,30.75,21.0
+250494,2015,SP Narine,Kolkata Knight Riders,8,192,32.0,234,7.0,7.31,33.43,27.43
+250512,2015,AD Russell,Kolkata Knight Riders,13,244,40.4,324,14.0,7.97,23.14,17.43
+250518,2015,PP Chawla,Kolkata Knight Riders,13,210,35.0,269,11.0,7.69,24.45,19.09
+250579,2015,SL Malinga,Mumbai Indians,15,360,60.0,444,24.0,7.4,18.5,15.0
+250586,2015,R Vinay Kumar,Mumbai Indians,13,261,43.3,368,7.0,8.46,52.57,37.29
+250592,2015,CJ Anderson,Mumbai Indians,2,24,4.0,33,1.0,8.25,33.0,24.0
+250610,2015,JJ Bumrah,Mumbai Indians,4,90,15.0,184,3.0,12.27,61.33,30.0
+250616,2015,PP Ojha,Mumbai Indians,1,12,2.0,23,,11.5,,
+250622,2015,Harbhajan Singh,Mumbai Indians,15,342,57.0,446,18.0,7.82,24.78,19.0
+250692,2015,JA Morkel,Delhi Daredevils,4,72,12.0,109,3.0,9.08,36.33,24.0
+250698,2015,NM Coulter-Nile,Delhi Daredevils,11,255,42.3,321,15.0,7.55,21.4,17.0
+250705,2015,DJ Muthuswami,Delhi Daredevils,6,84,14.0,101,4.0,7.21,25.25,21.0
+250730,2015,Imran Tahir,Delhi Daredevils,10,213,35.3,314,15.0,8.85,20.93,14.2
+250736,2015,A Mishra,Delhi Daredevils,12,241,40.1,310,9.0,7.72,34.44,26.78
+250754,2015,JP Duminy,Delhi Daredevils,9,102,17.0,126,8.0,7.41,15.75,12.75
+250815,2015,A Nehra,Chennai Super Kings,16,372,62.0,449,22.0,7.24,20.41,16.91
+250821,2015,MM Sharma,Chennai Super Kings,16,342,57.0,481,14.0,8.44,34.36,24.43
+250852,2015,IC Pandey,Chennai Super Kings,10,186,31.0,223,11.0,7.19,20.27,16.91
+250858,2015,R Ashwin,Chennai Super Kings,13,234,39.0,228,10.0,5.85,22.8,23.4
+250888,2015,DJ Bravo,Chennai Super Kings,16,314,52.2,426,26.0,8.14,16.38,12.08
+250940,2015,Sandeep Sharma,Kings XI Punjab,14,300,50.0,350,13.0,7.0,26.92,23.08
+250946,2015,Anureet Singh,Kings XI Punjab,14,310,51.4,465,15.0,9.0,31.0,20.67
+250970,2015,AR Patel,Kings XI Punjab,14,281,46.5,392,13.0,8.37,30.15,21.62
+250983,2015,Karanveer Singh,Kings XI Punjab,4,84,14.0,157,1.0,11.21,157.0,84.0
+250989,2015,MG Johnson,Kings XI Punjab,9,218,36.2,342,10.0,9.41,34.2,21.8
+251068,2015,TG Southee,Rajasthan Royals,7,168,28.0,247,6.0,8.82,41.17,28.0
+251075,2015,CH Morris,Rajasthan Royals,11,252,42.0,325,14.0,7.74,23.21,18.0
+251088,2015,DS Kulkarni,Rajasthan Royals,11,210,35.0,277,13.0,7.91,21.31,16.15
+251094,2015,JP Faulkner,Rajasthan Royals,13,270,45.0,426,8.0,9.47,53.25,33.75
+251113,2015,PV Tambe,Rajasthan Royals,10,204,34.0,266,7.0,7.82,38.0,29.14
+251119,2015,STR Binny,Rajasthan Royals,10,114,19.0,140,5.0,7.37,28.0,22.8
+251195,2015,B Kumar,Sunrisers Hyderabad,14,310,51.4,407,18.0,7.88,22.61,17.22
+251201,2015,TA Boult,Sunrisers Hyderabad,7,168,28.0,236,9.0,8.43,26.22,18.67
+251222,2015,I Sharma,Sunrisers Hyderabad,4,84,14.0,159,1.0,11.36,159.0,84.0
+251230,2015,KV Sharma,Sunrisers Hyderabad,14,239,39.5,332,10.0,8.33,33.2,23.9
+251249,2015,RS Bopara,Sunrisers Hyderabad,7,120,20.0,160,6.0,8.0,26.67,20.0
+251255,2015,Parvez Rasool,Sunrisers Hyderabad,2,30,5.0,31,1.0,6.2,31.0,30.0
+251414,2015,RA Jadeja,Chennai Super Kings,15,256,42.4,330,11.0,7.73,30.0,23.27
+251447,2015,SA Abbott,Royal Challengers Bangalore,2,30,5.0,57,,11.4,,
+251453,2015,HV Patel,Royal Challengers Bangalore,14,263,43.5,328,17.0,7.48,19.29,15.47
+251472,2015,VR Aaron,Royal Challengers Bangalore,5,104,17.2,177,3.0,10.21,59.0,34.67
+251478,2015,AN Ahmed,Royal Challengers Bangalore,3,72,12.0,128,1.0,10.67,128.0,72.0
+251496,2015,DJG Sammy,Royal Challengers Bangalore,2,18,3.0,25,,8.33,,
+251502,2015,YS Chahal,Royal Challengers Bangalore,14,281,46.5,415,23.0,8.86,18.04,12.22
+251600,2015,KC Cariappa,Kolkata Knight Riders,1,12,2.0,28,1.0,14.0,28.0,12.0
+251612,2015,YK Pathan,Kolkata Knight Riders,5,60,10.0,97,2.0,9.7,48.5,30.0
+251716,2015,DJ Hooda,Rajasthan Royals,7,91,15.1,129,1.0,8.51,129.0,91.0
+251812,2015,JD Unadkat,Delhi Daredevils,1,18,3.0,30,,10.0,,
+251836,2015,AD Mathews,Delhi Daredevils,10,180,30.0,246,7.0,8.2,35.14,25.71
+251893,2015,Yuvraj Singh,Delhi Daredevils,6,54,9.0,72,1.0,8.0,72.0,54.0
+251943,2015,P Suyal,Mumbai Indians,3,60,10.0,95,,9.5,,
+251980,2015,J Suchith,Mumbai Indians,12,234,39.0,337,10.0,8.64,33.7,23.4
+252023,2015,KA Pollard,Mumbai Indians,8,76,12.4,120,3.0,9.47,40.0,25.33
+252121,2015,R Dhawan,Kings XI Punjab,5,72,12.0,110,1.0,9.17,110.0,72.0
+252219,2015,P Kumar,Sunrisers Hyderabad,12,216,36.0,329,7.0,9.14,47.0,30.86
+252280,2015,A Ashish Reddy,Sunrisers Hyderabad,4,36,6.0,50,3.0,8.33,16.67,12.0
+252610,2015,S Gopal,Mumbai Indians,1,13,2.1,23,1.0,10.62,23.0,13.0
+252662,2015,PJ Cummins,Kolkata Knight Riders,3,60,10.0,97,1.0,9.7,97.0,60.0
+252694,2015,GB Hogg,Kolkata Knight Riders,6,126,21.0,144,9.0,6.86,16.0,14.0
+252823,2015,P Negi,Chennai Super Kings,10,180,30.0,252,6.0,8.4,42.0,30.0
+252830,2015,RG More,Chennai Super Kings,2,35,5.5,59,1.0,10.11,59.0,35.0
+253103,2015,GJ Maxwell,Kings XI Punjab,7,60,10.0,97,2.0,9.7,48.5,30.0
+253652,2015,DW Steyn,Sunrisers Hyderabad,6,114,19.0,170,3.0,8.95,56.67,38.0
+254051,2015,NLTC Perera,Kings XI Punjab,2,36,6.0,55,1.0,9.17,55.0,36.0
+254123,2015,Ankit Sharma,Rajasthan Royals,4,84,14.0,114,3.0,8.14,38.0,28.0
+254189,2015,SR Watson,Rajasthan Royals,10,174,29.0,269,6.0,9.28,44.83,29.0
+254357,2015,Iqbal Abdulla,Royal Challengers Bangalore,5,114,19.0,150,4.0,7.89,37.5,28.5
+254390,2015,D Wiese,Royal Challengers Bangalore,13,254,42.2,353,16.0,8.34,22.06,15.88
+254485,2015,MJ McClenaghan,Mumbai Indians,12,282,47.0,386,18.0,8.21,21.44,15.67
+254547,2015,HH Pandya,Mumbai Indians,8,102,17.0,176,1.0,10.35,176.0,102.0
+254908,2015,Shivam Sharma,Kings XI Punjab,1,18,3.0,44,1.0,14.67,44.0,18.0
+255019,2015,R Tewatia,Rajasthan Royals,1,18,3.0,31,1.0,10.33,31.0,18.0
+255115,2015,J Botha,Kolkata Knight Riders,4,60,10.0,81,1.0,8.1,81.0,60.0
+255268,2015,MC Henriques,Sunrisers Hyderabad,9,150,25.0,158,11.0,6.32,14.36,13.64
+255281,2015,Bipul Sharma,Sunrisers Hyderabad,3,42,7.0,50,3.0,7.14,16.67,14.0
+255311,2015,MA Starc,Royal Challengers Bangalore,12,258,43.0,291,20.0,6.77,14.55,12.9
+255728,2015,S Nadeem,Delhi Daredevils,2,42,7.0,43,,6.14,,
+255867,2015,V Kohli,Royal Challengers Bangalore,2,11,1.5,10,,5.45,,
+256747,2015,M Vijay,Kings XI Punjab,2,24,4.0,28,,7.0,,
+256956,2015,Z Khan,Delhi Daredevils,7,145,24.1,156,7.0,6.46,22.29,20.71
+257516,2015,SK Raina,Chennai Super Kings,5,72,12.0,93,2.0,7.75,46.5,36.0
+257713,2015,SN Thakur,Kings XI Punjab,1,18,3.0,38,1.0,12.67,38.0,18.0
+257815,2015,J Theron,Rajasthan Royals,1,24,4.0,40,1.0,10.0,40.0,24.0
+258676,2015,GS Sandhu,Delhi Daredevils,2,48,8.0,82,1.0,10.25,82.0,48.0
+258870,2015,R Bhatia,Rajasthan Royals,2,30,5.0,46,,9.2,,
+259339,2015,RN ten Doeschate,Kolkata Knight Riders,1,6,1.0,4,,4.0,,
+259792,2015,S Aravind,Royal Challengers Bangalore,5,108,18.0,132,8.0,7.33,16.5,13.5
+260122,2015,M de Lange,Mumbai Indians,1,24,4.0,30,,7.5,,
+260484,2015,BE Hendricks,Kings XI Punjab,4,78,13.0,109,5.0,8.38,21.8,15.6
+260515,2015,Gurkeerat Singh,Kings XI Punjab,3,54,9.0,66,3.0,7.33,22.0,18.0
+260601,2015,J Yadav,Delhi Daredevils,3,42,7.0,29,2.0,4.14,14.5,21.0
+262209,2015,AB Dinda,Royal Challengers Bangalore,2,30,5.0,62,,12.4,,
+262525,2015,Azhar Mahmood,Kolkata Knight Riders,1,18,3.0,41,,13.67,,
+262657,2015,BB Sran,Rajasthan Royals,1,18,3.0,35,,11.67,,
+262828,2015,CH Gayle,Royal Challengers Bangalore,1,12,2.0,15,,7.5,,
+263936,2015,DR Smith,Chennai Super Kings,1,12,2.0,17,1.0,8.5,17.0,12.0
+264109,2016,RP Singh,Rising Pune Supergiants,4,73,12.1,111,3.0,9.12,37.0,24.33
+264115,2016,I Sharma,Rising Pune Supergiants,4,90,15.0,148,3.0,9.87,49.33,30.0
+264135,2016,MR Marsh,Rising Pune Supergiants,3,54,9.0,45,4.0,5.0,11.25,13.5
+264156,2016,R Bhatia,Rising Pune Supergiants,10,204,34.0,244,6.0,7.18,40.67,34.0
+264174,2016,M Ashwin,Rising Pune Supergiants,10,171,28.3,241,7.0,8.46,34.43,24.43
+264204,2016,R Ashwin,Rising Pune Supergiants,14,264,44.0,319,10.0,7.25,31.9,26.4
+264235,2016,MJ McClenaghan,Mumbai Indians,14,320,53.2,436,17.0,8.18,25.65,18.82
+264241,2016,JJ Bumrah,Mumbai Indians,14,312,52.0,406,15.0,7.81,27.07,20.8
+264272,2016,R Vinay Kumar,Mumbai Indians,3,54,9.0,64,3.0,7.11,21.33,18.0
+264280,2016,S Gopal,Mumbai Indians,1,18,3.0,18,,6.0,,
+264293,2016,Harbhajan Singh,Mumbai Indians,14,294,49.0,392,9.0,8.0,43.56,32.67
+264323,2016,HH Pandya,Mumbai Indians,10,100,16.4,153,3.0,9.18,51.0,33.33
+264327,2016,AD Russell,Kolkata Knight Riders,12,219,36.3,291,15.0,7.97,19.4,14.6
+264334,2016,UT Yadav,Kolkata Knight Riders,9,156,26.0,234,10.0,9.0,23.4,15.6
+264346,2016,JW Hastings,Kolkata Knight Riders,2,40,6.4,37,2.0,5.55,18.5,20.0
+264371,2016,C Munro,Kolkata Knight Riders,2,12,2.0,15,,7.5,,
+264383,2016,GB Hogg,Kolkata Knight Riders,5,96,16.0,142,4.0,8.88,35.5,24.0
+264389,2016,PP Chawla,Kolkata Knight Riders,11,212,35.2,273,11.0,7.73,24.82,19.27
+264437,2016,NM Coulter-Nile,Delhi Daredevils,4,90,15.0,114,3.0,7.6,38.0,30.0
+264443,2016,Z Khan,Delhi Daredevils,12,262,43.4,337,10.0,7.72,33.7,26.2
+264456,2016,CH Morris,Delhi Daredevils,12,264,44.0,308,13.0,7.0,23.69,20.31
+264475,2016,CR Brathwaite,Delhi Daredevils,8,139,23.1,189,7.0,8.16,27.0,19.86
+264481,2016,A Mishra,Delhi Daredevils,14,276,46.0,344,13.0,7.48,26.46,21.23
+264527,2016,P Kumar,Gujarat Lions,16,309,51.3,401,9.0,7.79,44.56,34.33
+264533,2016,PJ Sangwan,Gujarat Lions,2,24,4.0,49,,12.25,,
+264551,2016,JP Faulkner,Gujarat Lions,7,102,17.0,167,2.0,9.82,83.5,51.0
+264557,2016,S Ladda,Gujarat Lions,1,12,2.0,21,,10.5,,
+264563,2016,RA Jadeja,Gujarat Lions,14,241,40.1,311,8.0,7.74,38.88,30.12
+264582,2016,DJ Bravo,Gujarat Lions,15,336,56.0,494,17.0,8.82,29.06,19.76
+264651,2016,Sandeep Sharma,Kings XI Punjab,14,300,50.0,366,15.0,7.32,24.4,20.0
+264657,2016,MG Johnson,Kings XI Punjab,3,66,11.0,106,2.0,9.64,53.0,33.0
+264669,2016,MM Sharma,Kings XI Punjab,14,291,48.3,407,13.0,8.39,31.31,22.38
+264683,2016,MP Stoinis,Kings XI Punjab,7,138,23.0,194,8.0,8.43,24.25,17.25
+264689,2016,AR Patel,Kings XI Punjab,14,287,47.5,388,13.0,8.11,29.85,22.08
+264708,2016,P Sahu,Kings XI Punjab,5,105,17.3,146,3.0,8.34,48.67,35.0
+264760,2016,A Nehra,Sunrisers Hyderabad,8,156,26.0,199,9.0,7.65,22.11,17.33
+264766,2016,B Kumar,Sunrisers Hyderabad,17,396,66.0,490,23.0,7.42,21.3,17.22
+264773,2016,Mustafizur Rahman,Sunrisers Hyderabad,16,366,61.0,421,17.0,6.9,24.76,21.53
+264798,2016,MC Henriques,Sunrisers Hyderabad,17,312,52.0,415,12.0,7.98,34.58,26.0
+264804,2016,KV Sharma,Sunrisers Hyderabad,5,98,16.2,171,,10.47,,
+264823,2016,A Ashish Reddy,Sunrisers Hyderabad,2,23,3.5,39,1.0,10.17,39.0,23.0
+264885,2016,AF Milne,Royal Challengers Bangalore,1,24,4.0,43,1.0,10.75,43.0,24.0
+264892,2016,SR Watson,Royal Challengers Bangalore,16,339,56.3,485,20.0,8.58,24.25,16.95
+264904,2016,Parvez Rasool,Royal Challengers Bangalore,4,84,14.0,129,1.0,9.21,129.0,84.0
+264910,2016,HV Patel,Royal Challengers Bangalore,5,84,14.0,147,1.0,10.5,147.0,84.0
+264929,2016,YS Chahal,Royal Challengers Bangalore,13,295,49.1,401,21.0,8.16,19.1,14.05
+265010,2016,TG Southee,Mumbai Indians,11,258,43.0,329,9.0,7.65,36.56,28.67
+265060,2016,J Suchith,Mumbai Indians,1,12,2.0,31,,15.5,,
+265182,2016,Kuldeep Yadav,Kolkata Knight Riders,3,72,12.0,100,6.0,8.33,16.67,12.0
+265262,2016,SB Jakati,Gujarat Lions,6,120,20.0,178,2.0,8.9,89.0,60.0
+265274,2016,PV Tambe,Gujarat Lions,7,96,16.0,143,5.0,8.94,28.6,19.2
+265495,2016,P Negi,Delhi Daredevils,5,54,9.0,84,1.0,9.33,84.0,54.0
+265545,2016,J Yadav,Delhi Daredevils,5,102,17.0,125,2.0,7.35,62.5,51.0
+265674,2016,GJ Maxwell,Kings XI Punjab,7,54,9.0,80,,8.89,,
+265696,2016,M Morkel,Kolkata Knight Riders,10,213,35.3,297,10.0,8.37,29.7,21.3
+265724,2016,Shakib Al Hasan,Kolkata Knight Riders,9,186,31.0,243,5.0,7.84,48.6,37.2
+265748,2016,SP Narine,Kolkata Knight Riders,11,256,42.4,304,11.0,7.12,27.64,23.27
+265827,2016,BB Sran,Sunrisers Hyderabad,14,297,49.3,413,14.0,8.34,29.5,21.21
+265942,2016,DS Kulkarni,Gujarat Lions,14,294,49.0,364,18.0,7.43,20.22,16.33
+266094,2016,KH Pandya,Mumbai Indians,11,187,31.1,236,6.0,7.57,39.33,31.17
+266193,2016,KJ Abbott,Kings XI Punjab,5,96,16.0,177,2.0,11.06,88.5,48.0
+266316,2016,Ankit Sharma,Rising Pune Supergiants,3,66,11.0,84,1.0,7.64,84.0,66.0
+266366,2016,IK Pathan,Rising Pune Supergiants,3,48,8.0,61,,7.62,,
+266372,2016,NLTC Perera,Rising Pune Supergiants,11,199,33.1,326,9.0,9.83,36.22,22.11
+266442,2016,Mohammed Shami,Delhi Daredevils,8,151,25.1,244,5.0,9.7,48.8,30.2
+266545,2016,S Aravind,Royal Challengers Bangalore,9,175,29.1,216,11.0,7.41,19.64,15.91
+266590,2016,D Wiese,Royal Challengers Bangalore,1,24,4.0,49,,12.25,,
+266712,2016,Bipul Sharma,Sunrisers Hyderabad,6,84,14.0,121,3.0,8.64,40.33,28.0
+266976,2016,YK Pathan,Kolkata Knight Riders,4,36,6.0,33,1.0,5.5,33.0,36.0
+267258,2016,VR Aaron,Royal Challengers Bangalore,8,142,23.4,227,2.0,9.59,113.5,71.0
+267264,2016,KW Richardson,Royal Challengers Bangalore,4,84,14.0,136,8.0,9.71,17.0,10.5
+267308,2016,Iqbal Abdulla,Royal Challengers Bangalore,8,150,25.0,213,6.0,8.52,35.5,25.0
+267326,2016,STR Binny,Royal Challengers Bangalore,11,102,17.0,134,1.0,7.88,134.0,102.0
+267399,2016,DJ Hooda,Sunrisers Hyderabad,6,78,13.0,97,3.0,7.46,32.33,26.0
+267492,2016,DW Steyn,Gujarat Lions,1,12,2.0,17,,8.5,,
+267525,2016,SK Raina,Gujarat Lions,4,60,10.0,82,,8.2,,
+267752,2016,T Shamsi,Royal Challengers Bangalore,4,96,16.0,147,3.0,9.19,49.0,32.0
+267921,2016,KA Pollard,Mumbai Indians,4,36,6.0,81,,13.5,,
+268011,2016,Imran Tahir,Delhi Daredevils,4,96,16.0,138,5.0,8.62,27.6,19.2
+268250,2016,R Dhawan,Kings XI Punjab,2,42,7.0,56,2.0,8.0,28.0,21.0
+268626,2016,R Sathish,Kolkata Knight Riders,3,36,6.0,59,1.0,9.83,59.0,36.0
+268692,2016,JA Morkel,Rising Pune Supergiants,2,30,5.0,66,2.0,13.2,33.0,15.0
+269063,2016,AB Dinda,Rising Pune Supergiants,9,183,30.3,231,11.0,7.57,21.0,16.64
+269265,2016,S Nadeem,Delhi Daredevils,4,90,15.0,127,2.0,8.47,63.5,45.0
+269343,2016,JP Duminy,Delhi Daredevils,5,42,7.0,55,2.0,7.86,27.5,21.0
+269428,2016,DR Smith,Gujarat Lions,8,108,18.0,153,8.0,8.5,19.12,13.5
+269621,2016,JD Unadkat,Kolkata Knight Riders,1,18,3.0,49,,16.33,,
+269777,2016,S Kaushik,Gujarat Lions,7,138,23.0,192,6.0,8.35,32.0,23.0
+269992,2016,JO Holder,Kolkata Knight Riders,4,78,13.0,103,2.0,7.92,51.5,39.0
+270625,2016,KC Cariappa,Kings XI Punjab,5,102,17.0,159,3.0,9.35,53.0,34.0
+270650,2016,Gurkeerat Singh,Kings XI Punjab,3,24,4.0,31,2.0,7.75,15.5,12.0
+270869,2016,SM Boland,Rising Pune Supergiants,2,42,7.0,54,2.0,7.71,27.0,21.0
+271470,2016,Swapnil Singh,Kings XI Punjab,1,18,3.0,29,,9.67,,
+271979,2016,Yuvraj Singh,Sunrisers Hyderabad,5,37,6.1,52,,8.43,,
+272183,2016,CJ Jordan,Royal Challengers Bangalore,9,168,28.0,258,11.0,9.21,23.45,15.27
+272333,2016,A Zampa,Rising Pune Supergiants,5,102,17.0,115,12.0,6.76,9.58,8.5
+273124,2016,Anureet Singh,Kings XI Punjab,2,36,6.0,43,,7.17,,
+274520,2016,V Kohli,Royal Challengers Bangalore,1,6,1.0,13,,13.0,,
+274536,2016,CH Gayle,Royal Challengers Bangalore,4,60,10.0,63,2.0,6.3,31.5,30.0
+274555,2016,Sachin Baby,Royal Challengers Bangalore,2,10,1.4,8,2.0,4.8,4.0,5.0
+274602,2016,AS Rajpoot,Kolkata Knight Riders,4,66,11.0,98,3.0,8.91,32.67,22.0
+274731,2016,BCJ Cutting,Sunrisers Hyderabad,4,67,11.1,80,5.0,7.16,16.0,13.4
+274827,2016,M Vijay,Kings XI Punjab,1,6,1.0,8,,8.0,,
+275126,2016,N Rana,Mumbai Indians,1,6,1.0,3,,3.0,,
+275426,2016,DL Chahar,Rising Pune Supergiants,2,30,5.0,41,,8.2,,
+276770,2016,KS Williamson,Sunrisers Hyderabad,1,6,1.0,7,,7.0,,
+277720,2016,TA Boult,Sunrisers Hyderabad,1,24,4.0,39,1.0,9.75,39.0,24.0

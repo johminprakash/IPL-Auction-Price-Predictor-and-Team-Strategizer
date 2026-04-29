@@ -1,0 +1,3024 @@
+Sr.No.,Player,Nationality,Type,Base Price,Season,Play type
+1,Steve Smith,Overseas,Batter,20000000.0,2025,Right arm fast bowler
+2,Josh Inglis,Overseas,Wicket-Keeper,20000000.0,2025,Right hand batter/Right arm off spinner
+3,Josh Hazlewood,Overseas,Bowler,20000000.0,2025,Right arm fast bowler
+4,Adil Rashid,Overseas,Bowler,20000000.0,2025,Right hand batter
+5,Rassie Van Der Dussen,Overseas,Batter,20000000.0,2025,Right hand batter
+6,James Vince,Overseas,Batter,20000000.0,2025,Unknown
+7,Sean Abbott,Overseas,All-Rounder,20000000.0,2025,Right arm fast bowler
+8,Jamie Overton,Overseas,All-Rounder,20000000.0,2025,Right hand batter/Right arm fast bowler
+9,Ben Duckett,Overseas,Wicket-Keeper,20000000.0,2025,Unknown
+10,Philip Salt,Overseas,Wicket-Keeper,15000000.0,2025,Unknown
+11,Colin Munro,Overseas,Batter,15000000.0,2025,Left hand batter
+12,Jason Holder,Overseas,All-Rounder,15000000.0,2025,Right hand batter
+13,James Neesham,Overseas,All-Rounder,15000000.0,2025,Right hand batter/Right arm medium
+14,Daniel Sams,Overseas,All-Rounder,15000000.0,2025,Right hand batter/Right arm fast bowler
+15,Chris Jordan,Overseas,Bowler,15000000.0,2025,Left hand wicket-keeper batter
+16,Tymal Mills,Overseas,Bowler,15000000.0,2025,Right hand batter
+17,Tim Southee,Overseas,Bowler,15000000.0,2025,Right arm fast bowler
+18,Ashton Agar,Overseas,All-Rounder,10000000.0,2025,Unknown
+19,Michael Bracewell,Overseas,All-Rounder,10000000.0,2025,Unknown
+20,Dwaine Pretorius,Overseas,All-Rounder,10000000.0,2025,Unknown
+21,Sam Billings,Overseas,Wicket-Keeper,10000000.0,2025,Right hand wicket-keeper batter
+22,Kyle Jamieson,Overseas,Bowler,10000000.0,2025,Right hand batter/Right arm fast bowler
+23,Riley Meredith,Overseas,Bowler,10000000.0,2025,Right hand batter
+24,Adam Milne,Overseas,Bowler,10000000.0,2025,Right hand batter
+25,Wayne Parnell,Overseas,Bowler,10000000.0,2025,Unknown
+26,David Wiese,Overseas,All-Rounder,10000000.0,2025,Right hand batter/Right arm medium
+27,Ish Sodhi,Overseas,Bowler,7500000.0,2025,Unknown
+28,Finn Allen,Overseas,Batter,7500000.0,2025,Left hand batter
+29,Fabian Allen,Overseas,All-Rounder,7500000.0,2025,Right hand batter/Right arm fast bowler
+30,Keemo Paul,Overseas,All-Rounder,7500000.0,2025,Right hand batter/Right arm fast bowler
+31,Matt Henry,Overseas,Bowler,7500000.0,2025,Right hand batter/Right arm medium
+32,Lance Morris,Overseas,Bowler,7500000.0,2025,Unknown
+33,Ollie Robinson,Overseas,Bowler,7500000.0,2025,Unknown
+34,Billy Stanlake,Overseas,Bowler,7500000.0,2025,Right arm fast bowler
+35,Olly Stone,Overseas,Bowler,7500000.0,2025,Unknown
+36,Karun Nair,Indian,Batter,5000000.0,2025,Right hand batter
+37,Kusal Mendis,Overseas,Wicket-Keeper,5000000.0,2025,Unknown
+38,Akeal Hosein,Overseas,Bowler,5000000.0,2025,Right hand batter/Right arm medium
+39,Mohammad Waqar Salamkheil,Overseas,Bowler,5000000.0,2025,Unknown
+40,Tabraiz Shamsi,Overseas,Bowler,5000000.0,2025,Unknown
+41,Alick Athanaze,Overseas,Batter,5000000.0,2025,Unknown
+42,Mark Chapman,Overseas,Batter,5000000.0,2025,Unknown
+43,Samuel Hain,Overseas,Batter,5000000.0,2025,Unknown
+44,Reeza Hendricks,Overseas,Batter,5000000.0,2025,Unknown
+45,Brandon King,Overseas,Batter,5000000.0,2025,Unknown
+46,Ibrahim Zadran,Overseas,Batter,5000000.0,2025,Unknown
+47,Najibullah Zadran,Overseas,Batter,5000000.0,2025,Unknown
+48,Wesley Agar,Overseas,All-Rounder,5000000.0,2025,Unknown
+49,Qais Ahamad,Overseas,All-Rounder,5000000.0,2025,Unknown
+50,Charith Asalanka,Overseas,All-Rounder,5000000.0,2025,Unknown
+51,Brydon Carse,Overseas,All-Rounder,5000000.0,2025,Right arm fast bowler
+52,Ben Cutting,Overseas,All-Rounder,5000000.0,2025,Right hand batter/Right arm fast bowler
+53,Matthew Forde,Overseas,All-Rounder,5000000.0,2025,Unknown
+54,George Garton,Overseas,All-Rounder,5000000.0,2025,Unknown
+55,George Linde,Overseas,All-Rounder,5000000.0,2025,Unknown
+56,Keshav Maharaj,Overseas,All-Rounder,5000000.0,2025,Unknown
+57,Wiaan Mulder,Overseas,All-Rounder,5000000.0,2025,Unknown
+58,Dasun Shanaka,Overseas,All-Rounder,5000000.0,2025,Unknown
+59,Matthew Short,Overseas,All-Rounder,5000000.0,2025,Unknown
+60,Odean Smith,Overseas,All-Rounder,5000000.0,2025,Right hand batter/Right arm fast bowler
+61,Hanuma Vihari,Indian,All-Rounder,5000000.0,2025,Right hand batter/Right arm off spinner
+62,Johnson Charles,Overseas,Wicket-Keeper,5000000.0,2025,Unknown
+63,Varun Aaron,Indian,Bowler,5000000.0,2025,Right arm fast bowler
+64,Fareed Ahmad,Overseas,Bowler,5000000.0,2025,Unknown
+65,Dushmanta Chameera,Overseas,Bowler,5000000.0,2025,Unknown
+66,Ben Dwarshuis,Overseas,Bowler,5000000.0,2025,Left arm fast bowler
+67,Richard Gleeson,Overseas,Bowler,5000000.0,2025,Unknown
+68,Siddharth  Kaul,Indian,Bowler,5000000.0,2025,Right arm fast bowler
+69,Lahiru Kumara,Overseas,Bowler,5000000.0,2025,Unknown
+70,Obed Mccoy,Overseas,Bowler,5000000.0,2025,Left arm fast bowler
+71,Blessing Muzarabani,Overseas,Bowler,5000000.0,2025,Unknown
+72,Richard Ngarava,Overseas,Bowler,5000000.0,2025,Unknown
+73,George Scrimshaw,Overseas,Bowler,5000000.0,2025,Unknown
+74,Barinder Sran,Indian,Bowler,5000000.0,2025,Unknown
+75,Oshane Thomas,Overseas,Bowler,5000000.0,2025,Left hand batter
+76,Sandeep Warrier,Indian,Bowler,5000000.0,2025,Unknown
+77,Lizaad Williams,Overseas,Bowler,5000000.0,2025,Right arm fast bowler
+78,Luke Wood,Overseas,Bowler,5000000.0,2025,Unknown
+79,Benny Howell,Overseas,All-Rounder,4000000.0,2025,Right hand batter/Right arm medium
+80,Jalaj Saxena,Indian,All-Rounder,4000000.0,2025,Right hand batter/Right arm off spinner
+81,Corbin Bosch,Overseas,All-Rounder,3000000.0,2025,Unknown
+82,Kamlesh Nagarkoti,Indian,All-Rounder,3000000.0,2025,Right arm fast bowler
+83,Basil Thampi,Indian,Bowler,3000000.0,2025,Right hand batter
+84,Lalit Yadav,Indian,Bowler,3000000.0,2025,Left hand batter/Left arm orthodox spinner
+85,S Midhun,Indian,Bowler,3000000.0,2025,Unknown
+86,Izharulhuq Naveed,Overseas,Bowler,3000000.0,2025,Unknown
+87,Priyansh Arya,Indian,Batter,2000000.0,2025,Left hand batter
+88,Rohan  Kunnummal,Indian,Batter,2000000.0,2025,Unknown
+89,Manan Vohra,Indian,Batter,2000000.0,2025,Right hand batter/Right arm off spinner
+90,Raj Angad Bawa,Indian,All-Rounder,2000000.0,2025,Right hand batter/Right arm medium
+91,Sarfaraz Khan,Indian,All-Rounder,2000000.0,2025,Right hand batter
+92,Vivrant Sharma,Indian,All-Rounder,2000000.0,2025,Right hand batter
+93,Atit Sheth,Indian,All-Rounder,2000000.0,2025,Unknown
+94,Hrithik Shokeen,Indian,All-Rounder,2000000.0,2025,Right arm leg spinner
+95,Urvil Patel,Indian,Wicket-Keeper,2000000.0,2025,Right hand wicket-keeper batter
+96,Vishnu Solanki,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+97,Ishan Porel,Indian,Bowler,2000000.0,2025,Right arm fast bowler
+98,Kuldip Yadav,Indian,Bowler,2000000.0,2025,Left arm wrist spinner
+99,Murgan Ashwin,Indian,Bowler,2000000.0,2025,Unknown
+100,Pulkit Narang,Indian,Bowler,2000000.0,2025,Unknown
+101,Shiva  Singh,Indian,Bowler,2000000.0,2025,Unknown
+102,Dinesh  Bana,Indian,Batter,2000000.0,2025,Unknown
+103,Rajat Dey,Indian,Batter,2000000.0,2025,Unknown
+104,Abhimanyu Easwaran,Indian,Batter,2000000.0,2025,Unknown
+105,Rithik Easwaran,Indian,Batter,2000000.0,2025,Unknown
+106,Chirag Gandhi,Indian,Batter,2000000.0,2025,Unknown
+107,Nikhil Gangta,Indian,Batter,2000000.0,2025,Unknown
+108,Sudip Gharami,Indian,Batter,2000000.0,2025,Unknown
+109,Ansh Gosai,Indian,Batter,2000000.0,2025,Unknown
+110,Azim Kazi,Indian,Batter,2000000.0,2025,Unknown
+111,Amandeep Khare,Indian,Batter,2000000.0,2025,Unknown
+112,Ankit Kumar,Indian,Batter,2000000.0,2025,Unknown
+113,Bhupen Lalwani,Indian,Batter,2000000.0,2025,Unknown
+114,Pukhraj Mann,Indian,Batter,2000000.0,2025,Unknown
+115,Tanmay Mishra,Indian,Batter,2000000.0,2025,Unknown
+116,Salman Nizar,Indian,Batter,2000000.0,2025,Unknown
+117,Priyank Panchal,Indian,Batter,2000000.0,2025,Unknown
+118,Akshat Raghuwanshi,Indian,Batter,2000000.0,2025,Unknown
+119,Ekant Sen,Indian,Batter,2000000.0,2025,Unknown
+120,Subhranshu Senapati,Indian,Batter,2000000.0,2025,Right hand batter
+121,Naushad Shaikh,Indian,Batter,2000000.0,2025,Unknown
+122,Dhruv Shorey,Indian,Batter,2000000.0,2025,Right hand batter
+123,Himmat Singh,Indian,Batter,2000000.0,2025,Right hand batter
+124,Virat  Singh,Indian,Batter,2000000.0,2025,Right hand batter
+125,Sumeet Verma,Indian,Batter,2000000.0,2025,Unknown
+126,P.A. Abdul,Indian,All-Rounder,2000000.0,2025,Unknown
+127,Murugan Abhishek,Indian,All-Rounder,2000000.0,2025,Unknown
+128,Atharva Ankolekar,Indian,All-Rounder,2000000.0,2025,Unknown
+129,Baba Aparajith,Indian,All-Rounder,2000000.0,2025,Right arm leg spinner
+130,Jass Inder Baidwan,Indian,All-Rounder,2000000.0,2025,Unknown
+131,Rahul Buddhi,Indian,All-Rounder,2000000.0,2025,Left hand batter/Left arm orthodox spinner
+132,Vaisakh  Chandran,Indian,All-Rounder,2000000.0,2025,Unknown
+133,Writtick Chatterjee,Indian,All-Rounder,2000000.0,2025,Right hand batter
+134,Raj Chaudhary,Indian,All-Rounder,2000000.0,2025,Unknown
+135,Ravi Chauhan,Indian,All-Rounder,2000000.0,2025,Unknown
+136,Ashwin Das,Indian,All-Rounder,2000000.0,2025,Unknown
+137,Aarya Desai,Indian,All-Rounder,2000000.0,2025,Unknown
+138,Vineet Dhankhar,Indian,All-Rounder,2000000.0,2025,Unknown
+139,Harsh Dubey,Indian,All-Rounder,2000000.0,2025,Unknown
+140,Prerit Dutta,Indian,All-Rounder,2000000.0,2025,Unknown
+141,Jake Fraser-Mcgurk,Overseas,All-Rounder,2000000.0,2025,Right hand batter
+142,Shubhang Hegde,Indian,All-Rounder,2000000.0,2025,Unknown
+143,Saransh Jain,Indian,All-Rounder,2000000.0,2025,Unknown
+144,Duan Jansen,Overseas,All-Rounder,2000000.0,2025,Left arm fast bowler
+145,Mohammad Kaif,Indian,All-Rounder,2000000.0,2025,Unknown
+146,Aman Khan,Indian,All-Rounder,2000000.0,2025,Right arm fast bowler
+147,Mohd Arslan Khan,Indian,All-Rounder,2000000.0,2025,Unknown
+148,Musheer  Khan,Indian,All-Rounder,2000000.0,2025,Right hand batter
+149,Tanush Kotian,Indian,All-Rounder,2000000.0,2025,Unknown
+150,Manvanth Kumar,Indian,All-Rounder,2000000.0,2025,Unknown
+151,Saurabh Kumar,Indian,All-Rounder,2000000.0,2025,Left arm orthodox spinner
+152,Dev Lakra,Indian,All-Rounder,2000000.0,2025,Unknown
+153,Nasir Lone,Indian,All-Rounder,2000000.0,2025,Unknown
+154,Kaushik Maity,Indian,All-Rounder,2000000.0,2025,Unknown
+155,Divij Mehra,Indian,All-Rounder,2000000.0,2025,Unknown
+156,Mani Sankar Mura Singh,Indian,All-Rounder,2000000.0,2025,Unknown
+157,Sanjay Pahal,Indian,All-Rounder,2000000.0,2025,Unknown
+158,Jitender Pal,Indian,All-Rounder,2000000.0,2025,Unknown
+159,Saumy Pandey,Indian,All-Rounder,2000000.0,2025,Unknown
+160,Ansh Patel,Indian,All-Rounder,2000000.0,2025,Right arm fast bowler
+161,Sairaj Patil,Indian,All-Rounder,2000000.0,2025,Unknown
+162,Pradosh Paul,Indian,All-Rounder,2000000.0,2025,Unknown
+163,Shubham Singh Pundir,Indian,All-Rounder,2000000.0,2025,Unknown
+164,Atal Rai,Indian,All-Rounder,2000000.0,2025,Unknown
+165,Abhimanyusingh Rajput,Indian,All-Rounder,2000000.0,2025,Unknown
+166,Mohit Rathee,Indian,All-Rounder,2000000.0,2025,Right arm leg spinner
+167,Ninad Rathva,Indian,All-Rounder,2000000.0,2025,Unknown
+168,Rohit Rayudu,Indian,All-Rounder,2000000.0,2025,Unknown
+169,Aniketh Reddy,Indian,All-Rounder,2000000.0,2025,Unknown
+170,Mohit Redkar,Indian,All-Rounder,2000000.0,2025,Unknown
+171,Akash Sengupta,Indian,All-Rounder,2000000.0,2025,Unknown
+172,Suryansh  Shedge,Indian,All-Rounder,2000000.0,2025,Right arm leg spinner
+173,Aradhya Shukla,Indian,All-Rounder,2000000.0,2025,Unknown
+174,Utkarsh Singh,Indian,All-Rounder,2000000.0,2025,Right hand batter
+175,Shashank Singh,Indian,All-Rounder,2000000.0,2025,Right arm fast bowler
+176,Prenelan Subrayen,Overseas,All-Rounder,2000000.0,2025,Unknown
+177,Ravi Teja,Indian,All-Rounder,2000000.0,2025,Unknown
+178,Akash Vashisht,Indian,All-Rounder,2000000.0,2025,Right arm off spinner
+179,Mohit Ahlawat,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+180,G. Ajitesh,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+181,L.R. Chethan,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+182,Gourav Choudhary,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+183,Harvik  Desai,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+184,Shakir Gandhi,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+185,Sumit Ghadigaonkar,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+186,Baba Indrajith,Indian,Wicket-Keeper,2000000.0,2025,Right hand batter
+187,Bhagmender Lather,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+188,Anmol Malhotra,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+189,Darshan Misal,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+190,Nikhil Naik,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+191,Prasad Pawar,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+192,Mahesh Pithiya,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+193,William Salzmann,Overseas,Wicket-Keeper,2000000.0,2025,Unknown
+194,Bipin  Saurabh,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+195,B.R. Sharath,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+196,K.L. Shrijith,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+197,Avneesh Sudha,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+198,Aditya Tare,Indian,Wicket-Keeper,2000000.0,2025,Right arm medium
+199,Nihal Ullal,Indian,Wicket-Keeper,2000000.0,2025,Unknown
+200,K.M Asif,Indian,Bowler,2000000.0,2025,Unknown
+201,Mohit Avasthi,Indian,Bowler,2000000.0,2025,Unknown
+202,Ottneil Baartman,Overseas,Bowler,2000000.0,2025,Unknown
+203,Basit Bashir,Indian,Bowler,2000000.0,2025,Unknown
+204,Waseem Bashir,Indian,Bowler,2000000.0,2025,Unknown
+205,Sachin Bhosale,Indian,Bowler,2000000.0,2025,Unknown
+206,Devendra Singh Bora,Indian,Bowler,2000000.0,2025,Unknown
+207,Gurnoor Singh Brar,Indian,Bowler,2000000.0,2025,Left hand batter/Left arm orthodox spinner
+208,Saurabh Dubey,Indian,Bowler,2000000.0,2025,Right hand batter
+209,Mrinmoy Dutta,Indian,Bowler,2000000.0,2025,Unknown
+210,Vishal Godara,Indian,Bowler,2000000.0,2025,Unknown
+211,Money Grewal,Indian,Bowler,2000000.0,2025,Unknown
+212,Arpit Guleria,Indian,Bowler,2000000.0,2025,Unknown
+213,Mukhtar Hussain,Indian,Bowler,2000000.0,2025,Unknown
+214,Shamar Joseph,Overseas,Bowler,2000000.0,2025,Right arm fast bowler
+215,Mohammed Kaif,Indian,Bowler,2000000.0,2025,Unknown
+216,Shubham Kapse,Indian,Bowler,2000000.0,2025,Unknown
+217,Devang Karamta,Indian,Bowler,2000000.0,2025,Unknown
+218,Kulwant Khejroliya,Indian,Bowler,2000000.0,2025,Left arm fast bowler
+219,Ravi Kumar,Indian,Bowler,2000000.0,2025,Unknown
+220,Ashwani Kumar,Indian,Bowler,2000000.0,2025,Right hand batter
+221,Raj Limbani,Indian,Bowler,2000000.0,2025,Unknown
+222,Kwena Maphaka,Overseas,Bowler,2000000.0,2025,Right arm fast bowler
+223,Lukman Hussain Meriwala,Indian,Bowler,2000000.0,2025,Left arm fast bowler
+224,Venkatesh Muralidhara,Indian,Bowler,2000000.0,2025,Unknown
+225,William O'Rourke,Overseas,Bowler,2000000.0,2025,Unknown
+226,Rakshan Readdi,Indian,Bowler,2000000.0,2025,Unknown
+227,Manish Reddy,Indian,Bowler,2000000.0,2025,Unknown
+228,Monish Reddy,Indian,Bowler,2000000.0,2025,Unknown
+229,Akhin Sathar,Indian,Bowler,2000000.0,2025,Unknown
+230,Divesh Sharma,Indian,Bowler,2000000.0,2025,Unknown
+231,Ashok Sharma,Indian,Bowler,2000000.0,2025,Left arm orthodox spinner
+232,Abhilash Shetty,Indian,Bowler,2000000.0,2025,Unknown
+233,Rahul Shukla,Indian,Bowler,2000000.0,2025,Unknown
+234,Manit Singh,Indian,Bowler,2000000.0,2025,Unknown
+235,Gurjapneet Singh,Indian,Bowler,2000000.0,2025,Right arm fast bowler
+236,Paul Van Meekeren,Overseas,Bowler,2000000.0,2025,Unknown
+237,Nitin Verma,Indian,Bowler,2000000.0,2025,Unknown
+238,Chris Wood,Overseas,Bowler,2000000.0,2025,Unknown
+239,Gourav Yadav,Indian,Bowler,2000000.0,2025,Unknown
+240,Prithvi Raj Yarra,Indian,Bowler,2000000.0,2025,Right arm fast bowler
+241,Mujtaba Yousuf,Indian,Bowler,2000000.0,2025,Unknown
+242,Shubham Agrawal,Indian,Bowler,2000000.0,2025,Unknown
+243,Mustaq Beg,Indian,Bowler,2000000.0,2025,Unknown
+244,K.C Cariappa,Indian,Bowler,2000000.0,2025,Unknown
+245,Ganesh Chaudhary,Indian,Bowler,2000000.0,2025,Unknown
+246,Yuvraj Chudasama,Indian,Bowler,2000000.0,2025,Unknown
+247,Jasmer  Dhankhar,Indian,Bowler,2000000.0,2025,Unknown
+248,Chintal Gandhi,Indian,Bowler,2000000.0,2025,Unknown
+249,Allah Ghazanfar,Overseas,Bowler,2000000.0,2025,Right arm off spinner
+250,Raghav Goyal,Indian,Bowler,2000000.0,2025,Left arm orthodox spinner
+251,Shreyas Gurav,Indian,Bowler,2000000.0,2025,Unknown
+252,Vishu Kashyap,Indian,Bowler,2000000.0,2025,Unknown
+253,Bhuwan Rohilla,Indian,Bowler,2000000.0,2025,Unknown
+254,Shivam  Sharma,Indian,Bowler,2000000.0,2025,Unknown
+255,Digvesh Singh,Indian,Bowler,2000000.0,2025,Left arm fast bowler
+256,Jagadeesha Suchith,Indian,Bowler,2000000.0,2025,Left arm fast bowler
+257,B. Surya,Indian,Bowler,2000000.0,2025,Unknown
+258,Pankaj Yadav,Indian,Bowler,2000000.0,2025,Unknown
+259,Sahil Dhiwan,Indian,All-Rounder,2000000.0,2025,Unknown
+260,Kaushal Tambe,Indian,All-Rounder,2000000.0,2025,Unknown
+1,Steve Smith,Overseas,Batter,20000000.0,2024,Right arm fast bowler
+2,Josh Inglis,Overseas,Wicket-Keeper,20000000.0,2024,Right hand batter/Right arm off spinner
+3,Josh Hazlewood,Overseas,Bowler,20000000.0,2024,Right arm fast bowler
+4,Adil Rashid,Overseas,Bowler,20000000.0,2024,Right hand batter
+5,Rassie Van Der Dussen,Overseas,Batter,20000000.0,2024,Right hand batter
+6,James Vince,Overseas,Batter,20000000.0,2024,Unknown
+7,Sean Abbott,Overseas,All-Rounder,20000000.0,2024,Right arm fast bowler
+8,Jamie Overton,Overseas,All-Rounder,20000000.0,2024,Right hand batter/Right arm fast bowler
+9,Ben Duckett,Overseas,Wicket-Keeper,20000000.0,2024,Unknown
+10,Philip Salt,Overseas,Wicket-Keeper,15000000.0,2024,Unknown
+11,Colin Munro,Overseas,Batter,15000000.0,2024,Left hand batter
+12,Jason Holder,Overseas,All-Rounder,15000000.0,2024,Right hand batter
+13,James Neesham,Overseas,All-Rounder,15000000.0,2024,Right hand batter/Right arm medium
+14,Daniel Sams,Overseas,All-Rounder,15000000.0,2024,Right hand batter/Right arm fast bowler
+15,Chris Jordan,Overseas,Bowler,15000000.0,2024,Left hand wicket-keeper batter
+16,Tymal Mills,Overseas,Bowler,15000000.0,2024,Right hand batter
+17,Tim Southee,Overseas,Bowler,15000000.0,2024,Right arm fast bowler
+18,Ashton Agar,Overseas,All-Rounder,10000000.0,2024,Unknown
+19,Michael Bracewell,Overseas,All-Rounder,10000000.0,2024,Unknown
+20,Dwaine Pretorius,Overseas,All-Rounder,10000000.0,2024,Unknown
+21,Sam Billings,Overseas,Wicket-Keeper,10000000.0,2024,Right hand wicket-keeper batter
+22,Kyle Jamieson,Overseas,Bowler,10000000.0,2024,Right hand batter/Right arm fast bowler
+23,Riley Meredith,Overseas,Bowler,10000000.0,2024,Right hand batter
+24,Adam Milne,Overseas,Bowler,10000000.0,2024,Right hand batter
+25,Wayne Parnell,Overseas,Bowler,10000000.0,2024,Unknown
+26,David Wiese,Overseas,All-Rounder,10000000.0,2024,Right hand batter/Right arm medium
+27,Ish Sodhi,Overseas,Bowler,7500000.0,2024,Unknown
+28,Finn Allen,Overseas,Batter,7500000.0,2024,Left hand batter
+29,Fabian Allen,Overseas,All-Rounder,7500000.0,2024,Right hand batter/Right arm fast bowler
+30,Keemo Paul,Overseas,All-Rounder,7500000.0,2024,Right hand batter/Right arm fast bowler
+31,Matt Henry,Overseas,Bowler,7500000.0,2024,Right hand batter/Right arm medium
+32,Lance Morris,Overseas,Bowler,7500000.0,2024,Unknown
+33,Ollie Robinson,Overseas,Bowler,7500000.0,2024,Unknown
+34,Billy Stanlake,Overseas,Bowler,7500000.0,2024,Right arm fast bowler
+35,Olly Stone,Overseas,Bowler,7500000.0,2024,Unknown
+36,Karun Nair,Indian,Batter,5000000.0,2024,Right hand batter
+37,Kusal Mendis,Overseas,Wicket-Keeper,5000000.0,2024,Unknown
+38,Akeal Hosein,Overseas,Bowler,5000000.0,2024,Right hand batter/Right arm medium
+39,Mohammad Waqar Salamkheil,Overseas,Bowler,5000000.0,2024,Unknown
+40,Tabraiz Shamsi,Overseas,Bowler,5000000.0,2024,Unknown
+41,Alick Athanaze,Overseas,Batter,5000000.0,2024,Unknown
+42,Mark Chapman,Overseas,Batter,5000000.0,2024,Unknown
+43,Samuel Hain,Overseas,Batter,5000000.0,2024,Unknown
+44,Reeza Hendricks,Overseas,Batter,5000000.0,2024,Unknown
+45,Brandon King,Overseas,Batter,5000000.0,2024,Unknown
+46,Ibrahim Zadran,Overseas,Batter,5000000.0,2024,Unknown
+47,Najibullah Zadran,Overseas,Batter,5000000.0,2024,Unknown
+48,Wesley Agar,Overseas,All-Rounder,5000000.0,2024,Unknown
+49,Qais Ahamad,Overseas,All-Rounder,5000000.0,2024,Unknown
+50,Charith Asalanka,Overseas,All-Rounder,5000000.0,2024,Unknown
+51,Brydon Carse,Overseas,All-Rounder,5000000.0,2024,Right arm fast bowler
+52,Ben Cutting,Overseas,All-Rounder,5000000.0,2024,Right hand batter/Right arm fast bowler
+53,Matthew Forde,Overseas,All-Rounder,5000000.0,2024,Unknown
+54,George Garton,Overseas,All-Rounder,5000000.0,2024,Unknown
+55,George Linde,Overseas,All-Rounder,5000000.0,2024,Unknown
+56,Keshav Maharaj,Overseas,All-Rounder,5000000.0,2024,Unknown
+57,Wiaan Mulder,Overseas,All-Rounder,5000000.0,2024,Unknown
+58,Dasun Shanaka,Overseas,All-Rounder,5000000.0,2024,Unknown
+59,Matthew Short,Overseas,All-Rounder,5000000.0,2024,Unknown
+60,Odean Smith,Overseas,All-Rounder,5000000.0,2024,Right hand batter/Right arm fast bowler
+61,Hanuma Vihari,Indian,All-Rounder,5000000.0,2024,Right hand batter/Right arm off spinner
+62,Johnson Charles,Overseas,Wicket-Keeper,5000000.0,2024,Unknown
+63,Varun Aaron,Indian,Bowler,5000000.0,2024,Right arm fast bowler
+64,Fareed Ahmad,Overseas,Bowler,5000000.0,2024,Unknown
+65,Dushmanta Chameera,Overseas,Bowler,5000000.0,2024,Unknown
+66,Ben Dwarshuis,Overseas,Bowler,5000000.0,2024,Left arm fast bowler
+67,Richard Gleeson,Overseas,Bowler,5000000.0,2024,Unknown
+68,Siddharth  Kaul,Indian,Bowler,5000000.0,2024,Right arm fast bowler
+69,Lahiru Kumara,Overseas,Bowler,5000000.0,2024,Unknown
+70,Obed Mccoy,Overseas,Bowler,5000000.0,2024,Left arm fast bowler
+71,Blessing Muzarabani,Overseas,Bowler,5000000.0,2024,Unknown
+72,Richard Ngarava,Overseas,Bowler,5000000.0,2024,Unknown
+73,George Scrimshaw,Overseas,Bowler,5000000.0,2024,Unknown
+74,Barinder Sran,Indian,Bowler,5000000.0,2024,Unknown
+75,Oshane Thomas,Overseas,Bowler,5000000.0,2024,Left hand batter
+76,Sandeep Warrier,Indian,Bowler,5000000.0,2024,Unknown
+77,Lizaad Williams,Overseas,Bowler,5000000.0,2024,Right arm fast bowler
+78,Luke Wood,Overseas,Bowler,5000000.0,2024,Unknown
+79,Benny Howell,Overseas,All-Rounder,4000000.0,2024,Right hand batter/Right arm medium
+80,Jalaj Saxena,Indian,All-Rounder,4000000.0,2024,Right hand batter/Right arm off spinner
+81,Corbin Bosch,Overseas,All-Rounder,3000000.0,2024,Unknown
+82,Kamlesh Nagarkoti,Indian,All-Rounder,3000000.0,2024,Right arm fast bowler
+83,Basil Thampi,Indian,Bowler,3000000.0,2024,Right hand batter
+84,Lalit Yadav,Indian,Bowler,3000000.0,2024,Left hand batter/Left arm orthodox spinner
+85,S Midhun,Indian,Bowler,3000000.0,2024,Unknown
+86,Izharulhuq Naveed,Overseas,Bowler,3000000.0,2024,Unknown
+87,Priyansh Arya,Indian,Batter,2000000.0,2024,Left hand batter
+88,Rohan  Kunnummal,Indian,Batter,2000000.0,2024,Unknown
+89,Manan Vohra,Indian,Batter,2000000.0,2024,Right hand batter/Right arm off spinner
+90,Raj Angad Bawa,Indian,All-Rounder,2000000.0,2024,Right hand batter/Right arm medium
+91,Sarfaraz Khan,Indian,All-Rounder,2000000.0,2024,Right hand batter
+92,Vivrant Sharma,Indian,All-Rounder,2000000.0,2024,Right hand batter
+93,Atit Sheth,Indian,All-Rounder,2000000.0,2024,Unknown
+94,Hrithik Shokeen,Indian,All-Rounder,2000000.0,2024,Right arm leg spinner
+95,Urvil Patel,Indian,Wicket-Keeper,2000000.0,2024,Right hand wicket-keeper batter
+96,Vishnu Solanki,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+97,Ishan Porel,Indian,Bowler,2000000.0,2024,Right arm fast bowler
+98,Kuldip Yadav,Indian,Bowler,2000000.0,2024,Left arm wrist spinner
+99,Murgan Ashwin,Indian,Bowler,2000000.0,2024,Unknown
+100,Pulkit Narang,Indian,Bowler,2000000.0,2024,Unknown
+101,Shiva  Singh,Indian,Bowler,2000000.0,2024,Unknown
+102,Dinesh  Bana,Indian,Batter,2000000.0,2024,Unknown
+103,Rajat Dey,Indian,Batter,2000000.0,2024,Unknown
+104,Abhimanyu Easwaran,Indian,Batter,2000000.0,2024,Unknown
+105,Rithik Easwaran,Indian,Batter,2000000.0,2024,Unknown
+106,Chirag Gandhi,Indian,Batter,2000000.0,2024,Unknown
+107,Nikhil Gangta,Indian,Batter,2000000.0,2024,Unknown
+108,Sudip Gharami,Indian,Batter,2000000.0,2024,Unknown
+109,Ansh Gosai,Indian,Batter,2000000.0,2024,Unknown
+110,Azim Kazi,Indian,Batter,2000000.0,2024,Unknown
+111,Amandeep Khare,Indian,Batter,2000000.0,2024,Unknown
+112,Ankit Kumar,Indian,Batter,2000000.0,2024,Unknown
+113,Bhupen Lalwani,Indian,Batter,2000000.0,2024,Unknown
+114,Pukhraj Mann,Indian,Batter,2000000.0,2024,Unknown
+115,Tanmay Mishra,Indian,Batter,2000000.0,2024,Unknown
+116,Salman Nizar,Indian,Batter,2000000.0,2024,Unknown
+117,Priyank Panchal,Indian,Batter,2000000.0,2024,Unknown
+118,Akshat Raghuwanshi,Indian,Batter,2000000.0,2024,Unknown
+119,Ekant Sen,Indian,Batter,2000000.0,2024,Unknown
+120,Subhranshu Senapati,Indian,Batter,2000000.0,2024,Right hand batter
+121,Naushad Shaikh,Indian,Batter,2000000.0,2024,Unknown
+122,Dhruv Shorey,Indian,Batter,2000000.0,2024,Right hand batter
+123,Himmat Singh,Indian,Batter,2000000.0,2024,Right hand batter
+124,Virat  Singh,Indian,Batter,2000000.0,2024,Right hand batter
+125,Sumeet Verma,Indian,Batter,2000000.0,2024,Unknown
+126,P.A. Abdul,Indian,All-Rounder,2000000.0,2024,Unknown
+127,Murugan Abhishek,Indian,All-Rounder,2000000.0,2024,Unknown
+128,Atharva Ankolekar,Indian,All-Rounder,2000000.0,2024,Unknown
+129,Baba Aparajith,Indian,All-Rounder,2000000.0,2024,Right arm leg spinner
+130,Jass Inder Baidwan,Indian,All-Rounder,2000000.0,2024,Unknown
+131,Rahul Buddhi,Indian,All-Rounder,2000000.0,2024,Left hand batter/Left arm orthodox spinner
+132,Vaisakh  Chandran,Indian,All-Rounder,2000000.0,2024,Unknown
+133,Writtick Chatterjee,Indian,All-Rounder,2000000.0,2024,Right hand batter
+134,Raj Chaudhary,Indian,All-Rounder,2000000.0,2024,Unknown
+135,Ravi Chauhan,Indian,All-Rounder,2000000.0,2024,Unknown
+136,Ashwin Das,Indian,All-Rounder,2000000.0,2024,Unknown
+137,Aarya Desai,Indian,All-Rounder,2000000.0,2024,Unknown
+138,Vineet Dhankhar,Indian,All-Rounder,2000000.0,2024,Unknown
+139,Harsh Dubey,Indian,All-Rounder,2000000.0,2024,Unknown
+140,Prerit Dutta,Indian,All-Rounder,2000000.0,2024,Unknown
+141,Jake Fraser-Mcgurk,Overseas,All-Rounder,2000000.0,2024,Right hand batter
+142,Shubhang Hegde,Indian,All-Rounder,2000000.0,2024,Unknown
+143,Saransh Jain,Indian,All-Rounder,2000000.0,2024,Unknown
+144,Duan Jansen,Overseas,All-Rounder,2000000.0,2024,Left arm fast bowler
+145,Mohammad Kaif,Indian,All-Rounder,2000000.0,2024,Unknown
+146,Aman Khan,Indian,All-Rounder,2000000.0,2024,Right arm fast bowler
+147,Mohd Arslan Khan,Indian,All-Rounder,2000000.0,2024,Unknown
+148,Musheer  Khan,Indian,All-Rounder,2000000.0,2024,Right hand batter
+149,Tanush Kotian,Indian,All-Rounder,2000000.0,2024,Unknown
+150,Manvanth Kumar,Indian,All-Rounder,2000000.0,2024,Unknown
+151,Saurabh Kumar,Indian,All-Rounder,2000000.0,2024,Left arm orthodox spinner
+152,Dev Lakra,Indian,All-Rounder,2000000.0,2024,Unknown
+153,Nasir Lone,Indian,All-Rounder,2000000.0,2024,Unknown
+154,Kaushik Maity,Indian,All-Rounder,2000000.0,2024,Unknown
+155,Divij Mehra,Indian,All-Rounder,2000000.0,2024,Unknown
+156,Mani Sankar Mura Singh,Indian,All-Rounder,2000000.0,2024,Unknown
+157,Sanjay Pahal,Indian,All-Rounder,2000000.0,2024,Unknown
+158,Jitender Pal,Indian,All-Rounder,2000000.0,2024,Unknown
+159,Saumy Pandey,Indian,All-Rounder,2000000.0,2024,Unknown
+160,Ansh Patel,Indian,All-Rounder,2000000.0,2024,Right arm fast bowler
+161,Sairaj Patil,Indian,All-Rounder,2000000.0,2024,Unknown
+162,Pradosh Paul,Indian,All-Rounder,2000000.0,2024,Unknown
+163,Shubham Singh Pundir,Indian,All-Rounder,2000000.0,2024,Unknown
+164,Atal Rai,Indian,All-Rounder,2000000.0,2024,Unknown
+165,Abhimanyusingh Rajput,Indian,All-Rounder,2000000.0,2024,Unknown
+166,Mohit Rathee,Indian,All-Rounder,2000000.0,2024,Right arm leg spinner
+167,Ninad Rathva,Indian,All-Rounder,2000000.0,2024,Unknown
+168,Rohit Rayudu,Indian,All-Rounder,2000000.0,2024,Unknown
+169,Aniketh Reddy,Indian,All-Rounder,2000000.0,2024,Unknown
+170,Mohit Redkar,Indian,All-Rounder,2000000.0,2024,Unknown
+171,Akash Sengupta,Indian,All-Rounder,2000000.0,2024,Unknown
+172,Suryansh  Shedge,Indian,All-Rounder,2000000.0,2024,Right arm leg spinner
+173,Aradhya Shukla,Indian,All-Rounder,2000000.0,2024,Unknown
+174,Utkarsh Singh,Indian,All-Rounder,2000000.0,2024,Right hand batter
+175,Shashank Singh,Indian,All-Rounder,2000000.0,2024,Right arm fast bowler
+176,Prenelan Subrayen,Overseas,All-Rounder,2000000.0,2024,Unknown
+177,Ravi Teja,Indian,All-Rounder,2000000.0,2024,Unknown
+178,Akash Vashisht,Indian,All-Rounder,2000000.0,2024,Right arm off spinner
+179,Mohit Ahlawat,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+180,G. Ajitesh,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+181,L.R. Chethan,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+182,Gourav Choudhary,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+183,Harvik  Desai,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+184,Shakir Gandhi,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+185,Sumit Ghadigaonkar,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+186,Baba Indrajith,Indian,Wicket-Keeper,2000000.0,2024,Right hand batter
+187,Bhagmender Lather,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+188,Anmol Malhotra,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+189,Darshan Misal,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+190,Nikhil Naik,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+191,Prasad Pawar,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+192,Mahesh Pithiya,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+193,William Salzmann,Overseas,Wicket-Keeper,2000000.0,2024,Unknown
+194,Bipin  Saurabh,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+195,B.R. Sharath,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+196,K.L. Shrijith,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+197,Avneesh Sudha,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+198,Aditya Tare,Indian,Wicket-Keeper,2000000.0,2024,Right arm medium
+199,Nihal Ullal,Indian,Wicket-Keeper,2000000.0,2024,Unknown
+200,K.M Asif,Indian,Bowler,2000000.0,2024,Unknown
+201,Mohit Avasthi,Indian,Bowler,2000000.0,2024,Unknown
+202,Ottneil Baartman,Overseas,Bowler,2000000.0,2024,Unknown
+203,Basit Bashir,Indian,Bowler,2000000.0,2024,Unknown
+204,Waseem Bashir,Indian,Bowler,2000000.0,2024,Unknown
+205,Sachin Bhosale,Indian,Bowler,2000000.0,2024,Unknown
+206,Devendra Singh Bora,Indian,Bowler,2000000.0,2024,Unknown
+207,Gurnoor Singh Brar,Indian,Bowler,2000000.0,2024,Left hand batter/Left arm orthodox spinner
+208,Saurabh Dubey,Indian,Bowler,2000000.0,2024,Right hand batter
+209,Mrinmoy Dutta,Indian,Bowler,2000000.0,2024,Unknown
+210,Vishal Godara,Indian,Bowler,2000000.0,2024,Unknown
+211,Money Grewal,Indian,Bowler,2000000.0,2024,Unknown
+212,Arpit Guleria,Indian,Bowler,2000000.0,2024,Unknown
+213,Mukhtar Hussain,Indian,Bowler,2000000.0,2024,Unknown
+214,Shamar Joseph,Overseas,Bowler,2000000.0,2024,Right arm fast bowler
+215,Mohammed Kaif,Indian,Bowler,2000000.0,2024,Unknown
+216,Shubham Kapse,Indian,Bowler,2000000.0,2024,Unknown
+217,Devang Karamta,Indian,Bowler,2000000.0,2024,Unknown
+218,Kulwant Khejroliya,Indian,Bowler,2000000.0,2024,Left arm fast bowler
+219,Ravi Kumar,Indian,Bowler,2000000.0,2024,Unknown
+220,Ashwani Kumar,Indian,Bowler,2000000.0,2024,Right hand batter
+221,Raj Limbani,Indian,Bowler,2000000.0,2024,Unknown
+222,Kwena Maphaka,Overseas,Bowler,2000000.0,2024,Right arm fast bowler
+223,Lukman Hussain Meriwala,Indian,Bowler,2000000.0,2024,Left arm fast bowler
+224,Venkatesh Muralidhara,Indian,Bowler,2000000.0,2024,Unknown
+225,William O'Rourke,Overseas,Bowler,2000000.0,2024,Unknown
+226,Rakshan Readdi,Indian,Bowler,2000000.0,2024,Unknown
+227,Manish Reddy,Indian,Bowler,2000000.0,2024,Unknown
+228,Monish Reddy,Indian,Bowler,2000000.0,2024,Unknown
+229,Akhin Sathar,Indian,Bowler,2000000.0,2024,Unknown
+230,Divesh Sharma,Indian,Bowler,2000000.0,2024,Unknown
+231,Ashok Sharma,Indian,Bowler,2000000.0,2024,Left arm orthodox spinner
+232,Abhilash Shetty,Indian,Bowler,2000000.0,2024,Unknown
+233,Rahul Shukla,Indian,Bowler,2000000.0,2024,Unknown
+234,Manit Singh,Indian,Bowler,2000000.0,2024,Unknown
+235,Gurjapneet Singh,Indian,Bowler,2000000.0,2024,Right arm fast bowler
+236,Paul Van Meekeren,Overseas,Bowler,2000000.0,2024,Unknown
+237,Nitin Verma,Indian,Bowler,2000000.0,2024,Unknown
+238,Chris Wood,Overseas,Bowler,2000000.0,2024,Unknown
+239,Gourav Yadav,Indian,Bowler,2000000.0,2024,Unknown
+240,Prithvi Raj Yarra,Indian,Bowler,2000000.0,2024,Right arm fast bowler
+241,Mujtaba Yousuf,Indian,Bowler,2000000.0,2024,Unknown
+242,Shubham Agrawal,Indian,Bowler,2000000.0,2024,Unknown
+243,Mustaq Beg,Indian,Bowler,2000000.0,2024,Unknown
+244,K.C Cariappa,Indian,Bowler,2000000.0,2024,Unknown
+245,Ganesh Chaudhary,Indian,Bowler,2000000.0,2024,Unknown
+246,Yuvraj Chudasama,Indian,Bowler,2000000.0,2024,Unknown
+247,Jasmer  Dhankhar,Indian,Bowler,2000000.0,2024,Unknown
+248,Chintal Gandhi,Indian,Bowler,2000000.0,2024,Unknown
+249,Allah Ghazanfar,Overseas,Bowler,2000000.0,2024,Right arm off spinner
+250,Raghav Goyal,Indian,Bowler,2000000.0,2024,Left arm orthodox spinner
+251,Shreyas Gurav,Indian,Bowler,2000000.0,2024,Unknown
+252,Vishu Kashyap,Indian,Bowler,2000000.0,2024,Unknown
+253,Bhuwan Rohilla,Indian,Bowler,2000000.0,2024,Unknown
+254,Shivam  Sharma,Indian,Bowler,2000000.0,2024,Unknown
+255,Digvesh Singh,Indian,Bowler,2000000.0,2024,Left arm fast bowler
+256,Jagadeesha Suchith,Indian,Bowler,2000000.0,2024,Left arm fast bowler
+257,B. Surya,Indian,Bowler,2000000.0,2024,Unknown
+258,Pankaj Yadav,Indian,Bowler,2000000.0,2024,Unknown
+259,Sahil Dhiwan,Indian,All-Rounder,2000000.0,2024,Unknown
+260,Kaushal Tambe,Indian,All-Rounder,2000000.0,2024,Unknown
+1,Tom Banton,Overseas,Wicket-Keeper,20000000.0,2023,Right hand wicket-keeper batter
+2,Chris Jordan,Overseas,Bowler,20000000.0,2023,Left hand wicket-keeper batter
+3,Adam Milne,Overseas,Bowler,20000000.0,2023,Right hand batter
+4,Travis Head,Overseas,Batter,20000000.0,2023,Left hand batter/Right arm off spinner
+5,Rassie Van Der Dussen,Overseas,Batter,20000000.0,2023,Right hand batter
+6,Jimmy Neesham,Overseas,All-Rounder,20000000.0,2023,Unknown
+7,Chris Lynn,Overseas,Batter,20000000.0,2023,Right hand batter
+8,Jamie Overton,Overseas,All-Rounder,20000000.0,2023,Right hand batter/Right arm fast bowler
+9,Craig Overton,Overseas,All-Rounder,20000000.0,2023,Unknown
+10,Tymal Mills,Overseas,Bowler,20000000.0,2023,Right hand batter
+11,Dawid Malan,Overseas,Batter,15000000.0,2023,Left hand batter
+12,Sherfane Rutherford,Overseas,Batter,15000000.0,2023,Left hand batter
+13,Riley Meredith,Overseas,Bowler,15000000.0,2023,Right hand batter
+14,Jason Roy,Overseas,Batter,15000000.0,2023,Right hand batter
+15,Sean Abbott,Overseas,All-Rounder,15000000.0,2023,Right arm fast bowler
+16,Nathan Coulter-Nile,Overseas,Bowler,15000000.0,2023,Right hand batter/Right arm fast bowler
+17,Mujeeb Rahman,Overseas,Bowler,10000000.0,2023,Right hand batter/Right arm fast bowler
+18,Tabraiz Shamsi,Overseas,Bowler,10000000.0,2023,Unknown
+19,Daryl Mitchell,Overseas,All-Rounder,10000000.0,2023,Right hand batter/Right arm medium
+20,Mohammad Nabi,Overseas,All-Rounder,10000000.0,2023,Right arm fast bowler
+21,Shai Hope,Overseas,Wicket-Keeper,10000000.0,2023,Right hand wicket-keeper batter
+22,Tom Latham,Overseas,Wicket-Keeper,10000000.0,2023,Unknown
+23,Michael Bracewell,Overseas,All-Rounder,10000000.0,2023,Unknown
+24,Andrew Tye,Overseas,Bowler,10000000.0,2023,Right arm fast bowler
+25,Luke Wood,Overseas,Bowler,10000000.0,2023,Unknown
+26,Moises Henriques,Overseas,All-Rounder,10000000.0,2023,Right hand batter/Right arm medium
+27,Matt Henry,Overseas,Bowler,10000000.0,2023,Right hand batter/Right arm medium
+28,Roston Chase,Overseas,All-Rounder,10000000.0,2023,Unknown
+29,Rahkeem Cornwall,Overseas,All-Rounder,10000000.0,2023,Unknown
+30,Wayne Parnell,Overseas,All-Rounder,7500000.0,2023,Unknown
+31,Joshua Philippe,Overseas,Wicket-Keeper,7500000.0,2023,Left arm fast bowler
+32,Ish Sodhi,Overseas,Bowler,7500000.0,2023,Unknown
+33,Tom Curran,Overseas,All-Rounder,7500000.0,2023,Right arm fast bowler
+34,Darcy Short,Overseas,All-Rounder,7500000.0,2023,Right hand batter
+35,David Payne,Overseas,Bowler,7500000.0,2023,Unknown
+36,Carlos Brathwaite,Overseas,All-Rounder,7500000.0,2023,Right hand batter/Right arm fast bowler
+37,Kusal Mendis,Overseas,Wicket-Keeper,5000000.0,2023,Unknown
+38,Paul Stirling,Overseas,Batter,5000000.0,2023,Unknown
+39,Dasun Shanaka,Overseas,All-Rounder,5000000.0,2023,Unknown
+40,Taskin Ahmed,Overseas,Bowler,5000000.0,2023,Unknown
+41,Dushmanta Chameera,Overseas,Bowler,5000000.0,2023,Unknown
+42,Blessing Muzarabani,Overseas,Bowler,5000000.0,2023,Unknown
+43,Sandeep Sharma,Indian,Bowler,5000000.0,2023,Right arm fast bowler
+44,Johnson Charles,Overseas,Wicket-Keeper,5000000.0,2023,Unknown
+45,Andre Fletcher,Overseas,Wicket-Keeper,5000000.0,2023,Unknown
+46,Lorcan Tucker,Overseas,Wicket-Keeper,5000000.0,2023,Unknown
+47,Shahbaz Nadeem,Indian,Bowler,5000000.0,2023,Right arm fast bowler
+48,Reeza Hendricks,Overseas,Batter,5000000.0,2023,Unknown
+49,Christiaan Jonker,Overseas,Batter,5000000.0,2023,Unknown
+50,Brandon King,Overseas,Batter,5000000.0,2023,Unknown
+51,Karun Nair,Indian,Batter,5000000.0,2023,Right hand batter
+52,Pathum Nissaanka,Overseas,Batter,5000000.0,2023,Unknown
+53,Gurkeerat Singh,Indian,Batter,5000000.0,2023,Right hand batter/Right arm off spinner
+54,Harry Tector,Overseas,Batter,5000000.0,2023,Unknown
+55,Najibullah Zadran,Overseas,Batter,5000000.0,2023,Unknown
+56,Qais Ahmad,Overseas,All-Rounder,5000000.0,2023,Unknown
+57,Charith Asalanka,Overseas,All-Rounder,5000000.0,2023,Unknown
+58,Dominic Drakes,Overseas,All-Rounder,5000000.0,2023,Right hand batter/Right arm fast bowler
+59,George Garton,Overseas,All-Rounder,5000000.0,2023,Unknown
+60,Chamika Karunaratne,Overseas,All-Rounder,5000000.0,2023,Right hand batter
+61,Sandeep Warrier,Indian,All-Rounder,5000000.0,2023,Unknown
+62,Ben Dwarshuis,Overseas,Bowler,5000000.0,2023,Left arm fast bowler
+63,Richard Gleeson,Overseas,Bowler,5000000.0,2023,Unknown
+64,Lahiru Kumara,Overseas,Bowler,5000000.0,2023,Unknown
+65,Dilshan Madushanka,Overseas,Bowler,5000000.0,2023,Right hand batter
+66,Billy Stanlake,Overseas,Bowler,5000000.0,2023,Right arm fast bowler
+67,Afif Hossain,Overseas,All-Rounder,5000000.0,2023,Unknown
+68,Scott Kuggeleijn,Overseas,All-Rounder,5000000.0,2023,Unknown
+69,Sisanda Magala,Overseas,All-Rounder,5000000.0,2023,Unknown
+70,Dhananjaya Silva,Overseas,All-Rounder,5000000.0,2023,Unknown
+71,Dunith Wellalage,Overseas,All-Rounder,5000000.0,2023,Unknown
+72,Varun Aaron,Indian,Bowler,5000000.0,2023,Right arm fast bowler
+73,Sheldon Cottrel,Overseas,Bowler,5000000.0,2023,Unknown
+74,Daryn Dupavillon,Overseas,Bowler,5000000.0,2023,Unknown
+75,Dhawal Kulkarni,Indian,Bowler,5000000.0,2023,Right hand batter
+76,Barinder Sran,Indian,Bowler,5000000.0,2023,Unknown
+77,Glenton Stuurman,Overseas,Bowler,5000000.0,2023,Unknown
+78,Rehan Ahmed,Overseas,All-Rounder,5000000.0,2023,Unknown
+79,Fabian Allen,Overseas,All-Rounder,5000000.0,2023,Right hand batter/Right arm fast bowler
+80,Karim Janat,Overseas,All-Rounder,5000000.0,2023,Right hand batter/Right arm fast bowler
+81,Keshav Maharaj,Overseas,All-Rounder,5000000.0,2023,Unknown
+82,Pawan Negi,Indian,All-Rounder,5000000.0,2023,Left hand batter/Left arm orthodox spinner
+83,Keemo Paul,Overseas,All-Rounder,5000000.0,2023,Right hand batter/Right arm fast bowler
+84,Will Smeed,Overseas,Batter,4000000.0,2023,Unknown
+85,Jordan Thompson,Overseas,All-Rounder,4000000.0,2023,Unknown
+86,Thomas Helm,Overseas,Bowler,4000000.0,2023,Unknown
+87,James Fuller,Overseas,All-Rounder,4000000.0,2023,Unknown
+88,Benny Howell,Overseas,All-Rounder,4000000.0,2023,Right hand batter/Right arm medium
+89,Lance Morris,Overseas,Bowler,3000000.0,2023,Unknown
+90,Apoorv Wankhade,Indian,Batter,3000000.0,2023,Unknown
+91,Aniket Choudhary,Indian,Bowler,3000000.0,2023,Left arm fast bowler
+92,Shubham Khajuria,Indian,Batter,2000000.0,2023,Unknown
+93,Rohan Kunnummal,Indian,Batter,2000000.0,2023,Unknown
+94,Chethan L.R.,Indian,Batter,2000000.0,2023,Unknown
+95,Himmat Singh,Indian,Batter,2000000.0,2023,Right hand batter
+96,Corbin Bosch,Overseas,All-Rounder,2000000.0,2023,Unknown
+97,Priyam Garg,Indian,All-Rounder,2000000.0,2023,Right hand wicket-keeper batter
+98,Saurabh Kumar,Indian,All-Rounder,2000000.0,2023,Left arm orthodox spinner
+99,Shashank Singh,Indian,All-Rounder,2000000.0,2023,Right arm fast bowler
+100,Mohammed Azharuddeen,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+101,Dinesh Bana,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+102,Abhimanyu Easwaran,Indian,All-Rounder,2000000.0,2023,Unknown
+103,Sumit Kumar,Indian,Wicket-Keeper,2000000.0,2023,Right hand batter
+104,Mujtaba Yousuf,Indian,Bowler,2000000.0,2023,Unknown
+105,Chintal Gandhi,Indian,Bowler,2000000.0,2023,Unknown
+106,Shreyas Gopal,Indian,Bowler,2000000.0,2023,Right arm leg spinner
+107,S Midhun,Indian,Bowler,2000000.0,2023,Unknown
+108,Izharulhuq Naveed,Overseas,Bowler,2000000.0,2023,Unknown
+109,Sachin Baby,Indian,Batter,2000000.0,2023,Right hand batter
+110,Ashwin Hebbar,Indian,Batter,2000000.0,2023,Right hand batter
+111,Pukhraj Mann,Indian,Batter,2000000.0,2023,Unknown
+112,Akshat Raghuwanshi,Indian,Batter,2000000.0,2023,Unknown
+113,Himanshu Rana,Indian,Batter,2000000.0,2023,Unknown
+114,Shoun Roger,Indian,Batter,2000000.0,2023,Unknown
+115,Virat Singh,Indian,Batter,2000000.0,2023,Right hand batter
+116,Gerald Coetzee,Overseas,All-Rounder,2000000.0,2023,Right arm fast bowler
+117,Evan Jones,Overseas,All-Rounder,2000000.0,2023,Unknown
+118,Abid Mushtaq,Indian,All-Rounder,2000000.0,2023,Right arm fast bowler
+119,Suryansh Shedge,Indian,All-Rounder,2000000.0,2023,Right arm leg spinner
+120,Jagadeesha Suchith,Indian,All-Rounder,2000000.0,2023,Left arm fast bowler
+121,Ricky Bhui,Indian,Wicket-Keeper,2000000.0,2023,Right hand batter
+122,Baba Indrajith,Indian,Wicket-Keeper,2000000.0,2023,Right hand batter
+123,Sheldon Jackson,Indian,Wicket-Keeper,2000000.0,2023,Right arm fast bowler
+124,Aryan Juyal,Indian,Wicket-Keeper,2000000.0,2023,Right hand wicket-keeper batter
+125,Kirant Shinde,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+126,Luvnith Sisodia,Indian,Wicket-Keeper,2000000.0,2023,Right hand wicket-keeper batter
+127,Vishnu Solanki,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+128,Ravi Kumar,Indian,Bowler,2000000.0,2023,Unknown
+129,Sushant Mishra,Indian,Bowler,2000000.0,2023,Right arm fast bowler
+130,Arzan Nagwaswalla,Indian,Bowler,2000000.0,2023,Unknown
+131,Ishan Porel,Indian,Bowler,2000000.0,2023,Right arm fast bowler
+132,Akash Singh,Indian,Bowler,2000000.0,2023,Right arm fast bowler
+133,Basil Thampi,Indian,Bowler,2000000.0,2023,Right hand batter
+134,Paul Van Meekeren,Overseas,Bowler,2000000.0,2023,Unknown
+135,Vyshak Vijay Kumar,Indian,Bowler,2000000.0,2023,Right hand batter/Right arm fast bowler
+136,S.Ajith Ram,Indian,Bowler,2000000.0,2023,Unknown
+137,Satyajeet Bachhav,Indian,Bowler,2000000.0,2023,Unknown
+138,Tejas Baroka,Indian,Bowler,2000000.0,2023,Right arm leg spinner
+139,Yuvraj Chudasama,Indian,Bowler,2000000.0,2023,Unknown
+140,Peter Hatzoglou,Overseas,Bowler,2000000.0,2023,Unknown
+141,Karthik Meiyappan,Overseas,Bowler,2000000.0,2023,Unknown
+142,Shivam Sharma,Indian,Bowler,2000000.0,2023,Unknown
+143,Priyansh Arya,Indian,Batter,2000000.0,2023,Left hand batter
+144,Matthew Breetzke,Overseas,Batter,2000000.0,2023,Right hand batter
+145,Shivam Chauhan,Indian,Batter,2000000.0,2023,Unknown
+146,Rahul Gahlaut,Indian,Batter,2000000.0,2023,Unknown
+147,Sudip Gharami,Indian,Batter,2000000.0,2023,Unknown
+148,C. Hari Nishaanth,Indian,Batter,2000000.0,2023,Unknown
+149,Amandeep Khare,Indian,Batter,2000000.0,2023,Unknown
+150,Bhanu Pania,Indian,Batter,2000000.0,2023,Unknown
+151,Ekant Sen,Indian,Batter,2000000.0,2023,Unknown
+152,Akash Singh,Indian,Batter,2000000.0,2023,Right arm fast bowler
+153,Himanshu Bisht,Indian,All-Rounder,2000000.0,2023,Unknown
+154,Mickil Jaiswal,Indian,All-Rounder,2000000.0,2023,Unknown
+155,G.Aniketh Reddy,Indian,All-Rounder,2000000.0,2023,Unknown
+156,Atit Sheth,Indian,All-Rounder,2000000.0,2023,Unknown
+157,M. Siddharth,Indian,All-Rounder,2000000.0,2023,Left arm orthodox spinner
+158,Tanay Thyagarajann,Indian,All-Rounder,2000000.0,2023,Right hand batter
+159,Sumeet Verma,Indian,All-Rounder,2000000.0,2023,Unknown
+160,Sanjay Yadav,Indian,All-Rounder,2000000.0,2023,Right hand batter
+161,Ajitesh Guruswamy,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+162,Yash Kothari,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+163,Suresh Kumar,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+164,Kumar Kushagra,Indian,Wicket-Keeper,2000000.0,2023,Right hand wicket-keeper batter
+165,Anmol Malhotra,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+166,Robin Minz,Indian,Wicket-Keeper,2000000.0,2023,Right hand wicket-keeper batter
+167,Agniv Pan,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+168,Priyesh Patel,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+169,Mitesh Patel,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+170,Abishek Porel,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+171,Bharat Sharma,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+172,Vivek Singh,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+173,Abhijeet Tomar,Indian,Wicket-Keeper,2000000.0,2023,Right hand wicket-keeper batter
+174,Basit Bashir,Indian,Bowler,2000000.0,2023,Unknown
+175,Nandre Burger,Overseas,Bowler,2000000.0,2023,Right hand batter
+176,Rasikh Dar,Indian,Bowler,2000000.0,2023,Right arm fast bowler
+177,Sakib Hussain,Indian,Bowler,2000000.0,2023,Right hand batter
+178,Waseem Khanday,Indian,Bowler,2000000.0,2023,Unknown
+179,Ravi Kiran Majeti,Indian,Bowler,2000000.0,2023,Unknown
+180,Lukman Hussain Meriwala,Indian,Bowler,2000000.0,2023,Left arm fast bowler
+181,Anuj Raj,Indian,Bowler,2000000.0,2023,Unknown
+182,Ankit Singh Rajpoot,Indian,Bowler,2000000.0,2023,Left hand batter/Left arm orthodox spinner
+183,Prince Yadav,Indian,Bowler,2000000.0,2023,Right hand batter
+184,Prithviraj Yarra,Indian,Bowler,2000000.0,2023,Right arm fast bowler
+185,Mushtaq Beg,Indian,Bowler,2000000.0,2023,Unknown
+186,Rocky Bhasker,Indian,Bowler,2000000.0,2023,Unknown
+187,Sanjith Devaraj,Indian,Bowler,2000000.0,2023,Unknown
+188,Allah Mohammad,Overseas,Bowler,2000000.0,2023,Unknown
+189,Lalit Mohan,Indian,Bowler,2000000.0,2023,Unknown
+190,Bhuwan Rohilla,Indian,Bowler,2000000.0,2023,Unknown
+191,Aman Sharma,Indian,Bowler,2000000.0,2023,Unknown
+192,Manav Suthar,Indian,Bowler,2000000.0,2023,Left arm orthodox spinner
+193,Anirudh Balachander,Indian,Batter,2000000.0,2023,Unknown
+194,Gourav Choudhary,Indian,Batter,2000000.0,2023,Unknown
+195,Saurav Chuahan,Indian,Batter,2000000.0,2023,Right arm fast bowler
+196,Kumar Deobrat,Indian,Batter,2000000.0,2023,Unknown
+197,Chirag Gandhi,Indian,Batter,2000000.0,2023,Unknown
+198,Arman Jaffer,Indian,Batter,2000000.0,2023,Unknown
+199,Madhav Kaushik,Indian,Batter,2000000.0,2023,Unknown
+200,Priyank Panchal,Indian,Batter,2000000.0,2023,Unknown
+201,Ayush Pandey,Indian,Batter,2000000.0,2023,Unknown
+202,Rohan Patil,Indian,Batter,2000000.0,2023,Unknown
+203,Sanjay Ramaswamy,Indian,Batter,2000000.0,2023,Unknown
+204,Siddharth Yadav,Indian,Batter,2000000.0,2023,Unknown
+205,Prayas Barman,Indian,All-Rounder,2000000.0,2023,Unknown
+206,Rahul Buddhi,Indian,All-Rounder,2000000.0,2023,Left hand batter/Left arm orthodox spinner
+207,Vaisakh Chandran,Indian,All-Rounder,2000000.0,2023,Unknown
+208,Writtick Chatterjee,Indian,All-Rounder,2000000.0,2023,Right hand batter
+209,Prashant Chopra,Indian,All-Rounder,2000000.0,2023,Right arm fast bowler
+210,Harsh Dubey,Indian,All-Rounder,2000000.0,2023,Unknown
+211,Tanush Kotian,Indian,All-Rounder,2000000.0,2023,Unknown
+212,Ninad Rathva,Indian,All-Rounder,2000000.0,2023,Unknown
+213,B. Surya,Indian,All-Rounder,2000000.0,2023,Unknown
+214,Shivank Vashisth,Indian,All-Rounder,2000000.0,2023,Unknown
+215,Ankush Bains,Indian,Wicket-Keeper,2000000.0,2023,Right hand wicket-keeper batter
+216,Christopher Benjamin,Overseas,Wicket-Keeper,2000000.0,2023,Unknown
+217,Connor Esterhuizen,Overseas,Wicket-Keeper,2000000.0,2023,Unknown
+218,Mohd Arslan Khan,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+219,Mamidi Krishna,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+220,Fazil Makaya,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+221,Akshdeep Nath,Indian,Wicket-Keeper,2000000.0,2023,Right hand batter
+222,Deepak Punia,Indian,Wicket-Keeper,2000000.0,2023,Right hand batter/Right arm fast bowler
+223,Ateev Saini,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+224,Bipin Saurabh,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+225,B.R. Sharath,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+226,Yashovardhan Singh,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+227,Lakshay Thareja,Indian,Wicket-Keeper,2000000.0,2023,Unknown
+228,Mohit Avasthi,Indian,Bowler,2000000.0,2023,Unknown
+229,Ottneil Baartman,Overseas,Bowler,2000000.0,2023,Unknown
+230,Gurnoor Singh Brar,Indian,Bowler,2000000.0,2023,Left hand batter/Left arm orthodox spinner
+231,Shahrukh Dar,Indian,Bowler,2000000.0,2023,Unknown
+232,Pankaj Jaswal,Indian,Bowler,2000000.0,2023,Left arm fast bowler
+233,Venkatesh Muralidhara,Indian,Bowler,2000000.0,2023,Unknown
+234,Geet Puri,Indian,Bowler,2000000.0,2023,Unknown
+235,E. Sanketh,Indian,Bowler,2000000.0,2023,Unknown
+236,Ajay Sarkar,Indian,Bowler,2000000.0,2023,Unknown
+237,Ashok Sharma,Indian,Bowler,2000000.0,2023,Left arm orthodox spinner
+238,Kanwar Singh,Indian,Bowler,2000000.0,2023,Unknown
+239,Shivam Chaudhary,Indian,All-Rounder,2000000.0,2023,Unknown
+240,Ashwin Das,Indian,All-Rounder,2000000.0,2023,Unknown
+241,Chirag Jani,Indian,All-Rounder,2000000.0,2023,Unknown
+242,Akshay Karnewar,Indian,All-Rounder,2000000.0,2023,Right arm leg spinner
+243,Bhagmender Lather,Indian,All-Rounder,2000000.0,2023,Unknown
+244,Lone Muzaffar,Indian,All-Rounder,2000000.0,2023,Unknown
+245,Pulkit Narang,Indian,All-Rounder,2000000.0,2023,Unknown
+246,Rohit Rayudu,Indian,All-Rounder,2000000.0,2023,Unknown
+247,Sameer Rizvi,Indian,All-Rounder,2000000.0,2023,Right hand batter
+248,Tunish Sawkar,Indian,All-Rounder,2000000.0,2023,Unknown
+249,Auqib Dar,Indian,Bowler,2000000.0,2023,Unknown
+250,Mukhtar Hussain,Indian,Bowler,2000000.0,2023,Unknown
+251,Ashwani Kumar,Indian,Bowler,2000000.0,2023,Right hand batter
+252,Hemant Kumar,Indian,Bowler,2000000.0,2023,Unknown
+253,Nathan McAndrew,Overseas,Bowler,2000000.0,2023,Unknown
+254,Rajesh Mohanty,Indian,Bowler,2000000.0,2023,Unknown
+255,Ravi Sharma,Indian,Bowler,2000000.0,2023,Unknown
+256,Vikash Singh,Indian,Bowler,2000000.0,2023,Unknown
+257,Ruben Trumpelmann,Overseas,Bowler,2000000.0,2023,Unknown
+258,Koushik Vasuki,Indian,Bowler,2000000.0,2023,Unknown
+259,Vasu Vats,Indian,Bowler,2000000.0,2023,Unknown
+260,Shubham Agrawal,Indian,All-Rounder,2000000.0,2023,Unknown
+261,Baba Aparajith,Indian,All-Rounder,2000000.0,2023,Right arm leg spinner
+262,Anshul Kamboj,Indian,All-Rounder,2000000.0,2023,Right arm fast bowler
+263,Azim Kazi,Indian,All-Rounder,2000000.0,2023,Unknown
+264,Dev Lakra,Indian,All-Rounder,2000000.0,2023,Unknown
+265,Jitender Pal,Indian,All-Rounder,2000000.0,2023,Unknown
+266,Ritwik Roy Chowdhury,Indian,All-Rounder,2000000.0,2023,Unknown
+267,Utkarsh Singh,Indian,All-Rounder,2000000.0,2023,Right hand batter
+268,Shubham Singh,Indian,All-Rounder,2000000.0,2023,Unknown
+269,Avneesh Sudha,Indian,All-Rounder,2000000.0,2023,Unknown
+270,Asad Jamil Ahmed,Indian,Bowler,2000000.0,2023,Unknown
+271,Bandaru Ayyappa,Indian,Bowler,2000000.0,2023,Right arm fast bowler
+272,Aashish Bhatt,Indian,Bowler,2000000.0,2023,Unknown
+273,McKenny Clarke,Overseas,Bowler,2000000.0,2023,Unknown
+274,Shubham Kapse,Indian,Bowler,2000000.0,2023,Unknown
+275,Gourav Koul,Indian,Bowler,2000000.0,2023,Unknown
+276,Raunak Kumar,Indian,Bowler,2000000.0,2023,Unknown
+277,Trilok Nag,Indian,Bowler,2000000.0,2023,Unknown
+278,Atal Bihari Rai,Indian,Bowler,2000000.0,2023,Unknown
+279,Ramon Simmonds,Overseas,Bowler,2000000.0,2023,Unknown
+280,Rajeev Singh,Indian,Bowler,2000000.0,2023,Unknown
+281,Mohd. Wasim,Indian,Bowler,2000000.0,2023,Unknown
+282,Atharva Ankolekar,Indian,All-Rounder,2000000.0,2023,Unknown
+283,Khizar Dafedar,Indian,All-Rounder,2000000.0,2023,Unknown
+284,Naman Dhir,Indian,All-Rounder,2000000.0,2023,Right hand batter
+285,Sahil Dhiwan,Indian,All-Rounder,2000000.0,2023,Unknown
+286,Sampark Gupta,Indian,All-Rounder,2000000.0,2023,Unknown
+287,Jordan Hermann,Overseas,All-Rounder,2000000.0,2023,Unknown
+288,Hayden Kerr,Overseas,All-Rounder,2000000.0,2023,Unknown
+289,Salman Khan,Indian,All-Rounder,2000000.0,2023,Unknown
+290,Sairaj Patil,Indian,All-Rounder,2000000.0,2023,Unknown
+291,Divyaansh Saxena,Indian,All-Rounder,2000000.0,2023,Unknown
+292,Purnank Tyagi,Indian,All-Rounder,2000000.0,2023,Unknown
+293,Prince Yadav,Indian,All-Rounder,2000000.0,2023,Right hand batter
+294,Deepraj Gaonkar,Indian,All-Rounder,2000000.0,2023,Unknown
+295,Shubham Garhwal,Indian,All-Rounder,2000000.0,2023,Right hand batter
+296,Deepesh Nailwal,Indian,All-Rounder,2000000.0,2023,Unknown
+297,Arjun Rapria,Indian,All-Rounder,2000000.0,2023,Unknown
+298,Shashwat Rawat,Indian,All-Rounder,2000000.0,2023,Unknown
+299,Sumit Ruikar,Indian,All-Rounder,2000000.0,2023,Unknown
+300,Shivam Sharma,Indian,All-Rounder,2000000.0,2023,Unknown
+301,Rajandeep Singh,Indian,All-Rounder,2000000.0,2023,Unknown
+302,Anunay Singh,Indian,All-Rounder,2000000.0,2023,Right arm fast bowler
+303,Digvesh Singh,Indian,All-Rounder,2000000.0,2023,Left arm fast bowler
+304,Pranshu Vijayran,Indian,All-Rounder,2000000.0,2023,Unknown
+305,Prerit Dutta,Indian,All-Rounder,2000000.0,2023,Unknown
+306,Ramakrishna Ghosh,Indian,All-Rounder,2000000.0,2023,Right hand batter/Right arm medium
+307,Shubhang Hegde,Indian,All-Rounder,2000000.0,2023,Unknown
+308,Shamshuzama Kazi,Indian,All-Rounder,2000000.0,2023,Unknown
+309,Ayaz Khan,Indian,All-Rounder,2000000.0,2023,Unknown
+310,Amit Pachhara,Indian,All-Rounder,2000000.0,2023,Unknown
+311,Akul Pandove,Indian,All-Rounder,2000000.0,2023,Unknown
+312,Garv Sangwan,Indian,All-Rounder,2000000.0,2023,Unknown
+313,Shubham Sharma,Indian,All-Rounder,2000000.0,2023,Unknown
+314,Amit Yadav,Indian,All-Rounder,2000000.0,2023,Unknown
+315,Amit Ali,Indian,All-Rounder,2000000.0,2023,Unknown
+316,Rishabh Chauhan,Indian,All-Rounder,2000000.0,2023,Unknown
+317,Matthew Forde,Overseas,All-Rounder,2000000.0,2023,Unknown
+318,Sammar Gajjar,Indian,All-Rounder,2000000.0,2023,Unknown
+319,Rajneesh Gurbani,Indian,All-Rounder,2000000.0,2023,Unknown
+320,Divyansh Joshi,Indian,All-Rounder,2000000.0,2023,Unknown
+321,Dhruv Patel,Indian,All-Rounder,2000000.0,2023,Unknown
+322,Jack Prestwidge,Overseas,All-Rounder,2000000.0,2023,Unknown
+323,Aditya Sarvate,Indian,All-Rounder,2000000.0,2023,Unknown
+324,Sagar Solanki,Indian,All-Rounder,2000000.0,2023,Unknown
+325,Prenelan Subrayen,Overseas,All-Rounder,2000000.0,2023,Unknown
+1,Suresh Raina,Indian,Batsman,20000000.0,2022,Unknown
+2,Steve Smith,Overseas,Batsman,20000000.0,2022,Right arm fast bowler
+3,Shakib Al Hasan,Overseas,All-Rounder,20000000.0,2022,Left hand batter/Left arm orthodox spinner
+4,Adil Rashid,Overseas,Bowler,20000000.0,2022,Right hand batter
+5,Imran Tahir,Overseas,Bowler,20000000.0,2022,Left hand batter/Left arm orthodox spinner
+6,Mujeeb Zadran,Overseas,Bowler,20000000.0,2022,Left arm orthodox spinner
+7,Adam Zampa,Overseas,Bowler,20000000.0,2022,Right arm leg spinner
+8,James Vince,Overseas,Batsman,20000000.0,2022,Unknown
+9,Marchant De Lange,Overseas,Bowler,20000000.0,2022,Unknown
+10,Saqib Mahmood,Overseas,Bowler,20000000.0,2022,Unknown
+11,Ashton Agar,Overseas,All-Rounder,20000000.0,2022,Unknown
+12,Craig Overton,Overseas,All-Rounder,20000000.0,2022,Unknown
+13,Amit Mishra,Indian,Bowler,15000000.0,2022,Right arm leg spinner
+14,Aaron Finch,Overseas,Batsman,15000000.0,2022,Right hand batter
+15,Dawid Malan,Overseas,Batsman,15000000.0,2022,Left hand batter
+16,Eoin  Morgan,Overseas,Batsman,15000000.0,2022,Right arm fast bowler
+17,Ishant Sharma,Indian,Bowler,15000000.0,2022,Right arm fast bowler
+18,Chris Lynn,Overseas,Batsman,15000000.0,2022,Right hand batter
+19,Usman Khawaja,Overseas,Batsman,15000000.0,2022,Unknown
+20,Lewis Gregory,Overseas,All-Rounder,15000000.0,2022,Unknown
+21,Kane Richardson,Overseas,Bowler,15000000.0,2022,Right arm fast bowler
+22,Colin Munro,Overseas,All-Rounder,15000000.0,2022,Left hand batter
+23,Marnus Labuschagne,Overseas,Batsman,10000000.0,2022,Unknown
+24,Piyush Chawla,Indian,Bowler,10000000.0,2022,Right arm leg spinner
+25,Tabraiz Shamsi,Overseas,Bowler,10000000.0,2022,Unknown
+26,Joshua Philippe,Overseas,Wicket Keeper,10000000.0,2022,Left arm fast bowler
+27,Andrew Tye,Overseas,Bowler,10000000.0,2022,Right arm fast bowler
+28,Rilee Rossouw,Overseas,Batsman,10000000.0,2022,Right hand batter
+29,Roston Chase,Overseas,All-Rounder,10000000.0,2022,Unknown
+30,Moises Henriques,Overseas,All-Rounder,10000000.0,2022,Right hand batter/Right arm medium
+31,Kedar Jadhav,Indian,All-Rounder,10000000.0,2022,Right arm off spinner
+32,Colin  De Grandhomme,Overseas,All-Rounder,10000000.0,2022,Right hand batter/Right arm medium
+33,James Faulkner,Overseas,All-Rounder,10000000.0,2022,Unknown
+34,Darcy Short,Overseas,All-Rounder,10000000.0,2022,Right hand batter
+35,Sheldon Cottrell,Overseas,Bowler,7500000.0,2022,Right arm fast bowler
+36,Reece Topley,Overseas,Bowler,7500000.0,2022,Left arm fast bowler
+37,Todd Astle,Overseas,Bowler,7500000.0,2022,Unknown
+38,Martin Guptill,Overseas,Batsman,7500000.0,2022,Right hand batter/Right arm fast bowler
+39,Ben Cutting,Overseas,All-Rounder,7500000.0,2022,Right hand batter/Right arm fast bowler
+40,Scott Kuggeleijn,Overseas,All-Rounder,7500000.0,2022,Unknown
+41,Dhawal Kulkarni,Indian,Bowler,7500000.0,2022,Right hand batter
+42,Darren Bravo,Overseas,Batsman,7500000.0,2022,Left hand batter
+43,Carlos Brathwaite,Overseas,All-Rounder,7500000.0,2022,Right hand batter/Right arm fast bowler
+44,Keemo Paul,Overseas,All-Rounder,7500000.0,2022,Right hand batter/Right arm fast bowler
+45,Billy Stanlake,Overseas,Bowler,7500000.0,2022,Right arm fast bowler
+46,Cheteshwar  Pujara,Indian,Batsman,5000000.0,2022,Left hand batter/Right arm off spinner
+47,Saurabh Tiwary,Indian,Batsman,5000000.0,2022,Right arm off spinner
+48,Qais Ahmad,Overseas,Bowler,5000000.0,2022,Unknown
+49,Ish Sodhi,Overseas,Bowler,5000000.0,2022,Unknown
+50,Najibullah Zadran,Overseas,Batsman,5000000.0,2022,Unknown
+51,Charith Asalanka,Overseas,All-Rounder,5000000.0,2022,Unknown
+52,George Garton,Overseas,All-Rounder,5000000.0,2022,Unknown
+53,Litton Das,Overseas,Wicket Keeper,5000000.0,2022,Right hand wicket-keeper batter
+54,Niroshan Dickwella,Overseas,Wicket Keeper,5000000.0,2022,Unknown
+55,Andre Fletcher,Overseas,Wicket Keeper,5000000.0,2022,Unknown
+56,Rahmanullah Gurbaz,Overseas,Wicket Keeper,5000000.0,2022,Right hand wicket-keeper batter
+57,Shai Hope,Overseas,Wicket Keeper,5000000.0,2022,Right hand wicket-keeper batter
+58,Heinrich Klaasen,Overseas,Wicket Keeper,5000000.0,2022,Right hand wicket-keeper batter
+59,Ben Mcdermott,Overseas,Wicket Keeper,5000000.0,2022,Unknown
+60,Kusal Mendis,Overseas,Wicket Keeper,5000000.0,2022,Unknown
+61,Kusal Perera,Overseas,Wicket Keeper,5000000.0,2022,Unknown
+62,Sandeep Warrier,Indian,Bowler,5000000.0,2022,Unknown
+63,Akila Dhananjaya,Overseas,Bowler,5000000.0,2022,Right hand batter
+64,Zahir Khan,Overseas,Bowler,5000000.0,2022,Unknown
+65,Keshav Maharaj,Overseas,Bowler,5000000.0,2022,Unknown
+66,Waqar Salamkheil,Overseas,Bowler,5000000.0,2022,Unknown
+67,Rahul Sharma,Indian,Bowler,5000000.0,2022,Unknown
+68,Hayden Walsh,Overseas,Bowler,5000000.0,2022,Unknown
+69,Brandon King,Overseas,Batsman,5000000.0,2022,Unknown
+70,Janneman Malan,Overseas,Batsman,5000000.0,2022,Unknown
+71,Paul Stirling,Overseas,Batsman,5000000.0,2022,Unknown
+72,Hanuma Vihari,Indian,Batsman,5000000.0,2022,Right hand batter/Right arm off spinner
+73,Hazratullah Zazai,Overseas,Batsman,5000000.0,2022,Unknown
+74,Akeal Hosein,Overseas,All-Rounder,5000000.0,2022,Right hand batter/Right arm medium
+75,Karim Janat,Overseas,All-Rounder,5000000.0,2022,Right hand batter/Right arm fast bowler
+76,Pawan Negi,Indian,All-Rounder,5000000.0,2022,Left hand batter/Left arm orthodox spinner
+77,Taskin Ahmed,Overseas,Bowler,5000000.0,2022,Unknown
+78,Naveen  Ul Haq,Overseas,Bowler,5000000.0,2022,Right arm fast bowler
+79,David Wiese,Overseas,All-Rounder,5000000.0,2022,Right hand batter/Right arm medium
+80,Shamrah Brooks,Overseas,Batsman,5000000.0,2022,Unknown
+81,Avishka Fernando,Overseas,Batsman,5000000.0,2022,Unknown
+82,Zubayr Hamza,Overseas,Batsman,5000000.0,2022,Unknown
+83,Pathum Nissaanka,Overseas,Batsman,5000000.0,2022,Unknown
+84,Kurtis Patterson,Overseas,Batsman,5000000.0,2022,Unknown
+85,Hashmatullah Shahidi,Overseas,Batsman,5000000.0,2022,Unknown
+86,Manoj Tiwary,Indian,Batsman,5000000.0,2022,Right hand batter
+87,Gulbadin Naib,Overseas,All-Rounder,5000000.0,2022,Unknown
+88,Parvez Rasool,Indian,All-Rounder,5000000.0,2022,Unknown
+89,Dasun Shanaka,Overseas,All-Rounder,5000000.0,2022,Unknown
+90,Wesley Agar,Overseas,Bowler,5000000.0,2022,Unknown
+91,Shoriful Islam,Overseas,Bowler,5000000.0,2022,Unknown
+92,Josh Little,Overseas,Bowler,5000000.0,2022,Unknown
+93,Blessing Muzarabani,Overseas,Bowler,5000000.0,2022,Unknown
+94,Jayden Seales,Overseas,Bowler,5000000.0,2022,Unknown
+95,Mohit Sharma,Indian,Bowler,5000000.0,2022,Right arm fast bowler
+96,Barinder Sran,Indian,Bowler,5000000.0,2022,Unknown
+97,Neil Wagner,Overseas,Bowler,5000000.0,2022,Unknown
+98,Curtis Campher,Overseas,All-Rounder,5000000.0,2022,Unknown
+99,Wayne Parnell,Overseas,All-Rounder,5000000.0,2022,Unknown
+100,Samit Patel,Overseas,All-Rounder,5000000.0,2022,Unknown
+101,Thisara Perera,Overseas,All-Rounder,5000000.0,2022,Right hand batter/Right arm fast bowler
+102,Murali Vijay,Indian,All-Rounder,5000000.0,2022,Right hand batter
+103,Jack Wildermuth,Overseas,All-Rounder,5000000.0,2022,Unknown
+104,Hamish Bennett,Overseas,Bowler,5000000.0,2022,Unknown
+105,Daryn Dupavillon,Overseas,Bowler,5000000.0,2022,Unknown
+106,Fidel Edwards,Overseas,Bowler,5000000.0,2022,Unknown
+107,Hamid Hassan,Overseas,Bowler,5000000.0,2022,Unknown
+108,Lahiru Kumara,Overseas,Bowler,5000000.0,2022,Unknown
+109,Joel Paris,Overseas,Bowler,5000000.0,2022,Left arm fast bowler
+110,S. Sreesanth,Indian,Bowler,5000000.0,2022,Unknown
+111,Oshane Thomas,Overseas,Bowler,5000000.0,2022,Left hand batter
+112,Blair Tickner,Overseas,Bowler,5000000.0,2022,Unknown
+113,Isuru Udana,Overseas,Bowler,5000000.0,2022,Right arm fast bowler
+114,Mark Adnair,Overseas,All-Rounder,5000000.0,2022,Unknown
+115,Hilton Cartwright,Overseas,All-Rounder,5000000.0,2022,Unknown
+116,Gareth Delany,Overseas,All-Rounder,5000000.0,2022,Unknown
+117,Danushka Gunatilaka,Overseas,All-Rounder,5000000.0,2022,Unknown
+118,Anaru  Kitchen,Overseas,All-Rounder,5000000.0,2022,Unknown
+119,Dhananjaya Lakshan,Overseas,All-Rounder,5000000.0,2022,Unknown
+120,Sisanda Magala,Overseas,All-Rounder,5000000.0,2022,Unknown
+121,Andile Phehlukwayo,Overseas,All-Rounder,5000000.0,2022,Unknown
+122,Seekkuge Prasanna,Overseas,All-Rounder,5000000.0,2022,Unknown
+123,Raymon Reifer,Overseas,All-Rounder,5000000.0,2022,Unknown
+124,Brad Wheal,Overseas,Bowler,5000000.0,2022,Unknown
+125,Sandeep Lamichhane,Overseas,Bowler,4000000.0,2022,Right arm leg spinner
+126,Tom Kohler-Cadmore,Overseas,Batsman,4000000.0,2022,Left arm orthodox spinner
+127,Harpreet Bhatia,Indian,Batsman,4000000.0,2022,Right hand batter
+128,Laurie Evans,Overseas,Batsman,4000000.0,2022,Unknown
+129,Arun  Karthick,Indian,Wicket Keeper,4000000.0,2022,Unknown
+130,Kennar Lewis,Overseas,Wicket Keeper,4000000.0,2022,Unknown
+131,Ali Khan,Overseas,Bowler,4000000.0,2022,Unknown
+132,Chris Green,Overseas,All-Rounder,4000000.0,2022,Right hand batter/Right arm medium
+133,Ben Dwarshuis,Overseas,Bowler,3000000.0,2022,Left arm fast bowler
+134,Jalaj Saxena,Indian,Bowler,3000000.0,2022,Right hand batter/Right arm off spinner
+135,Matt Kelly,Overseas,Bowler,3000000.0,2022,Unknown
+136,Rajat Patidar,Indian,Batsman,2000000.0,2022,Right hand wicket-keeper batter
+137,Mohammed Azharuddeen,Indian,Wicket Keeper,2000000.0,2022,Unknown
+138,Vishnu Solanki,Indian,Wicket Keeper,2000000.0,2022,Unknown
+139,M. Siddharth,Indian,Bowler,2000000.0,2022,Left arm orthodox spinner
+140,Sachin Baby,Indian,Batsman,2000000.0,2022,Right hand batter
+141,Ricky Bhui,Indian,Batsman,2000000.0,2022,Right hand batter
+142,Himanshu Rana,Indian,Batsman,2000000.0,2022,Unknown
+143,Harnoor Singh,Indian,Batsman,2000000.0,2022,Unknown
+144,Himmat Singh,Indian,Batsman,2000000.0,2022,Right hand batter
+145,Virat  Singh,Indian,Batsman,2000000.0,2022,Right hand batter
+146,Arzan Nagwaswalla,Indian,Bowler,2000000.0,2022,Unknown
+147,Akash Singh,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+148,Yash Thakur,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+149,Vasu Vats,Indian,Bowler,2000000.0,2022,Unknown
+150,Mujtaba Yousuf,Indian,Bowler,2000000.0,2022,Unknown
+151,Tanmay Agarwal,Indian,Batsman,2000000.0,2022,Left hand batter
+152,Shivam Chauhan,Indian,Batsman,2000000.0,2022,Unknown
+153,Nikhil Gangta,Indian,Batsman,2000000.0,2022,Unknown
+154,Rohan Kadam,Indian,Batsman,2000000.0,2022,Unknown
+155,Priyank Panchal,Indian,Batsman,2000000.0,2022,Unknown
+156,Sameer Rizvi,Indian,Batsman,2000000.0,2022,Right hand batter
+157,Ritwik Roy Chowdhury,Indian,Batsman,2000000.0,2022,Unknown
+158,Apoorv Wankhade,Indian,Batsman,2000000.0,2022,Unknown
+159,Atharva Ankolekar,Indian,All-Rounder,2000000.0,2022,Unknown
+160,Tanay Thyagarajan,Indian,All-Rounder,2000000.0,2022,Unknown
+161,Ankush Bains,Indian,Wicket Keeper,2000000.0,2022,Right hand wicket-keeper batter
+162,Prashant Chopra,Indian,Wicket Keeper,2000000.0,2022,Right arm fast bowler
+163,Kedar Devdhar,Indian,Wicket Keeper,2000000.0,2022,Unknown
+164,Shreevats Goswami,Indian,Wicket Keeper,2000000.0,2022,Left hand wicket-keeper batter
+165,Akshdeep  Nath,Indian,Wicket Keeper,2000000.0,2022,Right hand batter
+166,Aditya Tare,Indian,Wicket Keeper,2000000.0,2022,Right arm medium
+167,Upendra Singh Yadav,Indian,Wicket Keeper,2000000.0,2022,Right hand batter/Right arm fast bowler
+168,Pankaj Jaswal,Indian,Bowler,2000000.0,2022,Left arm fast bowler
+169,Lukman Hussain Meriwala,Indian,Bowler,2000000.0,2022,Left arm fast bowler
+170,Vyshak Vijay Kumar,Indian,Bowler,2000000.0,2022,Right hand batter/Right arm fast bowler
+171,Zeeshan Ansari,Indian,Bowler,2000000.0,2022,Right arm leg spinner
+172,Yuvraj Chudasama,Indian,Bowler,2000000.0,2022,Unknown
+173,Dharmendrasinh Jadeja,Indian,Bowler,2000000.0,2022,Unknown
+174,Khrievitso Kense,Indian,Bowler,2000000.0,2022,Unknown
+175,Prince Balwant Rai,Indian,Bowler,2000000.0,2022,Unknown
+176,Pardeep Sahu,Indian,Bowler,2000000.0,2022,Right arm off spinner
+177,Midhun Sudhesan,Indian,Bowler,2000000.0,2022,Unknown
+178,Sudip  Chatterjee,Indian,Batsman,2000000.0,2022,Unknown
+179,Hiten Dalal,Indian,Batsman,2000000.0,2022,Unknown
+180,Abhimanyu Easwaran,Indian,Batsman,2000000.0,2022,Unknown
+181,Rahul Gahlaut,Indian,Batsman,2000000.0,2022,Unknown
+182,Amandeep Khare,Indian,Batsman,2000000.0,2022,Unknown
+183,Mayank Rawat,Indian,Batsman,2000000.0,2022,Unknown
+184,Dhruv Shorey,Indian,Batsman,2000000.0,2022,Right hand batter
+185,Hayden Kerr,Overseas,All-Rounder,2000000.0,2022,Unknown
+186,Saurabh Kumar,Indian,All-Rounder,2000000.0,2022,Left arm orthodox spinner
+187,Shams Mulani,Indian,All-Rounder,2000000.0,2022,Left arm orthodox spinner
+188,Dhruv Patel,Indian,All-Rounder,2000000.0,2022,Unknown
+189,Atit Sheth,Indian,All-Rounder,2000000.0,2022,Unknown
+190,Utkarsh Singh,Indian,All-Rounder,2000000.0,2022,Right hand batter
+191,Kaif Ahmad,Indian,Wicket Keeper,2000000.0,2022,Unknown
+192,Shubhum Arora,Indian,Wicket Keeper,2000000.0,2022,Unknown
+193,Eknath Kerkar,Indian,Wicket Keeper,2000000.0,2022,Unknown
+194,Nikhil Naik,Indian,Wicket Keeper,2000000.0,2022,Unknown
+195,Urvil Patel,Indian,Wicket Keeper,2000000.0,2022,Right hand wicket-keeper batter
+196,B.R. Sharath,Indian,Wicket Keeper,2000000.0,2022,Unknown
+197,K.L. Shrijith,Indian,Wicket Keeper,2000000.0,2022,Unknown
+198,Mohit Avasthi,Indian,Bowler,2000000.0,2022,Unknown
+199,Sushant Mishra,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+200,Matheesha Pathirana,Overseas,Bowler,2000000.0,2022,Unknown
+201,G Periyasamy,Indian,Bowler,2000000.0,2022,Unknown
+202,M.Harishankar Reddy,Indian,Bowler,2000000.0,2022,Unknown
+203,R. Silambarasan,Indian,Bowler,2000000.0,2022,Unknown
+204,Aditya Thakare,Indian,Bowler,2000000.0,2022,Unknown
+205,Tanveer Ul Haq,Indian,Bowler,2000000.0,2022,Unknown
+206,Prithviraj Yarra,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+207,Satyajeet Bachhav,Indian,Bowler,2000000.0,2022,Unknown
+208,Chintal Gandhi,Indian,Bowler,2000000.0,2022,Unknown
+209,Jacob Lintott,Overseas,Bowler,2000000.0,2022,Unknown
+210,Izharulhuq Naveed,Overseas,Bowler,2000000.0,2022,Unknown
+211,Tanveer Sangha,Overseas,Bowler,2000000.0,2022,Unknown
+212,Manav Suthar,Indian,Bowler,2000000.0,2022,Left arm orthodox spinner
+213,Milind Tandon,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+214,Sagar  Udeshi,Indian,Bowler,2000000.0,2022,Unknown
+215,Kushaal Wadhwani,Indian,Bowler,2000000.0,2022,Unknown
+216,Akshay Wakhare,Indian,Bowler,2000000.0,2022,Unknown
+217,Qamran Iqbal,Indian,Batsman,2000000.0,2022,Unknown
+218,Ishank Jaggi,Indian,Batsman,2000000.0,2022,Right arm fast bowler
+219,Rohan  Kunnummal,Indian,Batsman,2000000.0,2022,Unknown
+220,Tanmay Mishra,Indian,Batsman,2000000.0,2022,Unknown
+221,Yash Nahar,Indian,Batsman,2000000.0,2022,Unknown
+222,Shubham Singh Rohilla,Indian,Batsman,2000000.0,2022,Unknown
+223,Alex Ross,Overseas,Batsman,2000000.0,2022,Unknown
+224,Naushad Shaikh,Indian,Batsman,2000000.0,2022,Unknown
+225,Baba Aparajith,Indian,All-Rounder,2000000.0,2022,Right arm leg spinner
+226,Prayas Barman,Indian,All-Rounder,2000000.0,2022,Unknown
+227,Yudhvir Charak,Indian,All-Rounder,2000000.0,2022,Right hand wicket-keeper batter
+228,Shubhang Hegde,Indian,All-Rounder,2000000.0,2022,Unknown
+229,Roosh Kalaria,Indian,All-Rounder,2000000.0,2022,Unknown
+230,Tanush Kotian,Indian,All-Rounder,2000000.0,2022,Unknown
+231,Kaushal Tambe,Indian,All-Rounder,2000000.0,2022,Unknown
+232,Shivank Vashisth,Indian,All-Rounder,2000000.0,2022,Unknown
+233,Rahul Chandrol,Indian,Wicket Keeper,2000000.0,2022,Unknown
+234,Harvik  Desai,Indian,Wicket Keeper,2000000.0,2022,Unknown
+235,Cam Fletcher,Overseas,Wicket Keeper,2000000.0,2022,Unknown
+236,Tarang Gohel,Indian,Wicket Keeper,2000000.0,2022,Unknown
+237,Fazil Makaya,Indian,Wicket Keeper,2000000.0,2022,Unknown
+238,Ryan Rickelton,Overseas,Wicket Keeper,2000000.0,2022,Left hand wicket-keeper batter
+239,Sandeep Kumar Tomar,Indian,Wicket Keeper,2000000.0,2022,Unknown
+240,Siddhesh Wath,Indian,Wicket Keeper,2000000.0,2022,Unknown
+241,Stephen Cheepurupalli,Indian,Bowler,2000000.0,2022,Unknown
+242,Aniket Choudhary,Indian,Bowler,2000000.0,2022,Left arm fast bowler
+243,Kartikeya Kak,Indian,Bowler,2000000.0,2022,Unknown
+244,Kulwant Khejroliya,Indian,Bowler,2000000.0,2022,Left arm fast bowler
+245,Ronit More,Indian,Bowler,2000000.0,2022,Unknown
+246,M Nidheesh,Indian,Bowler,2000000.0,2022,Unknown
+247,Babasafi Pathan,Indian,Bowler,2000000.0,2022,Unknown
+248,Vidyadhar Patil,Indian,Bowler,2000000.0,2022,Unknown
+249,Mukesh Kumar Singh,Indian,Bowler,2000000.0,2022,Unknown
+250,R. Alexandar,Indian,Bowler,2000000.0,2022,Unknown
+251,Adithya Ashok,Overseas,Bowler,2000000.0,2022,Unknown
+252,Jasmer  Dhankhar,Indian,Bowler,2000000.0,2022,Unknown
+253,Prerit Dutta,Indian,Bowler,2000000.0,2022,Unknown
+254,Jon Russ Jaggesar,Overseas,Bowler,2000000.0,2022,Unknown
+255,S. Kishan Kumar,Indian,Bowler,2000000.0,2022,Unknown
+256,Kevin Koththigoda,Overseas,Bowler,2000000.0,2022,Unknown
+257,Swaraj Wabale,Indian,Bowler,2000000.0,2022,Unknown
+258,Donavon Ferreira,Overseas,Batsman,2000000.0,2022,Unknown
+259,Bhupen Lalwani,Indian,Batsman,2000000.0,2022,Unknown
+260,Henan Malik,Indian,Batsman,2000000.0,2022,Unknown
+261,Pukhraj Mann,Indian,Batsman,2000000.0,2022,Unknown
+262,Shashwat Rawat,Indian,Batsman,2000000.0,2022,Unknown
+263,Jake Weatherald,Overseas,Batsman,2000000.0,2022,Unknown
+264,Gerald Coetzee,Overseas,All-Rounder,2000000.0,2022,Right arm fast bowler
+265,Akshay Karnewar,Indian,All-Rounder,2000000.0,2022,Right arm leg spinner
+266,Sumit Kumar,Indian,All-Rounder,2000000.0,2022,Right hand batter
+267,Abid Mushtaq,Indian,All-Rounder,2000000.0,2022,Right arm fast bowler
+268,Lone Muzaffar,Indian,All-Rounder,2000000.0,2022,Unknown
+269,Ninad Rathva,Indian,All-Rounder,2000000.0,2022,Unknown
+270,Shoun  Roger,Indian,All-Rounder,2000000.0,2022,Unknown
+271,Jaideep Bhambhu,Indian,Bowler,2000000.0,2022,Unknown
+272,Nandre Burger,Overseas,Bowler,2000000.0,2022,Right hand batter
+273,V Koushik,Indian,Bowler,2000000.0,2022,Unknown
+274,Akash Madhwal,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+275,Amit Mishra,Indian,Bowler,2000000.0,2022,Right arm leg spinner
+276,Anuj Raj,Indian,Bowler,2000000.0,2022,Unknown
+277,Abhijeet Saket,Indian,Bowler,2000000.0,2022,Unknown
+278,Rahul Shukla,Indian,Bowler,2000000.0,2022,Unknown
+279,Nuwan Thushara,Overseas,Bowler,2000000.0,2022,Right arm fast bowler
+280,Amit Ali,Indian,All-Rounder,2000000.0,2022,Unknown
+281,Chaitanya Bishnoi,Indian,All-Rounder,2000000.0,2022,Right hand batter
+282,Mayank Dagar,Indian,All-Rounder,2000000.0,2022,Right hand batter/Right arm off spinner
+283,Migael Pretorius,Overseas,All-Rounder,2000000.0,2022,Unknown
+284,Shivam  Sharma,Indian,All-Rounder,2000000.0,2022,Unknown
+285,Pratyush Singh,Indian,All-Rounder,2000000.0,2022,Right hand batter
+286,Sanvir  Singh,Indian,All-Rounder,2000000.0,2022,Right hand batter/Right arm medium
+287,Dhrushant Soni,Indian,All-Rounder,2000000.0,2022,Unknown
+288,M Venkatesh,Indian,All-Rounder,2000000.0,2022,Unknown
+289,Bandaru Ayyappa,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+290,Gurnoor Singh Brar,Indian,Bowler,2000000.0,2022,Left hand batter/Left arm orthodox spinner
+291,Akash Choudhary,Indian,Bowler,2000000.0,2022,Unknown
+292,Mohit Jangra,Indian,Bowler,2000000.0,2022,Unknown
+293,Aaqib Khan,Indian,Bowler,2000000.0,2022,Unknown
+294,Ruben Trumpelmann,Overseas,Bowler,2000000.0,2022,Unknown
+295,Lalit Yadav,Indian,Bowler,2000000.0,2022,Left hand batter/Left arm orthodox spinner
+296,Auqib Dar,Indian,All-Rounder,2000000.0,2022,Unknown
+297,Chirag Gandhi,Indian,All-Rounder,2000000.0,2022,Unknown
+298,Sijomon Joseph,Indian,All-Rounder,2000000.0,2022,Unknown
+299,Anirudha Joshi,Indian,All-Rounder,2000000.0,2022,Unknown
+300,Shubham Sharma,Indian,All-Rounder,2000000.0,2022,Unknown
+301,Shubham Singh,Indian,All-Rounder,2000000.0,2022,Unknown
+302,Arpit Guleria,Indian,Bowler,2000000.0,2022,Unknown
+303,Vipul Krishna,Indian,Bowler,2000000.0,2022,Unknown
+304,Safvan Patel,Indian,Bowler,2000000.0,2022,Unknown
+305,Chinntla Readdi,Indian,Bowler,2000000.0,2022,Unknown
+306,Manish Reddy,Indian,Bowler,2000000.0,2022,Unknown
+307,Ravi Sharma,Indian,Bowler,2000000.0,2022,Unknown
+308,Shubham Singh,Indian,Bowler,2000000.0,2022,Unknown
+309,Corbin Bosch,Overseas,All-Rounder,2000000.0,2022,Unknown
+310,Nathan McAndrew,Overseas,All-Rounder,2000000.0,2022,Unknown
+311,Diwesh Pathania,Indian,All-Rounder,2000000.0,2022,Unknown
+312,Shubham Ranjane,Indian,All-Rounder,2000000.0,2022,Left hand batter/Right arm medium
+313,Tom Rogers,Overseas,All-Rounder,2000000.0,2022,Unknown
+314,Johannes Smit,Overseas,All-Rounder,2000000.0,2022,Unknown
+315,Sagar Trivedi,Indian,All-Rounder,2000000.0,2022,Unknown
+316,Harsh Tyagi,Indian,All-Rounder,2000000.0,2022,Unknown
+317,R. Vivek,Indian,All-Rounder,2000000.0,2022,Unknown
+318,R.Sonu Yadav,Indian,All-Rounder,2000000.0,2022,Unknown
+319,V. Athisayaraj,Indian,Bowler,2000000.0,2022,Unknown
+320,Ottneil Baartman,Overseas,Bowler,2000000.0,2022,Unknown
+321,M.B. Darshan,Indian,Bowler,2000000.0,2022,Unknown
+322,V. Gowtham,Indian,Bowler,2000000.0,2022,Unknown
+323,Khwezi Gumede,Overseas,Bowler,2000000.0,2022,Unknown
+324,Liam Guthrie,Overseas,Bowler,2000000.0,2022,Unknown
+325,Liam Hatcher,Overseas,Bowler,2000000.0,2022,Unknown
+326,Jay Bista,Indian,All-Rounder,2000000.0,2022,Unknown
+327,Saurav Chuahan,Indian,All-Rounder,2000000.0,2022,Right arm fast bowler
+328,Tajinder Dhillon,Indian,All-Rounder,2000000.0,2022,Right arm fast bowler
+329,Dikshanshu Negi,Indian,All-Rounder,2000000.0,2022,Unknown
+330,Abhishek Raut,Indian,All-Rounder,2000000.0,2022,Unknown
+331,K.V. Sasikanth,Indian,All-Rounder,2000000.0,2022,Unknown
+332,Bharat Sharma,Indian,All-Rounder,2000000.0,2022,Unknown
+333,Shivam  Sharma,Indian,All-Rounder,2000000.0,2022,Unknown
+334,Amit Yadav,Indian,All-Rounder,2000000.0,2022,Unknown
+335,Manoj Bhandage,Indian,All-Rounder,2000000.0,2022,Right hand batter/Right arm medium
+336,Arun Chaprana,Indian,All-Rounder,2000000.0,2022,Unknown
+337,Ajay Dev Goud,Indian,All-Rounder,2000000.0,2022,Unknown
+338,Divyang Hinganekar,Indian,All-Rounder,2000000.0,2022,Unknown
+339,Azim Kazi,Indian,All-Rounder,2000000.0,2022,Unknown
+340,Sujit Nayak,Indian,All-Rounder,2000000.0,2022,Unknown
+341,Parth Sahani,Indian,All-Rounder,2000000.0,2022,Unknown
+342,Ashutosh Sharma,Indian,All-Rounder,2000000.0,2022,Right hand batter
+343,Vivrant Sharma,Indian,All-Rounder,2000000.0,2022,Right hand batter
+344,Kumar Kartikeya Singh,Indian,All-Rounder,2000000.0,2022,Indian
+345,Ravi Chauhan,Indian,All-Rounder,2000000.0,2022,Unknown
+346,Shafiqullah Ghafari,Overseas,All-Rounder,2000000.0,2022,Unknown
+347,M. Mohammed,Indian,All-Rounder,2000000.0,2022,Unknown
+348,Pulkit Narang,Indian,All-Rounder,2000000.0,2022,Unknown
+349,Pradosh Paul,Indian,All-Rounder,2000000.0,2022,Unknown
+350,Pushpendra Singh Rathore,Indian,All-Rounder,2000000.0,2022,Unknown
+351,Jason Sangha,Overseas,All-Rounder,2000000.0,2022,Unknown
+352,Purnank Tyagi,Indian,All-Rounder,2000000.0,2022,Unknown
+353,Samarth  Vyas,Indian,All-Rounder,2000000.0,2022,Right hand wicket-keeper batter
+354,Duan Jansen,Overseas,All-Rounder,2000000.0,2022,Left arm fast bowler
+355,Dev Lakra,Indian,All-Rounder,2000000.0,2022,Unknown
+356,Ajay Mandal,Indian,All-Rounder,2000000.0,2022,Left hand batter/Left arm orthodox spinner
+357,Lakhan Raja,Indian,All-Rounder,2000000.0,2022,Unknown
+358,Girinath Reddy,Indian,All-Rounder,2000000.0,2022,Unknown
+359,Siddhant Sharma,Indian,All-Rounder,2000000.0,2022,Unknown
+360,Matthew Short,Overseas,All-Rounder,2000000.0,2022,Unknown
+361,Saurin Thakar,Indian,All-Rounder,2000000.0,2022,Unknown
+362,Nyeem Young,Overseas,All-Rounder,2000000.0,2022,Unknown
+363,Yuvraj Chaudhary,Indian,All-Rounder,2000000.0,2022,Right hand batter/Right arm fast bowler
+364,Khizar Dafedar,Indian,All-Rounder,2000000.0,2022,Unknown
+365,Sahil Dhiwan,Indian,All-Rounder,2000000.0,2022,Unknown
+366,Arjit Gupta,Indian,All-Rounder,2000000.0,2022,Unknown
+367,Mickil Jaiswal,Indian,All-Rounder,2000000.0,2022,Unknown
+368,Ryan John,Overseas,All-Rounder,2000000.0,2022,Unknown
+369,J. Kousik,Indian,All-Rounder,2000000.0,2022,Unknown
+370,Jitender Pal,Indian,All-Rounder,2000000.0,2022,Unknown
+371,Jonty Sidhu,Indian,All-Rounder,2000000.0,2022,Unknown
+372,Yashovardhan Singh,Indian,All-Rounder,2000000.0,2022,Unknown
+373,Beyers Swanepoel,Overseas,All-Rounder,2000000.0,2022,Unknown
+374,Pranshu Vijayran,Indian,All-Rounder,2000000.0,2022,Unknown
+375,Ishan Afridi,Indian,All-Rounder,2000000.0,2022,Unknown
+376,Mohammed Afridi,Indian,All-Rounder,2000000.0,2022,Unknown
+377,Prerit Agrawal,Indian,All-Rounder,2000000.0,2022,Unknown
+378,Aidan Cahill,Overseas,All-Rounder,2000000.0,2022,Unknown
+379,Mark Deyal,Overseas,All-Rounder,2000000.0,2022,Unknown
+380,Nidhish Rajagopal,Indian,All-Rounder,2000000.0,2022,Unknown
+381,Bavanaka Sandeep,Indian,All-Rounder,2000000.0,2022,Unknown
+382,Safyaan Sharif,Overseas,All-Rounder,2000000.0,2022,Unknown
+383,Henry Shipley,Overseas,All-Rounder,2000000.0,2022,Unknown
+384,Maxwell Swaminathan,Indian,All-Rounder,2000000.0,2022,Unknown
+385,Johan Van Dyk,Overseas,All-Rounder,2000000.0,2022,Unknown
+386,Dunith Wellalage,Overseas,All-Rounder,2000000.0,2022,Unknown
+387,Agnivesh Ayachi,Indian,All-Rounder,2000000.0,2022,Right arm fast bowler
+388,Aaron  Hardie,Overseas,All-Rounder,2000000.0,2022,Right arm fast bowler
+389,Lance Morris,Overseas,Bowler,2000000.0,2022,Unknown
+390,Nivethan Radhakrishnan,Overseas,All-Rounder,2000000.0,2022,Unknown
+391,Rohan Rana,Indian,All-Rounder,2000000.0,2022,Unknown
+392,K Nitish Reddy,Indian,Batsman,2000000.0,2022,Unknown
+393,Hardik Tamore,Indian,Wicket Keeper,2000000.0,2022,Unknown
+394,Mihir Hirwani,Indian,Bowler,2000000.0,2022,Unknown
+395,Sairaj Patil,Indian,All-Rounder,2000000.0,2022,Unknown
+396,Monu Singh,Indian,Bowler,2000000.0,2022,Right arm fast bowler
+1,Jason Roy,Batsman,20000000,,2021,Right hand batter
+2,Liam Plunkett,Bowler,20000000,,2021,Unknown
+3,Morne Morkel,Bowler,15000000,,2021,Unknown
+4,Alex Hales,Batsman,15000000,,2021,Right hand batter
+5,Alex Carey,Wicket Keeper,15000000,,2021,Right hand batter
+6,Adil Rashid,Bowler,15000000,,2021,Right hand batter
+7,Shaun Marsh,Batsman,15000000,,2021,Unknown
+8,David Willey,All-Rounder,15000000,,2021,Right arm fast bowler
+9,Lewis Gregory,All-Rounder,15000000,,2021,Unknown
+10,Aaron Finch,Batsman,10000000,,2021,Right hand batter
+11,Evin Lewis,Batsman,10000000,,2021,Right hand batter
+12,Hanuma Vihari,Batsman,10000000,,2021,Right hand batter/Right arm off spinner
+13,Sheldon Cottrell,Bowler,10000000,,2021,Right arm fast bowler
+14,Mushfiqur Rahim,Wicket Keeper,10000000,,2021,Unknown
+15,Marnus Labuschagne,All-Rounder,10000000,,2021,Unknown
+16,Jason Behrendorff,Bowler,10000000,,2021,Right arm fast bowler
+17,Billy Stanlake,Bowler,10000000,,2021,Right arm fast bowler
+18,Matthew Wade,Wicket Keeper,10000000,,2021,Left hand wicket-keeper batter
+19,Sherfane Rutherford,All-Rounder,7500000,,2021,Left hand batter
+20,Hilton Cartwright,All-Rounder,7500000,,2021,Unknown
+21,James Faulkner,All-Rounder,7500000,,2021,Unknown
+22,Mohammad Mahmudullah,All-Rounder,7500000,,2021,Unknown
+23,Corey Anderson,Batsman,7500000,,2021,Left hand batter/Right arm fast bowler
+24,Darren Bravo,Batsman,7500000,,2021,Left hand batter
+25,Tim Southee,Bowler,7500000,,2021,Right arm fast bowler
+26,Keemo Paul,All-Rounder,7500000,,2021,Right hand batter/Right arm fast bowler
+27,Fidel Edwards,Bowler,7500000,,2021,Unknown
+28,Carlos Brathwaite,All-Rounder,5000000,,2021,Right hand batter/Right arm fast bowler
+29,Rishi Dhawan,All-Rounder,5000000,,2021,Right hand batter/Right arm medium
+30,Andile Phehlukwayo,All-Rounder,5000000,,2021,Unknown
+31,Dasun Shanaka,All-Rounder,5000000,,2021,Unknown
+32,Isuru Udana,All-Rounder,5000000,,2021,Right arm fast bowler
+33,Jacob Duffy,Bowler,5000000,,2021,Unknown
+34,Daryn Dupavillon,Bowler,5000000,,2021,Unknown
+35,Shannon Gabriel,Bowler,5000000,,2021,Unknown
+36,Joel Paris,Bowler,5000000,,2021,Left arm fast bowler
+37,Blair Tickner,Bowler,5000000,,2021,Unknown
+38,Ravi Bopara,All-Rounder,5000000,,2021,Unknown
+39,George Linde,All-Rounder,5000000,,2021,Unknown
+40,Kyle Mayers,All-Rounder,5000000,,2021,Left hand wicket-keeper batter
+41,Daryl Mitchell,All-Rounder,5000000,,2021,Right hand batter/Right arm medium
+42,Colin Munro,All-Rounder,5000000,,2021,Left hand batter
+43,Dwaine Pretorius,All-Rounder,5000000,,2021,Unknown
+44,Romario Shepherd,All-Rounder,5000000,,2021,Right hand batter/Right arm fast bowler
+45,Stuart Binny,All-Rounder,5000000,,2021,Right arm fast bowler
+46,Akeal Hosein,All-Rounder,5000000,,2021,Right hand batter/Right arm medium
+47,David Wiese,All-Rounder,5000000,,2021,Right hand batter/Right arm medium
+48,Jack Wildermuth,All-Rounder,5000000,,2021,Unknown
+49,Glenn Phillips,Wicket Keeper,5000000,,2021,Right hand batter/Right arm off spinner
+50,Qais Ahmad,Bowler,5000000,,2021,Unknown
+51,Rahul Sharma,Bowler,5000000,,2021,Unknown
+52,Ish Sodhi,Bowler,5000000,,2021,Unknown
+53,Jacques Snyman,All-Rounder,5000000,,2021,Unknown
+54,Kusal Janith Perera,Wicket Keeper,5000000,,2021,Unknown
+55,Dushmantha Chameera,Bowler,5000000,,2021,Right arm fast bowler
+56,Parveez Rasool,All-Rounder,5000000,,2021,Unknown
+57,Devon Conway,Batsman,5000000,,2021,Left hand wicket-keeper batter
+58,Martin Guptill,Batsman,5000000,,2021,Right hand batter/Right arm fast bowler
+59,Rovman Powell,Batsman,5000000,,2021,Right hand batter
+60,Rassie Van der Dussen,Batsman,5000000,,2021,Right hand batter
+61,Gurkeerat Singh Mann,All-Rounder,5000000,,2021,Left hand batter
+62,Varun Aaron,Bowler,5000000,,2021,Right arm fast bowler
+63,Mitchell McClenaghan,Bowler,5000000,,2021,Unknown
+64,Naveen Ul Haq,Bowler,5000000,,2021,Right arm fast bowler
+65,Mohit Sharma,Bowler,5000000,,2021,Right arm fast bowler
+66,Oshane Thomas,Bowler,5000000,,2021,Left hand batter
+67,Colin De Grandhomme,All-Rounder,5000000,,2021,Right hand batter/Right arm medium
+68,Thisara Perera,All-Rounder,5000000,,2021,Right hand batter/Right arm fast bowler
+69,Mohammad Shaifuddin,All-Rounder,5000000,,2021,Unknown
+70,Ben Duckett,Wicket Keeper,5000000,,2021,Unknown
+71,Rahmanullah Gurbaz,Wicket Keeper,5000000,,2021,Right hand wicket-keeper batter
+72,Ben McDermott,Wicket Keeper,5000000,,2021,Unknown
+73,Sean Abbott,Bowler,5000000,,2021,Right arm fast bowler
+74,Matt Henry,Bowler,5000000,,2021,Right hand batter/Right arm medium
+75,Chemar Holder,Bowler,5000000,,2021,Unknown
+76,Alzarri Joseph,Bowler,5000000,,2021,Right arm fast bowler
+77,Obed McCoy,Bowler,5000000,,2021,Left arm fast bowler
+78,Wanindu Hasaranga,All-Rounder,5000000,,2021,Left arm fast bowler
+79,Karim Janat,All-Rounder,5000000,,2021,Right hand batter/Right arm fast bowler
+80,Scott Kuggeleijn,All-Rounder,5000000,,2021,Unknown
+81,Wayne Parnell,All-Rounder,5000000,,2021,Unknown
+82,Beuran Hendricks,Bowler,5000000,,2021,Unknown
+83,Abhimanyu Mithun,Bowler,5000000,,2021,Left arm fast bowler
+84,Reece Topley,Bowler,5000000,,2021,Left arm fast bowler
+85,Hardus Viljoen,Bowler,5000000,,2021,Right arm fast bowler
+86,Neil Wagner,Bowler,5000000,,2021,Unknown
+87,Mark Steketee,Bowler,4000000,,2021,Unknown
+88,Sandeep Lamichhane,Bowler,4000000,,2021,Right arm leg spinner
+89,Ali Khan,Bowler,4000000,,2021,Unknown
+90,Brendan Doggett,Bowler,4000000,,2021,Unknown
+91,Fazalhaq Farooqi,Bowler,4000000,,2021,Right hand batter
+92,Ankit Singh Rajpoot,Bowler,3000000,,2021,Left hand batter/Left arm orthodox spinner
+93,Ben Dwarshuis,Bowler,3000000,,2021,Left arm fast bowler
+94,Chris Green,All-Rounder,3000000,,2021,Right hand batter/Right arm medium
+95,Jayden Seales,Bowler,2000000,,2021,Unknown
+96,Tanveer Ul haq,Bowler,2000000,,2021,Unknown
+97,Subodh Bhati,All-Rounder,2000000,,2021,Unknown
+98,Aamir Gani,All-Rounder,2000000,,2021,Unknown
+99,Karanveer Kaushal,All-Rounder,2000000,,2021,Unknown
+100,Anustup Majumdar,All-Rounder,2000000,,2021,Unknown
+101,Dikshanshu Negi,All-Rounder,2000000,,2021,Unknown
+103,Kshitiz Sharma,All-Rounder,2000000,,2021,Right hand batter
+104,Shubham Singh Rohilla,All-Rounder,2000000,,2021,Unknown
+105,Shashank Singh,All-Rounder,2000000,,2021,Right arm fast bowler
+106,Milind Tandon,All-Rounder,2000000,,2021,Right arm fast bowler
+107,Sandeep Bavanaka,All-Rounder,2000000,,2021,Right hand batter
+108,Chaitanya Bishnoi,All-Rounder,2000000,,2021,Right hand batter
+109,Arun Chaprana,All-Rounder,2000000,,2021,Unknown
+110,Ajay Dev Goud,All-Rounder,2000000,,2021,Unknown
+111,Umran Malik,All-Rounder,2000000,,2021,Right arm fast bowler
+112,Tanay Thyagarajan,All-Rounder,2000000,,2021,Unknown
+113,N.Tilak Varma,All-Rounder,2000000,,2021,Right arm fast bowler
+114,Arshdeep Brar,All-Rounder,2000000,,2021,Unknown
+115,Digvijay Deshmukh,All-Rounder,2000000,,2021,Right hand wicket-keeper batter
+116,Aakarshit Gomel,All-Rounder,2000000,,2021,Unknown
+117,Arjit Gupta,All-Rounder,2000000,,2021,Unknown
+118,Shubhang Hegde,All-Rounder,2000000,,2021,Unknown
+119,Azim Kazi,All-Rounder,2000000,,2021,Unknown
+120,Rahul Singh,All-Rounder,2000000,,2021,Unknown
+121,Rahul Ajay Tripathy,All-Rounder,2000000,,2021,Unknown
+122,Harsh Tyagi,All-Rounder,2000000,,2021,Unknown
+122,Nachiket Bhute,All-Rounder,2000000,,2021,Unknown
+123,Josh Clarkson,All-Rounder,2000000,,2021,Unknown
+124,Gerald Coetzee,All-Rounder,2000000,,2021,Right arm fast bowler
+125,Tim David,All-Rounder,2000000,,2021,Right hand batter
+126,Deeparaj Gaonkar,All-Rounder,2000000,,2021,Unknown
+127,Aaron Hardie,All-Rounder,2000000,,2021,Right arm fast bowler
+128,Nathan McAndrew,All-Rounder,2000000,,2021,Unknown
+129,M Mohammed,All-Rounder,2000000,,2021,Unknown
+130,Rahul Gahlaut,Batsman,2000000,,2021,Unknown
+131,Govinda Poddar,All-Rounder,2000000,,2021,Unknown
+132,Pratyush Singh,All-Rounder,2000000,,2021,Right hand batter
+133,Himanshu Rana,Batsman,2000000,,2021,Unknown
+134,Himmat Singh,Batsman,2000000,,2021,Right hand batter
+135,Vishnu Solanki,Batsman,2000000,,2021,Unknown
+136,Sadiq Hassan Kirmani,Wicket Keeper,2000000,,2021,Unknown
+137,Ayush Badoni,All-Rounder,2000000,,2021,Left hand batter
+138,Cheepurupalli Stephen,Bowler,2000000,,2021,Unknown
+139,Nidheesh M D Dinesan,Bowler,2000000,,2021,Right arm off spinner
+140,Atit Sheth,All-Rounder,2000000,,2021,Unknown
+141,Vivek Singh,All-Rounder,2000000,,2021,Unknown
+142,Avi Barot,Wicket Keeper,2000000,,2021,Unknown
+143,Armaan Jaffer,Batsman,2000000,,2021,Right hand batter
+144,Kedar Devdhar,Wicket Keeper,2000000,,2021,Unknown
+145,Tejas Singh Baroka,Bowler,2000000,,2021,Right hand batter
+146,Apoorv Vijay Wankhade,Batsman,2000000,,2021,Right hand batter
+147,Tushar Deshpande,Bowler,2000000,,2021,Right arm fast bowler
+148,Prathamesh Ganesh Dake,Bowler,2000000,,2021,Unknown
+149,Jay Gokul Bista,All-Rounder,2000000,,2021,Unknown
+150,T Ravi Teja,All-Rounder,2000000,,2021,Unknown
+151,Kuldeep Sen,Bowler,2000000,,2021,Right hand wicket-keeper batter
+152,Anirudha Ashok Joshi,All-Rounder,2000000,,2021,Right arm fast bowler
+153,Mujtaba Yousuf,Bowler,2000000,,2021,Unknown
+154,Pradeep Sahu,Bowler,2000000,,2021,Unknown
+155,Prayas Ray Barman,All-Rounder,2000000,,2021,Right hand batter/Right arm off spinner
+156,Siddhesh Dinesh Lad,Batsman,2000000,,2021,Right hand wicket-keeper batter
+157,Karanveer Singh,Bowler,2000000,,2021,Unknown
+158,Midhun Sudhesan,Bowler,2000000,,2021,Unknown
+159,Nikhil Shankar Naik,Wicket Keeper,2000000,,2021,Right arm fast bowler
+160,Prithvi Raj Yarra,Bowler,2000000,,2021,Right arm fast bowler
+161,Noor Ahmad,Bowler,2000000,,2021,Left arm wrist spinner
+162,Xavier Bartlett,Bowler,2000000,,2021,Right hand batter/Right arm medium
+163,Rohit Damodaran,All-Rounder,2000000,,2021,Unknown
+164,Jiyas K,Bowler,2000000,,2021,Unknown
+165,Mayank Dagar,All-Rounder,2000000,,2021,Right hand batter/Right arm off spinner
+166,Ashok Menaria,All-Rounder,2000000,,2021,Unknown
+167,Finn Allen,Batsman,2000000,,2021,Left hand batter
+168,Harpreet Bhatia,Batsman,2000000,,2021,Right hand batter
+169,Shivam Chauhan,Batsman,2000000,,2021,Unknown
+170,Naushad Shaikh,Batsman,2000000,,2021,Unknown
+171,Pratham Singh,Batsman,2000000,,2021,Right arm fast bowler
+172,Atharva Ankolekar,All-Rounder,2000000,,2021,Unknown
+173,Rojith Ganesh,All-Rounder,2000000,,2021,Unknown
+174,Sumit Kumar,All-Rounder,2000000,,2021,Right hand batter
+175,Akshdeep Nath,All-Rounder,2000000,,2021,Right hand batter
+176,Pradeep Sangwan,All-Rounder,2000000,,2021,Left arm fast bowler
+177,Karan Sharma,All-Rounder,2000000,,2021,Right hand batter/Right arm off spinner
+178,R. Sonu Yadav,All-Rounder,2000000,,2021,Unknown
+179,Dhruv Jurel,Wicket Keeper,2000000,,2021,Right hand wicket-keeper batter
+180,Arun Karthick,Wicket Keeper,2000000,,2021,Unknown
+181,Smit Patel,Wicket Keeper,2000000,,2021,Unknown
+182,K.L Shrijith,Wicket Keeper,2000000,,2021,Unknown
+183,Wesley Agar,Bowler,2000000,,2021,Unknown
+184,Akash Deep,Bowler,2000000,,2021,Right arm fast bowler
+185,Kulwant Khejroliya,Bowler,2000000,,2021,Left arm fast bowler
+186,Arzan Nagwaswalla,Bowler,2000000,,2021,Unknown
+187,G Periyasamy,Bowler,2000000,,2021,Unknown
+188,Karthik Meiyappan,Bowler,2000000,,2021,Unknown
+189,Prince Balwant Rai Singh,Bowler,2000000,,2021,Right hand batter/Right arm fast bowler
+190,Sagar Udeshi,Bowler,2000000,,2021,Unknown
+191,Kushaal Wadhwani,Bowler,2000000,,2021,Unknown
+192,Akshay Wakhare,Bowler,2000000,,2021,Unknown
+193,Rajesh Bishnoi,Batsman,2000000,,2021,Unknown
+194,Abhimanyu Easwaran,Batsman,2000000,,2021,Unknown
+195,Rohan Kadam,Batsman,2000000,,2021,Unknown
+196,Amandeep Khare,Batsman,2000000,,2021,Unknown
+197,Mohammed Taha,Batsman,2000000,,2021,Unknown
+198,Tajinder Dhillon,All-Rounder,2000000,,2021,Right arm fast bowler
+199,Pankaj Jaswal,All-Rounder,2000000,,2021,Left arm fast bowler
+200,Khrievitso Kense,All-Rounder,2000000,,2021,Unknown
+201,Prerak Mankad,All-Rounder,2000000,,2021,Right hand batter/Right arm medium
+202,Shams Mulani,All-Rounder,2000000,,2021,Left arm orthodox spinner
+203,Ansh Patel,All-Rounder,2000000,,2021,Right arm fast bowler
+204,Parth Sahani,All-Rounder,2000000,,2021,Unknown
+205,Ankit Sharma,All-Rounder,2000000,,2021,Right hand batter
+206,Dhruv Shorey,All-Rounder,2000000,,2021,Right hand batter
+207,Josh Inglis,Wicket Keeper,2000000,,2021,Right hand batter/Right arm off spinner
+208,Aryan Juyal,Wicket Keeper,2000000,,2021,Right hand wicket-keeper batter
+209,Rohit Sharma,Wicket Keeper,2000000,,2021,Unknown
+210,Sandeep Kumar Tomar,Wicket Keeper,2000000,,2021,Unknown
+211,Aniket Choudhary,Bowler,2000000,,2021,Left arm fast bowler
+212,Mukesh Choudhary,Bowler,2000000,,2021,Left arm fast bowler
+213,Nathan Ellis,Bowler,2000000,,2021,Right arm fast bowler
+214,Sayan Ghosh,Bowler,2000000,,2021,Right arm fast bowler
+215,Ronit More,Bowler,2000000,,2021,Unknown
+216,Simarjeet Singh,Bowler,2000000,,2021,Right arm fast bowler
+217,Zeeshan Ansari,Bowler,2000000,,2021,Right arm leg spinner
+218,Nayan Doshi,Bowler,2000000,,2021,Unknown
+219,Jon Russ Jaggesar,Bowler,2000000,,2021,Unknown
+220,Kevin Koththigoda,Bowler,2000000,,2021,Unknown
+221,Tanveer Sangha,Bowler,2000000,,2021,Unknown
+222,Maheesh Theekshan,Bowler,2000000,,2021,Unknown
+223,Vijayakanth Viyaskanth,Bowler,2000000,,2021,Unknown
+224,Max Bryant,Batsman,2000000,,2021,Unknown
+225,Saahil Jain,Batsman,2000000,,2021,Unknown
+226,Subhranshu Senapati,Batsman,2000000,,2021,Right hand batter
+227,Ravi Thakur,Batsman,2000000,,2021,Unknown
+228,Jake Weatherald,Batsman,2000000,,2021,Unknown
+229,Shubham Agrawal,All-Rounder,2000000,,2021,Unknown
+230,Rajjakuddin Ahmed,All-Rounder,2000000,,2021,Unknown
+231,Baba Aparajith,All-Rounder,2000000,,2021,Right arm leg spinner
+232,George Garton,All-Rounder,2000000,,2021,Unknown
+233,Kartik Kakade,All-Rounder,2000000,,2021,Unknown
+234,Shoaib Khan,All-Rounder,2000000,,2021,Unknown
+235,Dhruv Patel,All-Rounder,2000000,,2021,Unknown
+236,Latest Kumar Patel,All-Rounder,2000000,,2021,Unknown
+237,Varun Choudhary,Bowler,2000000,,2021,Unknown
+238,Baltej Dhanda,Bowler,2000000,,2021,Right arm fast bowler
+239,Saurabh Dubey,Bowler,2000000,,2021,Right hand batter
+240,Matt Kelly,Bowler,2000000,,2021,Unknown
+241,Chama Milind,Bowler,2000000,,2021,Left arm fast bowler
+66,Angelo Mathews,All-Rounder,20000000,,2020,Right hand batter/Right arm medium
+1,Adam Zampa,Bowler,15000000,,2020,Right arm leg spinner
+67,Kyle Abbott,Bowler,15000000,,2020,Right arm fast bowler
+68,Shaun Marsh,Batsman,15000000,,2020,Unknown
+69,David Willey,All-Rounder,15000000,,2020,Right arm fast bowler
+2,Vinay Kumar,Bowler,10000000,,2020,Unknown
+3,James Pattinson,Bowler,10000000,,2020,Unknown
+4,Liam Plunkett,Bowler,10000000,,2020,Unknown
+5,Martin Guptill,Batsman,10000000,,2020,Right hand batter/Right arm fast bowler
+6,Evin Lewis,Batsman,10000000,,2020,Right hand batter
+7,Yusuf Pathan,All-Rounder,10000000,,2020,Right hand batter/Right arm off spinner
+8,Colin Munro,All-Rounder,10000000,,2020,Left hand batter
+9,Mustafizur Rahman,Bowler,10000000,,2020,Left arm fast bowler
+10,Tim Southee,Bowler,10000000,,2020,Right arm fast bowler
+70,Matthew Wade,Wicket Keeper,10000000,,2020,Left hand wicket-keeper batter
+71,Ashton Agar,All-Rounder,10000000,,2020,Unknown
+72,Moises Henriques,All-Rounder,10000000,,2020,Right hand batter/Right arm medium
+73,D'Arcy Short,All-Rounder,10000000,,2020,Unknown
+74,Alex Hales,Batsman,10000000,,2020,Right hand batter
+75,Rilee Rossouw,Batsman,10000000,,2020,Right hand batter
+76,Thisara Perera,All-Rounder,10000000,,2020,Right hand batter/Right arm fast bowler
+11,Jason Holder,All-Rounder,7500000,,2020,Right hand batter
+12,Colin De Grandhomme,All-Rounder,7500000,,2020,Right hand batter/Right arm medium
+13,Ben Cutting,All-Rounder,7500000,,2020,Right hand batter/Right arm fast bowler
+14,Sean Abbott,Bowler,7500000,,2020,Right arm fast bowler
+15,Mushfiqur Rahim,Wicket Keeper,7500000,,2020,Unknown
+16,Ish Sodhi,Bowler,7500000,,2020,Unknown
+77,Ashton Turner,All-Rounder,7500000,,2020,Left arm fast bowler
+78,Saqib Mahmood,Bowler,7500000,,2020,Unknown
+79,Lendl Simmons,Batsman,7500000,,2020,Unknown
+80,David Wiese,All-Rounder,7500000,,2020,Right hand batter/Right arm medium
+81,Marchant De Lange,Bowler,7500000,,2020,Unknown
+82,Corey Anderson,All-Rounder,7500000,,2020,Left hand batter/Right arm fast bowler
+83,Dan Christian,All-Rounder,7500000,,2020,Right hand batter
+84,Mohammad Mahmudullah,All-Rounder,7500000,,2020,Unknown
+17,Kesrick Williams,Bowler,5000000,,2020,Unknown
+18,Colin Ingram,Batsman,5000000,,2020,Left hand batter
+19,Cheteshwar Pujara,Batsman,5000000,,2020,Left hand batter/Right arm off spinner
+20,Hanuma Vihari,Batsman,5000000,,2020,Right hand batter/Right arm off spinner
+21,Stuart Binny,All-Rounder,5000000,,2020,Right arm fast bowler
+22,Manoj Tiwary,Batsman,5000000,,2020,Right hand batter
+23,Carlos Brathwaite,All-Rounder,5000000,,2020,Right hand batter/Right arm fast bowler
+24,Adam Milne,Bowler,5000000,,2020,Right hand batter
+25,Rishi Dhawan,All-Rounder,5000000,,2020,Right hand batter/Right arm medium
+26,Shai Hope,Wicket Keeper,5000000,,2020,Right hand wicket-keeper batter
+27,Heinrich Klaasen,Wicket Keeper,5000000,,2020,Right hand wicket-keeper batter
+28,Anrich Nortje,Bowler,5000000,,2020,Right arm fast bowler
+29,Naman Ojha,Wicket Keeper,5000000,,2020,Right hand wicket-keeper batter
+30,Kusal Janith Perera,Wicket Keeper,5000000,,2020,Unknown
+31,Andile Phehlukwayo,All-Rounder,5000000,,2020,Unknown
+32,Barinder Singh Sran,Bowler,5000000,,2020,Left arm fast bowler
+33,Mark Wood,Bowler,5000000,,2020,Right hand batter
+34,Matt Henry,Bowler,5000000,,2020,Right hand batter/Right arm medium
+35,Alzarri Joseph,Bowler,5000000,,2020,Right arm fast bowler
+36,Zahir Khan Pakteen,Bowler,5000000,,2020,Right arm fast bowler
+37,Hayden Walsh,Bowler,5000000,,2020,Unknown
+85,Wiaan Mulder,All-Rounder,5000000,,2020,Unknown
+86,Dasun Shanaka,All-Rounder,5000000,,2020,Unknown
+87,Jon-Jon Trevor Smuts,All-Rounder,5000000,,2020,Unknown
+88,Ashoke Dinda,Bowler,5000000,,2020,Unknown
+89,Dushmantha Chameera,Bowler,5000000,,2020,Right arm fast bowler
+90,Obed McCoy,Bowler,5000000,,2020,Left arm fast bowler
+91,Tom Bruce,Batsman,5000000,,2020,Unknown
+92,Oshada Fernando,Batsman,5000000,,2020,Unknown
+93,Avishka Fernando,Batsman,5000000,,2020,Unknown
+94,Brandon King,Batsman,5000000,,2020,Unknown
+95,Rassie Van der Dussen,Batsman,5000000,,2020,Right hand batter
+96,James Faulkner,All-Rounder,5000000,,2020,Unknown
+97,Lewis Greogry,All-Rounder,5000000,,2020,Unknown
+98,Scott Kuggeleijn,All-Rounder,5000000,,2020,Unknown
+99,Romario Shepherd,All-Rounder,5000000,,2020,Right hand batter/Right arm fast bowler
+100,Nuwan Pradeep,Bowler,5000000,,2020,Unknown
+101,Blair Tickner,Bowler,5000000,,2020,Unknown
+102,Karim Janat,All-Rounder,5000000,,2020,Right hand batter/Right arm fast bowler
+103,Doug Bracewell,Bowler,5000000,,2020,Unknown
+104,Ben Laughlin,Bowler,5000000,,2020,Left arm wrist spinner
+105,Tymal Mills,Bowler,5000000,,2020,Right hand batter
+106,Janneman Malan,Batsman,5000000,,2020,Unknown
+107,Aiden Markram,Batsman,5000000,,2020,Right hand batter/Right arm off spinner
+108,Anaru Kitchen,All-Rounder,5000000,,2020,Unknown
+109,Jeevan Mendis,All-Rounder,5000000,,2020,Unknown
+110,Daryl Mitchell,All-Rounder,5000000,,2020,Right hand batter/Right arm medium
+111,Angelo Perera,All-Rounder,5000000,,2020,Unknown
+112,Seekkuge Prasanna,All-Rounder,5000000,,2020,Unknown
+113,Rovman Powell,All-Rounder,5000000,,2020,Right hand batter
+114,Sabbir Rahaman,All-Rounder,5000000,,2020,Unknown
+115,Raymon Reifer,All-Rounder,5000000,,2020,Unknown
+116,Ben Dunk,Wicket Keeper,5000000,,2020,Unknown
+117,Mohammad Saifuddin,All-Rounder,5000000,,2020,Unknown
+118,Tom Latham,Wicket Keeper,5000000,,2020,Unknown
+119,Ben McDermott,Wicket Keeper,5000000,,2020,Unknown
+120,Glenn Phillips,Wicket Keeper,5000000,,2020,Right hand batter/Right arm off spinner
+121,Tim Seifert,Wicket Keeper,5000000,,2020,Right hand wicket-keeper batter
+122,Mohammad Shahzad,Wicket Keeper,5000000,,2020,Unknown
+123,Patrick Brown,Bowler,5000000,,2020,Unknown
+124,Beuran Hendricks,Bowler,5000000,,2020,Unknown
+125,Naveen Ul Haq,Bowler,5000000,,2020,Right arm fast bowler
+126,Qais Ahmad,Bowler,5000000,,2020,Unknown
+127,Fawad Ahmed,Bowler,5000000,,2020,Unknown
+128,Khary Pierre,Bowler,5000000,,2020,Unknown
+129,Waqar Salamkheil,Bowler,5000000,,2020,Unknown
+130,Ravi Bopara,All-Rounder,5000000,,2020,Unknown
+131,Tabraiz Shamsi,Bowler,5000000,,2020,Unknown
+132,Wanindu Hasaranga,All-Rounder,5000000,,2020,Left arm fast bowler
+133,Nehal Pajni,Batsman,5000000,,2020,Unknown
+134,Dimuth Karunarathna,All-Rounder,5000000,,2020,Unknown
+38,Riley Meredith,Bowler,4000000,,2020,Right hand batter
+135,James Fuller,All-Rounder,4000000,,2020,Unknown
+136,Ben Dwarshuis,Bowler,4000000,,2020,Left arm fast bowler
+137,Cameron Delport,Batsman,4000000,,2020,Left hand batter
+138,Benny Howell,All-Rounder,4000000,,2020,Right hand batter/Right arm medium
+139,Laurie Evans,Batsman,4000000,,2020,Unknown
+39,Noor Ahmad,Bowler,3000000,,2020,Left arm wrist spinner
+140,Will Jacks,All-Rounder,3000000,,2020,Right hand batter/Right arm off spinner
+141,Anureet Singh,Bowler,3000000,,2020,Right arm fast bowler
+142,Jalaj Saxena,All-Rounder,3000000,,2020,Right hand batter/Right arm off spinner
+143,Jaskarandeep Singh Buttar,All-Rounder,3000000,,2020,Unknown
+144,David Payne,Bowler,3000000,,2020,Unknown
+145,Pradeep Sangwan,Bowler,3000000,,2020,Left arm fast bowler
+40,Pravin Dubey,All-Rounder,2000000,,2020,Right arm fast bowler
+41,Shams Mulani,All-Rounder,2000000,,2020,Left arm orthodox spinner
+42,Sumit Kumar,All-Rounder,2000000,,2020,Right hand batter
+43,Aryan Juyal,Wicket Keeper,2000000,,2020,Right hand wicket-keeper batter
+44,Lalit Yadav,Bowler,2000000,,2020,Left hand batter/Left arm orthodox spinner
+45,Kuldeep Sen,Bowler,2000000,,2020,Right hand wicket-keeper batter
+46,Harpreet Bhatia,Batsman,2000000,,2020,Right hand batter
+47,Rohan Kadam,Batsman,2000000,,2020,Unknown
+48,Manjot Kalra,Batsman,2000000,,2020,Left hand batter
+49,Shahrukh Khan,All-Rounder,2000000,,2020,Right arm fast bowler
+50,George Garton,All-Rounder,2000000,,2020,Unknown
+51,Daniel Sams,All-Rounder,2000000,,2020,Right hand batter/Right arm fast bowler
+52,Rahul Shukla,Bowler,2000000,,2020,Unknown
+53,Ankush Bains,Wicket Keeper,2000000,,2020,Right hand wicket-keeper batter
+54,Kona Srikar Bharat,Wicket Keeper,2000000,,2020,Unknown
+55,Yudhvir Charak,All-Rounder,2000000,,2020,Right hand wicket-keeper batter
+56,Kedar Devdhar,Wicket Keeper,2000000,,2020,Unknown
+57,Vishnu Vinod,Wicket Keeper,2000000,,2020,Left hand batter/Left arm orthodox spinner
+58,Sujit Nayak,All-Rounder,2000000,,2020,Unknown
+59,Nathan Ellis,Bowler,2000000,,2020,Right arm fast bowler
+60,Vaibhav Arora,Bowler,2000000,,2020,Right arm fast bowler
+61,Saurabh Dubey,Bowler,2000000,,2020,Right hand batter
+62,Kulwant Khejroliya,Bowler,2000000,,2020,Left arm fast bowler
+63,K.C Cariappa,Bowler,2000000,,2020,Unknown
+64,Midhun Sudhesan,All-Rounder,2000000,,2020,Unknown
+65,Ayush Badoni,All-Rounder,2000000,,2020,Left hand batter
+146,Ayush Jamwal,All-Rounder,2000000,,2020,Unknown
+147,Prayas Ray Barman,All-Rounder,2000000,,2020,Right hand batter/Right arm off spinner
+148,Ripal Patel,All-Rounder,2000000,,2020,Right hand batter
+149,Abhimanyu Rana,All-Rounder,2000000,,2020,Unknown
+150,Prashant Chopra,All-Rounder,2000000,,2020,Right arm fast bowler
+151,Kshitiz Sharma,All-Rounder,2000000,,2020,Right hand batter
+152,Shubhang Hegde,All-Rounder,2000000,,2020,Unknown
+153,Nitin Sharma,All-Rounder,2000000,,2020,Unknown
+154,Mayank Dagar,All-Rounder,2000000,,2020,Right hand batter/Right arm off spinner
+155,Akshay Solanki,All-Rounder,2000000,,2020,Unknown
+156,C Hari Nishaanth,All-Rounder,2000000,,2020,Right hand batter/Right arm off spinner
+157,Pranshu Vijayran,All-Rounder,2000000,,2020,Unknown
+158,Nikhil Chaudhary,All-Rounder,2000000,,2020,Unknown
+159,Roosh Kalaria,All-Rounder,2000000,,2020,Unknown
+160,Rajat Choudhary,All-Rounder,2000000,,2020,Unknown
+161,Akshay Karnewar,All-Rounder,2000000,,2020,Right arm leg spinner
+162,Dafedar Khizar Anwar,All-Rounder,2000000,,2020,Unknown
+163,Dharmendrasinh Jadeja,All-Rounder,2000000,,2020,Unknown
+164,Aman Khan,All-Rounder,2000000,,2020,Right arm fast bowler
+165,Vishal Kushwah,All-Rounder,2000000,,2020,Unknown
+166,Prerak Mankad,All-Rounder,2000000,,2020,Right hand batter/Right arm medium
+167,Akshdeep Nath,All-Rounder,2000000,,2020,Right hand batter
+168,Dhrumil Matkar,All-Rounder,2000000,,2020,Unknown
+169,Avi Barot,Wicket Keeper,2000000,,2020,Unknown
+170,Ramandeep Singh,All-Rounder,2000000,,2020,Left arm fast bowler
+171,Shubham Ranjane,All-Rounder,2000000,,2020,Left hand batter/Right arm medium
+172,M Abhinav,All-Rounder,2000000,,2020,Unknown
+173,Arjun Azad,All-Rounder,2000000,,2020,Unknown
+174,Nachiket Bhute,All-Rounder,2000000,,2020,Unknown
+175,Corbin Bosch,All-Rounder,2000000,,2020,Unknown
+176,Sumit Kumar,Wicket Keeper,2000000,,2020,Right hand batter
+177,Shaik Ismail,All-Rounder,2000000,,2020,Unknown
+178,Dhruv Shorey,All-Rounder,2000000,,2020,Right hand batter
+179,Anmol Malhotra,Wicket Keeper,2000000,,2020,Unknown
+180,Jack Prestwidge,All-Rounder,2000000,,2020,Unknown
+181,Swapnil Singh,All-Rounder,2000000,,2020,Left arm orthodox spinner
+182,Yash Rathod,All-Rounder,2000000,,2020,Unknown
+183,Smit Patel,Wicket Keeper,2000000,,2020,Unknown
+184,Pratyush Singh,All-Rounder,2000000,,2020,Right hand batter
+185,Saurabh Rawat,Wicket Keeper,2000000,,2020,Unknown
+186,Jitesh Sharma,Wicket Keeper,2000000,,2020,Right hand wicket-keeper batter
+187,Mayank Sidhu,Wicket Keeper,2000000,,2020,Unknown
+188,Sheldon Jackson,Wicket Keeper,2000000,,2020,Right arm fast bowler
+189,Nandre Burger,Bowler,2000000,,2020,Right hand batter
+190,Jake Weatherald,Batsman,2000000,,2020,Unknown
+191,Stephen Chipurupalli,Bowler,2000000,,2020,Unknown
+192,Robin Bist,Batsman,2000000,,2020,Unknown
+193,Yash Dayal,Bowler,2000000,,2020,Right arm fast bowler
+194,C.V Milind,Bowler,2000000,,2020,Unknown
+195,G Periyasamy,Bowler,2000000,,2020,Unknown
+196,Chetan Sakariya,Bowler,2000000,,2020,Right arm fast bowler
+197,Pradeep Thippeswamy,Bowler,2000000,,2020,Unknown
+198,Agniv Pan,Wicket Keeper,2000000,,2020,Unknown
+199,Tanveer Ul haq,Bowler,2000000,,2020,Unknown
+200,Mihir Hirwani,Bowler,2000000,,2020,Unknown
+201,S Manigandan,Bowler,2000000,,2020,Unknown
+202,Luvnith Sisodia,Wicket Keeper,2000000,,2020,Right hand wicket-keeper batter
+203,Shiva Singh,Bowler,2000000,,2020,Unknown
+204,Ajay Sonu T,Bowler,2000000,,2020,Unknown
+205,Sagar Udeshi,Bowler,2000000,,2020,Unknown
+206,Upendra Singh Yadav,Wicket Keeper,2000000,,2020,Right hand batter/Right arm fast bowler
+207,Armaan Jaffer,Batsman,2000000,,2020,Right hand batter
+208,Siddharth Krishnamurthy,Batsman,2000000,,2020,Unknown
+209,Rajat Patidar,Batsman,2000000,,2020,Right hand wicket-keeper batter
+210,Shubham Singh Pundir,Batsman,2000000,,2020,Unknown
+211,Sachin Baby,Batsman,2000000,,2020,Right hand batter
+212,Himanshu Rana,Batsman,2000000,,2020,Unknown
+213,Ekant Sen,Batsman,2000000,,2020,Unknown
+214,Ali Khan,Bowler,2000000,,2020,Unknown
+215,Rajesh Bishnoi,Batsman,2000000,,2020,Unknown
+216,Subhranshu Senapati,Batsman,2000000,,2020,Right hand batter
+217,Baba Aparajith,All-Rounder,2000000,,2020,Right arm leg spinner
+218,Unmukt Chand,Batsman,2000000,,2020,Unknown
+219,Gerald Coetzee,All-Rounder,2000000,,2020,Right arm fast bowler
+220,Tanmay Mishra,Batsman,2000000,,2020,Unknown
+221,Lukman Hussain Meriwala,Bowler,2000000,,2020,Left arm fast bowler
+222,Priyank Panchal,Batsman,2000000,,2020,Unknown
+223,Vishnu Solanki,Batsman,2000000,,2020,Unknown
+224,Chaitanya Bishnoi,All-Rounder,2000000,,2020,Right hand batter
+225,Gourav Yadav,Bowler,2000000,,2020,Unknown
+226,Ankit Kaushik,All-Rounder,2000000,,2020,Unknown
+227,Chandrapal Chundawat,All-Rounder,2000000,,2020,Unknown
+228,Azim Kazi,All-Rounder,2000000,,2020,Unknown
+229,M Mohammed,All-Rounder,2000000,,2020,Unknown
+230,Zeeshan Ansari,Bowler,2000000,,2020,Right arm leg spinner
+231,Satyajeet Bachhav,Bowler,2000000,,2020,Unknown
+232,Ankit Sharma,All-Rounder,2000000,,2020,Right hand batter
+233,Tejas Singh Baroka,Bowler,2000000,,2020,Right hand batter
+234,Utkarsh Singh,All-Rounder,2000000,,2020,Right hand batter
+235,Shivil Kaushik,Bowler,2000000,,2020,Left arm wrist spinner
+236,Harsh Tyagi,All-Rounder,2000000,,2020,Unknown
+237,Pradeep Sahu,Bowler,2000000,,2020,Unknown
+238,Aniket Choudhary,Bowler,2000000,,2020,Left arm fast bowler
+239,Puneet Datey,Bowler,2000000,,2020,Unknown
+240,Karanveer Singh,Bowler,2000000,,2020,Unknown
+241,Akash Deep,Bowler,2000000,,2020,Right arm fast bowler
+242,Sayan Ghosh,Bowler,2000000,,2020,Right arm fast bowler
+243,Chemar Holder,Bowler,2000000,,2020,Unknown
+244,Vivek Singh,All-Rounder,2000000,,2020,Unknown
+245,Gurinder Singh,All-Rounder,2000000,,2020,Unknown
+246,Mukesh Choudhary,Bowler,2000000,,2020,Left arm fast bowler
+247,Matt Kelly,Bowler,2000000,,2020,Unknown
+248,Arafat Khan,Bowler,2000000,,2020,Unknown
+249,Zahoor Khan,Bowler,2000000,,2020,Unknown
+250,Sushant Mishra,Bowler,2000000,,2020,Right arm fast bowler
+251,Kanishk Seth,Bowler,2000000,,2020,Left arm fast bowler
+252,Mayank Rawat,Batsman,2000000,,2020,Unknown
+253,Arzan Nagwaswalla,Bowler,2000000,,2020,Unknown
+254,Max Bryant,Batsman,2000000,,2020,Unknown
+255,Safvan Patel,Bowler,2000000,,2020,Unknown
+256,Rahul Gahlaut,Batsman,2000000,,2020,Unknown
+257,Prithvi Raj Yarra,Bowler,2000000,,2020,Right arm fast bowler
+258,Shivam Chauhan,Batsman,2000000,,2020,Unknown
+259,Abhimanyu Easwaran,Batsman,2000000,,2020,Unknown
+260,Salman Khan,Batsman,2000000,,2020,Unknown
+261,Naushad Shaikh,Batsman,2000000,,2020,Unknown
+262,Sharad Lumba,Batsman,2000000,,2020,Right arm leg spinner
+263,Pratham Singh,Batsman,2000000,,2020,Right arm fast bowler
+264,Shivam Bhambri,Batsman,2000000,,2020,Unknown
+265,Ricky Bhui,Batsman,2000000,,2020,Right hand batter
+266,Marco Marais,Batsman,2000000,,2020,Unknown
+267,Hiten Dalal,Batsman,2000000,,2020,Unknown
+268,Shubham Khajuria,Batsman,2000000,,2020,Unknown
+269,Himmat Singh,Batsman,2000000,,2020,Right hand batter
+270,Amandeep Khare,Batsman,2000000,,2020,Unknown
+271,R Samarth,Batsman,2000000,,2020,Right hand batter
+272,George Munsey,Batsman,2000000,,2020,Unknown
+273,Arun Karthick,Wicket Keeper,2000000,,2020,Unknown
+274,N.Tilak Varma,All-Rounder,2000000,,2020,Right arm fast bowler
+275,Himanshu Bisht,All-Rounder,2000000,,2020,Unknown
+276,Rohit Damodaran,All-Rounder,2000000,,2020,Unknown
+1,Brendon McCullum,Batsman,20000000,,2019,Right arm leg spinner
+2,Chris Woakes,All-Rounder,20000000,,2019,Right arm fast bowler
+3,Shaun Marsh,Batsman,20000000,,2019,Unknown
+4,Corey Anderson,All-Rounder,20000000,,2019,Left hand batter/Right arm fast bowler
+5,Angelo Mathews,All-Rounder,20000000,,2019,Right hand batter/Right arm medium
+6,Alex Hales,Batsman,15000000,,2019,Right hand batter
+7,Rilee Rossouw,Batsman,15000000,,2019,Right hand batter
+8,James Faulkner,All-Rounder,15000000,,2019,Unknown
+9,Morne Morkel,Bowler,15000000,,2019,Unknown
+10,Dale Steyn,Bowler,15000000,,2019,Right hand batter
+11,Alex Carey,Wicket Keeper,15000000,,2019,Right hand batter
+12,Chris Jordan,All-Rounder,10000000,,2019,Left hand wicket-keeper batter
+13,Adam Zampa,Bowler,10000000,,2019,Right arm leg spinner
+14,Hashim Amla,Batsman,10000000,,2019,Unknown
+15,Usman Khawaja,Batsman,10000000,,2019,Unknown
+16,Dan Christian,All-Rounder,10000000,,2019,Right hand batter
+17,Kane Richardson,Bowler,10000000,,2019,Right arm fast bowler
+18,Ben Laughlin,Bowler,10000000,,2019,Left arm wrist spinner
+19,James Pattinson,Bowler,10000000,,2019,Unknown
+20,Naman Ojha,Wicket Keeper,7500000,,2019,Right hand wicket-keeper batter
+21,Sikandar Raza,All-Rounder,7500000,,2019,Right hand batter/Right arm off spinner
+22,David Wiese,All-Rounder,7500000,,2019,Right hand batter/Right arm medium
+23,Marchant De Lange,Bowler,7500000,,2019,Unknown
+24,Lendl Simmons,Batsman,7500000,,2019,Unknown
+25,Jason Holder,All-Rounder,7500000,,2019,Right hand batter
+26,James Neesham,All-Rounder,7500000,,2019,Right hand batter/Right arm medium
+27,Kusal Janith Perera,Wicket Keeper,7500000,,2019,Unknown
+28,Luke Ronchi,Wicket Keeper,7500000,,2019,Unknown
+29,Tymal Mills,Bowler,7500000,,2019,Right hand batter
+30,Cheteshwar Pujara,Batsman,5000000,,2019,Left hand batter/Right arm off spinner
+31,Manoj Tiwary,Batsman,5000000,,2019,Right hand batter
+32,Ben McDermott,Wicket Keeper,5000000,,2019,Unknown
+33,Fawad Ahmed,Bowler,5000000,,2019,Unknown
+34,Khary Pierre,Bowler,5000000,,2019,Unknown
+35,Rahul Sharma,Bowler,5000000,,2019,Unknown
+36,Fabian Allen,All-Rounder,5000000,,2019,Right hand batter/Right arm fast bowler
+37,Doug Bracewell,All-Rounder,5000000,,2019,Unknown
+38,Ashoke Dinda,Bowler,5000000,,2019,Unknown
+39,Obed McCoy,Bowler,5000000,,2019,Left arm fast bowler
+40,Reeza Hendricks,Batsman,5000000,,2019,Unknown
+41,Saurabh Tiwary,Batsman,5000000,,2019,Right arm off spinner
+42,Hazratullah Zazai,Batsman,5000000,,2019,Unknown
+43,Rishi Dhawan,All-Rounder,5000000,,2019,Right hand batter/Right arm medium
+44,Parveez Rasool,All-Rounder,5000000,,2019,Unknown
+45,Thisara Perera,All-Rounder,5000000,,2019,Right hand batter/Right arm fast bowler
+46,Glenn Phillips,Wicket Keeper,5000000,,2019,Right hand batter/Right arm off spinner
+47,Mushfiqur Rahim,Wicket Keeper,5000000,,2019,Unknown
+48,Jon-Jon Trevor Smuts,All-Rounder,5000000,,2019,Unknown
+49,Abhimanyu Mithun,Bowler,5000000,,2019,Left arm fast bowler
+50,Vinay Kumar,Bowler,5000000,,2019,Unknown
+51,Rassie Van der Dussen,Batsman,5000000,,2019,Right hand batter
+52,Mohammad Shahzad,Wicket Keeper,5000000,,2019,Unknown
+53,Manpreet Grewal,Bowler,5000000,,2019,Unknown
+54,Sheldon Cottrell,Bowler,5000000,,2019,Right arm fast bowler
+55,Dasun Shanaka,All-Rounder,5000000,,2019,Unknown
+56,Sheldon Cottrell,Bowler,5000000,,2019,Right arm fast bowler
+57,Laurie Evans,Batsman,4000000,,2019,Unknown
+58,Lewis Greogry,All-Rounder,4000000,,2019,Unknown
+59,Jamie Overton,All-Rounder,4000000,,2019,Right hand batter/Right arm fast bowler
+60,Patrick Brown,Bowler,4000000,,2019,Unknown
+61,Zahir Khan Pakteen,Bowler,4000000,,2019,Right arm fast bowler
+62,James Fuller,All-Rounder,4000000,,2019,Unknown
+63,Riley Meredith,Bowler,4000000,,2019,Right hand batter
+64,Ali Khan,Bowler,4000000,,2019,Unknown
+65,Cameron Delport,All-Rounder,3000000,,2019,Left hand batter
+66,Jeevan Mendis,All-Rounder,3000000,,2019,Unknown
+67,Anureet Singh,Bowler,3000000,,2019,Right arm fast bowler
+68,Rajesh Bishnoi Sr,Batsman,2000000,,2019,Unknown
+69,Himanshu Rana,Batsman,2000000,,2019,Unknown
+70,Priyank Panchal,Batsman,2000000,,2019,Unknown
+71,Rajat Patidar,Batsman,2000000,,2019,Right hand wicket-keeper batter
+72,Baba Aparajith,All-Rounder,2000000,,2019,Right arm leg spinner
+73,Hiten Dalal,All-Rounder,2000000,,2019,Unknown
+74,Karim Janat,All-Rounder,2000000,,2019,Right hand batter/Right arm fast bowler
+75,Sanjay Yadav,All-Rounder,2000000,,2019,Right hand batter
+76,Akash Parkar,All-Rounder,2000000,,2019,Unknown
+77,Kedar Devdhar,Wicket Keeper,2000000,,2019,Unknown
+78,R.Sanjay Yadav,All-Rounder,2000000,,2019,Right arm leg spinner
+79,Jitesh Sharma,Wicket Keeper,2000000,,2019,Right hand wicket-keeper batter
+80,Lukman Hussain Meriwala,Bowler,2000000,,2019,Left arm fast bowler
+81,Vishnu Vinod,Wicket Keeper,2000000,,2019,Left hand batter/Left arm orthodox spinner
+82,Yash Dayal,Bowler,2000000,,2019,Right arm fast bowler
+83,Blair Tickner,Bowler,2000000,,2019,Unknown
+84,Chetan Sakariya,Bowler,2000000,,2019,Right arm fast bowler
+85,Kuldeep Sen,Bowler,2000000,,2019,Right hand wicket-keeper batter
+86,Kanishk Seth,Bowler,2000000,,2019,Left arm fast bowler
+87,Naushad Shaikh,Batsman,2000000,,2019,Unknown
+88,Jaskaran Singh,Bowler,2000000,,2019,Right hand batter
+89,Jake Weatherald,Batsman,2000000,,2019,Unknown
+90,Sandeep Warrier,Bowler,2000000,,2019,Unknown
+91,Satyajeet Bachhav,Bowler,2000000,,2019,Unknown
+92,Sachin Baby,Batsman,2000000,,2019,Right hand batter
+93,Ankeet Bawane,Batsman,2000000,,2019,Right hand batter
+94,Armaan Jaffer,Batsman,2000000,,2019,Right hand batter
+95,Ayush Badoni,All-Rounder,2000000,,2019,Left hand batter
+96,Rajesh Bishnoi,Bowler,2000000,,2019,Unknown
+97,Arun Karthik Basker,Wicket Keeper,2000000,,2019,Unknown
+98,Kona Srikar Bharat,Wicket Keeper,2000000,,2019,Unknown
+99,Ankit Sharma,All-Rounder,2000000,,2019,Right hand batter
+100,Sheldon Jackson,Wicket Keeper,2000000,,2019,Right arm fast bowler
+101,Anuj Rawat,Wicket Keeper,2000000,,2019,Left hand wicket-keeper batter
+102,Aniket Choudhary,Bowler,2000000,,2019,Left arm fast bowler
+103,Puneet Datey,All-Rounder,2000000,,2019,Unknown
+104,Tushar Deshpande,Bowler,2000000,,2019,Right arm fast bowler
+105,Pavan Deshpande,All-Rounder,2000000,,2019,Right hand batter/Right arm medium
+106,Rajneesh Gurbani,Bowler,2000000,,2019,Unknown
+107,Chama Milind,Bowler,2000000,,2019,Left arm fast bowler
+108,Ishan Porel,Bowler,2000000,,2019,Right arm fast bowler
+109,Pratyush Singh,All-Rounder,2000000,,2019,Right hand batter
+110,K.C. Cariappa,Bowler,2000000,,2019,Right arm leg spinner
+111,Roosh Kalaria,All-Rounder,2000000,,2019,Unknown
+112,Yuvraj Chudasama,Bowler,2000000,,2019,Unknown
+113,Dharmendrasinh Jadeja,All-Rounder,2000000,,2019,Unknown
+114,Anirudha Ashok Joshi,All-Rounder,2000000,,2019,Right arm fast bowler
+115,Akshay Karnewar,All-Rounder,2000000,,2019,Right arm leg spinner
+116,Aman Khan,All-Rounder,2000000,,2019,Right arm fast bowler
+117,Ravi Sai Kishore,Bowler,2000000,,2019,Unknown
+118,J Suchith,Bowler,2000000,,2019,Unknown
+119,Karanveer Kaushal,All-Rounder,2000000,,2019,Unknown
+120,Sairaj Patil,All-Rounder,2000000,,2019,Unknown
+121,Vishal Kushwah,All-Rounder,2000000,,2019,Unknown
+122,Dhrumil Matkar,All-Rounder,2000000,,2019,Unknown
+123,Jack Prestwidge,All-Rounder,2000000,,2019,Unknown
+124,Swapnil Singh,All-Rounder,2000000,,2019,Left arm orthodox spinner
+125,Tanmay Mishra,Batsman,2000000,,2019,Unknown
+126,Sharad Lumba,Batsman,2000000,,2019,Right arm leg spinner
+127,Lalit Yadav,All-Rounder,2000000,,2019,Left hand batter/Left arm orthodox spinner
+128,Ekant Sen,All-Rounder,2000000,,2019,Unknown
+129,Kshitiz Sharma,All-Rounder,2000000,,2019,Right hand batter
+130,Aryan Juyal,Wicket Keeper,2000000,,2019,Right hand wicket-keeper batter
+131,Vivek Singh,All-Rounder,2000000,,2019,Unknown
+132,Shiva Singh,All-Rounder,2000000,,2019,Unknown
+133,Gurinder Singh,All-Rounder,2000000,,2019,Unknown
+134,Utkarsh Singh,All-Rounder,2000000,,2019,Right hand batter
+135,Mayank Dagar,All-Rounder,2000000,,2019,Right hand batter/Right arm off spinner
+136,Harsh Tyagi,All-Rounder,2000000,,2019,Unknown
+137,R. Sai Kishore,Bowler,2000000,,2019,Left arm orthodox spinner
+138,Kartik Tyagi,Bowler,2000000,,2019,Right hand wicket-keeper batter
+139,Tanveer Ul haq,All-Rounder,2000000,,2019,Unknown
+140,Anmol Malhotra,Wicket Keeper,2000000,,2019,Unknown
+141,Virat Singh,Batsman,2000000,,2019,Right hand batter
+142,Shams Mulani,All-Rounder,2000000,,2019,Left arm orthodox spinner
+143,Stephen Chipurupalli,Bowler,2000000,,2019,Unknown
+144,Mohsin Khan,Bowler,2000000,,2019,Right hand batter
+145,Tajinder Dhillon,All-Rounder,2000000,,2019,Right arm fast bowler
+146,Pravin Dubey,All-Rounder,2000000,,2019,Right arm fast bowler
+147,Lalith Yadav,Bowler,2000000,,2019,Unknown
+148,Lalit Yadav,All-Rounder,2000000,,2019,Left hand batter/Left arm orthodox spinner
+149,Unmukt Chand,Batsman,2000000,,2019,Unknown
+150,Arun Karthick,Wicket Keeper,2000000,,2019,Unknown
+151,Abhimanyu Easwaran,Batsman,2000000,,2019,Unknown
+152,Darcy Short,All-Rounder,20000000,,2019,Right hand batter
+153,Eoin Morgan,Batsman,20000000,,2019,Right arm fast bowler
+154,Liam Dawson,All-Rounder,15000000,,2019,Unknown
+155,Luke Wright,Batsman,15000000,,2019,Unknown
+156,Jean-Paul Duminy,All-Rounder,10000000,,2019,Left arm fast bowler
+157,Mark Wood,Bowler,10000000,,2019,Right hand batter
+158,Steven Finn,Bowler,10000000,,2019,Unknown
+159,Matt Henry,Bowler,7500000,,2019,Right hand batter/Right arm medium
+160,Darren Bravo,Batsman,7500000,,2019,Left hand batter
+161,Dwayne Smith,All-Rounder,7500000,,2019,Right hand batter/Right arm medium
+162,Dane Paterson,Bowler,5000000,,2019,Unknown
+163,Sayed Shirzad,Bowler,5000000,,2019,Unknown
+164,Neil Wagner,Bowler,5000000,,2019,Unknown
+165,Ryan Mclaren,All-Rounder,5000000,,2019,Unknown
+166,Rance Seth,Bowler,5000000,,2019,Unknown
+167,Mohammad Mahmudullah,All-Rounder,5000000,,2019,Unknown
+168,Paul Stirling,All-Rounder,5000000,,2019,Unknown
+169,Sean Abbott,Bowler,5000000,,2019,Right arm fast bowler
+170,Junior Dala,Bowler,5000000,,2019,Unknown
+171,Rance Seth,Bowler,5000000,,2019,Unknown
+172,Anton Devcich,Batsman,5000000,,2019,Unknown
+173,Ryan McLaren,All-Rounder,5000000,,2019,Unknown
+174,Faiz Fazal,Batsman,5000000,,2019,Unknown
+175,Aiden Markram,Batsman,5000000,,2019,Right hand batter/Right arm off spinner
+176,Sudeep Tyagi,Bowler,5000000,,2019,Unknown
+177,Irfan Pathan,All-Rounder,5000000,,2019,Right hand batter/Right arm medium
+178,Rovman Powell,All-Rounder,5000000,,2019,Right hand batter
+179,Samit Patel,All-Rounder,5000000,,2019,Unknown
+180,Jack Wildermuth,All-Rounder,5000000,,2019,Unknown
+181,Seth Rance,Bowler,5000000,,2019,Unknown
+182,Johnson Charles,Wicket Keeper,5000000,,2019,Unknown
+183,Andre Fletcher,Wicket Keeper,5000000,,2019,Unknown
+184,Shafiqullah Shafaq,Wicket Keeper,5000000,,2019,Unknown
+185,Brendan Taylor,Wicket Keeper,5000000,,2019,Unknown
+186,Gulbadin Naib,Bowler,5000000,,2019,Unknown
+187,Robbie Frylinck,All-Rounder,5000000,,2019,Unknown
+188,Vernon Philander,All-Rounder,5000000,,2019,Unknown
+189,Isuru Udana,All-Rounder,5000000,,2019,Right arm fast bowler
+190,Chris Green,All-Rounder,3000000,,2019,Right hand batter/Right arm medium
+191,Srikkanth Anirudha,Wicket Keeper,3000000,,2019,Unknown
+192,Pradeep Sangwan,Bowler,3000000,,2019,Left arm fast bowler
+193,K Vignesh,Bowler,3000000,,2019,Unknown
+194,Ben Dwarshuis,Bowler,3000000,,2019,Left arm fast bowler
+195,Ishwar Chandra Pandey,Bowler,3000000,,2019,Right arm fast bowler
+196,Chirag Gandhi,Batsman,2000000,,2019,Unknown
+197,Kattingeri Ashwin Hebbar,Batsman,2000000,,2019,Unknown
+198,Swapnil Gugale,Batsman,2000000,,2019,Unknown
+199,Sarthak Ranjan,Batsman,2000000,,2019,Unknown
+200,Akshath Reddy,Batsman,2000000,,2019,Unknown
+201,Sandeep Bavanaka,All-Rounder,2000000,,2019,Right hand batter
+202,Akash Bhandari,All-Rounder,2000000,,2019,Unknown
+203,Subodh Bhati,All-Rounder,2000000,,2019,Unknown
+204,Saurabh Kumar,All-Rounder,2000000,,2019,Left arm orthodox spinner
+205,Diwesh Pathania,All-Rounder,2000000,,2019,Unknown
+206,Atharwa Taide,All-Rounder,2000000,,2019,Unknown
+207,Bipul Sharma,All-Rounder,2000000,,2019,Left hand batter/Left arm orthodox spinner
+208,Mohammed Azharudeen,Wicket Keeper,2000000,,2019,Right hand batter
+209,Jason Sangha,All-Rounder,2000000,,2019,Unknown
+210,Harvik Desai,Wicket Keeper,2000000,,2019,Unknown
+211,Shamar Springer,All-Rounder,2000000,,2019,Unknown
+212,Mahesh Rawat,Wicket Keeper,2000000,,2019,Unknown
+213,R Vivek,All-Rounder,2000000,,2019,Unknown
+214,Ryan Rickelton,Wicket Keeper,2000000,,2019,Left hand wicket-keeper batter
+215,Ravi Balhara,Bowler,2000000,,2019,Unknown
+216,Babasafi Pathan,Bowler,2000000,,2019,Unknown
+217,Pankaj Rao,Bowler,2000000,,2019,Unknown
+218,Anupam Sanklecha,Bowler,2000000,,2019,Unknown
+219,Lutho Sipamla,Bowler,2000000,,2019,Unknown
+220,Manjeet Kumar Chaudhary,Bowler,2000000,,2019,Unknown
+221,Royston Dias,Bowler,2000000,,2019,Unknown
+222,Ajay Yadav,Bowler,2000000,,2019,Unknown
+223,Kuldip Yadav,Bowler,2000000,,2019,Left arm wrist spinner
+224,Umar Nazir Mir,Bowler,2000000,,2019,Unknown
+225,Johannes Malan,Batsman,2000000,,2019,Unknown
+226,Rahul Shukla,Bowler,2000000,,2019,Unknown
+227,Shubham Singh Rohilla,Batsman,2000000,,2019,Unknown
+228,Harpreet Bhatia,Batsman,2000000,,2019,Right hand batter
+229,Ganesh Satish,Batsman,2000000,,2019,Unknown
+230,Pite Van Biljon,Batsman,2000000,,2019,Unknown
+231,Aaron Summers,Bowler,2000000,,2019,Unknown
+232,Siddharth Desai,Bowler,2000000,,2019,Unknown
+233,Zeeshan Ansari,Bowler,2000000,,2019,Right arm leg spinner
+234,Shubham Agrawal,All-Rounder,2000000,,2019,Unknown
+235,Rajat Goel,Bowler,2000000,,2019,Unknown
+236,Pappu Roy,Bowler,2000000,,2019,Unknown
+237,Pradeep Sahu,Bowler,2000000,,2019,Unknown
+238,Karanveer Singh,Bowler,2000000,,2019,Unknown
+239,Gurvinder Singh,Bowler,2000000,,2019,Unknown
+240,Pranav Gupta,Batsman,2000000,,2019,Unknown
+241,Kushaal Wadhwani,Bowler,2000000,,2019,Unknown
+242,Bhargav Bhatt,Bowler,2000000,,2019,Unknown
+243,Jay Gokul Bista,All-Rounder,2000000,,2019,Unknown
+244,Treyaksh Bali,All-Rounder,2000000,,2019,Unknown
+245,Vinod Kumar C.V.,All-Rounder,2000000,,2019,Unknown
+246,Ishank Jaggi,Batsman,2000000,,2019,Right arm fast bowler
+247,Akshay Chandran,All-Rounder,2000000,,2019,Unknown
+248,Arun Chaprana,All-Rounder,2000000,,2019,Unknown
+249,Shiva Chauhan,All-Rounder,2000000,,2019,Unknown
+250,Indrajith Baba,Wicket Keeper,2000000,,2019,Unknown
+251,Jason Smith,All-Rounder,2000000,,2019,Unknown
+252,Iqbal Abdullah,All-Rounder,2000000,,2019,Right arm medium
+253,Shadley Van Schalkwyk,All-Rounder,2000000,,2019,Unknown
+254,Manzoor Dar,All-Rounder,2000000,,2019,Right hand batter
+255,Aakarshit Gomel,All-Rounder,2000000,,2019,Unknown
+256,Pawan Suyal,Bowler,2000000,,2019,Left arm fast bowler
+257,Ajit Chahal,All-Rounder,2000000,,2019,Unknown
+258,Milind Tandon,All-Rounder,2000000,,2019,Right arm fast bowler
+259,Ashok Menaria,All-Rounder,2000000,,2019,Unknown
+260,Syed Mehdi Hasan,All-Rounder,2000000,,2019,Right arm off spinner
+261,D.B Ravi Teja,Batsman,2000000,,2019,Unknown
+262,Akhil Arvind Herwadkar,All-Rounder,2000000,,2019,Left hand batter
+263,Venkatesh Iyer,All-Rounder,2000000,,2019,Left hand batter/Right arm medium
+264,Stephan Myburg,Batsman,2000000,,2019,Unknown
+265,Shamss Mulani,All-Rounder,2000000,,2019,Unknown
+266,Shreekant Wagh,All-Rounder,2000000,,2019,Unknown
+267,Chirag Khurana,All-Rounder,2000000,,2019,Unknown
+268,Nidheesh M D Dinesan,Bowler,2000000,,2019,Right arm off spinner
+269,Akul Pandove,All-Rounder,2000000,,2019,Unknown
+270,Suyash Prabhudesai,All-Rounder,2000000,,2019,Right hand wicket-keeper batter
+271,Suryakant Pradhan,All-Rounder,2000000,,2019,Unknown
+272,T Ravi Teja,All-Rounder,2000000,,2019,Unknown
+273,Dhruva Kumar Reddy,All-Rounder,2000000,,2019,Unknown
+274,Sumit Ruikar,All-Rounder,2000000,,2019,Unknown
+275,Harpreet Singh,Batsman,2000000,,2019,Unknown
+276,Aaron Hardie,All-Rounder,2000000,,2019,Right arm fast bowler
+277,Jatin Saxena,All-Rounder,2000000,,2019,Right arm leg spinner
+278,Samarpit Joshi,Wicket Keeper,2000000,,2019,Unknown
+279,Tanmay Agarwal,Batsman,2000000,,2019,Left hand batter
+280,Mrinank Singh,All-Rounder,2000000,,2019,Unknown
+281,Mukesh Kumar Singh,All-Rounder,2000000,,2019,Unknown
+282,Sanvir Singh,All-Rounder,2000000,,2019,Right hand batter/Right arm medium
+283,Sumanth Kolla,Wicket Keeper,2000000,,2019,Unknown
+284,Urvil Patel,Wicket Keeper,2000000,,2019,Right hand wicket-keeper batter
+285,Ashish Hooda,Bowler,2000000,,2019,Unknown
+286,Sharath Ravi,Wicket Keeper,2000000,,2019,Unknown
+287,Ajay Rohera,Wicket Keeper,2000000,,2019,Unknown
+288,Upendra Singh Yadav,Wicket Keeper,2000000,,2019,Right hand batter/Right arm fast bowler
+289,Swapnil Gugale,Batsman,2000000,,2019,Unknown
+290,Badrey Alam,Bowler,2000000,,2019,Unknown
+291,Priyam Garg,Batsman,2000000,,2019,Right hand wicket-keeper batter
+292,Amandeep Khare,Batsman,2000000,,2019,Unknown
+293,Mohit Jangra,Bowler,2000000,,2019,Unknown
+294,Suraj Kamath,Bowler,2000000,,2019,Unknown
+295,K Rohit Rayudu,Batsman,2000000,,2019,Unknown
+296,R Samarth,Batsman,2000000,,2019,Right hand batter
+297,Ravi Kiran Majeti,Bowler,2000000,,2019,Unknown
+298,Safvan Patel,Bowler,2000000,,2019,Unknown
+299,Kushang Patel,Bowler,2000000,,2019,Unknown
+300,Tanveer Ul Haq,Bowler,2000000,,2019,Unknown
+301,Atit Sheth,All-Rounder,2000000,,2019,Unknown
+302,Ronit More,Bowler,2000000,,2019,Unknown
+1,James Faulkner,All-Rounder,20000000,,2018,Unknown
+2,Josh Hazlewood,Bowler,20000000,,2018,Right arm fast bowler
+3,Eoin Morgan,Batsman,20000000,,2018,Right arm fast bowler
+4,Angelo Mathews,All-Rounder,20000000,,2018,Right hand batter/Right arm medium
+5,Cameron White,Batsman,20000000,,2018,Unknown
+6,Corey Anderson,All-Rounder,20000000,,2018,Left hand batter/Right arm fast bowler
+7,David Willey,All-Rounder,20000000,,2018,Right arm fast bowler
+8,Liam Plunkett,Bowler,20000000,,2018,Unknown
+9,Colin Ingram,Batsman,20000000,,2018,Left hand batter
+10,Moises Henriques,All-Rounder,15000000,,2018,Right hand batter/Right arm medium
+11,Ravi Bopara,All-Rounder,15000000,,2018,Unknown
+12,Jonny Bairstow,Wicket Keeper,15000000,,2018,Right hand wicket-keeper batter
+13,Hashim Amla,Batsman,15000000,,2018,Unknown
+14,Kyle Abbott,Bowler,15000000,,2018,Right arm fast bowler
+15,Travis Head,Batsman,15000000,,2018,Left hand batter/Right arm off spinner
+16,Jason Holder,All-Rounder,15000000,,2018,Right hand batter
+17,Shaun Marsh,Batsman,15000000,,2018,Unknown
+18,Michael Klinger,Batsman,15000000,,2018,Unknown
+19,Lendl Simmons,Batsman,15000000,,2018,Unknown
+20,Nathan Lyon,Bowler,15000000,,2018,Unknown
+21,Peter Handscomb,Wicket Keeper,15000000,,2018,Right arm leg spinner
+22,Steven Finn,Bowler,15000000,,2018,Unknown
+23,Harry Gurney,Bowler,15000000,,2018,Left arm fast bowler
+24,Joe Root,Batsman,15000000,,2018,Right arm fast bowler
+25,Tymal Mills,Bowler,10000000,,2018,Right hand batter
+26,Dwayne Smith,All-Rounder,10000000,,2018,Right hand batter/Right arm medium
+27,Adam Zampa,Bowler,10000000,,2018,Right arm leg spinner
+28,Alex Hales,Batsman,10000000,,2018,Right hand batter
+29,Dale Steyn,Bowler,10000000,,2018,Right hand batter
+30,Samuel Badree,Bowler,10000000,,2018,Right hand batter/Right arm medium
+31,Tom Curran,All-Rounder,10000000,,2018,Right arm fast bowler
+32,Mitchell McClenaghan,Bowler,10000000,,2018,Unknown
+33,Lasith Malinga,Bowler,10000000,,2018,Right arm fast bowler
+34,Mohammed Shami,Bowler,10000000,,2018,Unknown
+35,Martin Guptill,Batsman,7500000,,2018,Right hand batter/Right arm fast bowler
+36,Peter Siddle,Bowler,7500000,,2018,Unknown
+37,Darren Bravo,Batsman,7500000,,2018,Left hand batter
+38,Darren Sammy,All-Rounder,7500000,,2018,Left hand batter
+39,Jerome Taylor,Bowler,7500000,,2018,Unknown
+40,Lockie Ferguson,Bowler,7500000,,2018,Right hand wicket-keeper batter
+41,Cheteshwar Pujara,Batsman,7500000,,2018,Left hand batter/Right arm off spinner
+42,Ross Taylor,Batsman,7500000,,2018,Unknown
+43,Morne Morkel,Bowler,7500000,,2018,Unknown
+44,Ishant Sharma,Bowler,7500000,,2018,Right arm fast bowler
+45,Usman Khawaja,Batsman,7500000,,2018,Unknown
+46,Johnson Charles,Wicket Keeper,7500000,,2018,Unknown
+47,Luke Ronchi,Wicket Keeper,7500000,,2018,Unknown
+48,Adil Rashid,All-Rounder,7500000,,2018,Right hand batter
+49,Joe Denly,All-Rounder,7500000,,2018,Right hand batter/Right arm leg spinner
+50,Samit Patel,All-Rounder,7500000,,2018,Unknown
+51,Adam Milne,Bowler,7500000,,2018,Right hand batter
+52,Wayne Parnell,All-Rounder,7500000,,2018,Unknown
+53,Marchant De Lange,Bowler,7500000,,2018,Unknown
+54,Reeza Hendricks,Batsman,5000000,,2018,Unknown
+55,John Hastings,All-Rounder,5000000,,2018,Right hand batter/Right arm fast bowler
+56,Ronsford Beaton,Bowler,5000000,,2018,Unknown
+57,Sikandar Butt,All-Rounder,5000000,,2018,Unknown
+58,Graeme Cremer,All-Rounder,5000000,,2018,Unknown
+59,Rishi Dhawan,All-Rounder,5000000,,2018,Right hand batter/Right arm medium
+60,Solomon Mire,All-Rounder,5000000,,2018,Unknown
+61,Ryan McLaren,All-Rounder,5000000,,2018,Unknown
+62,Parveez Rasool,All-Rounder,5000000,,2018,Unknown
+63,Shabbir Rahaman,All-Rounder,5000000,,2018,Unknown
+64,Vernon Philander,All-Rounder,5000000,,2018,Unknown
+65,Mandeep Hardev Singh,Batsman,5000000,,2018,Unknown
+66,Abul Raju,All-Rounder,5000000,,2018,Unknown
+67,Paul Stirling,All-Rounder,5000000,,2018,Unknown
+68,Malcolm Waller,All-Rounder,5000000,,2018,Unknown
+69,Gulbadin Naib,Bowler,5000000,,2018,Unknown
+70,Ish Sodhi,Bowler,5000000,,2018,Unknown
+71,Duanne Olivier,Bowler,5000000,,2018,Unknown
+72,Dilshan Munaweera,All-Rounder,5000000,,2018,Unknown
+73,Michael Beer,Bowler,5000000,,2018,Unknown
+74,Thisara Perera,All-Rounder,5000000,,2018,Right hand batter/Right arm fast bowler
+75,Anton Devcich,Batsman,5000000,,2018,Unknown
+76,Seekkuge Prasanna,All-Rounder,5000000,,2018,Unknown
+77,Ashton Agar,All-Rounder,5000000,,2018,Unknown
+78,Sachithra Senanayaka,Bowler,5000000,,2018,Unknown
+79,Upul Tharanga,Batsman,5000000,,2018,Unknown
+80,Glenn Phillips,Wicket Keeper,5000000,,2018,Right hand batter/Right arm off spinner
+81,Denesh Ramdin,Wicket Keeper,5000000,,2018,Unknown
+82,Dawlat Zadran,Bowler,5000000,,2018,Unknown
+83,Rahmat Shah Zarmatai,All-Rounder,5000000,,2018,Unknown
+84,Aaron Phangiso,Bowler,5000000,,2018,Unknown
+85,Dwaine Pretorius,All-Rounder,5000000,,2018,Unknown
+86,Niroshan Dickwella,Wicket Keeper,5000000,,2018,Unknown
+87,Beuran Hendricks,Bowler,5000000,,2018,Unknown
+88,Lakshan Sandakan,Bowler,5000000,,2018,Unknown
+89,David Wiese,All-Rounder,5000000,,2018,Right hand batter/Right arm medium
+90,Kusal Janith Perera,Wicket Keeper,5000000,,2018,Unknown
+91,Aravind Sreenath,Bowler,5000000,,2018,Unknown
+92,Joe Burns,Batsman,5000000,,2018,Unknown
+93,Asela Gunarathna,All-Rounder,5000000,,2018,Left arm fast bowler
+94,Dhananjaya Silva,All-Rounder,5000000,,2018,Unknown
+95,Andile Phehlukwayo,All-Rounder,5000000,,2018,Unknown
+96,Nicolas Pooran,Wicket Keeper,5000000,,2018,Left hand wicket-keeper batter
+97,Jonathan Carter,All-Rounder,5000000,,2018,Unknown
+98,Rovman Powell,All-Rounder,5000000,,2018,Right hand batter
+99,Sean Abbott,Bowler,5000000,,2018,Right arm fast bowler
+100,Ben Wheeler,Bowler,5000000,,2018,Unknown
+101,Kesrick Williams,Bowler,5000000,,2018,Unknown
+102,Irfan Pathan,All-Rounder,5000000,,2018,Right hand batter/Right arm medium
+103,Ashoke Dinda,Bowler,5000000,,2018,Unknown
+104,Praveen Kumar,Bowler,5000000,,2018,Right arm fast bowler
+105,Alex Carey,Wicket Keeper,5000000,,2018,Right hand batter
+106,Chadwick Walton,Wicket Keeper,5000000,,2018,Unknown
+107,Pragyan Ojha,Bowler,5000000,,2018,Unknown
+108,Jhye Richardson,Bowler,5000000,,2018,Right arm fast bowler
+109,Rahul Sharma,Bowler,5000000,,2018,Unknown
+110,Joel Paris,Bowler,5000000,,2018,Left arm fast bowler
+111,Marlon Samuels,All-Rounder,5000000,,2018,Unknown
+112,Andre Fletcher,All-Rounder,5000000,,2018,Unknown
+113,Tamim Khan,Batsman,5000000,,2018,Unknown
+114,Aiden Markram,Batsman,5000000,,2018,Right hand batter/Right arm off spinner
+115,Hilton Cartwright,All-Rounder,5000000,,2018,Unknown
+116,Varun Aaron,Bowler,5000000,,2018,Right arm fast bowler
+117,Parvinder Awana,Bowler,5000000,,2018,Unknown
+118,Dasun Shanka,All-Rounder,5000000,,2018,Unknown
+119,Munaf Patel,Bowler,5000000,,2018,Right hand batter
+120,Tom Latham,Wicket Keeper,5000000,,2018,Unknown
+121,M Shahzad Mohammadi,Wicket Keeper,5000000,,2018,Unknown
+122,Scott Boland,Bowler,5000000,,2018,Right hand batter
+123,Shafiqullah Shafaq,Wicket Keeper,5000000,,2018,Unknown
+124,Shannon Gabriel,Bowler,5000000,,2018,Unknown
+125,Dawid Malan,All-Rounder,5000000,,2018,Left hand batter
+126,Faiz Fazal,Batsman,5000000,,2018,Unknown
+127,Keshav Maharaj,Bowler,5000000,,2018,Unknown
+128,Farhaan Behardien,All-Rounder,5000000,,2018,Right hand batter
+129,Abhinav Mukund,Batsman,5000000,,2018,Unknown
+130,Venugopal Rao,Batsman,5000000,,2018,Unknown
+131,Dane Paterson,Bowler,5000000,,2018,Unknown
+132,Ben Hilfenhaus,Bowler,5000000,,2018,Unknown
+133,Seth Rance,Bowler,5000000,,2018,Unknown
+134,Fawad Ahmed,Bowler,5000000,,2018,Unknown
+135,Tabrez Shamsi,Bowler,5000000,,2018,Unknown
+136,Jon-Jon Trevor Smuts,All-Rounder,5000000,,2018,Unknown
+137,Ashley Nurse,All-Rounder,5000000,,2018,Unknown
+138,Scott Kuggeleijn,All-Rounder,5000000,,2018,Unknown
+139,Dean Elgar,Batsman,5000000,,2018,Unknown
+140,Robbie Frylinck,All-Rounder,5000000,,2018,Unknown
+141,Wiaan Mulder,All-Rounder,5000000,,2018,Unknown
+142,Neil Wagner,Bowler,5000000,,2018,Unknown
+143,Shapoor Zadran,Bowler,5000000,,2018,Unknown
+144,Vaughn Van Jaarsveld,All-Rounder,5000000,,2018,Unknown
+145,Abhimanyu Mithun,Bowler,5000000,,2018,Left arm fast bowler
+146,Rayad Emrit,All-Rounder,5000000,,2018,Unknown
+147,Mohammad Mahmudullah,All-Rounder,5000000,,2018,Unknown
+148,Najibullah Zadran,Batsman,5000000,,2018,Unknown
+149,Sheldon Cottrell,Bowler,5000000,,2018,Right arm fast bowler
+150,Matt Henry,Bowler,5000000,,2018,Right hand batter/Right arm medium
+151,Nuwan Kulasekara,Bowler,5000000,,2018,Unknown
+152,Suranga Lakmal,Bowler,5000000,,2018,Unknown
+153,Manpreet Gony,Bowler,5000000,,2018,Right arm fast bowler
+154,Isuru Udana,All-Rounder,5000000,,2018,Right arm fast bowler
+155,Pankaj Singh,Bowler,5000000,,2018,Unknown
+156,Sudeep Tyagi,Bowler,5000000,,2018,Unknown
+157,Thomas Helm,Bowler,4000000,,2018,Unknown
+158,Rajat Bhatia,All-Rounder,4000000,,2018,Right arm fast bowler
+159,Kevon Cooper,All-Rounder,4000000,,2018,Unknown
+160,Mitchell Swepson,Bowler,4000000,,2018,Unknown
+161,Tom Cooper,Batsman,4000000,,2018,Unknown
+162,Eklavya Dwivedi,Wicket Keeper,4000000,,2018,Right hand wicket-keeper batter
+163,Michael Neser,All-Rounder,4000000,,2018,Unknown
+164,Iqbal Abdullah,Bowler,3000000,,2018,Right arm medium
+165,Christiaan Jonker,Batsman,3000000,,2018,Unknown
+166,Ben McDermott,Wicket Keeper,3000000,,2018,Unknown
+167,Roshon Primus,All-Rounder,3000000,,2018,Unknown
+168,Gurvinder Singh,Bowler,3000000,,2018,Unknown
+169,Vishnu Solanki,Batsman,3000000,,2018,Unknown
+170,Alex Ross,Batsman,3000000,,2018,Unknown
+171,Daniel Hughes,Batsman,3000000,,2018,Unknown
+172,Ishwar Chandra Pandey,Bowler,2500000,,2018,Right arm fast bowler
+173,Manprit Juneja,Batsman,2000000,,2018,Unknown
+174,Vyshak Vijay Kumar,All-Rounder,2000000,,2018,Right hand batter/Right arm fast bowler
+175,Junior Dala,Bowler,2000000,,2018,Unknown
+176,Jaydev Shah,All-Rounder,2000000,,2018,Right hand batter
+177,Karan Thakur,Bowler,2000000,,2018,Unknown
+178,Mayank Siddana,Batsman,2000000,,2018,Unknown
+179,Anurag Verma,Bowler,2000000,,2018,Unknown
+180,Shashank Singh,All-Rounder,2000000,,2018,Right arm fast bowler
+181,Lizaad Williams,Bowler,2000000,,2018,Right arm fast bowler
+182,Ankush Bains,Wicket Keeper,2000000,,2018,Right hand wicket-keeper batter
+183,Tanveer Ulhaq,Bowler,2000000,,2018,Unknown
+184,Kushang Patel,Bowler,2000000,,2018,Unknown
+185,Armaan Jaffer,Batsman,2000000,,2018,Right hand batter
+186,Aman Khan,All-Rounder,2000000,,2018,Right arm fast bowler
+187,Diwesh Pathania,All-Rounder,2000000,,2018,Unknown
+188,Shamss Mulani,All-Rounder,2000000,,2018,Unknown
+189,C.M. Gautam,Wicket Keeper,2000000,,2018,Unknown
+190,Shelly Shaurya,Bowler,2000000,,2018,Unknown
+191,A. Aswin Crist,Bowler,2000000,,2018,Unknown
+192,Salman Nizar,All-Rounder,2000000,,2018,Unknown
+193,Aaron Summers,Bowler,2000000,,2018,Unknown
+194,Royston Dias,Bowler,2000000,,2018,Unknown
+195,Dafedar Khizar Anwar,All-Rounder,2000000,,2018,Unknown
+196,Kartik Tyagi,Bowler,2000000,,2018,Right hand wicket-keeper batter
+197,Shubham Ranjane,All-Rounder,2000000,,2018,Left hand batter/Right arm medium
+198,Sidhant Dobal,All-Rounder,2000000,,2018,Unknown
+199,Vinod Kumar C.V.,All-Rounder,2000000,,2018,Unknown
+200,Thomas Kaber,All-Rounder,2000000,,2018,Unknown
+201,Tejas Singh Baroka,Bowler,2000000,,2018,Right hand batter
+202,Akhil Arvind Herwadkar,All-Rounder,2000000,,2018,Left hand batter
+203,Shamar Springer,All-Rounder,2000000,,2018,Unknown
+204,Ashok Menaria,All-Rounder,2000000,,2018,Unknown
+205,Jack Wildermuth,All-Rounder,2000000,,2018,Unknown
+206,Odean Smith,All-Rounder,2000000,,2018,Right hand batter/Right arm fast bowler
+207,Yogesh Nagar,All-Rounder,2000000,,2018,Unknown
+208,Milind Kumar,All-Rounder,2000000,,2018,Right hand wicket-keeper batter
+209,Shubham Agrawal,All-Rounder,2000000,,2018,Unknown
+210,Yomahesh Kumar,All-Rounder,2000000,,2018,Unknown
+211,Abu Nechim Ahmed,Bowler,2000000,,2018,Unknown
+212,Vivek Singh,All-Rounder,2000000,,2018,Unknown
+213,Mohammed Bilal,All-Rounder,2000000,,2018,Unknown
+214,Arun Chaprana,All-Rounder,2000000,,2018,Unknown
+215,Rajat Paliwal,All-Rounder,2000000,,2018,Unknown
+216,Abhimanyu Rana,All-Rounder,2000000,,2018,Unknown
+217,Rahul Shukla,Bowler,2000000,,2018,Unknown
+218,Sarang Rawat,All-Rounder,2000000,,2018,Unknown
+219,Bhargav Bhatt,Bowler,2000000,,2018,Unknown
+220,Fabid Farook Ahmed,All-Rounder,2000000,,2018,Unknown
+221,Arjun Sharma,All-Rounder,2000000,,2018,Unknown
+222,Akash Sudan,All-Rounder,2000000,,2018,Unknown
+223,Shadab Jakati,Bowler,2000000,,2018,Left arm orthodox spinner
+224,Shivam Chauhan,Batsman,2000000,,2018,Unknown
+225,Sandeep Bavanaka,All-Rounder,2000000,,2018,Right hand batter
+226,Sarabjit Ladda,Bowler,2000000,,2018,Right arm off spinner
+227,Karan Kaila,All-Rounder,2000000,,2018,Unknown
+228,Gaurav Gambir,All-Rounder,2000000,,2018,Unknown
+229,Ankit Kaushik,All-Rounder,2000000,,2018,Unknown
+230,Patrick Kruger,All-Rounder,2000000,,2018,Unknown
+231,Sohraab Dhaliwal,All-Rounder,2000000,,2018,Unknown
+232,Aditya Sarvate,All-Rounder,2000000,,2018,Unknown
+233,Amish Sidhu,All-Rounder,2000000,,2018,Unknown
+234,Shadley Van Schalkwyk,All-Rounder,2000000,,2018,Unknown
+235,Pravin Tambe,Bowler,2000000,,2018,Right arm fast bowler
+236,Vignesh Moorthy,All-Rounder,2000000,,2018,Unknown
+237,Arjun Nair,All-Rounder,2000000,,2018,Unknown
+238,Ankeet Bawane,Batsman,2000000,,2018,Right hand batter
+239,Nikhil Shankar Naik,Wicket Keeper,2000000,,2018,Right arm fast bowler
+240,Smit Patel,Wicket Keeper,2000000,,2018,Unknown
+241,Ajit Chahal,Bowler,2000000,,2018,Unknown
+242,K.B Arun Karthik,Wicket Keeper,2000000,,2018,Unknown
+243,Deepak Chaudhary,Bowler,2000000,,2018,Unknown
+244,Pradeep Dadhe,Bowler,2000000,,2018,Unknown
+245,Domnic Joseph Muthuswamy,Bowler,2000000,,2018,Unknown
+246,Babasafi Pathan,Bowler,2000000,,2018,Unknown
+247,Shivam Dubey,All-Rounder,2000000,,2018,Unknown
+248,Hanuma Vihari,All-Rounder,2000000,,2018,Right hand batter/Right arm off spinner
+249,Puneet Datey,All-Rounder,2000000,,2018,Unknown
+250,Pradeep Thippeswamy,Bowler,2000000,,2018,Unknown
+251,Kuldip Yadav,Bowler,2000000,,2018,Left arm wrist spinner
+252,Kona Srikar Bharat,Wicket Keeper,2000000,,2018,Unknown
+253,Ninad Rathva,All-Rounder,2000000,,2018,Unknown
+254,K.C. Cariappa,Bowler,2000000,,2018,Right arm leg spinner
+255,Siddhant Sharma,All-Rounder,2000000,,2018,Unknown
+256,Mihir Hirwani,Bowler,2000000,,2018,Unknown
+257,Mrinank Singh,All-Rounder,2000000,,2018,Unknown
+258,Akshay Wakhare,Bowler,2000000,,2018,Unknown
+259,Manjeetkumar Chaudhary,Bowler,2000000,,2018,Unknown
+260,Mahesh Rawat,Wicket Keeper,2000000,,2018,Unknown
+261,Gitansh Khera,Wicket Keeper,2000000,,2018,Unknown
+262,Manan Sharma,All-Rounder,2000000,,2018,Unknown
+263,Chintan Gaja,All-Rounder,2000000,,2018,Unknown
+264,Utkarsh Singh,All-Rounder,2000000,,2018,Right hand batter
+265,Amit Mishra,All-Rounder,2000000,,2018,Right arm leg spinner
+266,Jitesh Sharma,Wicket Keeper,2000000,,2018,Right hand wicket-keeper batter
+267,Jalaj Saxena,All-Rounder,2000000,,2018,Right hand batter/Right arm off spinner
+268,Lukman Iqbal Meriwala,Bowler,2000000,,2018,Unknown
+269,Vishnu Vinod,Wicket Keeper,2000000,,2018,Left hand batter/Left arm orthodox spinner
+270,Vikas Tokas,Bowler,2000000,,2018,Right hand batter
+271,Yuvraj Chudasama,Bowler,2000000,,2018,Unknown
+272,Shreekant Wagh,All-Rounder,2000000,,2018,Unknown
+273,Ronit More,Bowler,2000000,,2018,Unknown
+274,Sumit Ruikar,All-Rounder,2000000,,2018,Unknown
+275,Veer Pratap Singh,Bowler,2000000,,2018,Unknown
+276,Ashish Reddy,All-Rounder,2000000,,2018,Unknown
+277,Virat Singh,Batsman,2000000,,2018,Right hand batter
+278,Varun Khanna,Bowler,2000000,,2018,Unknown
+279,Kuldeep Hooda,All-Rounder,2000000,,2018,Unknown
+280,Shaurya Sanandia,All-Rounder,2000000,,2018,Unknown
+281,Pawan Suyal,Bowler,2000000,,2018,Left arm fast bowler
+282,Vaibhav Rawal,All-Rounder,2000000,,2018,Unknown
+283,Sandeep Warrier,Bowler,2000000,,2018,Unknown
+284,J Suchith,Bowler,2000000,,2018,Unknown
+285,Ashish Hooda,Bowler,2000000,,2018,Unknown
+286,Pankaj Jaswal,All-Rounder,2000000,,2018,Left arm fast bowler
+287,Anustup Majumdar,All-Rounder,2000000,,2018,Unknown
+288,R. Sai Kishore,Bowler,2000000,,2018,Left arm orthodox spinner
+289,Rahil S Shah,Bowler,2000000,,2018,Unknown
+290,Harmeet Singh,Bowler,2000000,,2018,Unknown
+291,Marcus Harris,Batsman,2000000,,2018,Unknown
+292,Rassie Van der Dussen,Batsman,2000000,,2018,Right hand batter
+293,Rajesh Bishnoi Sr,Batsman,2000000,,2018,Unknown
+294,Paras Dogra,Batsman,2000000,,2018,Right hand batter
+295,Sheldon Jackson,Wicket Keeper,2000000,,2018,Right arm fast bowler
+296,Swapnil Singh,All-Rounder,2000000,,2018,Left arm orthodox spinner
+297,Ishwar Chaudhary,Bowler,2000000,,2018,Unknown
+298,D.B Ravi Teja,Batsman,2000000,,2018,Unknown
+299,Paul Valthaty,Batsman,2000000,,2018,Unknown
+300,Kedar Devdhar,Wicket Keeper,2000000,,2018,Unknown
+301,Himmat Singh,All-Rounder,2000000,,2018,Right hand batter
+302,Amandeep Khare,Batsman,2000000,,2018,Unknown
+303,Writtick Chatterjee,All-Rounder,2000000,,2018,Right hand batter
+304,Chris Green,All-Rounder,2000000,,2018,Right hand batter/Right arm medium
+305,Ryan Ninan,All-Rounder,2000000,,2018,Unknown
+306,Rohan Prem,All-Rounder,2000000,,2018,Unknown
+307,Puneed Datey,All-Rounder,2000000,,2018,Unknown
+308,Parikshit Valsangkar,Bowler,2000000,,2018,Unknown
+309,R. Sanjay Yadav,All-Rounder,2000000,,2018,Right arm leg spinner
+310,Imtiaz Ahmed,All-Rounder,2000000,,2018,Unknown
+311,Atit Sheth,All-Rounder,2000000,,2018,Unknown
+312,Ankit Lamba,Batsman,2000000,,2018,Unknown
+313,Amit Mishra,Bowler,2000000,,2018,Right arm leg spinner
+314,Sarthak Ranjan,Batsman,2000000,,2018,Unknown
+315,Cheepurupalli Stephen,Bowler,2000000,,2018,Unknown
+316,Dinesh Salunkhe,All-Rounder,2000000,,2018,Unknown
+317,Shivam Sharma,All-Rounder,2000000,,2018,Unknown
+318,Priyank Panchal,Batsman,2000000,,2018,Unknown
+319,Rajwinder Singh,Bowler,2000000,,2018,Unknown
+320,Shubek Gill,Bowler,2000000,,2018,Unknown
+321,Pratham Singh,Batsman,2000000,,2018,Right arm fast bowler
+322,Indrajith Baba,All-Rounder,2000000,,2018,Unknown
+323,Anmolpreet Singh,Batsman,2000000,,2018,Right arm fast bowler
+324,Sagar Trivedi,All-Rounder,2000000,,2018,Unknown
+325,Vinay Choudhary,Bowler,2000000,,2018,Unknown
+326,Anuj Rawat,Wicket Keeper,2000000,,2018,Left hand wicket-keeper batter
+327,Amit Verma,All-Rounder,2000000,,2018,Unknown
+328,Ruturaj Gaikwad,Batsman,2000000,,2018,Right hand batter
+329,Akash Parkar,All-Rounder,2000000,,2018,Unknown
+330,Shubham Singh Rohilla,Batsman,2000000,,2018,Unknown
+331,Ankit Soni,Bowler,2000000,,2018,Unknown
+332,Lalit Yadav,Bowler,2000000,,2018,Left hand batter/Left arm orthodox spinner
+333,Harvik Desai,Wicket Keeper,2000000,,2018,Unknown
+334,Anmol Malhotra,Wicket Keeper,2000000,,2018,Unknown
+335,Dhruv Raval,Wicket Keeper,2000000,,2018,Unknown
+336,Rohith Ravikumar,Wicket Keeper,2000000,,2018,Unknown
+337,Mohammad Nazim Siddiqui,Wicket Keeper,2000000,,2018,Unknown
+338,Chama Milind,Bowler,2000000,,2018,Left arm fast bowler
+339,Mayank Sidhu,Wicket Keeper,2000000,,2018,Unknown
+340,Umar Nazir Mir,Bowler,2000000,,2018,Unknown
+341,Sandeep Kumar Tomar,Wicket Keeper,2000000,,2018,Unknown
+342,Yarra Raj,Bowler,2000000,,2018,Unknown
+343,Oshane Thomas,Bowler,2000000,,2018,Left hand batter
+344,Athisayaraj V,Bowler,2000000,,2018,Unknown
+345,Akash Bhandari,All-Rounder,2000000,,2018,Unknown
+346,Zeeshan Ansari,Bowler,2000000,,2018,Right arm leg spinner
+347,Siddharth Desai,Bowler,2000000,,2018,Unknown
+348,Jiyas K,Bowler,2000000,,2018,Unknown
+349,Pratyush Singh,All-Rounder,2000000,,2018,Right hand batter
+350,Alexandar Rama Doss,Bowler,2000000,,2018,Unknown
+351,Himanshu Rana,Batsman,2000000,,2018,Unknown
+352,Akshath Reddy,Batsman,2000000,,2018,Unknown
+353,R Samarth,Batsman,2000000,,2018,Right hand batter
+354,Nathu Singh,Bowler,2000000,,2018,Right arm fast bowler
+355,Shivil Kaushik,Bowler,2000000,,2018,Left arm wrist spinner
+356,Mohammed Asaduddin,Batsman,2000000,,2018,Unknown
+357,Abhinav Manohar,Batsman,2000000,,2018,Right hand batter
+358,Rohan Marwaha,Batsman,2000000,,2018,Unknown
+359,Saurabh Kumar,All-Rounder,2000000,,2018,Left arm orthodox spinner
+360,Rajat Patidar,Batsman,2000000,,2018,Right hand wicket-keeper batter
+361,Praveen Dubey,All-Rounder,2000000,,2018,Right arm leg spinner
+362,Yash Sehrawat,Batsman,2000000,,2018,Unknown
+363,Kunal Chandela,All-Rounder,2000000,,2018,Unknown
+364,Aamir Gani,All-Rounder,2000000,,2018,Unknown
+365,Pulkit Narang,All-Rounder,2000000,,2018,Unknown
+366,Riyan Parag,All-Rounder,2000000,,2018,Right hand batter/Right arm leg spinner
+367,Baltej Dhanda,Bowler,2000000,,2018,Right arm fast bowler
+368,Karanveer Singh,All-Rounder,2000000,,2018,Unknown
+369,Armaan Jain,Bowler,2000000,,2018,Unknown
+370,Sumeet Verma,All-Rounder,2000000,,2018,Unknown
+371,Mukesh Kumar Singh,Bowler,2000000,,2018,Unknown
+372,Arshdeep Singh,Bowler,2000000,,2018,Right arm fast bowler
+373,Cameron Gannon,All-Rounder,2000000,,2018,Unknown
+374,Sadiq Hassan Kirmani,Wicket Keeper,2000000,,2018,Unknown
+375,Ravi Chauhan,Batsman,2000000,,2018,Unknown
+376,Jaskaranvir Singh Sohi,Wicket Keeper,2000000,,2018,Unknown
+377,Samit Gohil,Batsman,2000000,,2018,Unknown
+378,Akshay Karnewar,All-Rounder,2000000,,2018,Right arm leg spinner
+379,Rishi Arothe,Bowler,2000000,,2018,Unknown
+380,Ramandeep Singh,Batsman,2000000,,2018,Left arm fast bowler
+381,Abhijeet Tomar,Batsman,2000000,,2018,Right hand wicket-keeper batter
+382,Jiwanjot Singh Chauhan,Batsman,2000000,,2018,Unknown
+383,Abhimanyu Easwaran,Batsman,2000000,,2018,Unknown
+384,Abhishek Gupta,Wicket Keeper,2000000,,2018,Unknown
+385,Chirag Gandhi,Batsman,2000000,,2018,Unknown
+386,Hamza Tariq,Wicket Keeper,2000000,,2018,Unknown
+387,Rahul Yadav,Wicket Keeper,2000000,,2018,Unknown
+388,Kyle Mayers,Wicket Keeper,2000000,,2018,Left hand wicket-keeper batter
+389,Govinda Poddar,All-Rounder,2000000,,2018,Unknown
+390,Ravi Kiran Majeti,Bowler,2000000,,2018,Unknown
+391,Ishan Porel,Bowler,2000000,,2018,Right arm fast bowler
+392,Rajesh Sharma,All-Rounder,2000000,,2018,Unknown
+393,Aditya Thakare,Bowler,2000000,,2018,Unknown
+394,Subodh Bhati,Bowler,2000000,,2018,Unknown
+395,Mohan Prasath,Bowler,2000000,,2018,Unknown
+396,Antony Dhas,All-Rounder,2000000,,2018,Unknown
+397,Abhishek Sakuja,Bowler,2000000,,2018,Unknown
+398,Javed Khan,Bowler,2000000,,2018,Unknown
+399,Ashok Sandhu,Bowler,2000000,,2018,Unknown
+400,Kishore Pramod Kamath,All-Rounder,2000000,,2018,Right hand wicket-keeper batter
+401,Tushar Deshpande,Bowler,2000000,,2018,Right arm fast bowler
+402,Jaskaran Singh,Bowler,2000000,,2018,Right hand batter
+403,Prasidh Krishna,Bowler,2000000,,2018,Right arm fast bowler
+404,Nikhil Gangta,All-Rounder,2000000,,2018,Unknown
+405,Jay Gokul Bista,All-Rounder,2000000,,2018,Unknown
+406,Hiten Dalal,Batsman,2000000,,2018,Unknown
+407,Sumanth Bodapati,All-Rounder,2000000,,2018,Unknown
+408,Deepak Punia,All-Rounder,2000000,,2018,Right hand batter/Right arm fast bowler
+409,Baba Aparajith,All-Rounder,2000000,,2018,Right arm leg spinner
+410,Unmukt Chand,Batsman,2000000,,2018,Unknown
+411,Milind Tandon,All-Rounder,2000000,,2018,Right arm fast bowler
+412,Rajneesh Gurbani,Bowler,2000000,,2018,Unknown
+1,Ishant Sharma,Bowler,20000000,,2017,Right arm fast bowler
+2,Jason Holder,All-Rounder,15000000,,2017,Right hand batter
+3,Brad Haddin,Wicket Keeper,15000000,,2017,Unknown
+4,Nathan Lyon,Bowler,15000000,,2017,Unknown
+5,Jonny Bairstow,Wicket Keeper,15000000,,2017,Right hand wicket-keeper batter
+6,Kyle Abbott,Bowler,15000000,,2017,Right arm fast bowler
+7,Marlon Samuels,Batsman,10000000,,2017,Unknown
+8,Alex Hales,Batsman,10000000,,2017,Right hand batter
+9,Andile Phehlukwayo,All-Rounder,10000000,,2017,Unknown
+10,Grant Elliott,All-Rounder,10000000,,2017,Unknown
+11,Nic Maddinson,Batsman,5000000,,2017,Unknown
+12,Michael Klinger,Batsman,5000000,,2017,Unknown
+13,Cheteshwar Pujara,Batsman,5000000,,2017,Left hand batter/Right arm off spinner
+14,Thisara Perera,All-Rounder,5000000,,2017,Right hand batter/Right arm fast bowler
+15,Mohammad Shahzad,Wicket Keeper,5000000,,2017,Unknown
+16,Kusal Janith Perera,Wicket Keeper,5000000,,2017,Unknown
+17,Callum Ferguson,Batsman,5000000,,2017,Unknown
+18,Muhammad Yasir Arafat,All-Rounder,5000000,,2017,Unknown
+19,Farveez Maharoof,All-Rounder,5000000,,2017,Unknown
+20,Ross Taylor,Batsman,5000000,,2017,Unknown
+21,Irfan Pathan,All-Rounder,5000000,,2017,Right hand batter/Right arm medium
+22,Colin Munro,All-Rounder,5000000,,2017,Left hand batter
+23,Dinesh Chandimal,Wicket Keeper,5000000,,2017,Unknown
+24,James Neesham,All-Rounder,5000000,,2017,Right hand batter/Right arm medium
+25,Wayne Parnell,All-Rounder,5000000,,2017,Unknown
+26,Mitchell Santner,All-Rounder,5000000,,2017,Left hand batter/Left arm orthodox spinner
+27,Jerome Taylor,Bowler,5000000,,2017,Unknown
+28,Suranga Lakmal,Bowler,5000000,,2017,Unknown
+29,Brad Hogg,Bowler,5000000,,2017,Unknown
+30,Imran Tahir,Bowler,5000000,,2017,Left hand batter/Left arm orthodox spinner
+31,Evin Lewis,Batsman,5000000,,2017,Right hand batter
+32,Unmukt Chand,Batsman,3000000,,2017,Unknown
+33,Abhinav Mukund,Batsman,3000000,,2017,Unknown
+34,Tom Cooper,All-Rounder,3000000,,2017,Unknown
+35,Ben Dwarshuis,Bowler,3000000,,2017,Left arm fast bowler
+36,Farhaan Behardien,All-Rounder,3000000,,2017,Right hand batter
+37,Dawlat Zadran,Bowler,3000000,,2017,Unknown
+38,Parveez Rasool,All-Rounder,3000000,,2017,Unknown
+39,David Wiese,All-Rounder,3000000,,2017,Right hand batter/Right arm medium
+40,Ramesh Mendis,All-Rounder,3000000,,2017,Unknown
+41,Anamul Haque Bijoy,Wicket Keeper,3000000,,2017,Unknown
+42,Niroshan Dickwella,Wicket Keeper,3000000,,2017,Unknown
+43,P Malinda Pushpakumara,All-Rounder,3000000,,2017,Unknown
+44,Shane Dorwich,Wicket Keeper,3000000,,2017,Unknown
+45,Neil Broom,Batsman,3000000,,2017,Unknown
+46,Tom Bruce,Batsman,3000000,,2017,Unknown
+47,Pankaj Singh,Bowler,3000000,,2017,Unknown
+48,Joe Burns,Batsman,3000000,,2017,Unknown
+49,Rudra Pratap Singh,Bowler,3000000,,2017,Right arm fast bowler
+50,Theunis De Bruyn,Batsman,3000000,,2017,Unknown
+51,Fawad Ahmed,Bowler,3000000,,2017,Unknown
+52,Michael Beer,Bowler,3000000,,2017,Unknown
+53,Akila Dananjaya,Bowler,3000000,,2017,Unknown
+54,Sam Heazlett,Batsman,3000000,,2017,Unknown
+55,Anton Devcich,All-Rounder,3000000,,2017,Unknown
+56,Tamim Iqbal,Batsman,3000000,,2017,Unknown
+57,Rayad Emrit,All-Rounder,3000000,,2017,Unknown
+58,Kusal Mendis,Batsman,3000000,,2017,Unknown
+59,Jonathan Carter,All-Rounder,3000000,,2017,Unknown
+60,Colin De Grandhomme,All-Rounder,3000000,,2017,Right hand batter/Right arm medium
+61,Johan Botha,All-Rounder,3000000,,2017,Unknown
+62,Faiz Fazal,Batsman,3000000,,2017,Unknown
+63,Dhananjaya Silva,All-Rounder,3000000,,2017,Unknown
+64,Jeevan Mendis,All-Rounder,3000000,,2017,Unknown
+65,Rahul Sharma,Bowler,3000000,,2017,Unknown
+66,Thikshila De Silva,All-Rounder,3000000,,2017,Unknown
+67,Nathan McCullum,All-Rounder,3000000,,2017,Unknown
+68,Seekkuge Prasanna,All-Rounder,3000000,,2017,Unknown
+69,Sean Abbott,All-Rounder,3000000,,2017,Right arm fast bowler
+70,Mehedi Hasan Miraz,All-Rounder,3000000,,2017,Unknown
+71,Angelo Perera,All-Rounder,3000000,,2017,Unknown
+72,Shabbir Rahman Roman,All-Rounder,3000000,,2017,Unknown
+73,Dasun Shanka,All-Rounder,3000000,,2017,Unknown
+74,Dwaine Pretorius,All-Rounder,3000000,,2017,Unknown
+75,Mohammad Mahmudullah,All-Rounder,3000000,,2017,Unknown
+76,Jesse Ryder,All-Rounder,3000000,,2017,Unknown
+77,Abhishek Nayar,All-Rounder,3000000,,2017,Unknown
+78,Joginder Sharma,All-Rounder,3000000,,2017,Unknown
+79,Johnson Charles,Wicket Keeper,3000000,,2017,Unknown
+80,Taskin Ahmed,Bowler,3000000,,2017,Unknown
+81,Ben Dunk,Wicket Keeper,3000000,,2017,Unknown
+82,Andre Fletcher,Wicket Keeper,3000000,,2017,Unknown
+83,Dushmantha Chameera,Bowler,3000000,,2017,Right arm fast bowler
+84,Jack Wildermuth,All-Rounder,3000000,,2017,Unknown
+85,Sheldon Cottrell,Bowler,3000000,,2017,Right arm fast bowler
+86,Alex Ross,Batsman,3000000,,2017,Unknown
+87,Miguel Cummins,Bowler,3000000,,2017,Unknown
+88,Mitchell Swepson,Bowler,3000000,,2017,Unknown
+89,Krismar Santokie,Bowler,3000000,,2017,Unknown
+90,Parvinder Awana,Bowler,3000000,,2017,Unknown
+91,Ben Wheeler,Bowler,3000000,,2017,Unknown
+92,Shannon Gabriel,Bowler,3000000,,2017,Unknown
+93,Robbie Frylinck,All-Rounder,3000000,,2017,Unknown
+94,Kesrick Williams,Bowler,3000000,,2017,Unknown
+95,Ben Hilfenhaus,Bowler,3000000,,2017,Unknown
+96,Lahiru Kumara,Bowler,3000000,,2017,Unknown
+97,Lungisani Ngidi,Bowler,3000000,,2017,Right arm fast bowler
+98,Subramaniam Badrinath,Batsman,3000000,,2017,Unknown
+99,Pragyan Ojha,Bowler,3000000,,2017,Unknown
+100,Lakshan Sandakan,Bowler,3000000,,2017,Unknown
+101,Ish Sodhi,Bowler,3000000,,2017,Unknown
+102,Ronsford Beaton,Bowler,2000000,,2017,Unknown
+103,Mohamad Asghar Stanikzai,Batsman,2000000,,2017,Unknown
+104,Manprit Juneja,Batsman,2000000,,2017,Unknown
+105,Chris Green,All-Rounder,2000000,,2017,Right hand batter/Right arm medium
+106,Shamar Springer,All-Rounder,2000000,,2017,Unknown
+107,Ashton Turner,All-Rounder,2000000,,2017,Left arm fast bowler
+108,Raymon Reifer,All-Rounder,2000000,,2017,Unknown
+109,Rajagopal Sathish,All-Rounder,2000000,,2017,Right hand wicket-keeper batter
+110,Harpreet Singh,Batsman,2000000,,2017,Unknown
+111,Jalaj Saxena,All-Rounder,2000000,,2017,Right hand batter/Right arm off spinner
+112,Nitin Saini,Wicket Keeper,2000000,,2017,Unknown
+113,Dishant Yagnik,Wicket Keeper,2000000,,2017,Unknown
+114,Rishi Arothe,Bowler,1000000,,2017,Unknown
+115,Shivam Chauhan,All-Rounder,1000000,,2017,Unknown
+116,Karan Kaila,All-Rounder,1000000,,2017,Unknown
+117,N Jagadeesan,Wicket Keeper,1000000,,2017,Right hand wicket-keeper batter
+118,Ankit Kaushik,All-Rounder,1000000,,2017,Unknown
+119,Ritwik Chowdhury,All-Rounder,1000000,,2017,Unknown
+120,Ben McDermott,Wicket Keeper,1000000,,2017,Unknown
+121,Parth Kohli,All-Rounder,1000000,,2017,Unknown
+122,Umang Sharma,Batsman,1000000,,2017,Right hand batter
+123,Prithvi Shaw,Batsman,1000000,,2017,Right hand batter
+124,Dasari Swaroop Kumar,All-Rounder,1000000,,2017,Unknown
+125,Glenn Phillips,Wicket Keeper,1000000,,2017,Right hand batter/Right arm off spinner
+126,Vishal Kushwah,All-Rounder,1000000,,2017,Unknown
+127,Nakul Sharma,Wicket Keeper,1000000,,2017,Unknown
+128,Kanishk Seth,Bowler,1000000,,2017,Left arm fast bowler
+129,Jaskaranvir Singh Sohi,Wicket Keeper,1000000,,2017,Unknown
+130,Shivam Dubey,All-Rounder,1000000,,2017,Unknown
+131,Puneet Datey,All-Rounder,1000000,,2017,Unknown
+132,Vikas Tokas,Bowler,1000000,,2017,Right hand batter
+133,Akshay Chauhan,Bowler,1000000,,2017,Unknown
+134,Jamaluddin Syed Mohammad,All-Rounder,1000000,,2017,Unknown
+135,Sandeep Warrier,Bowler,1000000,,2017,Unknown
+136,Tushar Deshpande,Bowler,1000000,,2017,Right arm fast bowler
+137,Sumit Narwal,All-Rounder,1000000,,2017,Unknown
+138,Rush Kalaria,All-Rounder,1000000,,2017,Unknown
+139,Mahipal Lomror,All-Rounder,1000000,,2017,Left hand batter/Left arm orthodox spinner
+140,K M Asif,Bowler,1000000,,2017,Unknown
+141,Bhargav Bhatt,Bowler,1000000,,2017,Unknown
+142,Priyank Panchal,All-Rounder,1000000,,2017,Unknown
+143,Manan Sharma,All-Rounder,1000000,,2017,Unknown
+144,Mohit Ahlawat,Wicket Keeper,1000000,,2017,Unknown
+145,Manvinder Bisla,Wicket Keeper,1000000,,2017,Unknown
+146,Prerak Mankad,All-Rounder,1000000,,2017,Right hand batter/Right arm medium
+147,Shreevats Goswami,Wicket Keeper,1000000,,2017,Left hand wicket-keeper batter
+148,Amit Mishra,All-Rounder,1000000,,2017,Right arm leg spinner
+149,Ronit More,Bowler,1000000,,2017,Unknown
+150,Sanjay Pahal,All-Rounder,1000000,,2017,Unknown
+151,Kavish Panchal,All-Rounder,1000000,,2017,Unknown
+152,Vishnu Vinod,Wicket Keeper,1000000,,2017,Left hand batter/Left arm orthodox spinner
+153,Shivam Sharma,All-Rounder,1000000,,2017,Unknown
+154,Abu Nechim Ahmed,Bowler,1000000,,2017,Unknown
+155,Rajesh Bishnoi,Bowler,1000000,,2017,Unknown
+156,Babashafi Khan Pathan,Bowler,1000000,,2017,Unknown
+157,Rohan Prem,All-Rounder,1000000,,2017,Unknown
+158,Rahul Shukla,Bowler,1000000,,2017,Unknown
+159,Syed Mehdi Hasan,Bowler,1000000,,2017,Right arm off spinner
+160,Hanuma Vihari,All-Rounder,1000000,,2017,Right hand batter/Right arm off spinner
+161,Sumit Ruikar,All-Rounder,1000000,,2017,Unknown
+162,Ajay Ahlawat,Bowler,1000000,,2017,Unknown
+163,Varun Khanna,Bowler,1000000,,2017,Unknown
+164,Shaurya Sanandia,All-Rounder,1000000,,2017,Unknown
+165,Veer Pratap Singh,Bowler,1000000,,2017,Unknown
+166,Manjeet Kumar Chaudhary,Bowler,1000000,,2017,Unknown
+167,Hardik Sethi,All-Rounder,1000000,,2017,Unknown
+168,Tanveer Ulhaq,Bowler,1000000,,2017,Unknown
+169,Ishwar Chaudhary,Bowler,1000000,,2017,Unknown
+170,Azhar Shaikh,All-Rounder,1000000,,2017,Unknown
+171,Cheepurupalli Stephen,Bowler,1000000,,2017,Unknown
+172,K Vignesh,Bowler,1000000,,2017,Unknown
+173,Rajwinder Singh,Bowler,1000000,,2017,Unknown
+174,A. Aswin Crist,Bowler,1000000,,2017,Unknown
+175,Yuvraj Chudasama,Bowler,1000000,,2017,Unknown
+176,Deepak Dalal,Bowler,1000000,,2017,Unknown
+177,Vijay Gohil,Bowler,1000000,,2017,Unknown
+178,Pritam Das,Bowler,1000000,,2017,Unknown
+179,Rahul Kanojia,Bowler,1000000,,2017,Unknown
+180,Nikit Dhumal,Bowler,1000000,,2017,Unknown
+181,R. Sai Kishore,Bowler,1000000,,2017,Left arm orthodox spinner
+182,Shakti Malviya,Bowler,1000000,,2017,Unknown
+183,M. Ravi Kiran,Bowler,1000000,,2017,Unknown
+184,Rahil S Shah,Bowler,1000000,,2017,Unknown
+185,Prasidh Krishna,Bowler,1000000,,2017,Right arm fast bowler
+186,Siddarth Trivedi,Bowler,1000000,,2017,Unknown
+187,Paidakalva Vijay Kumar,Bowler,1000000,,2017,Unknown
+188,Dhruv Shorey,All-Rounder,1000000,,2017,Right hand batter
+189,Chandra Pal Singh,All-Rounder,1000000,,2017,Unknown
+190,Kaushal Singh,All-Rounder,1000000,,2017,Unknown
+191,Diwesh Pathania,All-Rounder,1000000,,2017,Unknown
+192,Shishir Bhavane,Batsman,1000000,,2017,Unknown
+193,Umar Nazir Mir,Bowler,1000000,,2017,Unknown
+194,Arjit Gupta,Batsman,1000000,,2017,Unknown
+195,Khalid Ahmad,All-Rounder,1000000,,2017,Unknown
+196,Pramod Chandila,Batsman,1000000,,2017,Unknown
+197,Paras Dogra,Batsman,1000000,,2017,Right hand batter
+198,Dafedar Khizar Anwar,All-Rounder,1000000,,2017,Unknown
+199,Aditya Garhwal,Batsman,1000000,,2017,Unknown
+200,Himmat Singh,All-Rounder,1000000,,2017,Right hand batter
+201,M. D Sarfaraz Ashraf,All-Rounder,1000000,,2017,Unknown
+202,Amandeep Khare,Batsman,1000000,,2017,Unknown
+203,Nick Buchanan,All-Rounder,1000000,,2017,Unknown
+204,Pratyush Kumar,Batsman,1000000,,2017,Unknown
+205,R Samarth,Batsman,1000000,,2017,Right hand batter
+206,Jaskarandeep Singh Buttar,All-Rounder,1000000,,2017,Unknown
+207,Himanshu Rana,Batsman,1000000,,2017,Unknown
+208,Writtick Chatterjee,All-Rounder,1000000,,2017,Right hand batter
+209,Vinod Kumar C.V.,All-Rounder,1000000,,2017,Unknown
+210,Pawan Suyal,Bowler,1000000,,2017,Left arm fast bowler
+211,Tanmay Srivastava,Batsman,1000000,,2017,Unknown
+212,Amir Gani,All-Rounder,1000000,,2017,Unknown
+213,Kuldeep Hooda,All-Rounder,1000000,,2017,Unknown
+214,D'Arcy Short,Batsman,1000000,,2017,Unknown
+215,Paul Valthaty,Batsman,1000000,,2017,Unknown
+216,Apoorv Vijay Wankhade,Batsman,1000000,,2017,Right hand batter
+217,Rituraj Singh,All-Rounder,1000000,,2017,Unknown
+218,Akash Bhandari,All-Rounder,1000000,,2017,Unknown
+219,Indrajith Baba,All-Rounder,1000000,,2017,Unknown
+220,Akhil Arvind Herwadkar,All-Rounder,1000000,,2017,Left hand batter
+221,Dharmendrasinh Jadeja,All-Rounder,1000000,,2017,Unknown
+222,M.S. Washington Sundar,All-Rounder,1000000,,2017,Unknown
+223,Ankit Soni,All-Rounder,1000000,,2017,Unknown
+224,Chirag Jani,All-Rounder,1000000,,2017,Unknown
+225,Anirudha Ashok Joshi,All-Rounder,1000000,,2017,Right arm fast bowler
+226,Mayank Dagar,Bowler,1000000,,2017,Right hand batter/Right arm off spinner
+227,Rujul Haren Bhatt,All-Rounder,1000000,,2017,Unknown
+228,Amit Verma,All-Rounder,1000000,,2017,Unknown
+229,Akshay Karnewar,All-Rounder,1000000,,2017,Right arm leg spinner
+230,Varun Sood,All-Rounder,1000000,,2017,Unknown
+231,Pankaj Jaswal,All-Rounder,1000000,,2017,Left arm fast bowler
+232,Jay Gokul Bista,All-Rounder,1000000,,2017,Unknown
+233,Manisankar Murasingh,All-Rounder,1000000,,2017,Unknown
+234,Shubham Ranjane,All-Rounder,1000000,,2017,Left hand batter/Right arm medium
+235,Vysak V,All-Rounder,1000000,,2017,Unknown
+236,Kishore Pramod Kamath,All-Rounder,1000000,,2017,Right hand wicket-keeper batter
+237,Hiten Dalal,All-Rounder,1000000,,2017,Unknown
+238,Milind Kumar,All-Rounder,1000000,,2017,Right hand wicket-keeper batter
+239,Parikshit Valsangkar,All-Rounder,1000000,,2017,Unknown
+240,Suraj Yadav,All-Rounder,1000000,,2017,Unknown
+241,Ashok Menaria,All-Rounder,1000000,,2017,Unknown
+242,Antony Dhas,All-Rounder,1000000,,2017,Unknown
+243,Jonty Sidhu,Batsman,1000000,,2017,Unknown
+244,Amit Mishra,Bowler,1000000,,2017,Right arm leg spinner
+245,Saurabh Dubey,All-Rounder,1000000,,2017,Right hand batter
+246,Sarabjit Ladda,Bowler,1000000,,2017,Right arm off spinner
+247,Ashish Reddy,All-Rounder,1000000,,2017,Unknown
+248,Atit Sheth,All-Rounder,1000000,,2017,Unknown
+249,Yogesh Nagar,All-Rounder,1000000,,2017,Unknown
+250,Amitoze Singh,All-Rounder,1000000,,2017,Unknown
+251,Tajendra Singh,Batsman,1000000,,2017,Unknown
+252,Ankit Lamba,Batsman,1000000,,2017,Unknown
+253,Vinay Galetiya,All-Rounder,1000000,,2017,Unknown
+254,Biplab Samantray,All-Rounder,1000000,,2017,Unknown
+255,Vishnu Solanki,All-Rounder,1000000,,2017,Unknown
+256,Amit Pachhara,Batsman,1000000,,2017,Unknown
+257,Virat Singh,Batsman,1000000,,2017,Right hand batter
+258,Shubham Mavi,Bowler,1000000,,2017,Unknown
+259,M Mohammed,Bowler,1000000,,2017,Unknown
+260,M. Kaushik Gandhi,All-Rounder,1000000,,2017,Unknown
+261,Akshay Wakhare,Bowler,1000000,,2017,Unknown
+262,Sarthak Ranjan,Batsman,1000000,,2017,Unknown
+263,Ponam Ponia,Bowler,1000000,,2017,Unknown
+264,Prashant Chopra,Batsman,1000000,,2017,Right arm fast bowler
+265,Ananta Saha,Bowler,1000000,,2017,Unknown
+266,Nikhil Gangta,All-Rounder,1000000,,2017,Unknown
+267,Chandrakant Sakure,Bowler,1000000,,2017,Unknown
+268,C.M. Gautam,Wicket Keeper,1000000,,2017,Unknown
+269,Kumar Deobrat,Batsman,1000000,,2017,Unknown
+270,Rassie Van der Dussen,Batsman,1000000,,2017,Right hand batter
+271,Anupam Amrut Sanklecha,Bowler,1000000,,2017,Unknown
+272,Vikash Singh,Bowler,1000000,,2017,Unknown
+273,Arindam Ghosh,All-Rounder,1000000,,2017,Unknown
+274,Pavan Deshpande,Batsman,1000000,,2017,Right hand batter/Right arm medium
+275,K.B Arun Karthik,Wicket Keeper,1000000,,2017,Unknown
+276,Baltej Singh,Bowler,1000000,,2017,Unknown
+277,Nishan Singh,Bowler,1000000,,2017,Unknown
+278,Pradeep T,Bowler,1000000,,2017,Unknown
+279,Shamsher Yadav,Batsman,1000000,,2017,Unknown
+280,Rajesh Bishnoi Sr.,Batsman,1000000,,2017,Unknown
+281,Karanveer Singh,All-Rounder,1000000,,2017,Unknown
+282,Manik Gupta,Bowler,1000000,,2017,Unknown
+283,Vijay Rajendra Jethi,All-Rounder,1000000,,2017,Unknown
+284,Shubek Gill,Bowler,1000000,,2017,Unknown
+285,Gitansh Khera,Wicket Keeper,1000000,,2017,Unknown
+286,Chaitanya Bishnoi,All-Rounder,1000000,,2017,Right hand batter
+287,Monu Kumar,Bowler,1000000,,2017,Unknown
+288,Mahesh Rawat,Wicket Keeper,1000000,,2017,Unknown
+289,Kshitiz Sharma,All-Rounder,1000000,,2017,Right hand batter
+290,Fabid Farook Ahmed,All-Rounder,1000000,,2017,Unknown
+291,Ian Dev Singh Chauhan,Wicket Keeper,1000000,,2017,Unknown
+292,Subodh Bhati,All-Rounder,1000000,,2017,Unknown
+293,Christiaan Jonker,All-Rounder,1000000,,2017,Unknown
+1,Michael Hussey,Batsman,20000000,,2016,Unknown
+2,Brad Haddin,Wicket Keeper,15000000,,2016,Unknown
+3,Tillakaratne Dilshan,All-Rounder,15000000,,2016,Unknown
+4,Cameron White,Batsman,15000000,,2016,Unknown
+5,James Pattinson,Bowler,15000000,,2016,Unknown
+6,Mahela Jayawardena,Batsman,15000000,,2016,Unknown
+7,David Hussey,Batsman,10000000,,2016,Unknown
+8,Usman Khawaja,Batsman,10000000,,2016,Unknown
+9,Owais Shah,Batsman,10000000,,2016,Unknown
+10,Chris Jordan,All-Rounder,10000000,,2016,Left hand wicket-keeper batter
+11,Nathan Lyon,Bowler,10000000,,2016,Unknown
+12,Mthokozisi Shezi,Bowler,10000000,,2016,Unknown
+13,Shaun Tait,Bowler,10000000,,2016,Unknown
+14,Adam Voges,Batsman,10000000,,2016,Unknown
+15,Ravi Bopara,All-Rounder,10000000,,2016,Unknown
+16,Hashim Amla,Batsman,10000000,,2016,Unknown
+17,Rilee Rossouw,Batsman,10000000,,2016,Right hand batter
+18,Joe Burns,Batsman,10000000,,2016,Unknown
+19,George Bailey,Batsman,10000000,,2016,Unknown
+20,Manoj Tiwary,All-Rounder,10000000,,2016,Right hand batter
+21,Pragyan Ojha,Bowler,5000000,,2016,Unknown
+22,Robin Peterson,All-Rounder,5000000,,2016,Unknown
+23,Subramaniam Badrinath,Batsman,5000000,,2016,Unknown
+24,Tamim Iqbal,Batsman,5000000,,2016,Unknown
+25,Marlon Samuels,Batsman,5000000,,2016,Unknown
+26,Munaf Patel,Bowler,5000000,,2016,Right hand batter
+27,Shannon Gabriel,Bowler,5000000,,2016,Unknown
+28,James Neesham,All-Rounder,5000000,,2016,Right hand batter/Right arm medium
+29,Jackson Bird,Bowler,5000000,,2016,Unknown
+30,Wayne Parnell,All-Rounder,5000000,,2016,Unknown
+31,Nuwan Kulasekara,Bowler,5000000,,2016,Unknown
+32,Henry Davids,All-Rounder,5000000,,2016,Unknown
+33,Martin Guptill,Batsman,5000000,,2016,Right hand batter/Right arm fast bowler
+34,Johan Botha,All-Rounder,5000000,,2016,Unknown
+35,Richard Levi,Batsman,5000000,,2016,Unknown
+36,Vernon Philander,All-Rounder,5000000,,2016,Unknown
+37,Ajantha Mendis,Bowler,5000000,,2016,Unknown
+38,Jeevan Mendis,All-Rounder,5000000,,2016,Unknown
+39,Dilruwan Perera,All-Rounder,5000000,,2016,Unknown
+40,Ashton Agar,All-Rounder,5000000,,2016,Unknown
+41,Sachithra Senanayaka,Bowler,5000000,,2016,Unknown
+42,Darren Bravo,Batsman,5000000,,2016,Left hand batter
+43,Fidel Edwards,Bowler,5000000,,2016,Unknown
+44,Darren Sammy,All-Rounder,5000000,,2016,Left hand batter
+45,Jerome Taylor,Bowler,5000000,,2016,Unknown
+46,Nic Maddinson,Batsman,5000000,,2016,Unknown
+47,Cameron Boyce,Bowler,5000000,,2016,Unknown
+48,Nathan McCullum,All-Rounder,5000000,,2016,Unknown
+49,Cheteshwar Pujara,Batsman,5000000,,2016,Left hand batter/Right arm off spinner
+50,Sean Abbott,All-Rounder,5000000,,2016,Right arm fast bowler
+51,Hardus Viljoen,Bowler,3000000,,2016,Right arm fast bowler
+52,Michael Klinger,Batsman,3000000,,2016,Unknown
+53,Rahul Sharma,Bowler,3000000,,2016,Unknown
+54,Johnson Charles,Wicket Keeper,3000000,,2016,Unknown
+55,Mushfiqur Rahim,Wicket Keeper,3000000,,2016,Unknown
+56,Shane Dowrich,Wicket Keeper,3000000,,2016,Unknown
+57,Parvinder Awana,Bowler,3000000,,2016,Unknown
+58,Shehan Jayasuriya,All-Rounder,3000000,,2016,Unknown
+59,Narsingh Deonarine,All-Rounder,3000000,,2016,Unknown
+60,Soumya Sarkar,All-Rounder,3000000,,2016,Unknown
+61,Dasun Shanka,All-Rounder,3000000,,2016,Unknown
+62,Milinda Siriwardana,All-Rounder,3000000,,2016,Unknown
+63,George Worker,All-Rounder,3000000,,2016,Unknown
+64,Taskin Ahmed,Bowler,3000000,,2016,Unknown
+65,Dushmantha Chameera,Bowler,3000000,,2016,Right arm fast bowler
+66,Aiden Blizzard,Batsman,3000000,,2016,Unknown
+67,Abhinav Mukund,Batsman,3000000,,2016,Unknown
+68,Dean Elgar,Batsman,3000000,,2016,Unknown
+69,Lahiru Thirimanne,Batsman,3000000,,2016,Unknown
+70,Grant Elliott,All-Rounder,3000000,,2016,Unknown
+71,Rayad Emrit,All-Rounder,3000000,,2016,Unknown
+72,Antony Dhas,All-Rounder,3000000,,2016,Unknown
+73,Krismar Santokie,Bowler,3000000,,2016,Unknown
+74,Juan Theron,All-Rounder,3000000,,2016,Unknown
+75,Abhishek Nayar,All-Rounder,3000000,,2016,Unknown
+76,Isuru Udana,All-Rounder,3000000,,2016,Right arm fast bowler
+77,Pankaj Singh,Bowler,3000000,,2016,Unknown
+78,Sudeep Tyagi,Bowler,3000000,,2016,Unknown
+79,Reeza Hendricks,Batsman,3000000,,2016,Unknown
+80,Ben Laughlin,Bowler,3000000,,2016,Left arm wrist spinner
+81,Ben Dunk,Wicket Keeper,3000000,,2016,Unknown
+82,Kevon Cooper,All-Rounder,3000000,,2016,Unknown
+83,Mithun Manhas,Batsman,3000000,,2016,Unknown
+84,Dilshan Munaweera,All-Rounder,3000000,,2016,Unknown
+85,Morne van Wyk,Wicket Keeper,3000000,,2016,Unknown
+86,Michael Beer,Bowler,3000000,,2016,Unknown
+87,Doug Bracewell,All-Rounder,3000000,,2016,Unknown
+88,Anton Devcich,All-Rounder,3000000,,2016,Unknown
+89,Seekkuge Prasanna,All-Rounder,3000000,,2016,Unknown
+90,Tino Best,Bowler,3000000,,2016,Unknown
+91,Veerasammy Permaul,Bowler,3000000,,2016,Unknown
+92,Tim Ludeman,Wicket Keeper,3000000,,2016,Unknown
+93,Kevin O'Brien,All-Rounder,3000000,,2016,Unknown
+94,Beuran Hendricks,Bowler,3000000,,2016,Unknown
+95,Devendra Bishoo,Bowler,3000000,,2016,Unknown
+96,Christopher Barnwell,All-Rounder,3000000,,2016,Unknown
+97,Sulieman Benn,Bowler,3000000,,2016,Unknown
+98,Alex Ross,Batsman,2000000,,2016,Unknown
+99,Udit Birla,Batsman,2000000,,2016,Unknown
+100,Srikkanth Anirudha,Batsman,2000000,,2016,Unknown
+101,C.M. Gautam,Wicket Keeper,2000000,,2016,Unknown
+102,Evin Lewis,Batsman,2000000,,2016,Right hand batter
+103,Nitin Saini,Wicket Keeper,2000000,,2016,Unknown
+104,Dwaine Pretorius,All-Rounder,2000000,,2016,Unknown
+105,Jamaluddin Syed Mohammad,All-Rounder,2000000,,2016,Unknown
+106,Nicolas Pooran,Wicket Keeper,2000000,,2016,Left hand wicket-keeper batter
+107,Sachin Rana,All-Rounder,1000000,,2016,Unknown
+108,HS Sharath,Bowler,1000000,,2016,Unknown
+109,Cheepurupalli Stephen,Bowler,1000000,,2016,Unknown
+110,Dinesh Salunkhe,All-Rounder,1000000,,2016,Unknown
+111,Gurinder Singh,All-Rounder,1000000,,2016,Unknown
+112,Priyank Panchal,All-Rounder,1000000,,2016,Unknown
+113,Rajwinder Singh,Bowler,1000000,,2016,Unknown
+114,Samarth Singh,Batsman,1000000,,2016,Unknown
+115,Prashant Chopra,Batsman,1000000,,2016,Right arm fast bowler
+116,B Indrajith,All-Rounder,1000000,,2016,Unknown
+117,Ishank Jaggi,Batsman,1000000,,2016,Right arm fast bowler
+118,Jatin Saxena,All-Rounder,1000000,,2016,Right arm leg spinner
+119,Sagar Trivedi,All-Rounder,1000000,,2016,Unknown
+120,Vinay Choudhary,Bowler,1000000,,2016,Unknown
+121,Robin Singh Bist,Batsman,1000000,,2016,Unknown
+122,Amit Verma,All-Rounder,1000000,,2016,Unknown
+123,Chirag Jani,All-Rounder,1000000,,2016,Unknown
+124,Aniket Choudhary,Bowler,1000000,,2016,Left arm fast bowler
+125,Akash Bhandari,All-Rounder,1000000,,2016,Unknown
+126,Swapnil Asnodkar,Batsman,1000000,,2016,Unknown
+127,Faiz Fazal,All-Rounder,1000000,,2016,Unknown
+128,Himanshu Rana,Batsman,1000000,,2016,Unknown
+129,Nikhil Dutta,All-Rounder,1000000,,2016,Unknown
+130,Tanmay Srivastava,Batsman,1000000,,2016,Unknown
+131,Hardik Patel,Bowler,1000000,,2016,Unknown
+132,Anirudha Ashok Joshi,All-Rounder,1000000,,2016,Right arm fast bowler
+133,Cameron Bancroft,Wicket Keeper,1000000,,2016,Unknown
+134,Saurabh Kumar,Bowler,1000000,,2016,Left arm orthodox spinner
+135,Pinal Shah,Wicket Keeper,1000000,,2016,Unknown
+136,Krishna Das,Bowler,1000000,,2016,Unknown
+137,Seth Rance,Bowler,1000000,,2016,Unknown
+138,Pulkit Narang,Bowler,1000000,,2016,Unknown
+139,Tabrez Shamsi,Bowler,1000000,,2016,Unknown
+140,Karanveer Singh,Bowler,1000000,,2016,Unknown
+141,Jasinder Singh,Bowler,1000000,,2016,Unknown
+142,Mitrakant Yadav,Bowler,1000000,,2016,Unknown
+143,Asad Khan Pathan,Batsman,1000000,,2016,Unknown
+144,Shalabh Srivastava,Batsman,1000000,,2016,Unknown
+145,Sadiq Hassan Kirmani,Wicket Keeper,1000000,,2016,Unknown
+146,Pradeep Malik,Wicket Keeper,1000000,,2016,Unknown
+147,Jaskaranvir Singh Sohi,Wicket Keeper,1000000,,2016,Unknown
+148,Rishi Arothe,Bowler,1000000,,2016,Unknown
+149,Nikit Dhumal,Bowler,1000000,,2016,Unknown
+150,Mohammad Javed,Bowler,1000000,,2016,Unknown
+151,Shubham Chaubey,Batsman,1000000,,2016,Unknown
+152,Shivam Chaudhary,Batsman,1000000,,2016,Unknown
+153,Chirag Gandhi,Batsman,1000000,,2016,Unknown
+154,Prashant Gupta,Batsman,1000000,,2016,Unknown
+155,Mohit Hooda,Batsman,1000000,,2016,Unknown
+156,Govinda Poddar,Batsman,1000000,,2016,Unknown
+157,Aditya Arvind Waghmode,Batsman,1000000,,2016,Unknown
+158,Mohammad Saif,Batsman,1000000,,2016,Unknown
+159,Rajesh Sharma,Batsman,1000000,,2016,Unknown
+160,Mohammad Taha,Batsman,1000000,,2016,Unknown
+161,Subodh Bhati,All-Rounder,1000000,,2016,Unknown
+162,Amir Gani,All-Rounder,1000000,,2016,Unknown
+163,David Keelan Mathias,All-Rounder,1000000,,2016,Unknown
+164,Akshay Chauhan,Bowler,1000000,,2016,Unknown
+165,Tushar Deshpande,Bowler,1000000,,2016,Right arm fast bowler
+166,Sayan Ghosh,Bowler,1000000,,2016,Right arm fast bowler
+167,Israr Azim Khan,Bowler,1000000,,2016,Unknown
+168,Avi Barot,Wicket Keeper,1000000,,2016,Unknown
+169,Prasidh Krishna,Bowler,1000000,,2016,Right arm fast bowler
+170,Shubham Mavi,Bowler,1000000,,2016,Unknown
+171,M. Mohammad,Bowler,1000000,,2016,Unknown
+172,Chandrakant Sakure,Bowler,1000000,,2016,Unknown
+173,Hiten Dalal,All-Rounder,1000000,,2016,Unknown
+174,Rohan Raje,All-Rounder,1000000,,2016,Unknown
+175,Dharmendrasinh Jadeja,All-Rounder,1000000,,2016,Unknown
+176,Ravi Jangid,All-Rounder,1000000,,2016,Unknown
+177,J. Kousik,All-Rounder,1000000,,2016,Unknown
+178,Pargat Singh,All-Rounder,1000000,,2016,Unknown
+179,M.S. Washington Sundar,All-Rounder,1000000,,2016,Unknown
+180,Rahul Dagar,All-Rounder,1000000,,2016,Unknown
+181,Basanta Kumar Mohanty,Bowler,1000000,,2016,Unknown
+182,Mayank Dagar,All-Rounder,1000000,,2016,Right hand batter/Right arm off spinner
+183,Suneel Raju,All-Rounder,1000000,,2016,Unknown
+184,Balwinder Sandhu,Bowler,1000000,,2016,Unknown
+185,Mayur Sanap,All-Rounder,1000000,,2016,Unknown
+186,Bandeep Singh,All-Rounder,1000000,,2016,Unknown
+187,Milind Tandon,All-Rounder,1000000,,2016,Right arm fast bowler
+188,Manprit Juneja,Batsman,1000000,,2016,Unknown
+189,Rahul Ajay Tripathy,All-Rounder,1000000,,2016,Unknown
+190,Saurabh Dubey,All-Rounder,1000000,,2016,Right hand batter
+191,Venkatesh Iyer,All-Rounder,1000000,,2016,Left hand batter/Right arm medium
+192,Rohit Sharma,All-Rounder,1000000,,2016,Unknown
+193,Vijay Zol,Batsman,1000000,,2016,Unknown
+194,Mayank Siddana,All-Rounder,1000000,,2016,Unknown
+195,Shasank Singh,All-Rounder,1000000,,2016,Unknown
+196,Manvinder Bisla,Wicket Keeper,1000000,,2016,Unknown
+197,Ian Dev Singh Chauhan,Wicket Keeper,1000000,,2016,Unknown
+198,Chandra Pal Singh,All-Rounder,1000000,,2016,Unknown
+199,Debabrata Das,Batsman,1000000,,2016,Unknown
+200,Tanveer Ulhaq,All-Rounder,1000000,,2016,Unknown
+201,A. Aswin Crist,Bowler,1000000,,2016,Unknown
+202,Alok Pratap Singh,Bowler,1000000,,2016,Unknown
+203,Royston Dias,Bowler,1000000,,2016,Unknown
+204,Shubham Ranjane,All-Rounder,1000000,,2016,Left hand batter/Right arm medium
+205,Baltej Singh,Bowler,1000000,,2016,Unknown
+206,Ashok Menaria,All-Rounder,1000000,,2016,Unknown
+207,Yogesh Nagar,All-Rounder,1000000,,2016,Unknown
+208,Milind Kumar,All-Rounder,1000000,,2016,Right hand wicket-keeper batter
+209,Harmeet Singh Bansal,Bowler,1000000,,2016,Unknown
+210,Saurabh Pradeep Wakaskar,Batsman,1000000,,2016,Unknown
+211,Prasanth Parameswaran,Bowler,1000000,,2016,Unknown
+212,Rahul Shukla,Bowler,1000000,,2016,Unknown
+213,Bhargav Bhatt,Bowler,1000000,,2016,Unknown
+214,Ali Murtaza,Bowler,1000000,,2016,Unknown
+215,Ankeet Bawane,Batsman,1000000,,2016,Right hand batter
+216,K.B Arun Karthik,Wicket Keeper,1000000,,2016,Unknown
+217,Domnic Joseph Muthuswamy,Bowler,1000000,,2016,Unknown
+218,Basil Thampy,Bowler,1000000,,2016,Unknown
+219,Apoorv Vijay Wankhade,Batsman,1000000,,2016,Right hand batter
+220,Kona Srikar Bharat,Wicket Keeper,1000000,,2016,Unknown
+221,Krishnakant Upadhyay,Bowler,1000000,,2016,Unknown
+222,Shreevats Goswami,Wicket Keeper,1000000,,2016,Left hand wicket-keeper batter
+223,Smit Kamlesh Patel,Wicket Keeper,1000000,,2016,Unknown
+224,Mahesh Rawat,Wicket Keeper,1000000,,2016,Unknown
+225,Dishant Yagnik,Wicket Keeper,1000000,,2016,Unknown
+226,Sumit Narwal,All-Rounder,1000000,,2016,Unknown
+227,Biplab Samantray,All-Rounder,1000000,,2016,Unknown
+228,Rush Kalaria,All-Rounder,1000000,,2016,Unknown
+229,Jalaj Saxena,All-Rounder,1000000,,2016,Right hand batter/Right arm off spinner
+230,Navdeep Saini,Bowler,1000000,,2016,Right arm fast bowler
+231,Yuvraj Chudasama,Bowler,1000000,,2016,Unknown
+232,Raiphi Vincent Gomez,All-Rounder,1000000,,2016,Unknown
+233,K.K. Jiyaz,Bowler,1000000,,2016,Unknown
+234,Ronit More,Bowler,1000000,,2016,Unknown
+235,Veer Pratap Singh,Bowler,1000000,,2016,Unknown
+236,Virat Singh,Batsman,1000000,,2016,Right hand batter
+237,Kuldeep Hooda,All-Rounder,1000000,,2016,Unknown
+238,Vaibhav Rawal,All-Rounder,1000000,,2016,Unknown
+239,Pankaj Jaswal,Bowler,1000000,,2016,Left arm fast bowler
+240,Prasanth Padmanabhan,All-Rounder,1000000,,2016,Unknown
+241,Jaydev Gokul Bista,All-Rounder,1000000,,2016,Unknown
+242,Rahil S Shah,Bowler,1000000,,2016,Unknown
+243,Ankit Nagendra Sharma,All-Rounder,1000000,,2016,Unknown
+244,Rajesh Bishnoi,Bowler,1000000,,2016,Unknown
+245,Kshitiz Sharma,All-Rounder,1000000,,2016,Right hand batter
+246,Paul Valthaty,Batsman,1000000,,2016,Unknown
+247,Kedar Devdhar,Wicket Keeper,1000000,,2016,Unknown
+248,Babashafi Khan Pathan,Bowler,1000000,,2016,Unknown
+249,Siddarth Trivedi,Bowler,1000000,,2016,Unknown
+250,Vishant More,Wicket Keeper,1000000,,2016,Unknown
+251,Rinku Singh,Batsman,1000000,,2016,Right arm fast bowler
+252,Shrikant Mundhe,All-Rounder,1000000,,2016,Right hand batter/Right arm medium
+253,Abhishek Raut,All-Rounder,1000000,,2016,Unknown
+254,Rohan Prem,All-Rounder,1000000,,2016,Unknown
+255,Manjeet Kumar Chaudhary,All-Rounder,1000000,,2016,Unknown
+256,Rahul Tewatia,All-Rounder,1000000,,2016,Left hand batter/Left arm orthodox spinner
+257,Amit Yadav,All-Rounder,1000000,,2016,Unknown
+258,Avesh Khan,Bowler,1000000,,2016,Right arm fast bowler
