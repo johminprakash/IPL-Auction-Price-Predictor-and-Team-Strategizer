@@ -1,4 +1,3 @@
 *.pkl
-*.xlsx
 __pycache__/
 processing/

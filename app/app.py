@@ -5,6 +5,9 @@ import pandas as pd
 import streamlit as st
 import plotly.graph_objects as go
 
+import os
+import subprocess
+
 from top4_engine import (
     STRAT_FIELDS,
     clean_text_cols,
@@ -36,15 +39,25 @@ def ensure_artifacts():
     base_path = BASE_DIR / "base_price_engine.pkl"
     mult_path = BASE_DIR / "multipliers_engine.pkl"
 
-    if not top4_path.exists():
-        train_top4_engine(DATA_DIR, BASE_DIR)
-    if not base_path.exists():
-        train_base_price_engine(DATA_DIR, BASE_DIR)
-    if not mult_path.exists():
-        train_multiplier_engine(DATA_DIR, BASE_DIR)
+    status = st.empty()  # placeholder
 
-    return load_top4_bundle(BASE_DIR), load_base_price_bundle(BASE_DIR), load_multiplier_bundle(BASE_DIR)
+    if not (top4_path.exists() and base_path.exists() and mult_path.exists()):
+        status.write("⏳ Training models... please wait (first run only)")
 
+        if not top4_path.exists():
+            train_top4_engine(DATA_DIR, BASE_DIR)
+        if not base_path.exists():
+            train_base_price_engine(DATA_DIR, BASE_DIR)
+        if not mult_path.exists():
+            train_multiplier_engine(DATA_DIR, BASE_DIR)
+
+        status.empty()  # remove message after done
+
+    return (
+        load_top4_bundle(BASE_DIR),
+        load_base_price_bundle(BASE_DIR),
+        load_multiplier_bundle(BASE_DIR),
+    )
 
 TOP4_BUNDLE, BASE_BUNDLE, MULT_BUNDLE = ensure_artifacts()
 DF_MASTER = TOP4_BUNDLE["processed_ml_master"].copy()
